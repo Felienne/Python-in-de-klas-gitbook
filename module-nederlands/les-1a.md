@@ -142,7 +142,7 @@ Schrijf drie codes voor zinnetjes in je schrift.
 
 Soms geeft Python een foutmelding. 
 
-![image-20190126194646749](../../img/image-20190126194646749.png)
+![image-20190126194646749](../img/image-20190126194646749.png)
 
 
 
