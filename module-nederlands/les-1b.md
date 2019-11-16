@@ -2,7 +2,7 @@
 
 ## Opdracht 1b-1\) Maak een repl.it account
 
-Deze les wordt afgetekend als: test123
+Deze les wordt afgetekend als: 
 
 * Je een account hebt gemaakt op repl.it
 * Gebruik als username je leerlingnummer
