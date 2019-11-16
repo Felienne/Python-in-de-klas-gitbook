@@ -141,7 +141,7 @@ Schrijf drie codes voor zinnetjes in je schrift.
 
 Soms geeft Python een foutmelding. 
 
-<img src="../img/image-20190126194646749.png" alt="image-20190126194646749" style="zoom:30%;" />
+<img src="../img/image-20190126194646749.png" alt="image-20190126194646749" />
 
 
 
