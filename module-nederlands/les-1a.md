@@ -64,7 +64,7 @@ print('Goedemorgen', 'allemaal')
 
 Op de plek van de komma komt een spatie in de uitvoer. 
 
-<img src="../img/image-20190126194716104.png" alt="image-20190126194646749" style="zoom:30%;" />
+<img src="../img/image-20190126194716104.png" alt="image-20190126194646749" style="zoom:10%;" />
 
 
 
