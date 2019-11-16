@@ -1,6 +1,6 @@
 ## Les 1 werkblad b
 
-### Opdracht 1b-1) Maak een repl.it account (TESTcommit)
+### Opdracht 1b-1) Maak een repl.it account (nu gelinkt?)
 
 Deze les wordt afgetekend als:
 
