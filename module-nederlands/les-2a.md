@@ -205,6 +205,8 @@ print('Hallo')
 print('klas', '1c')
 ```
 
-<div style="page-break-after: always;"></div> <- enter
+<div style="page-break-after: always; visibility: hidden"> 
+\pagebreak 
+</div> <- enter2
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
