@@ -1,5 +1,7 @@
 # Les 2a
 
+
+
 ### Printen
 
 Aan het einde van de les kun jij:
@@ -48,7 +50,6 @@ Tip: **Let goed op de aanhalingstekens!**
 - print('Goedemorgen')
 ```
 
-<div style="page-break-after: always;"></div>
 
 2) Welke van deze print() opdrachten print **Python is een programmeertaal** uit? 
 
@@ -74,15 +75,9 @@ Weet jij welke code goed is?
 - print(Python is een programmeertaal)
 ```
 
-
-
-
-
 4) Kies nu zelf een kort zinnetje om te printen. Bijvoorbeeld: 'Is het al pauze?'.
 
 Schrijf de code voor het zinnetje in je schrift.
-
-
 
 ---
 
@@ -90,11 +85,7 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
 ---
 
-<div style="page-break-after: always;"></div>
-
-```
-Onder elkaar
-```
+**Onder elkaar**
 
 1) Wat printen deze codes uit? Schrijf het antwoord op in je schrift! Wees *heel* precies.
 
@@ -166,8 +157,6 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
 ------
 
-<div style="page-break-after: always;"></div>
-
 #### **Commentaar**
 
 Je kunt Python ook codes laten overslaan met een hekje. 
@@ -215,8 +204,6 @@ Resultaten:
 
 * Deze code geeft een fout.
 
-<div style="page-break-after: always;"></div>
-
 3) Hieronder staan vijf codes met commentaar erin. Wat printen deze codes uit?
 
 Schrijf de uitvoer in je schrift.
@@ -252,13 +239,10 @@ print('klas', '1c')
 
 ```
 
-
-
+<p>
 ------
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel 
-
-
 
 ------
 
