@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welkom!](README.md)
 
 ## Module Nederlands
 
@@ -10,4 +10,11 @@
 * [Les 2a](module-nederlands/les-2a.md)
 * [Les 2b](module-nederlands/les-2b.md)
 * [Les 3a](module-nederlands/les-3a.md)
+* [Les 3b](module-nederlands/les-3b.md)
+* [Les 4a](module-nederlands/les-4a.md)
+* [Les 4b](module-nederlands/untitled.md)
+
+## Module Kunst
+
+* [Untitled](module-kunst/untitled.md)
 

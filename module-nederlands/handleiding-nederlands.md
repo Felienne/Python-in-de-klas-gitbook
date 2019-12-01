@@ -6,20 +6,23 @@ Het idee van deze module is dat leerlingen een interactief verhaal maken met Pyt
 
 ## Doelen van deze module
 
-In deze lessenserie komen de volgende programmeerconcepten aan bod:
+In deze lessenserie komen de volgende leerdoelen aan bod:
 
-* tekst uitprinten
-* tekst opslaan in een variabele
-* lijsten
-* invoer
-* condities
-* willekeurige waardes uit de 'random' library  \(extra, niet iedereen zal daar aan toe komen of zijn\)
+1. printen, ook meerdere regels 
+2. meerdere woorden printen met komma's
+3. woorden opslaan in een variabele
+4. opslaan in een lijst
+5. aanwijzen in een lijst
+6. een random getal kiezen \(en evt. ook ophalen uit de lijst\)
+7. een random woord uit een lijst halen
+8. invoer 
+9. condities \(evt. als extra voor snelle lln\) 
 
 ## Voorbeeld
 
 Op deze link staat een voorbeeld: [https://repl.it/@mevrHermans/Verhaal-Demonstratie](https://repl.it/@mevrHermans/Verhaal-Demonstratie)
 
-De code en een bijbehorende uitvoer zie je hier: TODO plaatje invoegen
+![Voorbeeldcode \(links\) en de uitvoer van deze code \(rechts\)](../.gitbook/assets/screen-shot-2019-12-01-at-2.23.57-pm.png)
 
 Probeer dit zelf voor de les al even uit. Je ziet dat de lezer van het verhaal naar hun naam gevraagd wordt, en dat er dan steeds een ander zinnetje in beeld komt.
 
@@ -27,9 +30,21 @@ Probeer dit zelf voor de les al even uit. Je ziet dat de lezer van het verhaal n
 
 Iedere module bestaat steeds uit twee delen: a en b
 
-a\) Klassikale les met slides, en werkbladen deel a om in de klassikale les te maken b\) Werkbladen zodat lln zelf aan de slag kunnen achter de computer
+a\) Klassikale les met slides, en werkbladen deel a om in de klassikale les te maken   
+b\) Werkbladen zodat lln zelf aan de slag kunnen achter de computer
 
-## Overzicht van de lessen in deze module:
+## Slides
 
-1\) printen, ook meerdere regels 2\) meerdere woorden printen met kommas 3\) woorden opslaan in een variabele 4\) opslaan in een lijst 5\) aanwijzen in een lijst 6\) een random getal kiezen \(en evt. ook ophalen uit de lijst\) 7\) een random woord uit een lijst halen 8\) invoer \(evt als extra voor snelle lln\) 9\) condities \(evt. als extra voor snelle lln\) 10\) verhaal maken/afronding
+* [Module Nederlands, les 1](https://slides.com/felienne/pidk-m1-l1a)
+* [Module Nederlands, les 2](https://slides.com/felienne/pidk-m1-l2a)
+* [Module Nederlands, les 3](https://slides.com/felienne/pidk-m1-l3a)
+* [Module Nederlands, les 4](https://slides.com/felienne/pidk-m1-l4a)
+* [Module Nederlands, les 5](https://slides.com/felienne/pidk-m1-l5a)
+* [Module Nederlands, les 6﻿](https://slides.com/felienne/pidk-m1-l6a)
+
+## Nakijkmodellen en proefwerken
+
+We hebben ook nakijkmodellen en proefwerken voor de werkbladen a maar die zetten we liever niet openbaar op internet, wie weet dat een leerling ze vindt. Heb je ze nodig, neem even contact met ons op: f.f.j.hermans@liacs.leidenuniv.nl
+
+
 

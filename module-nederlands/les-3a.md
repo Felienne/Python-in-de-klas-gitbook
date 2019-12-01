@@ -194,6 +194,7 @@ Nu jij!
 
 ```python
 6. print(Goedemorgen)
+
 ```
 
 ```python
@@ -203,5 +204,6 @@ Nu jij!
 
 ```python
 8. print('Goedemorgen')
+
 ```
 
