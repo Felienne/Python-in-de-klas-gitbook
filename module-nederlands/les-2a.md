@@ -119,7 +119,7 @@ print('test')  > test
 
 **Let op:** een van de drie codes geeft een fout.
 
-Codes:                                                                                                Resultaten:
+Codes: Resultaten:
 
 ```python
 print(goedemorgen)                              # >goedemorgen
@@ -205,8 +205,5 @@ print('Hallo')
 print('klas', '1c')
 ```
 
-<div style="page-break-after: always; visibility: hidden"> 
-\pagebreak 
-</div> <- enter2
-Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
+ \pagebreak &lt;- enter2 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
