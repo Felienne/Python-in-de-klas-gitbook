@@ -1,10 +1,10 @@
-# Initial page
+# Introductie
 
-Welkom op de pagina van 'Python in de klas'. Dit materiaal is bedoeld om Python-lessen te geven in een schoolse setting, met slides en werkbladen voor leerlingen. Het materiaal is gemaakt door Felienne Hermans, met hulp van Lisa van der Plas, Marijn van der Meer, Shirley de Wit.
+Welkom op de pagina van 'Python in de klas'. Dit materiaal is bedoeld om Python-lessen te geven in een schoolse setting, met slides en werkbladen voor leerlingen. Het materiaal is gemaakt door Felienne Hermans, met hulp van Lisa van der Plas, Marijn van der Meer en Shirley de Wit. Op dit moment worden de lessen gebruikt op het Metis Montesorri in Amsterdam en Lyceum Kralingen in Rotterdam. Ga jij de lessen ook gebruiken? Dan vinden we het leuk om van je te horen!
 
 ## Voor wie is dit materiaal?
 
-Dit materiaal is voor leerkrachten die in de klas programmeerlessen met Python willes geven. Het materiaal is echt bedoelad voor in een klassikale setting, met veel uitleg en oefenen. Je kunt de lessen zelfs zonder computers met alleen een digibord gebruiken. Ook dan leren de leerlingen de basisbegrippen van het programmeren.
+Dit materiaal is voor leerkrachten die in de klas programmeerlessen met Python willes geven. Het materiaal is echt bedoeld voor in een klassikale setting, met veel uitleg en oefenen. Je kunt de lessen zelfs zonder computers met alleen een digibord gebruiken. Ook dan leren de leerlingen de basisbegrippen van het programmeren.
 
 ## Wat heb ik nodig om dit materiaal te gebruiken?
 
