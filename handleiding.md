@@ -34,19 +34,18 @@ In de modules zelf vind je meer details over de opdrachten in de modules.
 
 ## Opzet van de modules
 
-Iedere module bestaat uit een aantal lessen. Een les bestaat steeds uit drie stukken: a, b en c.
+Iedere module bestaat uit een aantal lessen. Een les bestaat steeds uit twee stukken: a en b.
 
-a\) klassikale les b\) werkbladen zodat lln zelf aan de slag kunnen achter de computer c\) klassikale afsluiting
+a\) klassikale les, met slides en werkbladen zonder computer  
+b\) werkbladen zodat lln zelf aan de slag kunnen achter de computer
 
 ### Deel a
 
-Deel a is een klassikaal uit te voeren les. Je kunt hiervoor, als je wilt, de meegeleverde slides gebruiken. Voor deel a \(en deel c\) zijn geen computers nodig, alleen een digibord en schrijfmaterialen voor lln: schriftjes of wisbordjes.
+Deel a is een klassikaal uit te voeren les. Je kunt hiervoor, als je wilt, de meegeleverde slides gebruiken. Voor deel a zijn geen computers nodig, alleen een digibord en schrijfmaterialen voor lln: schriftjes of wisbordjes.
 
 ### Deel b
 
-In deel b gaan lln zelf aan de slag met werkbladen.
-
-Bovenaan de werkbladen staan steeds doelen voor lln. Bijvoorbeeld: "deze opdracht wordt afgetekend als er een vierkant is getekend".
+In deel b gaan lln zelf aan de slag met werkbladen. Bovenaan de werkbladen staan steeds doelen voor lln. Bijvoorbeeld: "deze opdracht wordt afgetekend als er een vierkant is getekend".
 
 Die doelen kun je in principe aftekenen zelfs als je niet zoveel programmeerkennis hebt. Het is een kwestie van kijken of er \(bijv\) een vierkant staat. Daar waar je iets moet opzoeken de code van een ll, is ook dat zo uitgelegd dat iedereen het kan aftekenen, bijvoorbeeld "er is een vierkant getekend, en de code bevat 'for'".
 
@@ -60,11 +59,9 @@ Nog een paar tips over deel b:
   * Zelf dingen uitproberen in Python leidt tot verwarring en frustratie
 * Sommige lesdoelen hebben "\(extra\)" in de titel. Die zijn voor snellere of meer ervaren leerlingen. Die kunnen op de volgorde in de lessenserie waar ze staan gedaan worden, of op het einde van alle lessen. Net hoeveel je wilt dat ze leerlingen uit elkaar gaan lopen qua waar ze zijn.
 
-### Deel c
+### Afsluiting
 
-Deel c is weer klassikaal uit te voeren les. Dat kan heel kort zijn, 5 of 10 minuutjes om even samen terug te blikken op het individuele deel. De laatste twee slides van deel a, waarin de leerdoelen herhaald worden, kun je hiervoor gebruiken.
-
-Ik vraag dan per leerdoel of lln het idee hebben dat ze het ook echt kunnen.
+Ik sluit de les altijd nog even klassikaal af. Dat kan heel kort zijn, 5 of 10 minuutjes om even samen terug te blikken op het individuele deel. De laatste twee slides van deel a, waarin de leerdoelen herhaald worden, kun je hiervoor gebruiken. Ik vraag dan per leerdoel of lln het idee hebben dat ze het ook echt kunnen en gebruik soms wisbordjes voor een gezamenlijke samenvatting van de les.
 
 ### Algemene tips!
 
