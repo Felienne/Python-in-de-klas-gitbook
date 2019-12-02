@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welkom!](README.md)
+* [Handleiding](handleiding.md)
 
 ## Module Nederlands
 
