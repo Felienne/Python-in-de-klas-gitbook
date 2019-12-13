@@ -2,7 +2,9 @@
 
 In les 1 maken leerlingen kennis met het printen in Python. Ze leren over het gebruik van haakjes en aanhalingstekens. In deel b maken ze hun account aan en printen een woord en een zin.
 
-## Slides  [Module Nederlands, les 1](https://slides.com/felienne/pidk-m1-l1a)
+## Slides
+
+[Module Nederlands, les 1](https://slides.com/felienne/pidk-m1-l1a)
 
 ## Leerdoelen
 
