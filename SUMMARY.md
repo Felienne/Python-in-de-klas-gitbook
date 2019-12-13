@@ -14,8 +14,10 @@
 * [Les 3b](module-nederlands/les-3b.md)
 * [Les 4a](module-nederlands/les-4a.md)
 * [Les 4b](module-nederlands/untitled.md)
+* [Les 5a](module-nederlands/les-5a.md)
 
 ## Module Kunst
 
-* [Untitled](module-kunst/untitled.md)
+* [Handleiding](module-kunst/untitled.md)
+* [Les 1a](module-kunst/les-1a.md)
 
