@@ -87,7 +87,7 @@ naam = 'Felienne'
 
 Schrijf deze codes over. Zet een pijltje tussen het gebruik van een variabele en zijn definitie.
 
-![De variabele klas en een pijltje naar de definitie ervan](../.gitbook/assets/image-20190206124246541.png)
+![De variabele klas en een pijltje naar de definitie ervan](../../.gitbook/assets/image-20190206124246541.png)
 
 ```python
 1. les = 'Coderen'

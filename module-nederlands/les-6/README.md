@@ -2,7 +2,7 @@
 
 ## Slides
 
-[Module Nederlands, les 5](https://slides.com/felienne/python-idk-mod-1-les-6a)
+[Module Nederlands, les 6](https://slides.com/felienne/pidk-m1-l6a#/)
 
 ## Leerdoelen
 

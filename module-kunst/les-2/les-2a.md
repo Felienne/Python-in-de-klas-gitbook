@@ -8,7 +8,7 @@
 
 Vorige week deden we deze opdracht ook, dat was best een lastige opdracht! We gaan hem nog een keer oefenen. Teken dit figuur in je schrift.
 
-![](../.gitbook/assets/image-20190322135329083.png)
+![](../../.gitbook/assets/image-20190322135329083.png)
 
 Nu gaan we Pythoncodes koppelen aan de stukjes van de tekening. Welke code hoort bij welk stukje?   
 Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde op in je schrift.
@@ -24,7 +24,7 @@ Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde op in
 
 ​​2\) Teken nu een driehoek
 
-![](../.gitbook/assets/image-20190322135525607.png)
+![](../../.gitbook/assets/image-20190322135525607.png)
 
 1. Welke som reken je uit om een driehoek te maken? Weet je de som nog? Schrijf deze in je schrift.
 2. Welke Pythoncode gebruik jij voor de hoek van een driehoek? Vul het in op de puntjes.
