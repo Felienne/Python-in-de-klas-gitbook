@@ -45,7 +45,7 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
 1\) Ga terug naar het vierkant dat je hebt getekend in je schrift. Zet deze nummers erbij, op dezelfde plekken.
 
-![](../.gitbook/assets/image-20190322135329083.png)
+![](../.gitbook/assets/image-20190322135329083%20%281%29.png)
 
 Nu gaan we Pythoncodes koppelen aan de stukjes van de tekening. Het stukje bij de 1, de rechte lijn, maken we met `pen.forward(100)`Bij 2 draaien we een kwartslag naar links, dus daar hoort `pen.left(90)`. Maak jij de codes af?
 
@@ -64,7 +64,7 @@ Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde op in
 
 2\) Doe nu hetzelfde voor de driehoek. Ga terug naar de driehoek die je hebt getekend in je schrift en zet deze nummers erbij.
 
-![](../.gitbook/assets/image-20190322135525607.png)
+![](../.gitbook/assets/image-20190322135525607%20%281%29.png)
 
 Nu moeten we even rekenen! 
 
@@ -73,7 +73,12 @@ Nu moeten we even rekenen!
 
 `pen.left(……)`
 
-Zet jij nu deze opdrachten bij de juiste plekken in de tekening? Je moet allebei de Python opdrachten nu drie keer gebruiken. Schrijf de 6 codes in je schrift:
+Een driehoek maak je met:
+
+* pen.left\(……..\) &lt;— dit is het commando voor draaien. Hier komt het getal dat je bij vraag 2 hebt berekend
+* pen.forward\(100\)
+
+Zet nu deze opdrachten bij de juiste plekken in de tekening. Je moet allebei de Python opdrachten nu drie keer gebruiken. Schrijf de 6 codes in je schrift:
 
 1. ...
 2. ...

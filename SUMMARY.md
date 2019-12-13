@@ -25,4 +25,7 @@
 
 * [Handleiding](module-kunst/untitled.md)
 * [Les 1a](module-kunst/les-1a.md)
+* [Les 1b](module-kunst/les-1b.md)
+* [Les 2a](module-kunst/les-2a.md)
+* [Les 2b](module-kunst/les-2b.md)
 
