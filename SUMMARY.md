@@ -18,8 +18,11 @@
 * [Les 5](module-nederlands/les-5/README.md)
   * [Les 5a](module-nederlands/les-5/les-5a.md)
   * [Les 5b](module-nederlands/les-5/les-5b.md)
-* [Les 6a](module-nederlands/les-6a.md)
-* [Les 6b](module-nederlands/les-6b.md)
+* [Les 6](module-nederlands/les-6/README.md)
+  * [Les 6a](module-nederlands/les-6/les-6a.md)
+  * [Les 6b](module-nederlands/les-6/les-6b.md)
+* [Les 7](module-nederlands/les-7/README.md)
+  * [Les 7b](module-nederlands/les-7/les-7b.md)
 
 ## Module Kunst
 
