@@ -60,7 +60,7 @@ print('Goedemorgen', 'allemaal')
 
 Op de plek van de komma komt een spatie in de uitvoer.
 
-![image-20190126194646749](../.gitbook/assets/image-20190126194716104.png)
+![image-20190126194646749](../../.gitbook/assets/image-20190126194716104.png)
 
 Python stopt met printen bij een aanhalingsteken.
 
@@ -128,7 +128,7 @@ Schrijf drie codes voor zinnetjes in je schrift.
 
 Soms geeft Python een foutmelding.
 
-![image-20190126194646749](../.gitbook/assets/image-20190126194646749.png)
+![image-20190126194646749](../../.gitbook/assets/image-20190126194646749.png)
 
 1\) Je ziet hier vijf foute codes. Wat is de fout? Schrijf het op in je schrift.
 
