@@ -6,7 +6,7 @@
 
 1\) Maak een vierkant
 
-Vorige week deden we deze opdracht ook, dat was best een lastige opdracht! We gaan hem nog een keer oefenen. Teken dit figuur in je schrift.
+Vorige week deden we deze opdracht ook, dat was best een lastige opdracht! We gaan het daarom nog een keer oefenen. Teken dit figuur in je schrift.
 
 ![](../../.gitbook/assets/image-20190322135329083.png)
 
@@ -58,9 +58,19 @@ Reken uit in je schrift:
 
 4\) Weet jij met welke code je deze figuren tekent? Schijf de codes in je schrift.
 
-1. ![image-20190318130624359](file:///Users/Felienne/Dropbox/Codasium/Python_in_de_klas/img/image-20190318130624359.png?lastModify=1576221056)
-2. ![image-20190325083528686](file:///Users/Felienne/Dropbox/Codasium/Python_in_de_klas/img/image-20190325083528686.png?lastModify=1576221056)
-3. ![image-20190322151013930](file:///Users/Felienne/Dropbox/Codasium/Python_in_de_klas/img/image-20190322151013930.png?lastModify=1576221056)
+1.
+
+![](../../.gitbook/assets/image%20%281%29.png)
+
+2. 
+
+![](../../.gitbook/assets/image.png)
+
+3. 
+
+![](../../.gitbook/assets/image%20%282%29.png)
+
+
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.​​
 
@@ -103,19 +113,49 @@ for i in range(4):
 pen.left(90)
 ```
 
-1. ![image-20190322150946880](file:///Users/Felienne/Dropbox/Codasium/Python_in_de_klas/img/image-20190322150946880.png?lastModify=1576221056)
-2. ![image-20190318130606702](file:///Users/Felienne/Dropbox/Codasium/Python_in_de_klas/img/image-20190318130606702.png?lastModify=1576221056)
-3. ![image-20190318125810948](file:///Users/Felienne/Dropbox/Codasium/Python_in_de_klas/img/image-20190318125810948.png?lastModify=1576221056)
-4. ![image-20190322151224232](file:///Users/Felienne/Dropbox/Codasium/Python_in_de_klas/img/image-20190322151224232.png?lastModify=1576221056)
-5. ![image-20190322151500039](file:///Users/Felienne/Dropbox/Codasium/Python_in_de_klas/img/image-20190322151500039.png?lastModify=1576221056)
-
-Welke codes horen bij deze tekeningen? Gebruik natuurlijk wel een lus \(of meerdere lussen\)
-
-**Extraatje!**
-
-1. ![image-20190322150806389](file:///Users/Felienne/Dropbox/Codasium/Python_in_de_klas/img/image-20190322150806389.png?lastModify=1576221056)
-2. ![image-20190322150743162](file:///Users/Felienne/Dropbox/Codasium/Python_in_de_klas/img/image-20190322150743162.png?lastModify=1576221056)
-3. ![image-20190322151013930](file:///Users/Felienne/Dropbox/Codasium/Python_in_de_klas/img/image-20190322151013930.png?lastModify=1576221056)
-
 2\) Hoe teken je deze figuren met een lus?
+
+1.
+
+![](../../.gitbook/assets/image-20190322150806389%20%281%29.png)
+
+2. 
+
+![](../../.gitbook/assets/image-20190322150743162.png)
+
+3. 
+
+![](../../.gitbook/assets/image-20190322151013930%20%281%29.png)
+
+
+
+**Extraatjes!**
+
+Welke codes horen bij deze tekeningen? Gebruik natuurlijk wel een lus \(of meerdere lussen\).
+
+1.
+
+![](../../.gitbook/assets/image-20190322150946880%20%281%29.png)
+
+2.  
+
+![](../../.gitbook/assets/image-20190322151224232.png)
+
+3.
+
+![](../../.gitbook/assets/image-20190318125810948%20%282%29.png)
+
+4.   
+
+![](../../.gitbook/assets/image-20190318130606702%20%281%29.png)
+
+5.
+
+![](../../.gitbook/assets/image-20190322151500039.png)
+
+
+
+
+
+
 

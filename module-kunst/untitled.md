@@ -1,4 +1,4 @@
-# Handleiding
+# Handleiding Kunst
 
 ## Module 2: Kunst
 
@@ -16,7 +16,7 @@ In deze lessenserie komen de volgende programmeerconcepten aan bod:
 * for-loops
 * RGB kleurenwaardes
 
-Materiaal uit module 1 wordt gebruikt maar niet herhaald, daar moeten leerlingen wel bekend mee zijn: lijsten, variabelen, printen.
+Materiaal uit module 1 wordt gebruikt, maar niet expliciet herhaald, daar moeten leerlingen wel bekend mee zijn: lijsten, variabelen, printen.
 
 ### Voorbeeld
 
@@ -48,7 +48,7 @@ Nog een aantal tips:
 * Lees de codes hardop voor:
   * pen punt forward ronde haak openen 10 ronde haak sluiten
   * pen punt left ronde haak openen 90 ronde haak sluiten
-* Stip ook even de betekenissen \(en uitspraak\) hier aan:
+* Stip ook even de betekenissen \(en uitspraak\) can Turtlecommando's aan:
   * forward betekent "ga vooruit"
   * left betekent links, maar in deze code betekent het "draai linksom", dus niet "ga naar links"
 

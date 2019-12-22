@@ -148,7 +148,7 @@ pen.left(60)
  3\) Nu andersom. Weet jij met welke code je deze figuren tekent? Schijf de codes in je schrift. Tip: reken het na met je geodriehoek.
 
 1. 
-![](../../.gitbook/assets/image-20190318130624359.png)
+![](../../.gitbook/assets/image-20190318130624359%20%281%29.png)
 
 2.
 
@@ -207,7 +207,7 @@ pen.forward(100)
 
 2. 
 
-![](../../.gitbook/assets/image-20190318125810948.png)
+![](../../.gitbook/assets/image-20190318125810948%20%281%29.png)
 
 3. 
 
