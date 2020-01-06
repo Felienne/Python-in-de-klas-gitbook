@@ -1,4 +1,2 @@
-# Untitled
-
-Module Aardrijkskunde
+# Module Aardrijkskunde
 
