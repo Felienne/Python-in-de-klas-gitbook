@@ -42,6 +42,6 @@
   * [Les 6 \(Eindopdracht\)](module-kunst-1/les-6-eindopdracht/README.md)
     * [Les 6b](module-kunst-1/les-6-eindopdracht/les-6b.md)
 * [Module Aardrijkskunde](untitled.md)
-* [Module Quiz \(in ontwikkeling\)](module-quiz-in-ontwikkeling.md)
-* [Les 1](les-1.md)
+* [Module Quiz \(in ontwikkeling\)](module-quiz-in-ontwikkeling/README.md)
+  * [Les 1](module-quiz-in-ontwikkeling/les-1.md)
 
