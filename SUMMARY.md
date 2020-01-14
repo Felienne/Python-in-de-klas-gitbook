@@ -44,4 +44,5 @@
 * [Module Aardrijkskunde](untitled.md)
 * [Module Quiz \(in ontwikkeling\)](module-quiz-in-ontwikkeling/README.md)
   * [Les 1](module-quiz-in-ontwikkeling/les-1.md)
+  * [Les 2](module-quiz-in-ontwikkeling/les-2.md)
 
