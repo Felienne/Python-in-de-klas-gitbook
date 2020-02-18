@@ -9,7 +9,7 @@ Soms wil je dat de lezer van je verhaal keuzes kan maken, maar niet alle keuzes 
 
 ## Leerdoelen
 
-Aan het einde van de bonus kun jij:
+Aan het einde van deze bonus kun jij:
 
 * Geldige antwoorden opslaan in een lijst
 * Die lijst gebruiken om te controleren of de input van de gebruiker geldig (valide) is.
