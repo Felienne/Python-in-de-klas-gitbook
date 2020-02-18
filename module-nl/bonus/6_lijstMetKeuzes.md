@@ -1,4 +1,4 @@
-TODO: opdracht over:
+TODO: opdracht over: --> bonus 6a?
 
 we hebben van de vorige bonus een lijst met opties, en een gevalideerd antwoord van de gebruiker
 we willen nu een if-then-else tree maken om alle opties van die lijst af te lopen
@@ -11,7 +11,13 @@ hier kunnen we ook op terugkoppelen in een opdracht: 'laat iets anders gebeuren 
 
 
 
-TODO: opdracht over:
+TODO: opdracht over: --> bonus 5b?
 
-gebruik een functie om antwoord te valideren (prevent code duplication) --> bonus 5b?
+gebruik een functie om antwoord te valideren (prevent code duplication)
+
+
+
+TODO: opdracht over: --> bonus 6b?
+
+maak een aparte functie per branch om de code beter te structureren
 
