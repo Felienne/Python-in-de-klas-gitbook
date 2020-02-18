@@ -4,8 +4,8 @@ Soms wil je dat de lezer van je verhaal keuzes kan maken, maar niet alle keuzes 
 
 **Voorkennis**
 
-Les 4: lijsten
-Les 5: input
+* Les 4: lijsten
+* Les 5: input
 
 **Leerdoelen**
 
@@ -54,13 +54,32 @@ Als de lezer een fout antwoord geeft, dan moeten we nogmaals vragen om een antwo
 Herhalen totdat iets gebeurd, kun je met `while` doen. Naar het Nederlands vertaald: 'zolang'. Dat ziet er zo uit:
 
 ```python
-while ---een voorwaarde---:
-  ---herhaal dit commando---
+while VOORWAARDE:
+  DOE IETS
 ```
 
-Op de plek van `---een voorwaarde---` zetten we de voorwaarde neer dat de _zolang_ moet door blijven gaan met `---herhaal dit comando---` te herhalen.
+Op de plek van `VOORWAARDE` zetten we de voorwaarde neer dat de `while` (_zolang_) moet door blijven gaan met `DOE IETS` te herhalen. Merk op dat de regel met `while` eindigt met een dubbele punt, en dat de volgende regel met `DOE IETS` een inspringing heeft. Die zijn beiden verplicht!
 
-We willen nu blijven _herhalen totdat_ de lezer een goed antwoord geeft... maar dat is _herhalen zolang_ de lezer _geen_ goed antwoord geeft, dus moeten we `not` toevoegen: `while antwoord not in keuzes`:
+We willen nu blijven _herhalen totdat_ de lezer een goed antwoord geeft... maar dat is _herhalen zolang_ de lezer _geen_ goed antwoord geeft, dus moeten we `not` toevoegen om de _geen_ te bereiken: `while antwoord not in keuzes`:
+
+```python
+antwoord=''
+while antwoord not in keuzes:
+  antwoord = input()
+print('Jouw antwoord was:', antwoord)
+```
+
+***Probeer het!***
+
+Probeer deze dingen zelf uit:
+1) Wat gebeurd er als we die `antwoord=''` regel niet hebben?
+2) Leg in eigen woorden uit waarom die foutmelding gebeurd.
+
+**Geef de lezer feedback**
+
+Als je nu het programma uitvoert, dan gaat het programma pas verder wanneer de lezer een goed antwoord geeft. Dat is niet heel gebruiksvriendelijk: we moeten de lezer natuurlijk wel vertellen dat hij/zij een fout antwoord heeft gegeven.
+
+Dit kunnen we eenvoudig bereiken door de `print('Wat doe je? Kies tussen:', keuzes)` die we al hadden, in de herhaallus te plaatsen:
 
 ```python
 antwoord=''
@@ -70,16 +89,13 @@ while antwoord not in keuzes:
 print('Jouw antwoord was:', antwoord)
 ```
 
-(TODO: dit opsplitsen in uitleg eerst zonder de print)
+***Probeer het!***
 
-***Test het!***
-
-1) Wat gebeurd er als we die `antwoord=''` regel niet hebben?
-2) Leg in eigen woorden uit waarom die foutmelding gebeurd.
+1) Wat krijgt de lezer nu te zien als hij/zij een fout antwoord geeft?
 
 **Alles samenbrengen...**
 
-Samegevat, je kunt dit stukje Python code gebruiken om ervoor te zorgen dat de lezer alleen een mogelijk antwoord ik kan voeren.
+Samegevat, je kunt dit stukje Python code gebruiken om ervoor te zorgen dat de lezer alleen een mogelijk antwoord in kan voeren.
 
 ```python
 print('Vertel hier een verhaal.')
