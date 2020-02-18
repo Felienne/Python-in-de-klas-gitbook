@@ -2,19 +2,19 @@
 
 Soms wil je dat de lezer van je verhaal keuzes kan maken, maar niet alle keuzes zijn natuurlijk mogelijk. Daarom moet jij, als de programmeer, ervoor zorgen dat de lezer alleen keuzes kan maken die van jou mogen.
 
-**Voorkennis**
+## Voorkennis
 
 * Les 4: lijsten
 * Les 5: input
 
-**Leerdoelen**
+## Leerdoelen
 
 Aan het einde van de bonus kun jij:
 
 * Geldige antwoorden opslaan in een lijst
 * Die lijst gebruiken om te controleren of de input van de gebruiker geldig (valide) is.
 
-**Geldige antwoorden in een lijst**
+## Geldige antwoorden in een lijst
 
 Voordat we kunnen controleren of het antwoord van de lezer juist is, moeten we deze antwoorden eerst opslaan in een lijst. Stel dat de opties zijn 'ren weg', 'wacht af', en 'ga kijken'. Dan wil je een lijst maken met die drie acties:
 
@@ -25,7 +25,7 @@ print('Wat doe je? Kies tussen:', keuzes)
 
 Met de ``print`` kunnen we de lezer laten zien welke keuzes hij heeft.
 
-**Lezer vragen om actie**
+## Lezer vragen om actie
 
 Vervolgens kunnen we de lezer vragen wat hij/zij wilt doen, en dit antwoord opslaan in een variabele genaamd 'antwoord'.
 
@@ -33,7 +33,7 @@ Vervolgens kunnen we de lezer vragen wat hij/zij wilt doen, en dit antwoord opsl
 antwoord = input()
 ```
 
-**Controleren of het goed is.**
+## Controleren of het goed is.
 
 Nu willen we kijken of `antwoord` in de lijst voorkomt. _in lijst_ voorkomt. Dat verklapt al hoe het in Python moet: `in`.
 
@@ -41,9 +41,12 @@ Nu willen we kijken of `antwoord` in de lijst voorkomt. _in lijst_ voorkomt. Dat
 print(antwoord in keuzes)
 ```
 
-***Test het!***
+**Probeer het!**
 
-Probeer het uit. Wat zegt de computer als je een antwoord invoert wat in de lijst staat? En wat als deze niet in de lijst staat?
+Probeer het uit, en beantwoord deze vragen:
+1) Wat zegt de computer als je een antwoord invoert wat in de lijst staat? 
+2) En wat als deze niet in de lijst staat?
+3) Kun je bedenken wat die twee woorden, die je bij (1) en (2) te zien kreeg, betekenen?
 
 **Wachten totdat het antwoord goed is.**
 
@@ -69,13 +72,13 @@ while antwoord not in keuzes:
 print('Jouw antwoord was:', antwoord)
 ```
 
-***Probeer het!***
+**Probeer het!**
 
 Probeer deze dingen zelf uit:
 1) Wat gebeurd er als we die `antwoord=''` regel niet hebben?
 2) Leg in eigen woorden uit waarom die foutmelding gebeurd.
 
-**Geef de lezer feedback**
+## Geef de lezer feedback
 
 Als je nu het programma uitvoert, dan gaat het programma pas verder wanneer de lezer een goed antwoord geeft. Dat is niet heel gebruiksvriendelijk: we moeten de lezer natuurlijk wel vertellen dat hij/zij een fout antwoord heeft gegeven.
 
@@ -89,13 +92,13 @@ while antwoord not in keuzes:
 print('Jouw antwoord was:', antwoord)
 ```
 
-***Probeer het!***
+**Probeer het!**
 
 1) Wat krijgt de lezer nu te zien als hij/zij een fout antwoord geeft?
 
-**Alles samenbrengen...**
+## Alles samenbrengen...
 
-Samegevat, je kunt dit stukje Python code gebruiken om ervoor te zorgen dat de lezer alleen een mogelijk antwoord in kan voeren.
+Samengevat, je kunt dit stukje Python code gebruiken om ervoor te zorgen dat de lezer alleen een mogelijk antwoord in kan voeren.
 
 ```python
 print('Vertel hier een verhaal.')
@@ -109,7 +112,7 @@ while antwoord not in keuzes:
 print('Verhaal gaat verder.')
 ```
 
-***Opdracht:***
+**Opdracht:**
 1) Schrijf zelf een klein verhaal van 5 zinnen.
 2) Vraag de lezer daarna om een keuze te maken tussen drie opties.
 3) Zorg ervoor dat het verhaal niet doorgaat totdat de lezer een juiste keuze maakt.
