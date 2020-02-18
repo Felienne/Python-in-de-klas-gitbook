@@ -63,7 +63,7 @@ while VOORWAARDE:
 
 Op de plek van `VOORWAARDE` zetten we de voorwaarde neer dat de `while` (_zolang_) moet door blijven gaan met `DOE IETS` te herhalen. Merk op dat de regel met `while` eindigt met een dubbele punt, en dat de volgende regel met `DOE IETS` een inspringing heeft. Die zijn beiden verplicht!
 
-We willen nu blijven _herhalen totdat_ de lezer een goed antwoord geeft... maar dat is _herhalen zolang_ de lezer _geen_ goed antwoord geeft, dus moeten we `not` toevoegen om de _geen_ te bereiken: `while antwoord not in keuzes`:
+We willen nu blijven _herhalen totdat_ de lezer een goed antwoord geeft... maar dat is _herhalen zolang_ de lezer _geen_ goed antwoord geeft. Dus we moeten `not` toevoegen om die '_geen_' te programmeren: `while antwoord not in keuzes`:
 
 ```python
 antwoord=''
