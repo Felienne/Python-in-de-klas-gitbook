@@ -51,9 +51,16 @@ Als de lezer een goed antwoord geeft, kreeg je `True` te zien. Oftewel, 'waar' o
 
 Als de lezer een fout antwoord geeft, dan moeten we nogmaals vragen om een antwoord. En als het dan weer fout is, dan moeten we het nogmaals vragen. Zo moeten we door blijven _herhalen totdat_ we een geldig antwoord krijgen.
 
-Herhalen totdat iets gebeurd, kun je met `while` doen. Naar het Nederlands vertaald: 'zolang'.
+Herhalen totdat iets gebeurd, kun je met `while` doen. Naar het Nederlands vertaald: 'zolang'. Dat ziet er zo uit:
 
-We willen nu blijven _herhalen_ _totdat_ de lezer een goed antwoord geeft... dat betekend _herhalen totdat `antwoord in keuzes`_. In een `while` werkt het precies andersom: we willen _doorgaan zolang de lezer het fout doet_, oftewel _zolang antwoord niet in keuzes_ zit: `while antwoord not in keuzes`:
+```python
+while ---een voorwaarde---:
+  ---herhaal dit commando---
+```
+
+Op de plek van `---een voorwaarde---` zetten we de voorwaarde neer dat de _zolang_ moet door blijven gaan met `---herhaal dit comando---` te herhalen.
+
+We willen nu blijven _herhalen totdat_ de lezer een goed antwoord geeft... maar dat is _herhalen zolang_ de lezer _geen_ goed antwoord geeft, dus moeten we `not` toevoegen: `while antwoord not in keuzes`:
 
 ```python
 antwoord=''
