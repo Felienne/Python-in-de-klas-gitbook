@@ -120,9 +120,10 @@ Hoe je iets met `antwoord` kan doen, leer je volgende les.
 Deze les wordt afgetekend als:
 
 - Je verhaal minstens 5 zinnen print.
-- De lezer gevraagd wordt om een keuze te maken tussen drie opties.
-- Bij een fout antwoord, krijgt de lezer dezelfde vraag nogmaals.
-- Bij een goed antwoord, gaat het verhaal verder.
+- Je aan de lezer vraagt om een keuze te maken tussen drie opties.
+  - Bij een fout antwoord, krijgt de lezer dezelfde vraag nogmaals.
+  - Bij een goed antwoord, gaat het verhaal verder.
+- Je in je schrift schrijft hoe deze code werkt
 
 ### Opdracht.
 
