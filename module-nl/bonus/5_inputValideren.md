@@ -41,14 +41,14 @@ Nu willen we kijken of `antwoord` in de lijst voorkomt. _in lijst_ voorkomt. Dat
 print(antwoord in keuzes)
 ```
 
-**Probeer het!**
+### Probeer het!
 
 Probeer het uit, en beantwoord deze vragen:
 1) Wat zegt de computer als je een antwoord invoert wat in de lijst staat? 
 2) En wat als deze niet in de lijst staat?
 3) Kun je bedenken wat die twee woorden, die je bij (1) en (2) te zien kreeg, betekenen?
 
-**Wachten totdat het antwoord goed is.**
+### Wachten totdat het antwoord goed is.
 
 Als de lezer een goed antwoord geeft, kreeg je `True` te zien. Oftewel, 'waar' of 'juist'. Als de lezer echter een fout antwoord geeft, dan kreeg je `False` te zien. Oftewel, 'onwaar' of 'fout'.
 
@@ -61,9 +61,9 @@ while VOORWAARDE:
   DOE IETS
 ```
 
-Op de plek van `VOORWAARDE` zetten we de voorwaarde neer dat de `while` (_zolang_) moet door blijven gaan met `DOE IETS` te herhalen. Merk op dat de regel met `while` eindigt met een dubbele punt, en dat de volgende regel met `DOE IETS` een inspringing heeft. Die zijn beiden verplicht!
+Op de plek van `VOORWAARDE` zetten we de voorwaarde neer dat de `while` (_zolang_) moet door blijven gaan met `DOE IETS` te herhalen. Merk op dat de `while` regel eindigt met een dubbele punt, en dat de volgende regel met `DOE IETS` een inspringing heeft aan de voorkant heeft. Die zijn beiden verplicht!
 
-We willen nu blijven _herhalen totdat_ de lezer een goed antwoord geeft... maar dat is _herhalen zolang_ de lezer _geen_ goed antwoord geeft. Dus we moeten `not` toevoegen om die '_geen_' te programmeren: `while antwoord not in keuzes`:
+We willen nu blijven _herhalen totdat_ de lezer een goed antwoord geeft... maar dat is _herhalen zolang_ de lezer _geen_ goed antwoord geeft. Precies andersom dus! Dus we moeten `not` toevoegen om die '_geen_' te programmeren: `while antwoord not in keuzes`:
 
 ```python
 antwoord=''
@@ -72,7 +72,7 @@ while antwoord not in keuzes:
 print('Jouw antwoord was:', antwoord)
 ```
 
-**Probeer het!**
+### Probeer het!
 
 Probeer deze dingen zelf uit:
 1) Wat gebeurd er als we die `antwoord=''` regel niet hebben?
@@ -80,7 +80,7 @@ Probeer deze dingen zelf uit:
 
 ## Geef de lezer feedback
 
-Als je nu het programma uitvoert, dan gaat het programma pas verder wanneer de lezer een goed antwoord geeft. Dat is niet heel gebruiksvriendelijk: we moeten de lezer natuurlijk wel vertellen dat hij/zij een fout antwoord heeft gegeven.
+Als je nu het programma uitvoert, dan gaat het programma pas verder wanneer de lezer een goed antwoord geeft. Dat is niet heel gebruiksvriendelijk: we moeten de lezer natuurlijk wel vertellen dat hij/zij een fout antwoord heeft gegeven!
 
 Dit kunnen we eenvoudig bereiken door de `print('Wat doe je? Kies tussen:', keuzes)` die we al hadden, in de herhaallus te plaatsen:
 
@@ -92,7 +92,7 @@ while antwoord not in keuzes:
 print('Jouw antwoord was:', antwoord)
 ```
 
-**Probeer het!**
+### Probeer het!
 
 1) Wat krijgt de lezer nu te zien als hij/zij een fout antwoord geeft?
 
@@ -112,11 +112,21 @@ while antwoord not in keuzes:
 print('Verhaal gaat verder.')
 ```
 
-**Opdracht:**
-1) Schrijf zelf een klein verhaal van 5 zinnen.
-2) Vraag de lezer daarna om een keuze te maken tussen drie opties.
-3) Zorg ervoor dat het verhaal niet doorgaat totdat de lezer een juiste keuze maakt.
+Hoe je iets met `antwoord` kan doen, leer je volgende les.
+
+
+## Opdracht bonus5-1) input valideren
+
+Deze les wordt afgetekend als:
+
+- Je verhaal minstens 5 zinnen print.
+- De lezer gevraagd wordt om een keuze te maken tussen drie opties.
+- Bij een fout antwoord, krijgt de lezer dezelfde vraag nogmaals.
+- Bij een goed antwoord, gaat het verhaal verder.
+
+### Opdracht.
+
+Schrijf een klein verhaal van 5 zinnen. Vraag de lezer om een keuze te maken tussen drie opties. Zorg ervoor dat het verhaal niet doorgaat totdat de lezer een juiste keuze maakt!
 
 
 In de volgende les leer je om iets met de keuze van de lezer te doen.
-
