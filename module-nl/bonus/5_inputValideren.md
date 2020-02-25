@@ -46,7 +46,7 @@ print(antwoord in keuzes)
 Probeer het uit, en beantwoord deze vragen:
 1) Wat zegt de computer als je een antwoord invoert wat in de lijst staat? 
 2) En wat als deze niet in de lijst staat?
-3) Kun je bedenken wat die twee woorden, die je bij (1) en (2) te zien kreeg, betekenen?
+3) Kun je bedenken wat die twee woorden -- die je bij (1) en (2) te zien kreeg -- dus betekenen?
 
 ### Wachten totdat het antwoord goed is.
 
@@ -76,7 +76,7 @@ print('Jouw antwoord was:', antwoord)
 
 Probeer deze dingen zelf uit:
 1) Wat gebeurd er als we die `antwoord=''` regel niet hebben?
-2) Leg in eigen woorden uit waarom die foutmelding gebeurd.
+2) Schrijf in eigen woorden in je schrift waarom die foutmelding gebeurd.
 
 ## Geef de lezer feedback
 
