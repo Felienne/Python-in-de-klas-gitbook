@@ -14,6 +14,11 @@ Aan het einde van deze bonus kun jij:
 * Geldige antwoorden opslaan in een lijst
 * Die lijst gebruiken om te controleren of de input van de gebruiker geldig (valide) is.
 
+****
+
+
+
+
 ## Geldige antwoorden in een lijst
 
 Voordat we kunnen controleren of het antwoord van de lezer juist is, moeten we deze antwoorden eerst opslaan in een lijst. Stel dat de opties zijn 'ren weg', 'wacht af', en 'ga kijken'. Dan wil je een lijst maken met die drie acties:
