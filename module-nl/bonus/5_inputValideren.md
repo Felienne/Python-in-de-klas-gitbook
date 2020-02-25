@@ -96,6 +96,11 @@ print('Jouw antwoord was:', antwoord)
 
 1) Wat krijgt de lezer nu te zien als hij/zij een fout antwoord geeft?
 
+
+
+
+****
+
 ## Alles samenbrengen...
 
 Samengevat, je kunt dit stukje Python code gebruiken om ervoor te zorgen dat de lezer alleen een mogelijk antwoord in kan voeren.
@@ -115,9 +120,9 @@ print('Verhaal gaat verder.')
 Hoe je iets met `antwoord` kan doen, leer je volgende les.
 
 
-## Opdracht bonus5.1-1\) input valideren
+## Opdracht bonus5.1-1\) input valideren in jouw verhaal
 
-Deze les wordt afgetekend als:
+Deze opdracht wordt afgetekend als:
 
 - Je verhaal minstens 5 zinnen print.
 - Je aan de lezer vraagt om een keuze te maken tussen drie opties.
