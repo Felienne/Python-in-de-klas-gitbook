@@ -71,6 +71,7 @@ Probeer het uit, en beantwoord deze vragen:
 2) En wat als deze niet in de lijst staat?
 3) Kun je bedenken wat die twee woorden -- die je bij (1) en (2) te zien kreeg -- dus betekenen?
 
+
 ### Wachten totdat het antwoord mogelijk is
 
 Als de lezer een goed antwoord geeft, kreeg je `True` te zien. Oftewel, 'waar' of 'juist'. Als de lezer echter een fout antwoord geeft, dan kreeg je `False` te zien. Oftewel, 'onwaar' of 'fout'.
@@ -95,11 +96,34 @@ while antwoord not in keuzes:
 print('Jouw antwoord was:', antwoord)
 ```
 
+Deze vier regels code zijn dus in plaats van alleen `antwoord = input()`!
+
 ### Probeer het!
 
 Probeer deze dingen zelf uit:
 1) Wat gebeurd er als we die `antwoord=''` regel niet hebben?
 2) Schrijf in eigen woorden in je schrift waarom die foutmelding gebeurd.
+
+
+
+## Opdracht bonus-5-2\) input valideren in jouw verhaal
+
+Deze opdracht wordt afgetekend als:
+
+- Je verhaal minstens 4 zinnen print.
+- Je aan de lezer vraagt om een keuze te maken tussen drie opties.
+  - Bij een fout antwoord: de lezer kan nogmaals een antwoord invoeren.
+  - Bij een goed antwoord: we zien de gemaakte keuze, en het verhaal gaat verder.
+- Je in je schrift in eigen woorden opschrijft hoe deze code werkt.
+
+### Opdracht.
+
+Ga verder met je code van opdracht bonus-5-1. Zorg er nu voor dat het verhaal niet doorgaat totdat de lezer een juiste keuze maakt! Voeg aan het einde van je programma nog één zinnetje toe die de keuze van de lezer vertelt: "Je hebt gekozen voor: ...".
+
+****
+
+
+
 
 ## Geef de lezer feedback
 
@@ -124,7 +148,7 @@ print('Jouw antwoord was:', antwoord)
 
 ****
 
-## Alles samenbrengen...
+## Samenvatting
 
 Samengevat, je kunt dit stukje Python code gebruiken om ervoor te zorgen dat de lezer alleen een mogelijk antwoord in kan voeren.
 
@@ -142,7 +166,7 @@ print('Verhaal gaat verder.')
 
 
 
-## Opdracht bonus-5-2\) input valideren in jouw verhaal
+## Opdracht bonus-5-3\) input valideren in jouw verhaal
 
 Deze opdracht wordt afgetekend als:
 
@@ -154,7 +178,7 @@ Deze opdracht wordt afgetekend als:
 
 ### Opdracht.
 
-Ga verder met je code van opdracht bonus-5-1. Zorg er nu voor dat het verhaal niet doorgaat totdat de lezer een juiste keuze maakt! Voeg aan het einde van je programma nog één zinnetje toe die de keuze van de lezer vertelt: "Je hebt gekozen voor: ...".
+Ga verder met je code van opdracht bonus-5-2. Zorg er nu voor dat het verhaal niet doorgaat totdat de lezer een juiste keuze maakt! Voeg aan het einde van je programma nog één zinnetje toe die de keuze van de lezer vertelt: "Je hebt gekozen voor: ...".
 
 ### Volgende keer...
 
