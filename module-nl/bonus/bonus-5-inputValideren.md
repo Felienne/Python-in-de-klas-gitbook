@@ -58,7 +58,9 @@ Schrijf een verhaal van 3-5 zinnen over een dier. Het dier komt zijn natuurlijke
 
 ## Controleren of het antwoord mogelijk is
 
-Nu willen we kijken of `antwoord` in de lijst voorkomt. _in lijst_ voorkomt. Dat verklapt al hoe het in Python moet: met `in`!
+**Controleren** of het antwoord van de lezer mogelijk is, heet het **'valideren'** van het antwoord.
+
+Daarvoor willen we nu kijken of `antwoord` in de lijst voorkomt. _in lijst_ voorkomt. Dat verklapt al hoe het in Python moet: met `in`!
 
 ```python
 print(antwoord in keuzes)
@@ -95,7 +97,8 @@ while antwoord not in keuzes:
   antwoord = input()
 ```
 
-Deze drie regels code zijn dus in plaats van alleen `antwoord = input()`!
+Deze drie regels code zijn dus in plaats van alleen `antwoord = input()`. Het kost dus **slechts twee extra regels code** om input te valideren!
+
 
 ### De keuze laten zien
 
@@ -155,7 +158,7 @@ print('Je hebt gekozen voor:', antwoord)
 
 
 
-## Opdracht bonus-5-3\) input valideren in jouw verhaal
+## Opdracht bonus-5-3\) geef de lezer ook feedback in jouw verhaal
 
 Deze opdracht wordt afgetekend als:
 
