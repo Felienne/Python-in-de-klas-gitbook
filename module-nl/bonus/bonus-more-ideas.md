@@ -1,21 +1,37 @@
-# Time
-2.1: delay
+# Les 2: Time
 
-2.2: aftellen
-TODO: aftellen met print('3...', end='\r')
+## Aftellen
+```python
+import time
+
+print('3...', end='\r')
+time.sleep(1)
+print('2...', end='\r')
+time.sleep(1)
+print('1...', end='\r')
+time.sleep(1)
+```
+
+`end='\r'` betekent:
+* eindig (`end`) de geprinte regel met ...
+* `\r` betekent 'ga terug naar het begin van de regel'
+* als je dus iets nieuws print, dan overschrijf je de vorige regel die geprint was
+
+## meer time library features
+
+* huidige tijd opvragen
+* elapsed time
+* timezones
 
 
-2.3: meer time library features
+# Les 3: Random
 
-TODO: huidige tijd opvragen
-TODO: elapsed time
-TODO: timezones
+Dobbelsteen 'gooien'
 
+# Les 4: Lijsten
 
-
-# Lijst printen met layout
-
-hele lijst in één keer printen
+## Lijst printen met layout
+hele lijst in één keer printen;
 lijst mooier weergeven door hem te unpacken en een separator te definiëren
 
 ```python
@@ -48,5 +64,9 @@ gebruik een functie om antwoord te valideren (prevent code duplication)
 TODO: opdracht over: --> bonus 6b?
 
 maak een aparte functie per branch om de code beter te structureren
+
+## Kans dat iets gebeurt
+
+We kunnen al 'dobbelsteen' opgooien. Met if-then-else kunnen we nu iets met een kans laten gebeuren.
 
 
