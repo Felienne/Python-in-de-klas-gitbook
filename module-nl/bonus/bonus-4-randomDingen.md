@@ -141,7 +141,7 @@ Deze opdracht wordt afgetekend als:
 
 ### Opdracht.
 
-Open je code met het verhaal over een willekeurig dier uit opdracht bonus-4.1-1.
+Open je code met het verhaal over een willekeurig dier uit opdracht bonus-4-1.
 Maak een nieuwe lijst met minstens 5 willekeurige emoties als bijvoeglijk naamwoord (boze, vrolijke, ...).
 Voeg aan de zin waarin je het willekeurig dier print een willekeurige emotie voor het dier toe.
 
