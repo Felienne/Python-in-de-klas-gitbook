@@ -1,4 +1,4 @@
-# Bonus 5.1: input valideren
+# Bonus 5: input valideren
 
 Soms wil je dat de lezer van je verhaal keuzes kan maken, maar niet alle keuzes zijn natuurlijk mogelijk. Daarom moet jij, als de programmeer, ervoor zorgen dat de lezer alleen keuzes kan maken die van jou mogen.
 
@@ -125,7 +125,7 @@ print('Verhaal gaat verder.')
 Hoe je iets met `antwoord` kan doen, leer je volgende les.
 
 
-## Opdracht bonus5.1-1\) input valideren in jouw verhaal
+## Opdracht bonus5-1\) input valideren in jouw verhaal
 
 Deze opdracht wordt afgetekend als:
 
