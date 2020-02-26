@@ -1,4 +1,4 @@
-# Bonus 2.1: vertraging
+# Bonus 2: vertraging
 
 Nu verschijnt jouw verhaal in één keer. Wellicht vind je dat prettig, maar wellicht ook niet. We kunnen ook een vertraging tussen zinnen inbouwen, zodat het verhaal zich langzaam zal ontvouwen!
 
@@ -55,7 +55,7 @@ print('Doei.')
 ```
 
 
-## Opdracht bonus-2.1-1\) Een vertraagde zin
+## Opdracht bonus-2-1\) Een vertraagde zin
 
 Deze opdracht wordt afgetekend als:
 
@@ -104,7 +104,7 @@ time.sleep(0.5)
 
 
 
-## Opdracht bonus-2.1-2\) Een verhaal met vertragingen
+## Opdracht bonus-2-2\) Een verhaal met vertragingen
 
 Deze opdracht wordt afgetekend als:
 
