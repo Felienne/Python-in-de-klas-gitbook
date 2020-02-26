@@ -11,15 +11,15 @@ Soms wil je dat de lezer van je verhaal keuzes kan maken, maar niet alle keuzes 
 
 Aan het einde van deze bonus kun jij:
 
-* Geldige antwoorden opslaan in een lijst
-* Die lijst gebruiken om te controleren of de input van de gebruiker geldig (valide) is.
+* De lezer laten kiezen tussen een paar acties
+* Controleren of de input van de lezer mogelijk is
 
 ****
 
 
 
 
-## Geldige antwoorden in een lijst
+## Mogelijke antwoorden opslaan in een lijst
 
 Voordat we kunnen controleren of het antwoord van de lezer juist is, moeten we deze antwoorden eerst opslaan in een lijst. Stel dat de opties zijn 'ren weg', 'wacht af', en 'ga kijken'. Dan wil je een lijst maken met die drie acties:
 
@@ -38,9 +38,27 @@ Vervolgens kunnen we de lezer vragen wat hij/zij wilt doen, en dit antwoord opsl
 antwoord = input()
 ```
 
-## Controleren of het goed is.
 
-Nu willen we kijken of `antwoord` in de lijst voorkomt. _in lijst_ voorkomt. Dat verklapt al hoe het in Python moet: `in`.
+## Opdracht bonus-5-1\) Laat de lezer kiezen!
+
+Deze opdracht wordt afgetekend als:
+
+- Je een verhaal van 3-5 zinnen print.
+- Je aan de lezer vraagt om een keuze te maken tussen drie opties die opgeslagen staan in een lijst.
+- Je in je schrift in eigen woorden opschrijft hoe deze code werkt.
+
+### Opdracht.
+
+Schrijf een verhaal van 3-5 zinnen over een dier. Het dier komt zijn natuurlijke vijand tegen. (Bijvoorbeeld: kip-vos, schaap-wolf, muis-kat, olifant-muis, ...) Laat de lezer vervolgens kiezen tussen drie mogelijke acties: wat moet het dier doen?
+
+****
+
+
+
+
+## Controleren of het antwoord mogelijk is
+
+Nu willen we kijken of `antwoord` in de lijst voorkomt. _in lijst_ voorkomt. Dat verklapt al hoe het in Python moet: met `in`!
 
 ```python
 print(antwoord in keuzes)
@@ -53,7 +71,7 @@ Probeer het uit, en beantwoord deze vragen:
 2) En wat als deze niet in de lijst staat?
 3) Kun je bedenken wat die twee woorden -- die je bij (1) en (2) te zien kreeg -- dus betekenen?
 
-### Wachten totdat het antwoord goed is.
+### Wachten totdat het antwoord mogelijk is
 
 Als de lezer een goed antwoord geeft, kreeg je `True` te zien. Oftewel, 'waar' of 'juist'. Als de lezer echter een fout antwoord geeft, dan kreeg je `False` te zien. Oftewel, 'onwaar' of 'fout'.
 
@@ -122,22 +140,22 @@ while antwoord not in keuzes:
 print('Verhaal gaat verder.')
 ```
 
-Hoe je iets met `antwoord` kan doen, leer je volgende les.
 
 
-## Opdracht bonus-5-1\) input valideren in jouw verhaal
+## Opdracht bonus-5-2\) input valideren in jouw verhaal
 
 Deze opdracht wordt afgetekend als:
 
-- Je verhaal minstens 5 zinnen print.
+- Je verhaal minstens 4 zinnen print.
 - Je aan de lezer vraagt om een keuze te maken tussen drie opties.
   - Bij een fout antwoord, krijgt de lezer dezelfde vraag nogmaals.
-  - Bij een goed antwoord, gaat het verhaal verder.
-- Je in je schrift schrijft hoe deze code werkt
+  - Bij een goed antwoord, zien we de gemaakte keuze, en gaat het verhaal verder.
+- Je in je schrift in eigen woorden opschrijft hoe deze code werkt.
 
 ### Opdracht.
 
-Schrijf een klein verhaal van 5 zinnen. Vraag de lezer om een keuze te maken tussen drie opties. Zorg ervoor dat het verhaal niet doorgaat totdat de lezer een juiste keuze maakt!
+Ga verder met je code van opdracht bonus-5-1. Zorg er nu voor dat het verhaal niet doorgaat totdat de lezer een juiste keuze maakt! Voeg aan het einde van je programma nog één zinnetje toe die de keuze van de lezer vertelt: "Je hebt gekozen voor: ...".
 
+### Volgende keer...
 
 In de volgende les leer je om iets met de keuze van de lezer te doen, dus bewaar je code goed, zodat je hier volgende les mee verder kunt gaan!
