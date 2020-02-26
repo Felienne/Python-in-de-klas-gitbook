@@ -64,7 +64,7 @@ Nu willen we kijken of `antwoord` in de lijst voorkomt. _in lijst_ voorkomt. Dat
 print(antwoord in keuzes)
 ```
 
-### Probeer het!
+### Nu jij: probeer het!
 
 Probeer het uit, en beantwoord deze vragen:
 1) Wat zegt de computer als je een antwoord invoert wat in de lijst staat? 
@@ -93,17 +93,27 @@ We willen nu blijven _herhalen totdat_ de lezer een goed antwoord geeft... maar 
 antwoord=''
 while antwoord not in keuzes:
   antwoord = input()
-print('Jouw antwoord was:', antwoord)
 ```
 
-Deze vier regels code zijn dus in plaats van alleen `antwoord = input()`!
+Deze drie regels code zijn dus in plaats van alleen `antwoord = input()`!
 
-### Probeer het!
+### De keuze laten zien
+
+Tot slot kun je een `print` toevoegen om de keuze van de lezer te laten zien.
+**Let op: er staat _geen inspringing_ voor die `print`**, omdat de `print` pas moet gebeuren wanneer de herhaling van de `while` helemaal klaar is!
+
+```python
+antwoord=''
+while antwoord not in keuzes:
+  antwoord = input()
+print('Je hebt gekozen voor:', antwoord)
+```
+
+### Nu jij: probeer het!
 
 Probeer deze dingen zelf uit:
 1) Wat gebeurd er als we die `antwoord=''` regel niet hebben?
 2) Schrijf in eigen woorden in je schrift waarom die foutmelding gebeurd.
-
 
 
 ## Opdracht bonus-5-2\) input valideren in jouw verhaal
@@ -136,33 +146,12 @@ antwoord=''
 while antwoord not in keuzes:
   print('Wat doe je? Kies tussen:', keuzes)
   antwoord = input()
-print('Jouw antwoord was:', antwoord)
+print('Je hebt gekozen voor:', antwoord)
 ```
 
-### Probeer het!
+### Nu jij: probeer het!
 
 1) Wat krijgt de lezer nu te zien als hij/zij een fout antwoord geeft?
-
-
-
-
-****
-
-## Samenvatting
-
-Samengevat, je kunt dit stukje Python code gebruiken om ervoor te zorgen dat de lezer alleen een mogelijk antwoord in kan voeren.
-
-```python
-print('Vertel hier een verhaal.')
-
-keuzes = [ 'ren weg', 'wacht af', 'ga kijken' ]
-antwoord=''
-while antwoord not in keuzes:
-  print('Wat doe je? Kies tussen:', keuzes)
-  antwoord = input()
-
-print('Verhaal gaat verder.')
-```
 
 
 
@@ -178,8 +167,30 @@ Deze opdracht wordt afgetekend als:
 
 ### Opdracht.
 
-Ga verder met je code van opdracht bonus-5-2. Zorg er nu voor dat het verhaal niet doorgaat totdat de lezer een juiste keuze maakt! Voeg aan het einde van je programma nog één zinnetje toe die de keuze van de lezer vertelt: "Je hebt gekozen voor: ...".
+Ga verder met je code van opdracht bonus-5-2. Zorg er nu ook voor dat wanneer de lezer een fout antwoord invoert, dat de lezer weer dezelfde vraag te zien krijgt.
 
 ### Volgende keer...
 
 In de volgende les leer je om iets met de keuze van de lezer te doen, dus bewaar je code goed, zodat je hier volgende les mee verder kunt gaan!
+
+
+
+
+****
+
+## Samenvatting
+
+Samengevat, je kunt dit stukje Python code gebruiken om ervoor te zorgen dat de lezer alleen een mogelijk antwoord kan kiezen.
+
+```python
+print('Vertel hier een verhaal.')
+
+keuzes = [ 'ren weg', 'wacht af', 'ga kijken' ]
+antwoord=''
+while antwoord not in keuzes:
+  print('Wat doe je? Kies tussen:', keuzes)
+  antwoord = input()
+print('Je hebt gekozen voor:', antwoord)
+
+print('Verhaal gaat verder.')
+```
