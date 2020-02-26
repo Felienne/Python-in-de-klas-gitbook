@@ -1,10 +1,10 @@
-# Bonus 4.1: willekeurige dingen
+# Bonus 4: willekeurige dingen
 
 Nu is jouw verhaal iedere keer hetzelfde... Zou het niet leuker zijn als er iedere keer iets anders zou gebeuren? Dan wordt het voor de lezer leuk om jouw verhaal meerdere keren te lezen! Awesome!
 
 ## Voorkennis
 
-* `import` library (van bonus 3)
+* `import` library (van bonus 2 en bonus 3)
 * Les 4: lijsten
 
 ## Leerdoelen
@@ -68,7 +68,7 @@ print('Ik','neem','vandaag','de',vervoer[0],'!')
 
 
 
-## Opdracht bonus-4.1-1\) Een willekeurig dier in je verhaal
+## Opdracht bonus-4-1\) Een willekeurig dier in je verhaal
 
 Deze opdracht wordt afgetekend als:
 
@@ -115,7 +115,7 @@ print('Ik','neem','vandaag','de',voorstukje[0],vervoer[0],'!')
 
 
 
-## Opdracht bonus-4.1-2\) Nog meer mogelijkheden!
+## Opdracht bonus-4-2\) Nog meer mogelijkheden!
 
 Deze opdracht wordt afgetekend als:
 
@@ -132,7 +132,7 @@ Breid de voorgaande code over het willekeurige vervoer uit door 5 verschillende 
 
 
 
-## Opdracht bonus-4.1-3\) Een willekeurig emotioneel dier in je verhaal
+## Opdracht bonus-4-3\) Een willekeurig emotioneel dier in je verhaal
 
 Deze opdracht wordt afgetekend als:
 
