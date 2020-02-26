@@ -23,6 +23,7 @@ time.sleep(1)
 * elapsed time
 * timezones
 
+--> https://docs.python.org/3/library/time.html#functions
 
 # Les 3: Random
 
