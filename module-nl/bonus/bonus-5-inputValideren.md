@@ -56,7 +56,7 @@ Schrijf een verhaal van 3-5 zinnen over een dier. Het dier komt zijn natuurlijke
 
 
 
-## Controleren of het antwoord mogelijk is
+## Controleren of het antwoord mogelijk is: valideren
 
 **Controleren** of het antwoord van de lezer mogelijk is, heet het **'valideren'** van het antwoord.
 
