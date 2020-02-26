@@ -17,6 +17,14 @@ time.sleep(1)
 * `\r` betekent 'ga terug naar het begin van de regel'
 * als je dus iets nieuws print, dan overschrijf je de vorige regel die geprint was
 
+Zie ook:
+* https://www.quora.com/How-can-I-delete-the-last-printed-line-in-Python-language
+
+### Meer overschrijven
+
+Alle tekst clearen:
+* https://stackoverflow.com/questions/19596750/is-there-a-way-to-clear-your-printed-text-in-python
+
 ## meer time library features
 
 * huidige tijd opvragen
