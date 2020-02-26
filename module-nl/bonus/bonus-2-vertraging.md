@@ -65,7 +65,7 @@ Deze opdracht wordt afgetekend als:
 
 ### Opdracht.
 
-Schrijf een verhaal van slechts twee zinnen. Laat de eerste zin direct verschijnen, maar de tweede zin pas na drie seconden.
+Schrijf een verhaal van slechts twee zinnen over jouw lievelingseten. Laat de eerste zin direct verschijnen, maar de tweede zin pas na drie seconden.
 
 
 
