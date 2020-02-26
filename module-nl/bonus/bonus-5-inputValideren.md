@@ -125,7 +125,7 @@ print('Verhaal gaat verder.')
 Hoe je iets met `antwoord` kan doen, leer je volgende les.
 
 
-## Opdracht bonus5-1\) input valideren in jouw verhaal
+## Opdracht bonus-5-1\) input valideren in jouw verhaal
 
 Deze opdracht wordt afgetekend als:
 
