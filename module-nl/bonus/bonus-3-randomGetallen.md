@@ -52,7 +52,7 @@ Probeer het volgende nu zelf:
 
 
 
-## Opdracht bonus-3-1\) Een willekeurig dier in je verhaal
+## Opdracht bonus-3-1\) Een verhaal met een willekeurig getal
 
 Deze opdracht wordt afgetekend als:
 
@@ -69,6 +69,8 @@ Hij kan wel 4 banen op!
 ```
 Gebruik hierbij _een willekeurig geheel getal_ tussen 2 en 5.
 
+
+## Opdracht bonus-3-2\) Een dobbelsteen gooien
 
 
 TODO: opdracht over dobbelsteen gooien hier
@@ -118,7 +120,7 @@ print(aantal)
 ```
 
 
-## Opdracht bonus-3-3\) Een willekeurig dier in je verhaal
+## Opdracht bonus-3-3\) Python cijfers laten uitdelen
 
 Deze opdracht wordt afgetekend als:
 
