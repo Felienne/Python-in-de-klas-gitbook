@@ -4,14 +4,14 @@ Nu is jouw verhaal iedere keer hetzelfde... Zou het niet leuker zijn als er iede
 
 ## Voorkennis
 
-* Bonus 2: `import` library
+* Bonus 2: `import` library, en vertraging
 * Les 3: variabelen
 
 ## Leerdoelen
 
 Aan het einde van deze bonus kun jij:
 
-* Willekeurige getallen maken.
+* Willekeurige getallen maken en gebruiken in jouw verhaal.
 * Iedere keer dat jouw verhaal gelezen wordt, ervoor zorgen dat het verhaal net ietsje anders is.
 
 ****
