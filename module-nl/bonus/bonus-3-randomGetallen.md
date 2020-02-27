@@ -39,7 +39,7 @@ Een willekeurig geheel getal tussen 2 en 10 kun je maken met `random.randint(2,1
 
 ### Nu jij: probeer het!
 
-Probeer dit stukje code maar eens uit:
+Probeer dit stukje code maar eens uit (vergeet `import random` niet):
 
 ```python
 aantal = random.randint(2,10)
@@ -72,8 +72,22 @@ Gebruik hierbij _een willekeurig geheel getal_ tussen 2 en 5.
 
 ## Opdracht bonus-3-2\) Een dobbelsteen gooien
 
+Deze opdracht wordt afgetekend als:
 
-TODO: opdracht over dobbelsteen gooien hier
+* Je bovenaan je code hebt geschreven `import random`
+* Je onderstaande tekst print, met een willekeurige uitkomst voor de dobbelsteen worp.
+* Je in je schrift in eigen woorden schrijft hoe deze code werkt
+
+### Opdracht.
+
+Schrijf een code die print:
+```
+Je gooit een dobbelsteen op.
+De dobbelsteen rolt...
+En het wordt een...
+5
+```
+Gebruik een willekeurig getal voor de uitkomst van de dobbelsteenworp.
 
 ****
 
@@ -133,7 +147,7 @@ Deze opdracht wordt afgetekend als:
 
 Schrijf een code die jouw docent automatisch een willekeurig cijfer geeft:
 ```
-De docent krijgt een 7.3 van mij.
+Mijn docent krijgt een 7.3 van mij.
 ```
 Gebruik hierbij _een willekeurig kommagetal getal_ tussen 1.0 en 10.0, afgerond op één getal achter de komma.
 
