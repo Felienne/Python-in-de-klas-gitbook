@@ -4,7 +4,7 @@ Nu is jouw verhaal iedere keer hetzelfde... Zou het niet leuker zijn als er iede
 
 ## Voorkennis
 
-* Bonus 2 of bonus 3: `import` library
+* Bonus 3: `import random` (alleen de eerste helft van deze bonus is voldoende voorkennis)
 * Les 4: lijsten
 
 ## Leerdoelen
