@@ -21,7 +21,9 @@ Aan het einde van deze bonus kun jij:
 
 ## Willekeurige dingen
 
-Met de 'random' library kunnen we een willekeurig ding uit een lijst halen. Dit gaat op dezelfde manier als met een stok kaarten. Je schudt het stok kaarten!
+Met de 'random' library kunnen we willekeurige dingen laten gebeuren. Herinner je: met een 'library' breid je Python uit met nieuwe stukjes code die jij kunt gebruiken!
+
+We kunnen een willekeurig ding uit een lijst halen. Dit gaat op dezelfde manier als met een stok kaarten. Je schudt het stok kaarten!
 
 Het schudden van een lijst doe je met:
 ```python
