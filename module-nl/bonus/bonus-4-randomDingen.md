@@ -4,7 +4,7 @@ Nu is jouw verhaal iedere keer hetzelfde... Zou het niet leuker zijn als er iede
 
 ## Voorkennis
 
-* `import` library (van bonus 2 en bonus 3)
+* Bonus 2 of bonus 3: `import` library
 * Les 4: lijsten
 
 ## Leerdoelen
@@ -15,20 +15,6 @@ Aan het einde van deze bonus kun jij:
 * Iedere keer dat jouw verhaal gelezen wordt, ervoor zorgen dat het verhaal net ietsje anders is.
 
 ****
-
-
-
-## De 'random' library
-
-In de vorige bonus hebben we de 'time' library geïmporteerd in ons programma. Herinner je: 'library' is Engels voor 'bibliotheek'. Door een library te importeren, kunnen we nieuwe stukjes code gebruiken in ons Python programma.
-
-Vandaag hebben we de 'random' library nodig. Random is Engels voor willekeurig. Met random-opdrachten kun je Python steeds iets anders laten doen.
-
-Deze library importeer je door **helemaal bovenaan je code** dit stukje code te gebruiken:
-
-```python
-import random
-```
 
 
 
@@ -49,7 +35,7 @@ Vervolgens kun je de bovenste kaart pakken. Omdat het stok kaarten geschud is, i
 print(dingen[0])
 ```
 
-### Probeer het!
+### Nu jij: probeer het!
 
 We kunnen `random.shuffle(dingen)` nu gebruiken in een klein verhaaltje.
 
@@ -106,7 +92,7 @@ random.shuffle(vervoer)
 print('Ik','neem','vandaag','de',voorstukje[0],vervoer[0],'!')
 ```
 
-### Probeer het!
+### Nu jij: probeer het!
 
 1) Voer de code een paar keer zelf uit. Wat gebeurt er? Kun je alle combinaties krijgen?
 2) Schrijf duidelijk in je schrift wat je denkt dat alle regels precies doen.
