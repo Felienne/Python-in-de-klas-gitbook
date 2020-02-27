@@ -56,9 +56,9 @@ Probeer het volgende nu zelf:
 
 Deze opdracht wordt afgetekend als:
 
-* Je bovenaan je code hebt geschreven `import random`
+* Je bovenaan je code hebt geschreven `import random`.
 * Je onderstaande tekst print, met een willekeurig geheel getal tussen 2 en 5.
-* Je in je schrift in eigen woorden schrijft hoe deze code werkt
+* Je in je schrift in eigen woorden schrijft hoe deze code werkt.
 
 ### Opdracht.
 
@@ -74,9 +74,9 @@ Gebruik hierbij _een willekeurig geheel getal_ tussen 2 en 5.
 
 Deze opdracht wordt afgetekend als:
 
-* Je bovenaan je code hebt geschreven `import random`
+* Je bovenaan je code hebt geschreven `import random`.
 * Je onderstaande tekst print, met een willekeurige uitkomst voor de dobbelsteen worp.
-* Je in je schrift in eigen woorden schrijft hoe deze code werkt
+* Je in je schrift in eigen woorden schrijft hoe deze code werkt.
 
 ### Opdracht.
 
@@ -94,11 +94,11 @@ Gebruik een willekeurig getal voor de uitkomst van de dobbelsteenworp.
 Deze opdracht wordt afgetekend als:
 
 * Je tussen de vier regels van de vorige opdracht een vertraging in hebt gebouwd.
-* Je in je schrift in eigen woorden schrijft hoe deze code werkt
+* Je in je schrift in eigen woorden schrijft hoe deze code werkt.
 
 ### Opdracht.
 
-In bonus-2 heb je geleerd hoe je vertraging kunt programmeren. Programmeer nu vertraging in jouw dobbelsteen verhaal van opdracht bonus-3-2 tussen alle zinnen. Daarmee wordt de uitkomst van de dobbelsteenworp veel spannender!!!
+In bonus-2 heb je geleerd hoe je vertraging kunt programmeren. Programmeer nu vertraging in jouw dobbelsteen verhaal van de vorige opdracht, tussen alle zinnen. Daarmee wordt de uitkomst van de dobbelsteenworp veel spannender!!!
 
 ****
 
@@ -152,7 +152,7 @@ Deze opdracht wordt afgetekend als:
 * Je bovenaan je code hebt geschreven `import random`
 * Je onderstaande tekst print.
 * Je een willekeurig kommagetal tussen 1.0 en 10.0 afgerond op één decimaal gebruikt.
-* Je in je schrift in eigen woorden schrijft hoe deze code werkt
+* Je in je schrift in eigen woorden schrijft hoe deze code werkt.
 
 ### Opdracht.
 
@@ -162,4 +162,19 @@ Mijn docent krijgt een 7.3 van mij.
 ```
 Gebruik hierbij _een willekeurig kommagetal getal_ tussen 1.0 en 10.0, afgerond op één getal achter de komma.
 
+## Opdracht bonus-3-5\) Python _spannend_ cijfers laten uitdelen
+
+Deze opdracht wordt afgetekend als:
+
+* Je tussen de twee regels van de vorige opdracht een vertraging in hebt gebouwd.
+* Je in je schrift in eigen woorden schrijft hoe deze code werkt.
+
+### Opdracht.
+
+Pas je code van de vorige vraag aan, zodat dit geprint wordt:
+```
+Mijn docent krijgt van mij een...
+7.3
+```
+Bouw een vertraging in tussen de twee zinnen, zodat het voor de lezer _spannender_ wordt wat het cijfer zal zijn!
 
