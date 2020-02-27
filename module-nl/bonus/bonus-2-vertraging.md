@@ -4,7 +4,7 @@ Nu verschijnt jouw verhaal in één keer. Wellicht vind je dat prettig, maar wel
 
 ## Voorkennis
 
-* Les 2: meerdere regels
+* Les 2: meerdere regels printen
 
 ## Leerdoelen
 
