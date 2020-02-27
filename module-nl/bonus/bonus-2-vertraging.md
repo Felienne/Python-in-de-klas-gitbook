@@ -11,7 +11,7 @@ Nu verschijnt jouw verhaal in één keer. Wellicht vind je dat prettig, maar wel
 Aan het einde van deze bonus kun jij:
 
 * Een library importeren.
-* Delay gebruiken om je verhaal langzaam te laten verschijnen.
+* Een vertraging gebruiken om je verhaal langzaam te laten verschijnen.
 
 ****
 
@@ -29,8 +29,12 @@ In de 'time' library vinden we alles wat we nodig hebben wat met tijd te maken h
 import time
 ```
 
+****
 
-### Vertraging inbouwen
+
+
+
+## Vertraging inbouwen
 
 In de time library staat het commando 'sleep'. 'Sleep' is Engels voor 'slapen'. Daarmee doet jouw code eventjes helemaal niets, waardoor we dus een vertraging kunnen inbouwen.
 
