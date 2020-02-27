@@ -35,7 +35,7 @@ import random
 ## Willekeurige gehele getallen
 
 Een willekeurig geheel getal tussen 2 en 10 kun je maken met `random.randint(2,10)`.
-`randint` is de afkorting van de twee Engelse woorden 'random integer'. Dit betekent 'willekeurig geheel getal'. Een '_geheel getal_' is een getal zonder decimalen achter de komma, zoals bijvoorbeeld '2' of '4'.
+`randint` is de afkorting van de twee Engelse woorden 'random integer'. Dit betekent 'willekeurig geheel getal'. Een '_geheel getal_' is een getal zonder decimalen achter de komma, zoals bijvoorbeeld '2', '5', '73', of '1001001'.
 
 ### Nu jij: probeer het!
 
