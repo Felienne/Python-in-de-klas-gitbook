@@ -31,6 +31,10 @@ Deze library importeer je door **helemaal bovenaan je code** dit stukje code te 
 import random
 ```
 
+****
+
+
+
 
 ## Willekeurige gehele getallen
 
@@ -102,7 +106,7 @@ In bonus-2 heb je geleerd hoe je vertraging kunt programmeren. Programmeer nu ve
 
 ****
 
-## Willekeurige kommagetallen
+# Nog een extra bonus: willekeurige kommagetallen
 
 Soms wil je een kommagetal gebruiken. Dit kan ook met Python als je `random.uniform(2.5,4.5)` gebruikt. In dit voorbeeld krijg je een willekeurig kommagetal tussen 2,5 en 4,5. **Let op: gebruik _een punt_ in plaats van een komma in Python code!**
 
