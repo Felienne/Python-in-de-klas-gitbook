@@ -1,4 +1,4 @@
-# Bonus 4.2: willekeurige getallen
+# Bonus 3: willekeurige getallen
 
 Nu is jouw verhaal iedere keer hetzelfde... Zou het niet leuker zijn als er iedere keer iets anders zou gebeuren? Dan wordt het voor de lezer leuk om jouw verhaal meerdere keren te lezen! Awesome!
 
