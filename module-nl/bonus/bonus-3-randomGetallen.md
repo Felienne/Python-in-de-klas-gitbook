@@ -89,6 +89,17 @@ En het wordt een...
 ```
 Gebruik een willekeurig getal voor de uitkomst van de dobbelsteenworp.
 
+## Opdracht bonus-3-3\) Een dobbelsteen _spannend_ gooien
+
+Deze opdracht wordt afgetekend als:
+
+* Je tussen de vier regels van de vorige opdracht een vertraging in hebt gebouwd.
+* Je in je schrift in eigen woorden schrijft hoe deze code werkt
+
+### Opdracht.
+
+In bonus-2 heb je geleerd hoe je vertraging kunt programmeren. Programmeer nu vertraging in jouw dobbelsteen verhaal van opdracht bonus-3-2 tussen alle zinnen. Daarmee wordt de uitkomst van de dobbelsteenworp veel spannender!!!
+
 ****
 
 ## Willekeurige kommagetallen
@@ -134,7 +145,7 @@ print(aantal)
 ```
 
 
-## Opdracht bonus-3-3\) Python cijfers laten uitdelen
+## Opdracht bonus-3-4\) Python cijfers laten uitdelen
 
 Deze opdracht wordt afgetekend als:
 
