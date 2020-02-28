@@ -91,7 +91,7 @@ De dobbelsteen rolt...
 En het wordt een...
 5
 ```
-Gebruik een willekeurig getal voor de uitkomst van de dobbelsteenworp.
+Gebruik een willekeurig cijfer voor de uitkomst van de dobbelsteenworp.
 
 ## Opdracht bonus-3-3\) Een dobbelsteen _spannend_ gooien
 
