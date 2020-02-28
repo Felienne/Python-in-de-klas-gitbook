@@ -106,7 +106,27 @@ In bonus-2 heb je geleerd hoe je vertraging kunt programmeren. Programmeer nu ve
 
 ****
 
-# Nog een extra bonus: willekeurige kommagetallen
+
+
+
+
+
+
+
+
+
+
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+****
+
+# Bonus 3-extra: willekeurige kommagetallen
 
 Soms wil je een kommagetal gebruiken. Dit kan ook met Python als je `random.uniform(2.5,4.5)` gebruikt. In dit voorbeeld krijg je een willekeurig kommagetal tussen 2,5 en 4,5. **Let op: gebruik _een punt_ in plaats van een komma in Python code!**
 
@@ -149,7 +169,7 @@ print(aantal)
 ```
 
 
-## Opdracht bonus-3-4\) Python cijfers laten uitdelen
+## Opdracht bonus-3-extra-1\) Python cijfers laten uitdelen
 
 Deze opdracht wordt afgetekend als:
 
@@ -166,7 +186,7 @@ Mijn docent krijgt een 7.3 van mij.
 ```
 Gebruik hierbij _een willekeurig kommagetal getal_ tussen 1.0 en 10.0, afgerond op één getal achter de komma.
 
-## Opdracht bonus-3-5\) Python _spannend_ cijfers laten uitdelen
+## Opdracht bonus-3-extra-2\) Python _spannend_ cijfers laten uitdelen
 
 Deze opdracht wordt afgetekend als:
 
@@ -175,7 +195,7 @@ Deze opdracht wordt afgetekend als:
 
 ### Opdracht.
 
-Pas je code van de vorige vraag aan, zodat dit geprint wordt:
+Pas je code van de vorige opdracht aan, zodat dit geprint wordt:
 ```
 Mijn docent krijgt van mij een...
 7.3
