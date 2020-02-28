@@ -35,7 +35,30 @@ Alle tekst clearen:
 
 # Les 3: Random
 
-Dobbelsteen 'gooien'
+Uitbreiding voor de dobbelsteen: gooien met animatie.
+
+```python
+print(random.randint(1,6),end='\r')
+time.sleep(0.2)
+print(random.randint(1,6),end='\r')
+time.sleep(0.2)
+print(random.randint(1,6),end='\r')
+time.sleep(0.2)
+print(random.randint(1,6),end='\r')
+time.sleep(0.2)
+print(random.randint(1,6),end='\r')
+time.sleep(0.2)
+print(random.randint(1,6),end='\r')
+time.sleep(0.2)
+print(random.randint(1,6),end='\r')
+time.sleep(0.2)
+print(random.randint(1,6),end='\r')
+time.sleep(0.2)
+print(random.randint(1,6),end='\r')
+time.sleep(0.2)
+worp = random.randint(1,6)
+print(worp)
+```
 
 # Les 4: Lijsten
 
