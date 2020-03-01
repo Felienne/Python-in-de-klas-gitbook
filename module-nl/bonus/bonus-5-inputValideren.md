@@ -177,11 +177,20 @@ Ga verder met je code van opdracht bonus-5-2. Zorg er nu ook voor dat wanneer de
 
 
 
-## Een lege regel toevoegen voor leesbaarheid
+## Lege regels toevoegen voor leesbaarheid
 
-Om het verhaal leesbaarder te maken voor de lezer, is het slim om af en toe een lege regel toe te voegen. Zeker wanneer de lezer net input heeft gegeven, is een lege regel heel prettig voor de lezer! Dit doe je met `print('')`. Je schrijft dus niets tussen de aanhalingstekens:
+Om het verhaal leesbaarder te maken voor de lezer, is het slim om af en toe een lege regel toe te voegen. Zeker rondom input van de lezer is een lege regel _heel prettig_! Dus zowel ervoor als erna.
+
+Dit doe je met `print('')`. Je schrijft dus niets tussen de aanhalingstekens:
 
 ```python
+print('Vertel hier een verhaal.')
+
+print('')
+antwoord=''
+while antwoord not in keuzes:
+  print('Wat doe je? Kies tussen:', keuzes)
+  antwoord = input()
 print('Je hebt gekozen voor:', antwoord)
 print('')
 
@@ -197,7 +206,7 @@ Deze opdracht wordt afgetekend als:
 
 ### Opdracht.
 
-Ga verder met je code van opdracht bonus-5-3. Voeg een lege regel toe nadat de lezer input heeft gegeven.
+Ga verder met je code van opdracht bonus-5-3. Voeg een lege regel toe voordat én nadat de lezer input geeft.
 
 
 ### Volgende keer...
@@ -216,6 +225,7 @@ Samengevat, je kunt dit stukje Python code gebruiken om ervoor te zorgen dat de 
 ```python
 print('Vertel hier een verhaal.')
 
+print('')
 keuzes = [ 'ren weg', 'wacht af', 'ga kijken' ]
 antwoord=''
 while antwoord not in keuzes:
