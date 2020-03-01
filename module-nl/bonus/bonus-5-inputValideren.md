@@ -172,6 +172,32 @@ Deze opdracht wordt afgetekend als:
 
 Ga verder met je code van opdracht bonus-5-2. Zorg er nu ook voor dat wanneer de lezer een fout antwoord invoert, dat de lezer weer dezelfde vraag te zien krijgt.
 
+
+
+
+## Een lege regel toevoegen voor leesbaarheid
+
+Om het verhaal leesbaarder te maken voor de lezer, is het slim om af en toe een lege regel toe te voegen. Zeker wanneer de lezer net input heeft gegeven, is een lege regel heel prettig voor de lezer! Dit doe je met `print('')`. Je schrijft dus niets tussen de aanhalingstekens:
+
+```python
+print('Je hebt gekozen voor:', antwoord)
+print('')
+
+print('Verhaal gaat verder.')
+```
+
+
+## Opdracht bonus-5-4\) een lege regel toevoegen
+
+Deze opdracht wordt afgetekend als:
+
+- Je nu ook een lege regel print in jouw verhaal van de vorige opdracht.
+
+### Opdracht.
+
+Ga verder met je code van opdracht bonus-5-3. Voeg een lege regel toe nadat de lezer input heeft gegeven.
+
+
 ### Volgende keer...
 
 In de volgende les leer je om iets met de keuze van de lezer te doen, dus bewaar je code goed, zodat je hier volgende les mee verder kunt gaan!
@@ -194,6 +220,7 @@ while antwoord not in keuzes:
   print('Wat doe je? Kies tussen:', keuzes)
   antwoord = input()
 print('Je hebt gekozen voor:', antwoord)
+print('')
 
 print('Verhaal gaat verder.')
 ```
