@@ -35,6 +35,7 @@ In bonus-5 hadden we een lijst gemaakt van mogelijke keuzes, genaamd `keuzes`. D
 ```python
 print('Vertel hier een verhaal.')
 
+print('')
 keuzes = [ 'ren weg', 'wacht af', 'ga kijken' ]
 antwoord=''
 while antwoord not in keuzes:
@@ -126,23 +127,23 @@ We kunnen dan `print` in de keuzebepaling met de `if` en de twee `elif` herschri
 
 ```python
 if antwoord == keuzes[0]:    # ren weg
-  print("Je probeert weg te rennen!")
-  print("...")
-  print("Je bent ontkomen.")
-  print("Niets lijkt je te volgen.")
+  print('Je probeert weg te rennen!')
+  print('...')
+  print('Je bent ontkomen.')
+  print('Niets lijkt je te volgen.')
 elif antwoord == keuzes[1]:    # wacht af
-  print("Je wacht af.")
-  print("Er springt een aap uit de bosjes.")
+  print('Je wacht af.')
+  print('Er springt een aap uit de bosjes.')
   # Vertel hier een lang verhaal
-  print('Je loopt weg.)
+  print('Je loopt weg.')
 elif antwoord == keuzes[2]:    # ga kijken
-  print("Je loopt ernaar toe, en gaat kijken.")
-  print("Er springt een aap uit de bosjes.")
+  print('Je loopt ernaar toe, en gaat kijken.')
+  print('Er springt een aap uit de bosjes.')
   # Vertel hier een ander lang Verhaal
   # Het verhaal is anders dan bij keuze 2,
   # omdat je nu heeeel dichtbij staat!
   print('Je loopt weg.')
-  
+
 print('')
 # Hier kun je een verder verhaal programmeren.
 # Wat de lezer hierboven ook gekozen heeft,
