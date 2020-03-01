@@ -193,7 +193,31 @@ Ga verder met je code uit de vorige opdracht. Schrijf voor iedere keuze die de l
 
 # Bonus 6b: een kans dat iets gebeurt
 
-TODO schrijven dobbelsteen gooien
+TODO schrijven
+
+```python
+import random
+
+
+# Dobbelsteen:
+
+worp = random.randint(1,6)
+print(worp)
+
+if worp < 2:
+  print("Dit bericht heeft slechts een 1/6 kans!")
+
+
+# Algemene kans:
+
+kans = random.random()*100
+print(kans)
+
+if kans < 20:
+  print('Je ziet dit bericht met een 20% kans!')
+  print('Dat is dus gemiddeld maar 1 op de 5 keer dat je de code uitvoert!')
+```
+
 
 ****
 
@@ -217,7 +241,7 @@ TODO schrijven dobbelsteen gooien
 
 ****
 
-# Bonus 6c: willekeurige dingen geven willekeurige verhalen
+# Bonus 6c: willekeurige dingen, willekeurige verhalen
 
 TODO schrijven
 
