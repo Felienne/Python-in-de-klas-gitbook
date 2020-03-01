@@ -167,7 +167,7 @@ Deze opdracht wordt afgetekend als:
 
 ### Opdracht.
 
-Ga verder met je code uit de vorige opdracht. Schrijf voor iedere keuze die de lezer in jouw verhaal heeft een verhaal van minstens twee zinnen.
+Ga verder met je code uit de vorige opdracht. Schrijf voor iedere keuze die de lezer in jouw verhaal heeft, een verhaal van minstens twee zinnen.
 
 ****
 
