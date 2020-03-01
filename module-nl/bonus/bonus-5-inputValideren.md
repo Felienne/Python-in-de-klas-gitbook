@@ -181,18 +181,18 @@ Ga verder met je code van opdracht bonus-5-2. Zorg er nu ook voor dat wanneer de
 
 Om het verhaal leesbaarder te maken voor de lezer, is het slim om af en toe een lege regel toe te voegen. Zeker rondom input van de lezer is een lege regel _heel prettig_! Dus zowel ervoor als erna.
 
-Dit doe je met `print('')`. Je schrijft dus niets tussen de aanhalingstekens:
+Dit doe je met `print()`. Je schrijft dus niets tussen de ronde haakjes:
 
 ```python
 print('Vertel hier een verhaal.')
 
-print('')
+print()
 antwoord=''
 while antwoord not in keuzes:
   print('Wat doe je? Kies tussen:', keuzes)
   antwoord = input()
 print('Je hebt gekozen voor:', antwoord)
-print('')
+print()
 
 print('Verhaal gaat verder.')
 ```
@@ -225,14 +225,14 @@ Samengevat, je kunt dit stukje Python code gebruiken om ervoor te zorgen dat de 
 ```python
 print('Vertel hier een verhaal.')
 
-print('')
+print()
 keuzes = [ 'ren weg', 'wacht af', 'ga kijken' ]
 antwoord=''
 while antwoord not in keuzes:
   print('Wat doe je? Kies tussen:', keuzes)
   antwoord = input()
 print('Je hebt gekozen voor:', antwoord)
-print('')
+print()
 
 print('Verhaal gaat verder.')
 ```
