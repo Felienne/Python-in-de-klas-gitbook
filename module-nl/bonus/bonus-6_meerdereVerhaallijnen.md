@@ -207,7 +207,8 @@ print(worp)
 if worp < 3:
   print("Dit bericht heeft slechts een 2/6 kans!")
   print("Want je moet 1 of 2 gooien met de dobbelsteen.")
-
+else:
+  print('Nope.')
 
 # Algemene kans:
 
@@ -217,6 +218,8 @@ print(kans)
 if kans < 20:
   print('Je ziet dit bericht met een 20% kans!')
   print('Dat is dus gemiddeld maar 1 op de 5 keer dat je de code uitvoert!')
+else:
+  print('Nope.')
 
 ```
 
