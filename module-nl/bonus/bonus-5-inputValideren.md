@@ -186,6 +186,10 @@ print('')
 print('Verhaal gaat verder.')
 ```
 
+****
+
+
+
 
 ## Opdracht bonus-5-4\) een lege regel toevoegen
 
