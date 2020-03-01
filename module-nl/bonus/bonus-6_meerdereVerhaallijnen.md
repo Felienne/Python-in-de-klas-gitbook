@@ -204,8 +204,9 @@ import random
 worp = random.randint(1,6)
 print(worp)
 
-if worp < 2:
-  print("Dit bericht heeft slechts een 1/6 kans!")
+if worp < 3:
+  print("Dit bericht heeft slechts een 2/6 kans!")
+  print("Want je moet 1 of 2 gooien met de dobbelsteen.")
 
 
 # Algemene kans:
@@ -216,6 +217,7 @@ print(kans)
 if kans < 20:
   print('Je ziet dit bericht met een 20% kans!')
   print('Dat is dus gemiddeld maar 1 op de 5 keer dat je de code uitvoert!')
+
 ```
 
 
