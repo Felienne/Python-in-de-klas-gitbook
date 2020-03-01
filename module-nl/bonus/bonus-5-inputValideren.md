@@ -172,6 +172,8 @@ Deze opdracht wordt afgetekend als:
 
 Ga verder met je code van opdracht bonus-5-2. Zorg er nu ook voor dat wanneer de lezer een fout antwoord invoert, dat de lezer weer dezelfde vraag te zien krijgt.
 
+****
+
 
 
 
@@ -185,10 +187,6 @@ print('')
 
 print('Verhaal gaat verder.')
 ```
-
-****
-
-
 
 
 ## Opdracht bonus-5-4\) een lege regel toevoegen
