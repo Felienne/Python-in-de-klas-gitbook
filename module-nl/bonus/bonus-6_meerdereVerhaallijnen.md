@@ -35,13 +35,13 @@ In bonus-5 hadden we een lijst gemaakt van mogelijke keuzes, genaamd `keuzes`. D
 ```python
 print('Vertel hier een verhaal.')
 
-print('')
+print()
 keuzes = [ 'ren weg', 'wacht af', 'ga kijken' ]
 antwoord=''
 while antwoord not in keuzes:
   print('Wat doe je? Kies tussen:', keuzes)
   antwoord = input()
-print('')
+print()
 
 print('Verhaal gaat verder.')
 ```
@@ -144,7 +144,7 @@ elif antwoord == keuzes[2]:    # ga kijken
   # omdat je nu heeeel dichtbij staat!
   print('Je loopt weg.')
 
-print('')
+print()
 # Hier kun je een verder verhaal programmeren.
 # Wat de lezer hierboven ook gekozen heeft,
 # uiteindelijk gaat het verhaal hier gewoon verder!
