@@ -7,7 +7,188 @@ Deze bonus bestaat uit drie losse delen. In ieder deel gaan we gebruiken wat je 
 
 
 
-# Bonus 6a: gevalideerde input gebruiken
+# Bonus 6a: een kans dat iets gebeurt
+
+In bonus-3 hebben we al een dobbelsteen opgegooid voor een willekeurig resultaat. We kunnen nu ook die dobbelsteen laten bepalen wat er daarna in het verhaal gebeurd!
+
+## Voorkennis
+
+* Bonus 3: `random.randint`
+* Les 6: `if`, `else`
+
+## Leerdoelen
+
+Aan het einde van deze bonus kun jij:
+
+* Gebeurtenissen met een kans laten gebeuren.
+* Meerdere verhaallijnen in hetzelfde programma programmeren.
+
+****
+
+
+
+## Dobbelsteen opgooien
+
+In bonus-3 schreven we een code om een dobbelsteen op te gooien:
+
+```python
+import random
+
+print('Je gooit een dobbelsteen op...'
+worp = random.randint(1,6)
+print('Het is een', worp)
+```
+
+Weet je deze nog? `random.randint(1,6)` geeft een willekeurig getal tussen 1 en 6!
+
+
+## Reageren op een 6
+
+In les-6 heb je geleerd om `if` en `else` te gebruiken om twee verschillende situaties te programmeren. Dit kunnen we gebruiken om te kijken wat er gegooid is.
+
+Als we willen kijken of er 6 gegooid is, dan gebruiken we `if worp == 6:`:
+
+```python
+if worp == 6:
+  print('Wow! Het was een 6!')
+else:
+  print('Geen geluk. Wellicht de volgende keer?')
+```
+
+## Opdracht bonus-6a-1\) 6 gooien
+
+Deze opdracht wordt afgetekend als:
+
+* Je een dobbelsteen opgooit en een bericht print als het een 6 is.
+* Je een ander bericht print als het niet een 6 is.
+* De speler op enter moet drukken om te gooien.
+* Je in je schrift in eigen woorden schrijft hoe deze code werkt.
+
+### Opdracht.
+
+Maak het volgende:
+- Print dat we een dobbelsteen opgooien.
+- Wacht tot de speler op enter drukt. (Tip: gebruik `input`.)
+- Gooi de dobbelsteen.
+- Geef de speler een prijs als er 6 gegooid wordt.
+- Als er geen 6 wordt gegooid, zeg dat de speler pech heeft.
+
+****
+
+
+
+## Dobbelsteen geeft een kans
+
+In plaats van de dobbelsteen écht te gooien en dit te laten zien aan de lezer, kunnen we ook een dobbelsteen gooien om iets met een kans te laten gebeuren.
+
+Stel dat je een kans van 1 op 6 wilt hebben... Dat is de kans dat er een 6 wordt gegooid!
+
+Of stel dat je een kans van 1 op 3 wilt hebben... Dat is de kans dat er een 1 of een 2 wordt gegooid! Een 1 of een 2 zijn kleiner dan een 3. Dus we kunnen kijken of de worp kleiner is dan 3: `if worp < 3:`:
+
+```python
+if worp < 3:
+  print('Dit gebeurt met een kans van 1 op 3!')
+else:
+  print('Dit gebeurt met een kans van 2 op 3!')
+```
+
+
+## Opdracht bonus-6a-2\) avondeten!
+
+Deze opdracht wordt afgetekend als:
+
+* Je print wat we vanavond gaan eten, met onderstaande kansen.
+* Je in je schrift hebt geschreven hoe deze code werkt.
+
+### Opdracht.
+
+Je ouders twijfelen wat ze vanavond voor jullie avondeten zullen gaan klaarmaken. Je besluit om ze te helpen door Python te laten bepalen wat jullie vanavond zullen gaan eten!
+
+Maak een programma dat voorspelt wat de lezer vanavond zal gaan eten:
+- Met een kans van 5 op 6, eten we pasta.
+- Met een kans van 1 op 6, eten we patat.
+
+****
+
+
+
+## Algemene kans
+
+Maar met een dobbelsteen kunnen we alleen maar kansen van 1 op 6, 2 op 6, 3 op 6, etc. maken. Wat nu als we een kans van 1 op 4 zouden willen hebben? Oftewel, 25% kans?
+
+Als we met procenten willen werken, kunnen we beter een getal tussen 0 en 100 maken. Dit kan het makkelijkste met:
+```python
+kans = random.random()*100
+```
+Dit maakt eerst een willekeurig getal tussen 0 en 1 (`random.random()`). Daarna doen we x100 om de getallen tussen 0 en 100 te maken.
+
+Een kans van 25% is dan:
+```python
+if kans < 25: # 25% kans
+  print('Dit gebeurt met een 25% kans.')
+else: # 75% kans
+  print('Dit is de overige kans van 75%.')
+```
+
+## Meer dan twee situaties
+
+Met `if` en `else` programmeer je twee situaties. Maar je kunt ook meer dan twee situaties programmeren!
+
+Als je in de `else` weer een `if` plaatst, ga je al van 2 naar 3 situaties. Hier heeft Python een handig commando voor: `elif`. Dat is een `else` en een `if` in één!
+
+```python
+if kans < 25: # 25% kans
+  print('Dit gebeurt met een 25% kans.')
+elif kans < 60: # 35% kans
+  print('Deze kans is 35%, omdat 60 - 25 = 35!')
+else: # 40% kans
+  print('Deze kans is 40%, omdat 100 - 60 = 40!')
+```
+
+Door een `else` in `elif` te veranderen en een nieuwe `else` toe te voegen maak je dus steeds weer een situatie erbij: drie situaties, vier, vijf, zes, of zelfs twintig situaties. Het kan allemaal!
+
+****
+
+## Opdracht bonus-6a-3\) meer avondeten!
+
+Deze opdracht wordt afgetekend als:
+
+* Je print wat we vanavond gaan eten, met onderstaande kansen.
+* Je in je schrift hebt geschreven hoe deze code werkt.
+
+### Opdracht.
+
+In de vorige opdracht waren er maar twee keuzes... Laten we dat eens uitbreiden met veel meer opties!
+
+Maak een programma dat voorspelt wat de lezer vanavond zal gaan eten:
+- Met een 10% kans, eten we pasta bolognese.
+- Met een 25% kans, eten we stampot boerenkool.
+- Met een 15% kans, eten we patat met een kroket.
+- Met een 30% kans, eten we pannenkoeken.
+- Met een 20% kans, eten we soep met brood.
+Merk op dat de kansen altijd tot 100% optellen!
+
+****
+
+
+
+
+
+
+
+
+
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+****
+
+# Bonus 6b: gevalideerde input gebruiken
 
 In bonus-5 valideerde we de input van de lezer met behulp van een lijst. Nu gaan we ervoor zorgen dat die input ook effect heeft!
 
@@ -15,6 +196,7 @@ In bonus-5 valideerde we de input van de lezer met behulp van een lijst. Nu gaan
 
 * Bonus 5: input valideren
 * Les 6: `if`, `else`
+* Bonus 6a: `elif`
 
 ## Leerdoelen
 
@@ -56,30 +238,7 @@ if antwoord == keuzes[0]:
   print("Het was keuze 1!")
 ```
 
-Als het niet de eerste keuze is, dan moeten we controleren of de tweede keuze is gekozen. Dit doe je in de `else`:
-
-```python
-if antwoord == keuzes[0]:
-  print("Het was keuze 1!")
-else:
-  if antwoord == keuzes[1]:
-    print("Het was keuze 2!")
-```
-
-En als het niet de eerste keuze is, en ook niet de tweede keuze, dan moeten we controleren of het de derde keuze is. Dit doe je in een tweede `else`:
-
-```python
-if antwoord == keuzes[0]:
-  print("Het was keuze 1!")
-else:
-  if antwoord == keuzes[1]:
-    print("Het was keuze 2!")
-  else:
-    if antwoord == keuzes[2]:
-      print("Het was keuze 3!")
-```
-
-Merk op dat iedere volgende `if` een grotere inspringing nodig heeft. Je code gaat dus steeds schuiner lopen. Dat werkt... maar het kan veel netter! Als je een `if` in de `else` wilt zetten, zoals we hierboven deden, kun je dit combineren tot één commando: `elif`. Dat is tegelijkertijd `else` en `if`:
+Net zoals in bonus-6a, kunnen we `elif` gebruiken om alle opties af te lopen:
 
 ```python
 if antwoord == keuzes[0]:
@@ -94,7 +253,7 @@ Als je meer dan drie keuzes hebt, dan kun je dit eenvoudig uitbreiden door steed
 
 
 
-## Opdracht bonus-6a-1\) Drie verhaallijnen
+## Opdracht bonus-6b-1\) Drie verhaallijnen
 
 Deze opdracht wordt afgetekend als:
 
@@ -156,7 +315,7 @@ Ook is even commentaar (`#`) toegevoegd achter iedere keuze. Dat maakt de code v
 
 
 
-## Opdracht bonus-6a-2\) Drie verhaallijnen
+## Opdracht bonus-6b-2\) Drie verhaallijnen
 
 Deze opdracht wordt afgetekend als:
 
@@ -168,61 +327,6 @@ Deze opdracht wordt afgetekend als:
 ### Opdracht.
 
 Ga verder met je code uit de vorige opdracht. Schrijf voor iedere keuze die de lezer in jouw verhaal heeft, een verhaal van minstens twee zinnen.
-
-****
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-****
-
-# Bonus 6b: een kans dat iets gebeurt
-
-TODO schrijven
-
-```python
-import random
-
-
-# Dobbelsteen:
-
-worp = random.randint(1,6)
-print(worp)
-
-if worp < 3:
-  print("Dit bericht heeft slechts een 2/6 kans!")
-  print("Want je moet 1 of 2 gooien met de dobbelsteen.")
-else:
-  print('Nope.')
-
-# Algemene kans:
-
-kans = random.random()*100
-print(kans)
-
-if kans < 20:
-  print('Je ziet dit bericht met een 20% kans!')
-  print('Dat is dus gemiddeld maar 1 op de 5 keer dat je de code uitvoert!')
-else:
-  print('Nope.')
-
-```
-
 
 ****
 
