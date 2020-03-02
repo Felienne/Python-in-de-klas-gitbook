@@ -420,7 +420,7 @@ print('Ik','neem','vandaag','de',voorstukjes[0],vervoer[0],'!')
 
 ## Bijvoeglijk naamwoord gebruiken
 
-We kunnen het bijvoeglijk naamwoord gebruiken om te veranderen wat er geprint wordt. Hiervoor lopen we weer alle opties af met `elif`. Voor de laatste optie kunnen we ook gewoon `else` gebruiken.
+We kunnen het bijvoeglijk naamwoord gebruiken om te veranderen wat er geprint wordt. Hiervoor lopen we weer alle opties af met `elif`, net zoals in bonus-6a. Voor de laatste optie kunnen we ook gewoon `else` gebruiken.
 
 ```python
 voorstukje = voorstukjes[0] # Kies een willekeurig bijv. naamwoord
