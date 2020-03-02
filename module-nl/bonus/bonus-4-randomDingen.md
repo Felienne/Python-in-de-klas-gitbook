@@ -78,7 +78,7 @@ Open jouw code van opdracht 4b-4. Je had daar een lijst met vijf dieren erin gem
 Om nog meer variatie te krijgen in je verhaal, kun je ook **een willekeurig zelfstandig naamwoord** met **een willekeurig bijvoeglijk naamwoord** combineren. Zo kan de lezer bijvoorbeeld een 'grote auto', een 'snelle bus', een 'snelle auto', of een 'mooie fiets' krijgen. Dit is een combinatie van twee lijsten, één voor het zelfstandig naamwoord en één voor het bijvoeglijk naamwoord:
 
 ```python
-voorstukje = [ 'grote', 'snelle', 'mooie' ]
+voorstukjes = [ 'grote', 'snelle', 'mooie' ]
 vervoer = [ 'auto', 'fiets', 'bus' ]
 ```
 
@@ -87,11 +87,11 @@ Als we nu beide lijsten schudden, en beiden printen, dan hebben we een willekeur
 ```python
 import random
 print('Hoe','ga','ik','vandaag','naar','school?')
-voorstukje = [ 'grote', 'snelle', 'mooie' ]
+voorstukjes = [ 'grote', 'snelle', 'mooie' ]
 vervoer = [ 'auto', 'fiets', 'bus' ]
-random.shuffle(voorstukje)
+random.shuffle(voorstukjes)
 random.shuffle(vervoer)
-print('Ik','neem','vandaag','de',voorstukje[0],vervoer[0],'!')
+print('Ik','neem','vandaag','de',voorstukjes[0],vervoer[0],'!')
 ```
 
 ### Nu jij: probeer het!
@@ -107,7 +107,7 @@ print('Ik','neem','vandaag','de',voorstukje[0],vervoer[0],'!')
 
 Deze opdracht wordt afgetekend als:
 
-* Je in de lijst `voorstukje` vijf verschillende bijvoeglijk naamwoorden hebt staan.
+* Je in de lijst `voorstukjes` vijf verschillende bijvoeglijk naamwoorden hebt staan.
 * Je in de lijst `vervoer` vijf verschillende zelfstandig naamwoorden hebt staan.
 * Je een zin in je code hebt waarin steeds een ander vervoermiddel met daarvoor een ander bijvoeglijk naamwoord verschijnt
 * Je in je schrift in eigen woorden schrijft hoe deze code werkt
