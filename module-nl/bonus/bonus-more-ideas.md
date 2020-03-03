@@ -80,3 +80,14 @@ gebruik een functie om antwoord te valideren (prevent code duplication)
 # Les 6: if met functies
 
 maak een aparte functie per branch om de code beter te structureren
+
+# Les 6: hoofdletterongevoelig
+
+```python
+print('Hond of kat?')
+antwoord = input()
+if antwoord.lower() == 'hond':
+  print('waf waf')
+else:
+  print('miauw miauw')
+```
