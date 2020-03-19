@@ -35,11 +35,11 @@ b\) Werkbladen zodat lln zelf aan de slag kunnen achter de computer
 
 ## Slides
 
-[Je vindt alle slides bij elkaar op deze pagina.](https://slides.com/felienne/decks/pidk-m1)
+[Je vindt alle slides bij elkaar op deze pagina.](https://slides.com/vhto/decks/module-nederlands)
 
 ## Nakijkmodellen en proefwerken
 
-We hebben ook nakijkmodellen en proefwerken voor de werkbladen a maar die zetten we liever niet openbaar op internet, wie weet dat een leerling ze vindt. Heb je ze nodig, neem even contact met ons op: f.f.j.hermans@liacs.leidenuniv.nl
+We hebben ook nakijkmodellen en proefwerken voor de werkbladen a maar die zetten we liever niet openbaar op internet, wie weet dat een leerling ze vindt. Heb je ze nodig, neem even contact met ons op: vhto@vhto.nl.
 
 
 
