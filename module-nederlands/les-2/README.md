@@ -1,8 +1,8 @@
-# Les 3
+# Les 2
 
 ## Slides
 
-[Module Nederlands, les 3](https://slides.com/felienne/pidk-m1-l3a#/)
+[Module Nederlands, les 2](https://slides.com/vhto/nederlands2)
 
 ## Leerdoelen
 
