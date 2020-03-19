@@ -1,4 +1,4 @@
-# Les 3a
+# Les 2a
 
 ## Variabelen
 
@@ -73,7 +73,6 @@ Weet jij welke code goed is?
 Schrijf de code voor het zinnetje in je schrift.
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
-
 
 5\) Wat is de fout?
 
@@ -175,9 +174,7 @@ print('Hallo')
 print('klas', '1c')
 ```
 
- \pagebreak &lt;- enter2 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
-
-
+\pagebreak &lt;- enter2 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
 ### **Waardes zoeken**
 
@@ -296,7 +293,6 @@ Nu jij!
 
 ```python
 6. print(Goedemorgen)
-
 ```
 
 ```python
@@ -306,6 +302,5 @@ Nu jij!
 
 ```python
 8. print('Goedemorgen')
-
 ```
 

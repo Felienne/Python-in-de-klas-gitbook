@@ -1,4 +1,4 @@
-# Les 6b
+# Les 5b
 
 **Opdracht 6b-1\) Voeg een keuze toe**
 
@@ -28,7 +28,7 @@ Tips voor de if-else
 * Denk aan de dubbele =
 * Denk aan de spaties
 
-### Opdracht 6b-2\) if-else commandos en gewone prints
+## Opdracht 6b-2\) if-else commandos en gewone prints
 
 Deze les wordt afgetekend als:
 
@@ -39,7 +39,7 @@ Deze les wordt afgetekend als:
 
 Zorg er nu voor dat je verhaal na de if-else verder gaat met een paar gewone print\(\) regels. Let goed op dat die regels nu **niet** met twee spaties beginnen.
 
-### Opdracht 6b-3\) if-else commandos en een lijst
+## Opdracht 6b-3\) if-else commandos en een lijst
 
 Deze les wordt afgetekend als:
 
@@ -65,7 +65,7 @@ else:
 print('De', 'vriend', 'van', dier, 'is', vrienden[1], '.')
 ```
 
-### Opdracht 6b-4\) Voeg een shuffle toe 
+## Opdracht 6b-4\) Voeg een shuffle toe
 
 Deze les wordt afgetekend als:
 

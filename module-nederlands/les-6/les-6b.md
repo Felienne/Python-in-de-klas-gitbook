@@ -1,4 +1,4 @@
-# Les 7b
+# Les 6b
 
 ## Opdracht 7b-1\) Maak je verhaal!
 

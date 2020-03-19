@@ -1,6 +1,6 @@
 # Les 3a
 
-#### Meerdere figuren
+## Meerdere figuren
 
 **Even opfrissen**
 
@@ -45,27 +45,21 @@ for i in range(4):
   pen.left(90)
 ```
 
- 2\) Welke code hoort bij deze tekeningen? 
+2\) Welke code hoort bij deze tekeningen?
 
-1. 
-
-![](../../.gitbook/assets/image-20190318130624359.png)
+1. ![](../../.gitbook/assets/image-20190318130624359.png)
 
 2.
 
 ![](../../.gitbook/assets/image-20190325083528686.png)
 
- 3. 
-
-![](../../.gitbook/assets/image-20190322150946880.png)
-
-
+1. ![](../../.gitbook/assets/image-20190322150946880.png)
 
 4.
 
 ![](../../.gitbook/assets/image-20190322151013930.png)
 
- ------ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+------ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
 **Meerdere figuren**
 
@@ -161,7 +155,7 @@ Welke codes horen bij deze tekeningen? Gebruik natuurlijk wel een lus \(of meerd
 
 2.
 
-![](../../.gitbook/assets/image-20190322151224232%20%281%29.png)
+![](../../.gitbook/assets/image-20190322151224232-1.png)
 
 3.
 

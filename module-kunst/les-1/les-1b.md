@@ -1,6 +1,6 @@
 # Les 1b
 
-#### Opdracht 2b-1\) Teken een vierkant
+## Opdracht 2b-1\) Teken een vierkant
 
 Deze les wordt afgetekend als:
 
@@ -8,7 +8,7 @@ Deze les wordt afgetekend als:
 
 **Opdracht.** Blader terug naar de tekening van het vierkant in je schrift. Gebruik de **acht** codes die je daar hebt opgeschreven om een vierkant te tekenen.
 
-#### Opdracht 2b-2\) Teken een driehoek
+## Opdracht 2b-2\) Teken een driehoek
 
 Deze les wordt afgetekend als:
 
@@ -16,7 +16,7 @@ Deze les wordt afgetekend als:
 
 **Opdracht.** Blader terug naar de tekening van de driehoek in je schrift. Gebruik de **zes** codes die je daar hebt opgeschreven om een vierkant te tekenen.
 
-#### Opdracht 2b-3\) Teken een zeshoek
+## Opdracht 2b-3\) Teken een zeshoek
 
 Deze les wordt afgetekend als:
 
@@ -43,7 +43,7 @@ Dit is een schilderij van een berg \(met een beetje fantasie!\)
 
 **Opdracht.** Teken dit plaatje met de hand over in je schrift. Zorg dat je pen op het papier blijft. Zet nu de juiste Pythoncodes bij de juiste plekken. Bij de lijntjes én bij de hoeken!
 
-#### Opdracht 2b-5\) Maak een huisje \(extra\)
+## Opdracht 2b-5\) Maak een huisje \(extra\)
 
 Deze les wordt afgetekend als:
 
@@ -53,7 +53,7 @@ Deze les wordt afgetekend als:
 
 ![](../../.gitbook/assets/image-20190318132016472.png)
 
-#### Opdracht 2b-6\) Maak een diamant \(extra\)
+## Opdracht 2b-6\) Maak een diamant \(extra\)
 
 Deze les wordt afgetekend als:
 
@@ -63,7 +63,7 @@ Opdracht. Probeer dit na te maken.
 
 ![](../../.gitbook/assets/image-20190318132305903.png)
 
-#### Opdracht 2b-7\) Maak je tekening mooier \(extra\)
+## Opdracht 2b-7\) Maak je tekening mooier \(extra\)
 
 Deze les wordt afgetekend als:
 

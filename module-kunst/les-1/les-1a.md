@@ -41,11 +41,11 @@ Teken een driehoek, maar doe het weer volgens dit schema.
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
- **Tekenen en code**
+**Tekenen en code**
 
 1\) Ga terug naar het vierkant dat je hebt getekend in je schrift. Zet deze nummers erbij, op dezelfde plekken.
 
-![](../../.gitbook/assets/image-20190322135329083%20%281%29.png)
+![](../../.gitbook/assets/image-20190322135329083-1.png)
 
 Nu gaan we Pythoncodes koppelen aan de stukjes van de tekening. Het stukje bij de 1, de rechte lijn, maken we met `pen.forward(100)`Bij 2 draaien we een kwartslag naar links, dus daar hoort `pen.left(90)`. Maak jij de codes af?
 
@@ -60,13 +60,11 @@ Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde op in
 7. ...
 8. ...
 
- 
-
 2\) Doe nu hetzelfde voor de driehoek. Ga terug naar de driehoek die je hebt getekend in je schrift en zet deze nummers erbij.
 
-![](../../.gitbook/assets/image-20190322135525607%20%281%29.png)
+![](../../.gitbook/assets/image-20190322135525607-1.png)
 
-Nu moeten we even rekenen! 
+Nu moeten we even rekenen!
 
 1. Welke som reken je uit om een driehoek te maken? Schrijf de som in je schrift.
 2. Welke Pythoncode gebruik jij voor de hoek van een driehoek? Vul het in op de puntjes.
@@ -87,7 +85,7 @@ Zet nu deze opdrachten bij de juiste plekken in de tekening. Je moet allebei de 
 5. ...
 6. ...
 
- 3\) Nog wat sommen met hoeken
+   3\) Nog wat sommen met hoeken
 
 Reken uit in je schrift:
 
@@ -98,7 +96,7 @@ Reken uit in je schrift:
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
- **Nog meer figuren**
+**Nog meer figuren**
 
 1\) Maak een "spirograaf" figuur op papier
 
@@ -145,18 +143,15 @@ pen.forward(100)
 pen.left(60)
 ```
 
- 3\) Nu andersom. Weet jij met welke code je deze figuren tekent? Schijf de codes in je schrift. Tip: reken het na met je geodriehoek.
+3\) Nu andersom. Weet jij met welke code je deze figuren tekent? Schijf de codes in je schrift. Tip: reken het na met je geodriehoek.
 
-1. 
-![](../../.gitbook/assets/image-20190318130624359%20%281%29.png)
+1. ![](../../.gitbook/assets/image-20190318130624359-1.png)
 
 2.
 
 ![](../../.gitbook/assets/image-20190318125720956.png)
 
-3. 
-
-![](../../.gitbook/assets/image-20190318130244515.png)
+1. ![](../../.gitbook/assets/image-20190318130244515.png)
 
 **Extraatje!**
 
@@ -200,18 +195,11 @@ pen.left(90)
 pen.forward(100)
 ```
 
- Schrijf nu weer de codes op die bij deze figuren horen.
+Schrijf nu weer de codes op die bij deze figuren horen.
 
-1. 
-![](../../.gitbook/assets/image-20190318130606702.png)
-
+1. ![](../../.gitbook/assets/image-20190318130606702.png)
 2. 
+![](../../.gitbook/assets/image-20190318125810948-1.png)
 
-![](../../.gitbook/assets/image-20190318125810948%20%281%29.png)
-
-3. 
-
-![](../../.gitbook/assets/image-20190318130138855.png)
-
-
+1. ![](../../.gitbook/assets/image-20190318130138855.png)
 

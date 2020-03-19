@@ -1,4 +1,4 @@
-# Les 5a
+# Les 4a
 
 ## input
 
@@ -90,7 +90,7 @@ Aan het einde van de les kun jij:
    print('Het', 'is', 'vandaag', 'woensdag')
 ```
 
- 2\) Maak de code af
+2\) Maak de code af
 
 Je krijgt een zin, en jij moet de code afmaken. Je hoeft alleen de lijst en de aanwijzer in je schrift te schrijven. Voorbeeld:
 
@@ -149,7 +149,7 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
 Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 
- **Invoer**
+**Invoer**
 
 1\) Je krijgt een aantal codes, én de invoer van een gebruiker.
 

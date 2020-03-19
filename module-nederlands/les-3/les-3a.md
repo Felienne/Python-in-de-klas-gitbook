@@ -1,6 +1,6 @@
-# Les 4a
+# Les 3a
 
-### Lijsten
+## Lijsten
 
 Aan het einde van de les kun jij:
 
@@ -43,9 +43,7 @@ Schrijf de uitvoer in je schrift.
    #print('hebben', 'jullie', 'er', 'zin', 'in?')
 ```
 
-
-```
-
+```text
 2\) Wat print Python als deze codes worden uitgevoerd?
 
 Als er een fout in de code zit, schrijf dan FOUT!
@@ -89,7 +87,7 @@ Als er een fout in de code zit, schrijf dan FOUT!
 
 Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 
- **Lijsten maken**
+**Lijsten maken**
 
 1\) Hieronder staan een aantal incomplete opdrachten om lijsten te vullen. Schijf ze over in je schrift en vul de juiste tekens in op de stippeltjes.
 
@@ -115,7 +113,7 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
 Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 
- **Aanwijzen in een lijst**
+**Aanwijzen in een lijst**
 
 1\) Hier staan steeds lijsten in code, en een aanwijzer.
 
@@ -184,14 +182,14 @@ Soms komt er een fout! Schrijf dan FOUT.
 
 Nu krijg je de zin, en moet jij de code afmaken.
 
-1. Er moet geprint worden: 'De deur is geel' Maak de code af in je schrift. 
+1. Er moet geprint worden: 'De deur is geel' Maak de code af in je schrift.
 
    ```python
    kleuren = ['blauw', 'geel', 'groen']            
    print('De', 'deur', 'is', kleuren[...])
    ```
 
-2. Er moet geprint worden: 'Ik hou van chocolade' 
+2. Er moet geprint worden: 'Ik hou van chocolade'
 
    ```python
    snoepjes = ['chocolade', 'zuurtjes', 'drop']
@@ -202,7 +200,7 @@ Nu krijg je de zin, en moet jij de code afmaken.
 
 Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 
- **Foutjes bij aanwijzen**
+**Foutjes bij aanwijzen**
 
 1\) Fout of niet? Lees de code en bedenk of er een fout komt, of niet.
 

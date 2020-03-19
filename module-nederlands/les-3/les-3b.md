@@ -1,4 +1,4 @@
-# Les 4b
+# Les 3b
 
 ## Opdracht 4b-1\) Maak drie verhalen
 
@@ -25,9 +25,9 @@ Deze les wordt afgetekend als:
 
 **Opdracht.**
 
-Je hebt drie dieren bedacht in opdracht 4b-1. Maak nu een lijst, en noem de lijst `dieren`.   
-Zet alledrie de dieren in de lijst.   
-  
+Je hebt drie dieren bedacht in opdracht 4b-1. Maak nu een lijst, en noem de lijst `dieren`.  
+Zet alledrie de dieren in de lijst.
+
 **Let op:** Je hoeft nog geen aanwijzers te gebruiken voor deze opdracht.
 
 ## Opdracht 4b-3\) Verander je variabelen in aanwijzers uit de lijst
@@ -56,7 +56,7 @@ Deze les wordt afgetekend als:
 
 **Opdracht.**
 
-Maak de lijst nu nog langer. Zorg dat er minstens vijf dieren in staan. Verwijder  ook de stukken verhaal waarin je `dieren[1]` en `dieren[2]` gebruikt.
+Maak de lijst nu nog langer. Zorg dat er minstens vijf dieren in staan. Verwijder ook de stukken verhaal waarin je `dieren[1]` en `dieren[2]` gebruikt.
 
 ## Opdracht 4b-5\) Een willekeurig dier in je verhaal \(extra\)
 

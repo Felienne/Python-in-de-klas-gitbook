@@ -1,4 +1,4 @@
-# Les 5
+# Les 4
 
 ## Slides
 
@@ -9,6 +9,4 @@
 * invoer gebruiken in je programma met `input()`
 * de invoer van een gebruiker opslaan in een variabele
 * goede en foute code met `input()` herkennen
-
-
 

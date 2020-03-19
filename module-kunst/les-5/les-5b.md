@@ -1,6 +1,6 @@
 # Les 5b
 
-#### Opdracht 5b-1\) Maak twee vierkanten met 3 variabelen
+## Opdracht 5b-1\) Maak twee vierkanten met 3 variabelen
 
 Deze les wordt afgetekend als:
 
@@ -15,7 +15,7 @@ Denk aan deze tips:
 * De codes voor kleuren zijn RGB: RoodGroenBlauw.
 * Getallen erin zijn tussen de 0 en de 255.
 
-#### Opdracht 5b-2\) Teken een bergschilderij met kleur
+## Opdracht 5b-2\) Teken een bergschilderij met kleur
 
 Deze les wordt afgetekend als:
 
@@ -23,7 +23,7 @@ Deze les wordt afgetekend als:
 
 ![](../../.gitbook/assets/image-20190406145634717.png)
 
-#### Opdracht 5b-3\) Maak twee spirografen
+## Opdracht 5b-3\) Maak twee spirografen
 
 Deze les wordt afgetekend als:
 
@@ -35,7 +35,7 @@ Deze les wordt afgetekend als:
 
 Probeer de tekening zo goed mogelijk na te maken.
 
-#### Opdracht 5b-4\) Maak twee andere spirografen
+## Opdracht 5b-4\) Maak twee andere spirografen
 
 Deze les wordt afgetekend als:
 
@@ -47,7 +47,7 @@ Deze les wordt afgetekend als:
 
 Probeer de tekening zo goed mogelijk na te maken.
 
-#### Opdracht 5b-5\) Maak het mooi
+## Opdracht 5b-5\) Maak het mooi
 
 Je hebt nu een hele hoop gekleurde spirografen gezien. Welke vond jij het mooist?
 
@@ -58,7 +58,7 @@ Deze les wordt afgetekend als:
 * Je een programma hebt met minstens drie spirografen.
 * Jij je kunstwerk mooi vindt!
 
-#### Opdracht 5b-6\) Maak je eigen figuur
+## Opdracht 5b-6\) Maak je eigen figuur
 
 Deze opdracht kun je zo vaak doen als je wilt, dus je kunt er zoveel stempels mee halen als je wilt. De opdracht gaat zo:
 

@@ -30,7 +30,7 @@ Probeer dit zelf voor de les al even uit. Je ziet dat de lezer van het verhaal n
 
 Iedere module bestaat steeds uit twee delen: a en b
 
-a\) Klassikale les met slides, en werkbladen deel a om in de klassikale les te maken   
+a\) Klassikale les met slides, en werkbladen deel a om in de klassikale les te maken  
 b\) Werkbladen zodat lln zelf aan de slag kunnen achter de computer
 
 ## Slides
@@ -40,6 +40,4 @@ b\) Werkbladen zodat lln zelf aan de slag kunnen achter de computer
 ## Nakijkmodellen en proefwerken
 
 We hebben ook nakijkmodellen en proefwerken voor de werkbladen a maar die zetten we liever niet openbaar op internet, wie weet dat een leerling ze vindt. Heb je ze nodig, neem even contact met ons op: vhto@vhto.nl.
-
-
 

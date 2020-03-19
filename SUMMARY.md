@@ -38,7 +38,7 @@
     * [Les 5b](module-kunst/les-5/les-5b.md)
   * [Les 6 \(Eindopdracht\)](module-kunst/les-6-eindopdracht/README.md)
     * [Les 6b](module-kunst/les-6-eindopdracht/les-6b.md)
-* [Module Aardrijkskunde](module-aardrijkskunde/README.md)
+* [Module Aardrijkskunde](module-aardrijkskunde.md)
 * [Module Quiz \(in ontwikkeling\)](module-quiz-in-ontwikkeling/README.md)
   * [Les 1](module-quiz-in-ontwikkeling/les-1.md)
   * [Les 2](module-quiz-in-ontwikkeling/les-2.md)

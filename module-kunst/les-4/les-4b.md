@@ -1,8 +1,8 @@
 # Les 4b
 
-### Les 4 werkblad b
+## Les 4 werkblad b
 
-#### Opdracht 4b-1\) Maak twee vierkanten met 1 variabele
+### Opdracht 4b-1\) Maak twee vierkanten met 1 variabele
 
 Deze les wordt afgetekend als:
 
@@ -17,7 +17,7 @@ Denk aan deze tips:
 * Vergeet ook de dubbele punt :  aan het einde van de `for` niet.
 * En begin met twee spaties onder de `for`!
 
-#### Opdracht 4b-2\) Maak twee vierkanten met 2 variabelen
+### Opdracht 4b-2\) Maak twee vierkanten met 2 variabelen
 
 Deze les wordt afgetekend als:
 
@@ -25,7 +25,7 @@ Deze les wordt afgetekend als:
 * Je een variabele gebruikt voor de **hoek**
 * Je een variabele gebruikt voor het **aantal hoeken**
 
-#### Opdracht 4b-3\) Maak twee spirografen met 2 variabelen
+### Opdracht 4b-3\) Maak twee spirografen met 2 variabelen
 
 Deze les wordt afgetekend als:
 
@@ -35,7 +35,7 @@ Deze les wordt afgetekend als:
 
 ![](../../.gitbook/assets/image-20190403203016092.png)
 
-#### Opdracht 4b-4\) Maak twee driehoeken op elkaar met 2 variabelen
+### Opdracht 4b-4\) Maak twee driehoeken op elkaar met 2 variabelen
 
 Deze les wordt afgetekend als:
 
@@ -43,9 +43,9 @@ Deze les wordt afgetekend als:
 * Je een variabele gebruikt voor de **hoek**
 * Je een variabele gebruikt voor het **aantal hoeken**
 
-![](../../.gitbook/assets/image-20190329212013611%20%281%29.png)
+![](../../.gitbook/assets/image-20190329212013611-1.png)
 
-#### Opdracht 4b-5\) Maak twee driehoeken op elkaar met 3 variabelen
+### Opdracht 4b-5\) Maak twee driehoeken op elkaar met 3 variabelen
 
 Deze les wordt afgetekend als:
 
@@ -54,7 +54,7 @@ Deze les wordt afgetekend als:
 * Je een variabele gebruikt voor het **aantal hoeken**
 * Je een variabele hebt gebruikt voor de **grootte** van de driehoeken
 
-#### Opdracht 4b-6\) Maak twee vierkanten, eentje klein met 3 variabelen
+### Opdracht 4b-6\) Maak twee vierkanten, eentje klein met 3 variabelen
 
 Deze les wordt afgetekend als:
 
@@ -66,9 +66,9 @@ Deze les wordt afgetekend als:
 
 Tip: gebruik de variabele grootte nu twee keer.
 
-![](../../.gitbook/assets/image-20190329212412678%20%281%29.png)
+![](../../.gitbook/assets/image-20190329212412678-1.png)
 
-#### Opdracht 4b-7\) Maak ieder figuur!
+### Opdracht 4b-7\) Maak ieder figuur!
 
 Nu willen we een figuur maken dat we kunnen instellen door maar één variabele te veranderen. Dus als we `aantal_hoeken` op 3 zetten tekent de code een driehoek en `aantal_hoeken = 10` maakt een tienhoek etc. Daarvoor moet je rekenen met de variabele. Een beginnetje voor de code staat hieronder. Met deze code moet je een vierkant krijgen.
 
@@ -85,7 +85,7 @@ for i in range(...):
 
 **Let op!** Je krijgt alleen een stempel als je het figuur kunt veranderen door alleen de regel met `aantal_hoeken` aan te passen.
 
-#### Opdracht 4b-8\) Maak je eigen figuur
+### Opdracht 4b-8\) Maak je eigen figuur
 
 Deze opdracht kun je zo vaak doen als je wilt, dus je kunt er zoveel stempels mee halen als je wilt. De opdracht gaat zo:
 

@@ -56,7 +56,7 @@ for i in range(aantal_hoeken):
   pen.left(hoek)
 ```
 
-7. Leg nu in woorden uit wat de code van code 6 \(hier direct boven\) doet.
+1. Leg nu in woorden uit wat de code van code 6 \(hier direct boven\) doet.
 
 ```python
 8.
@@ -136,7 +136,7 @@ for i in range(aantal_keer):
   pen.left(hoek)
 ```
 
-7. Leg in woorden uit wat de code van opdracht 6 doet.
+1. Leg in woorden uit wat de code van opdracht 6 doet.
 
 ```python
 8.
@@ -146,7 +146,7 @@ for i in range(klas):
 print('Hallo', klas)
 ```
 
- 3\) Wat tekenen deze codes? 
+3\) Wat tekenen deze codes?
 
 ```python
 1.
@@ -211,6 +211,4 @@ for i in range(3):
   pen.forward(grootte)
   pen.left(120)
 ```
-
-
 

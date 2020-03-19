@@ -1,8 +1,6 @@
 # Les 5a
 
-
-
-#### Kleuren en plannen
+## Kleuren en plannen
 
 **Even opfrissen**
 
@@ -268,11 +266,7 @@ for i in range(aantal_keer):
 
 ![](../../.gitbook/assets/image-20190406141936243.png)
 
+1. ![](../../.gitbook/assets/image-20190406142059944.png)
 2. 
-
-![](../../.gitbook/assets/image-20190406142059944.png)
-
-3. 
-
 ![](../../.gitbook/assets/image-20190406142204920.png)
 

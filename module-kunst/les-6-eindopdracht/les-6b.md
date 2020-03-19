@@ -1,6 +1,6 @@
 # Les 6b
 
-#### Opdracht 6b-1\) Maak je tekening!
+## Opdracht 6b-1\) Maak je tekening!
 
 Je hebt de afgelopen weken een hoop geleerd. Nu is het tijd om een mooie tekening te maken.
 
@@ -23,7 +23,7 @@ Deze dingen moeten in je programma zitten voor een voldoende:
 * **figuren met meerdere kleuren \(zie onderaan dit werkblad\)**
 * **Andere coole dingen die je kunt verzinnen!**
 
-#### **Opdracht 6b-2\) Wat vond je ervan?**
+## **Opdracht 6b-2\) Wat vond je ervan?**
 
 **We willen graag weten wat jij van de lessen tot nu toe vond.**
 

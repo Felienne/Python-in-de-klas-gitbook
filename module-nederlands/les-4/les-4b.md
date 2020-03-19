@@ -1,6 +1,6 @@
-# Les 5b
+# Les 4b
 
-#### Opdracht 5b-1\) Voeg een input toe
+## Opdracht 5b-1\) Voeg een input toe
 
 Deze opdracht wordt afgetekend als:
 
@@ -21,14 +21,14 @@ print('Dit', 'verhaal', 'gaat', 'over', dier)
 
 * Denk aan de ronde haakjes achter input!
 
-#### Opdracht 5b-2\) Printen zonder komma's
+## Opdracht 5b-2\) Printen zonder komma's
 
 Deze opdracht wordt afgetekend als:
 
 * Je je programma zo hebt veranderd dat je hele stukjes zin print zonder een komma tussen de woorden. 
 
-**Opdracht.**  
-  
+**Opdracht.**
+
 Je typt nu erg veel en het kan iets makkelijker. Loop door je code en verwijder de aanhalingstekens en komma's die niet nodig zijn. Bijvoorbeeld, de code van de vorige opdracht wordt dan:
 
 ```text
@@ -37,16 +37,13 @@ dier = input()
 print('Dit verhaal gaat over', dier)
 ```
 
-#### Opdracht 5b-3\) Maak een verhaal van 5 zinnen.
+## Opdracht 5b-3\) Maak een verhaal van 5 zinnen.
 
 Deze opdracht wordt afgetekend als:
 
 * Je 5 zinnen print.
 
-**Opdracht.**  
-  
-Breid nu je verhaal uit tot 5 zinnen. Het mag over alles gaan wat je maar wilt.  
-****
+**Opdracht.**
 
-
+Breid nu je verhaal uit tot 5 zinnen. Het mag over alles gaan wat je maar wilt.
 

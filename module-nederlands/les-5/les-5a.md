@@ -1,4 +1,4 @@
-# Les 6a
+# Les 5a
 
 **Even opfrissen!**
 
@@ -203,7 +203,7 @@ We gaan steeds de goede dierengeluiden printen. Deze horen bij elkaar:
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
- **Fouten bij if-else commando's**
+**Fouten bij if-else commando's**
 
 1\) Fout of niet? Lees de code plus invoer. Voorspel of er een fout komt, of niet.
 
@@ -222,8 +222,8 @@ Voorbeeld:
    Input: Frans
 ```
 
-De code…. print 'Bonjour'   
-  
+De code…. print 'Bonjour'
+
 Voorbeeld:
 
 ```python
@@ -318,7 +318,7 @@ Nu jij!
    Input: Duits
 ```
 
- 2\) Foutmeldingen lezen
+2\) Foutmeldingen lezen
 
 Je krijgt steeds een foutmelding te zien. Wat is er mis?
 
