@@ -1,17 +1,16 @@
-# Les 3a
+# Les 4a
 
-## Variabelen
+### Lijsten
 
 Aan het einde van de les kun jij:
 
-* tekst opslaan in een variabele
-* een variabele gebruiken om een tekst meerdere keren te printen
-* voorspellen wat een code doet met een variabele erin
-* goede en foute print\(\)-codes vinden met een variabele erin
+* woorden in een lijst aanwijzen
+* voorspellen wat code met een lijst erin doet
+* goede en foute print\(\)-codes vinden met lijsten erin
 
-### **Even opfrissen!**
+**Even opfrissen!**
 
-**Begin op een nieuwe pagina en zet erboven: Les 3a**
+**Begin op een nieuwe pagina en zet erboven: Les 4a**
 
 1\) Hieronder staan vijf codes met commentaar erin. Wat printen deze codes uit?
 
@@ -44,166 +43,247 @@ Schrijf de uitvoer in je schrift.
    #print('hebben', 'jullie', 'er', 'zin', 'in?')
 ```
 
-2\) Wat is de fout?
 
-Al deze codes zijn fout. Wat is er mis?
+```
 
-Schrijf in je schrift wat de fout is.
+2\) Wat print Python als deze codes worden uitgevoerd?
+
+Als er een fout in de code zit, schrijf dan FOUT!
 
 ```python
-1. prnt('Hallo', 'allemaal')
+1. doelgroep = 'leerlingen'
+   print('Hallo', doelgroep)
 ```
 
 ```python
-2. print('Hallo') print('Allemaal')
+2. naam = 'Jansen'
+   #print('Hallo', 'meneer', naam)
 ```
 
 ```python
-3. print('Hallo' , allemaal')
+3. eten = 'stamppot'
+   print('We', 'eten', eten)
 ```
 
 ```python
-4. print('Hallo' 'allemaal')
+4. #print('Goedemorgen')               
+   print('Klas', '1c')
 ```
 
 ```python
-5. print 'Hallo Allemaal'
-```
-
-```python
-6. prit('Hallo')
-   prit('Allemaal')
-```
-
-Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
-
-### **Waardes zoeken**
-
-1\) In Python kun je woorden zonder aanhalingstekens gebruiken. Dat zijn variabeles. Als Python een variabele tegenkomt gaat hij omhoog zoeken in het programma naar de _definitie_ van de variabele. Dat betekent waar de variabele wordt ingesteld met een is-teken:
-
-```python
-naam = 'Felienne'
-```
-
-Schrijf deze codes over. Zet een pijltje tussen het gebruik van een variabele en zijn definitie.
-
-![De variabele klas en een pijltje naar de definitie ervan](../../.gitbook/assets/image-20190206124246541.png)
-
-```python
-1. les = 'Coderen'
-   print('Welkom', 'bij', les)
-```
-
-```python
-2. klas = '1c'
-   print('Hallo', klas)
-```
-
-```python
-3. les = 'Coderen'
-   klas = '1c'
-   print('Hallo' , klas, 'dit', 'is', les)
-```
-
-2\) Hieronder staan codes met een variabele erin. Wat print Python uit als we deze codes uitvoeren?
-
-Schrijf de uitvoer in je schrift.
-
-**Let op!** Een van de codes is fout. Schijf daarbij op: FOUT.
-
-```python
-1. print('Hallo', 'allemaal')
-```
-
-```python
-2. klas = '1c'
-   print('Hallo', klas)
-```
-
-```python
-3. achternaam = 'Hermans'
-   print('Hallo', 'mevrouw', achternaam)
-```
-
-```python
-4. print('Hallo', )
-```
-
-```python
-5. klas = 'klas 1c'
-   print('Hallo' 'leerlingen', 'van', klas)
-```
-
-Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
-
-### **Naam niet gedefinieerd**
-
-Is de code goed of fout? Kijk goed of de variabele die gebruikt wordt wel gedefinieerd is.
-
-* Als de code fout is, schijf je Fout
-* Als de code goed is, schrijf je op wat er geprint wordt.
-
-Voorbeeld 1\)
-
-```python
-naam = 'Felienne'
-print(voornaam)
-```
-
-Deze code is fout, want `voornaam` bestaat niet. Dan schrijf je:
-
-Fout
-
-Voorbeeld 2\)
-
-```python
-klas = '1c'
-print('Hallo', klas)
-```
-
-Deze code is goed, klas is nu '1c'. Dan schrijf je:
-
-Hallo 1c
-
-Nu jij!
-
-```python
-1. klas = '1c'
-   print('Hallo', naam)
-```
-
-```python
-2. klas = '1c'
+5. klas = '1c'
    print('Hallo', '1c')
 ```
 
 ```python
-3. achternaam = 'Hermans'
-   print('Hallo', 'mevrouw', Hermans)
-```
-
-```python
-4. tijd_op_klok = 'half 9'
-   print('Het', 'is', tijd_op_klok)
-```
-
-```python
-5. klas = 'klas 1c'
-   print('Hallo', 'leerlingen', 'van', klas)
-```
-
-```python
-6. print(Goedemorgen)
-
+6. #klas = c              
+   print('Leerlingen', 'uit', klas)
 ```
 
 ```python
 7. tijd = 'half 9'
-   print('Het', 'is', 'tijd')
+   print('Het', 'is', half, 9)
+```
+
+**Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.**
+
+Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
+
+ **Lijsten maken**
+
+1\) Hieronder staan een aantal incomplete opdrachten om lijsten te vullen. Schijf ze over in je schrift en vul de juiste tekens in op de stippeltjes.
+
+```python
+1. dieren = ['konijn' ... 'biggetje']
 ```
 
 ```python
-8. print('Goedemorgen')
-
+2. hobbies ... [ ... dansen ... , ... voetballen ...]
 ```
+
+```python
+3. kleuren ... ... ... groen ... , ... geel ... ... ... blauw ... ...
+```
+
+2\) Schijf nu de code voor deze lijsten zelf:
+
+* lijst `namen` met daarin de woorden: Jan, Merel, Samir
+* lijst `vakken` met daarin de woorden: Frans, Aardrijkskunde, Coderen
+* lijst `engelse_woorden`. Verzin zelf 3 Engelse woorden om in je lijst op te slaan
+
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+
+Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
+
+ **Aanwijzen in een lijst**
+
+1\) Hier staan steeds lijsten in code, en een aanwijzer.
+
+Wat wordt er uitgeprint?
+
+Soms komt er een fout! Schrijf dan FOUT.
+
+```python
+1. dieren = ['konijn', 'biggetje', 'vleermuis']            
+   print(dieren[2])
+```
+
+```python
+2. dieren = ['konijn', 'biggetje', 'vleermuis']            
+   print(dieren[0])
+```
+
+```python
+3. dieren = ['konijn', 'biggetje', 'vleermuis']            
+   print(dieren[3])
+```
+
+```python
+4. kleuren = ['blauw', 'geel', 'groen']            
+   print(kleuren[1])
+```
+
+```python
+5. kleuren = ['blauw', 'geel', 'groen']            
+   print(kleuren[0])
+```
+
+2\) Nu printen we zinnetjes. In de zin staat een woord uit een lijst. Wat komt er uit deze codes?
+
+```python
+1. dieren = ['konijn', 'biggetje', 'vleermuis']            
+   print('In', 'het', 'bos', 'loopt', 'een', dieren[1])
+```
+
+```python
+2. kleuren = ['blauw', 'geel', 'groen']            
+   print('De', 'deur', 'is', kleuren[0])
+```
+
+```python
+3. hobbies = ['dansen', 'voetballen', 'zingen']            
+   print('Ik', 'zit', 'op', hobbies[2])
+```
+
+```python
+4. kleuren = ['blauw', 'geel', 'groen', 'paars', 'roze']            
+   print('Mijn', 'trui', 'is', kleuren[4])
+```
+
+```python
+5. namen = ['Jan', 'Robin', 'Samir']
+   print(namen[2], 'is', 'mijn', 'beste', 'vriend')
+```
+
+```python
+6. vakken = ['Aardrijkskunde', 'Nederlands', 'Coderen']
+   print('Ik', 'vind', vakken[2], 'een', 'leuk', 'vak')
+```
+
+3\) Nu andersom!
+
+Nu krijg je de zin, en moet jij de code afmaken.
+
+1. Er moet geprint worden: 'De deur is geel' Maak de code af in je schrift. 
+
+   ```python
+   kleuren = ['blauw', 'geel', 'groen']            
+   print('De', 'deur', 'is', kleuren[...])
+   ```
+
+2. Er moet geprint worden: 'Ik hou van chocolade' 
+
+   ```python
+   snoepjes = ['chocolade', 'zuurtjes', 'drop']
+   print('Ik', 'hou', 'van', snoepjes[...])
+   ```
+
+**Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.**
+
+Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
+
+ **Foutjes bij aanwijzen**
+
+1\) Fout of niet? Lees de code en bedenk of er een fout komt, of niet.
+
+Komt er een fout, schrijf dan in je schrift: FOUT. Komt er geen fout, schrijf dan op wat de code print.
+
+```python
+1. dieren = ['konijn', 'biggetje', 'vleermuis']            
+   print(dieren[3])
+```
+
+```python
+2. dieren = ['konijn', 'biggetje', 'vleermuis']            
+   print(dieren[0])
+```
+
+```python
+3. dieren = ['konijn', 'biggetje', 'vleermuis']            
+   print(dieren[10])
+```
+
+```python
+4. kleuren = ['blauw', 'geel', 'groen']            
+   print('kleuren[1]')
+```
+
+```python
+5. kleuren = ['blauw', 'geel', 'groen', 'roze']            
+   print(kleuren[])
+```
+
+2\) Nog meer fouten! Hier zijn nog wat codes. Welke is goed en welke is fout? Let goed op: er kunnen nu ook foutjes in andere dingen staan, niet alleen in de aanwijzer!
+
+```python
+1. hobbies = ['dansen', 'voetballen', 'zingen']            
+   prnt('Zullen', 'we', 'gaan', hobbies[4], 'morgen')
+```
+
+```python
+2. namen = ['Jan', 'Robin', 'Samir']
+   print('Mijn', 'beste', 'vriend', 'heet', namen['1'])
+```
+
+```python
+3. talen = ['Python', 'JavaScript', 'HTML']
+   print('De', 'beste', 'programmeertaal', 'is', taal[1])
+```
+
+```python
+4. snoepjes = ['chocolade', 'zuurtjes', 'drop']
+   print('Ik', 'hou', 'van', snoepjes(2))
+```
+
+```python
+5. straatnamen = ['Witte Hertstraat', 'Takstraat', 'Coolsingel']
+   print('Ik', 'woon', 'in', 'de', 'straatnamen[2]')
+```
+
+```python
+6. hobbies = ['dansen', 'voetballen', 'zingen']            
+   print('Ik', 'zit', 'op', hobbies[0])
+```
+
+```python
+7. kleuren = ['blauw', 'geel', 'groen', 'paars', 'roze']            
+   print('Mijn', 'trui', 'is', kleuren[5])
+```
+
+```python
+8. namen = ['Jan', 'Robin', 'Samir']
+   print namen[3], 'is', 'mijn', 'beste', 'vriend')
+```
+
+```python
+9. vakken = ['Aardrijkskunde', 'Nederlands', 'Coderen']
+   print('Ik', 'vind', vakken[0], 'leuk')
+```
+
+```python
+10.kleuren = ['blauw', 'geel', 'groen']            
+   print('De', 'deur', 'is', kleuren[1])
+```
+
+**Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel**
 

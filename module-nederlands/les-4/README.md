@@ -1,12 +1,14 @@
-# Les 4
+# Les 5
 
 ## Slides
 
-[Module Nederlands, les 4](https://slides.com/felienne/pidk-m1-l4a#/)
+[Module Nederlands, les 5](https://slides.com/felienne/pidk-m1-l5a)
 
 ## Leerdoelen
 
-* woorden in een lijst aanwijzen
-* voorspellen wat code met een lijst erin doet
-* goede en foute print\(\)-codes vinden met lijsten erin
+* invoer gebruiken in je programma met `input()`
+* de invoer van een gebruiker opslaan in een variabele
+* goede en foute code met `input()` herkennen
+
+
 

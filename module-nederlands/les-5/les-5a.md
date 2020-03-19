@@ -1,207 +1,18 @@
-# Les 5a
-
-## input
-
-Aan het einde van de les kun jij:
-
-* invoer gebruiken in je programma met `input()`
-* de invoer van een gebruiker opslaan in een variabele
-* goede en foute code met input herkennen
+# Les 6a
 
 **Even opfrissen!**
 
+Aan het einde van de les kun jij:
+
+* Keuzes maken in een programma met if-else
+* goede en foute if-else codes herkennen
+
 **Begin op een nieuwe pagina en zet erboven: Les 5a**
 
-**Goed of fout?**
-
-1\) Is de code goed of fout?
-
-* De code is goed -&gt; schrijf wat de code print
-* De code is fout -&gt; schrijf FOUT
-* Extra: schrijf ook **wat** er fout is
-
-```python
-1. hobbies = ['dansen', 'voetballen', 'zingen']            
-   print('Zullen', 'we', 'gaan', hobbies[1], 'morgen')
-```
-
-```python
-2. namen = ['Jan', 'Robin', 'Samir']
-   print('Mijn', 'beste', 'vriend', 'heet', namen[0])
-```
-
-```python
-3. talen = ['Python', 'JavaScript', 'HTML']
-   print('De', 'beste', 'programmeertaal', 'is', taal[1])
-```
-
-```python
-4. snoepjes = ['chocolade', 'zuurtjes', 'drop']
-   print('Ik', 'hou', 'van', snoepjes(2))
-```
-
-```python
-5. straatnamen = ['Witte Hertstraat', 'Takstraat', 'Coolsingel']
-   print('Ik', 'woon', 'in', 'de', 'straatnamen[2]')
-```
-
-```python
-6. hobbies = ['dansen', 'voetballen', 'zingen']            
-   print('Ik', 'zit', 'op', hobbies[0])
-```
-
-```python
-7. kleuren = ['blauw', 'geel', 'groen', 'paars', 'roze']            
-   print('Mijn', 'trui', 'is', kleuren[5])
-```
-
-```python
-8. namen = ['Jan', 'Robin', 'Samir']
-   print(namen[3], 'is', 'mijn', 'beste', 'vriend')
-```
-
-```python
-9. vakken = ['Aardrijkskunde', 'Nederlands', 'Coderen']
-   print('Ik', 'vind', vakken[4], 'leuk')
-```
-
-```python
-10.kleuren = ['blauw', 'geel', 'groen']            
-   print('De', 'deur', 'is', kleuren[1])
-```
-
-```python
-11.doelgroep = 'leerlingen'
-   print('Hallo', doelgroep)
-```
-
-```python
-12.naam = 'Jansen'
-   #print('Hallo', 'meneer', naam)
-```
-
-```python
-13. #klas = c              
-   print('Leerlingen', 'uit', klas)
-```
-
-```python
-14.dag = 'woensdag'
-   print('Het', 'is', 'vandaag', 'woensdag')
-```
-
- 2\) Maak de code af
-
-Je krijgt een zin, en jij moet de code afmaken. Je hoeft alleen de lijst en de aanwijzer in je schrift te schrijven. Voorbeeld:
-
-Er moet geprint worden: 'Ik vind geel mooi' Maak de code af in je schrift.
-
-```python
-   kleuren = ['blauw', 'geel', 'groen']            
-   print('Ik', 'vind', kleuren[...], 'mooi')
-```
-
-Dan schijf jij in je schrift: kleuren\[1\] Nu jij!
-
-1. Er moet geprint worden: 'De trui is groen' Maak de code af in je schrift. 
-
-```python
-   kleuren = ['blauw', 'geel', 'groen']            
-   print('De', 'trui', 'is', kleuren[...])
-```
-
-1. Er moet geprint worden: 'Ik hou van drop' 
-
-```python
-   snoepjes = ['chocolade', 'zuurtjes', 'drop']
-   print('Ik', 'hou', 'van', snoepjes[...])
-```
-
-1. Er moet geprint worden: 'Zullen we gaan gamen morgen?'
-
-```python
-   hobbies = ['gamen', 'voetballen', 'zingen']            
-   print('Zullen', 'we', 'gaan', hobbies[...], 'morgen?')
-```
-
-1. Er moet geprint worden: 'Mijn beste vriend heet Samir'
-
-```python
-   namen = ['Jan', 'Robin', 'Samir']
-   print('Mijn', 'beste', 'vriend', 'heet', namen[...])
-```
-
-1. Er moet geprint worden: 'De beste programmeertaal is Python'
-
-```python
-   talen = ['Python', 'JavaScript', 'HTML']
-   print('De', 'beste', 'programmeertaal', 'is', talen[...] )
-```
-
-1. Er moet geprint worden: 'Ik woon in de Takstraat'
-
-```python
-   straatnamen = ['Witte Hertstraat', 'Takstraat', 'Coolsingel']
-   print('Ik', 'woon', 'in', 'de', straatnamen[...])
-```
-
-Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
-
-Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
-
- **Invoer**
-
-1\) Je krijgt een aantal codes, én de invoer van een gebruiker.
-
-Voorbeeld:
-
-```python
-   print('Koffie', 'of', 'thee?')
-   drinken = input()
-   print('Je', 'wilt', 'dus', drinken)
-   ---
-   Input: koffie
-```
-
-De invoer is: koffie \(kijk bij Input\) De code print: Je wilt dus koffie.
-
-Nu jij!
-
-```python
-1. print('Suiker', 'of', 'melk?')
-   in_de_thee = input()
-   print('Okee', 'ik', 'doe', 'er', in_de_thee, 'in')
-   ---
-   Input: melk
-```
-
-```python
-2. print('Hoe', 'laat', 'is', 'het?')
-   tijd = input()
-   print('Het', 'is', tijd)
-   ---
-   Input: tien uur
-```
-
-```python
-3. print('Hoe', 'heet', 'jij?')
-   naam = input()
-   print('Hallo', naam)
-   ---
-   Input: Jantien
-```
-
-```python
-4. print('Hoe', 'heet', 'jij?')
-   naam = input()
-   print('Hallo', 'naam')
-   ---
-   Input: Achmed
-```
-
-**Fouten bij input**
-
-1\) Wat print deze code? Is de code fout -&gt; schrijf FOUT Is de code goed -&gt; schrijf wat de code print
+1\) Is de code goed of fout?  
+Goed -&gt; Schrijf wat de code print  
+Fout -&gt; Schrijf FOUT  
+Extra -&gt; Schrijf ook op wat de fout it
 
 ```python
 1. print('Hoe', 'heet', 'jij?'
@@ -214,14 +25,14 @@ Nu jij!
 ```python
 2. print('Hoe', 'heet', 'jij?')
    voornaam = input()
-   print('Hallo', naam)
+   print(Hallo, naam)
    ---
    Input: Sabine
 ```
 
 ```python
 3. print('Koffie', 'of', 'thee?')
-   drinken = input
+   drinken = input()
    print('Je', 'wilt', 'dus', drinken)
    ---
    Input: thee
@@ -235,31 +46,303 @@ Nu jij!
    Input: Ja
 ```
 
-2\) Fouten
-
-Al deze codes zijn fout. Wat is er mis?
-
 ```python
-1. print('Over', 'welk', 'dier', 'gaat', 'het?')
-   dier = input()
-   print('Dit', 'verhaal', 'gaat', 'over', dier
-```
-
-```python
-2. print('Over', 'welk', 'dier', 'gaat', 'het?')
+5. print('Over', 'welk', 'dier', 'gaat', 'het?')
    input()
    print('Dit', 'verhaal', 'gaat', 'over', dier)
+   ---
+   Input: hond
+```
+
+**If-else**
+
+1\) Je krijgt een aantal codes, én de invoer van een gebruiker. Wat wordt er geprint?
+
+Voorbeeld:
+
+```python
+   print('suiker', 'of', 'melk?')
+   in_de_thee = input()
+   if in_de_thee == 'melk':
+     print('gieten')
+   else:
+     print('schudden')
+   ---
+   Input: melk
+```
+
+De invoer is: melk \(kijk bij Input:\) De code print: gieten. Nu jij!
+
+```python
+1. print('suiker', 'of', 'melk?')
+   in_de_thee = input()
+   if in_de_thee == 'melk':
+     print('gieten')
+   else:
+     print('schudden')
+   ---
+   Input: suiker
 ```
 
 ```python
-3. print('Koffie', 'of', 'thee?')
-   drinken = input
-   print('Je', 'wilt', 'dus', drinken)
+2. print('suiker', 'of', 'melk?')
+   in_de_thee = input()
+   if in_de_thee == 'melk':
+     print('gieten')
+   else:
+     print('schudden')
+   ---
+   Input: pindakaas
 ```
 
 ```python
-4. print('Regent', 'het?')
-   antwoord input()
-   print(antwoord, 'het', 'regent')
+3. print('reptiel of zoogdier?')
+   diersoort = input()
+   if diersoort == 'reptiel':
+     print('legt', 'een', 'ei')
+   else:
+     print('geeft', 'melk')
+   ---
+   Input: reptiel
+```
+
+```python
+4. print('reptiel of zoogdier?')
+   diersoort = input()
+   if diersoort == 'reptiel':
+     print('legt', 'een', 'ei')
+   else:
+     print('geeft', 'melk')
+   ---
+   Input: zeptiel
+```
+
+```python
+6. print('Nederlands of Engels')
+   taal = input()
+   if taal == 'Engels':
+     print('Hello', 'good morning!')
+   else:
+     print('Hallo', 'goedemorgen!')
+   ---
+   Input: engels
+```
+
+```python
+7. print('Nederlands of Engels')
+   taal = input()
+   if taal == 'Engels':
+     print('Hello', 'good morning!')
+   else:
+     print('Hallo', 'goedemorgen!')
+   ---
+   Input: Engels
+```
+
+```python
+8. print('Nederlands of Engels')
+   taal = input()
+   if taal == 'Engels':
+     print('Hello', 'good morning!')
+   else:
+     print('Hallo', 'goedemorgen!')
+   ---
+   Input: English
+```
+
+2\) Er zijn vijf dingen heel belangrijk bij een if-else. Schrijf er zoveel mogelijk op in je schrift.
+
+3\) Nu maak jij de if-else zelf.
+
+We gaan steeds de goede dierengeluiden printen. Deze horen bij elkaar:
+
+* hond - waf
+* kat - miauw
+* kikker - kwak
+* eend - kwek
+* koe - boe
+* varken - oink
+
+1\) Wat moet er op de puntjes? Alleen dat hoef je in je schrift te schrijven.
+
+```python
+1. print('hond of kat')
+   dier = input()
+   if dier == 'hond':
+     print(...)
+   else:
+     print('miauw')
+```
+
+```python
+2. print('hond of kat')
+   dier = input()
+   if dier __ 'hond':
+     print('waf')
+   else:
+     print('miauw')
+```
+
+```python
+3. print('koe of varken')
+   dier = input()
+   if dier == ...:
+     print('boe')
+   else:
+     print('oink')
+```
+
+```python
+4. print('koe of kikker')
+   dier = input()
+   if dier == ...:
+     print('boe')
+   else:
+     print(...)
+```
+
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+
+ **Fouten bij if-else commando's**
+
+1\) Fout of niet? Lees de code plus invoer. Voorspel of er een fout komt, of niet.
+
+Komt er een fout, schrijf dan in je schrift: FOUT. Komt er geen fout, schrijf dan op wat de code print.
+
+Voorbeeld:
+
+```python
+   print('Nederlands of Frans')
+   taal = input()
+   if taal == 'Nederlands':
+     print('Hallo')
+   else:
+     print('Bonjour')
+   ---
+   Input: Frans
+```
+
+De code…. print 'Bonjour'   
+  
+Voorbeeld:
+
+```python
+   print('Nederlands of Frans')
+   taal = input()
+   if taal == 'Nederlands'
+     print('Hallo')
+   else:
+     print('Bonjour')
+   ---
+   Input: Frans
+```
+
+De invoer is: Frans. De code…. is FOUT, want de eerste regel mist een :
+
+Nu jij!
+
+```python
+1. print('Nederlands of Frans')
+   taal = input()
+   if taal == 'Nederlands':
+     print('Hallo')
+   else
+     print('Bonjour')
+   ---
+   Input: Frans
+```
+
+```python
+2. print('Nederlands of Frans')
+   taal = input()
+   if taal = 'Nederlands':
+     print('Hallo')
+   else
+     print('Bonjour')
+    ---
+   Input: Nederlands
+```
+
+```python
+3. print('Nederlands of Frans')
+   taal == input()
+   if taal = 'Nederlands':
+     print('Hallo')
+   else:
+     print('Bonjour')
+    ---
+   Input: Frans
+```
+
+```python
+4. print('Engelse of Frans')
+   taal = input()
+   if taal == 'Engels':
+     print('Bonjour!')
+   else:
+     print('Hello!')
+  ---
+   Input: Engelse
+```
+
+```python
+7. print('Duits', 'of', 'Nederlands')
+   taal = input()
+   if taal == 'Duits':
+   print('Gutenabend!')
+   else:
+   print('Goedeavond!')
+  ---
+   Input: Duits
+```
+
+```python
+7. print('Duits', 'of', 'Nederlands')
+   taal = input()
+   if taal == 'Duits':
+     print('Gutenabend!')
+   else:
+     print('Goedeavond!')
+  ---
+   Input: Nederlands
+```
+
+```python
+7. print('Duits', 'of', 'Nederlands')
+   taal = input()
+   if taal() == 'Duits':
+     print('Gutenabend!')
+   else:
+     print('Goedeavond!')
+  ---
+   Input: Duits
+```
+
+ 2\) Foutmeldingen lezen
+
+Je krijgt steeds een foutmelding te zien. Wat is er mis?
+
+```python
+1.  if in_de_thee == 'suiker'                                       ^
+
+    SyntaxError: invalid syntax
+```
+
+```python
+2.  print('gieten')
+        ^
+    IndentationError: expected an indented block
+```
+
+```python
+3.  if input('melk of suiker?') = 'suiker':
+                                ^
+    SyntaxError: invalid syntax
+```
+
+```python
+4.  if in_de_thee == 'suiker:
+                                        ^
+    SyntaxError: invalid syntax
 ```
 

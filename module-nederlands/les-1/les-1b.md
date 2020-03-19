@@ -50,3 +50,15 @@ Volg deze stappen:
 
 Gefeliciteerd! Jij hebt nu je tweede Pythonprogramma gemaakt!
 
+### Opdracht 1b-3\) Schrijf een zin
+
+Deze les wordt afgetekend als:
+
+* Je de zin 'Welkom in de programmeerles' kan uitprinten
+* Je de code hiervoor ook in je schrift hebt geschreven
+
+**Opdracht.**
+
+Jij gaat een zin uitprinten in Python: _Welkom in de programmeerles._  
+Denk aan de punt!
+

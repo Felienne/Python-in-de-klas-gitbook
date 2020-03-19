@@ -6,6 +6,7 @@ Aan het einde van de les kun jij:
 
 * Python-code schrijven in repl.it
 * print\(\) gebruiken om woorden te laten zien
+* meerdere regels laten zien
 * aanhalingstekens gebruiken 
 * goede en foute print-codes vinden
 * weten wat je moet doen als je een foutmelding van Python krijgt
@@ -155,4 +156,67 @@ print('Python)
 Deze code is fout omdat er maar 1 aanhalingsteken om het woord staat.
 
 3\) Schijf nu in je schrift de goede versie op van de 3 verkeerde codes hierboven.
+
+**Onder elkaar**
+
+1\) Wat printen deze codes uit? Schrijf het antwoord op in je schrift! Wees _heel_ precies.
+
+Let op: **Er zitten ook foute codes tussen!** Als een code fout is, schrijf dan op: **FOUT.**
+
+```python
+1.print('Hallo', 'allemaal')
+```
+
+```python
+2.print('Hallo)
+  print('Allemaal')
+```
+
+```python
+3.print('Hallo' , allemaal')
+```
+
+```python
+4.print('Hallo')
+  print('allemaal')
+```
+
+```python
+5.print('Hallo Allemaal')
+```
+
+```python
+6.prit('Hallo')
+  prit('Allemaal')
+```
+
+2\) Hier staan drie codes en drie resultaten: de woorden die in beeld komen.
+
+Welke code hoort bij welk resultaat?
+
+Schrijf de codes over in je schrift, met het resultaat erachter.
+
+Bijvoorbeeld:
+
+```python
+print('test')  > test
+```
+
+**Let op:** een van de drie codes geeft een fout.
+
+Codes: Resultaten:
+
+```python
+print(goedemorgen)                              # >goedemorgen
+```
+
+```python
+print('Goedemorgen')                            # >Goedemorgen
+```
+
+```python
+print('goedemorgen')                            # >FOUT
+```
+
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 

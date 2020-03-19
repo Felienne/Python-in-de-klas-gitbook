@@ -1,82 +1,84 @@
-# Les 3b
+# Les 4b
 
-### Opdracht 3b-1\) Schijf een verhaal over een dier \(als je dit nog niet had vorige les\)
-
-Deze les wordt afgetekend als:
-
-* Je bovenaan je programma netjes commentaar hebt geschreven
-* Je een _samenhangend_ verhaal van minstens drie zinnen print met print\(\), 
-
-  compleet met hoofdletters en punten op het einde! 
-
-* Het verhaal als hoofdrolspeler een dier heeft. Je mag zelf kiezen welk dier.
-
-**Opdracht.**
-
-Verzin minstens drie zinnen over een dier. Zorg dat de zinnen een beetje op elkaar aansluiten. Bijvoorbeeld:
-
-De schildpad loopt door het bos.  
-De schildpad heeft honger.  
-De schildpad zoekt een tomaat.
-
-Print de zinnen met Python. Je hoeft nog geen variabele te gebruiken.
-
-### Opdracht 3b-2\) Voeg een variabele toe
+## Opdracht 4b-1\) Maak drie verhalen
 
 Deze les wordt afgetekend als:
 
-* Je bovenaan je programma netjes commentaar hebt geschreven.
-* Je een variabele `dier` hebt gemaakt waarin je jouw dier opslaat. 
-* Je de variabele `dier` ook gebruikt in je zinnen.
-* Jouw dier \(bijvoorbeeld de schildpad\) maar 1 keer in de code staat
+* Je je programma van vorige week hebt geopend \('les-3b'\)
+* Je in dat programma drie verhalen print met daarin:
+  * Dezelfde zinnen, behalve ... In ieder verhaal een ander dier
 
 **Opdracht.**
 
-In jouw verhaal staat nu drie keer het dier, kijk maar in het voorbeeld:
+Open je programma van vorige les \('les-3b'\). Je hebt daar één of twee verhalen in staan. Zorg nu dat je drie verhalen krijgt. Je kunt daarvoor de code kopieëren die je al hebt.
 
-De schildpad loopt door het bos.  
-De schildpad heeft honger.  
-De schildpad zoekt een tomaat.
+Tips:
 
-Stap 1\) We willen nu het stukje zin 'De schildpad' opslaan in een variabele. Noem de variabele `dier`.  
-Stap 2\) Verander de print\(\)s die je hebt zodat de variabele gebruikt.
+* De code wordt van boven naar beneden gelezen!
+* Als je klaar bent, staat er drie keer `dier =` in je code, steeds met een ander dier erachter.
 
-Tip: Als je klaar bent, staat jouw dier:
-
-* een keer in je code, maar...
-* drie keer in je verhaal!
-
-### Opdracht 3b-3\) Maak een ander verhaal
+## Opdracht 4b-2\) Sla je dieren op in een lijst
 
 Deze les wordt afgetekend als:
 
-* Je de variabele een andere waarde hebt gegeven.
+* Je een lijst hebt gemaakt met je drie dieren erin
 
 **Opdracht.**
 
-We gaan controleren of je je code goed hebt aangepast. Bovenaan jouw code staat:
+Je hebt drie dieren bedacht in opdracht 4b-1. Maak nu een lijst, en noem de lijst `dieren`.   
+Zet alledrie de dieren in de lijst.   
+  
+**Let op:** Je hoeft nog geen aanwijzers te gebruiken voor deze opdracht.
+
+## Opdracht 4b-3\) Verander je variabelen in aanwijzers uit de lijst
+
+Deze les wordt afgetekend als:
+
+* Je in je verhalen de lijst `dieren` en drie aanwijzers gebruikt, ipv de variabele dier.
+
+**Opdracht.**
+
+Je hebt in je code nog drie keer `dier = ...` staan. Dat ga je nu veranderen in `dieren[0], dieren[1] en dieren[2]`.
+
+Tips:
+
+* De code wordt nog steeds van boven naar beneden gelezen.
+* Als je het goed hebt gedaan, dan heb je nog steeds hetzelfde verhaal als je eerst had.
+
+## Opdracht 4b-4\) Maak de lijst langer
+
+Deze les wordt afgetekend als:
+
+* Je een lijst hebt gemaakt van minstens vijf dieren
+* Je nog maar één verhaal print met een dier erin 
+  * je mag dus het tweede en derde verhaal weghalen
+  * geen zorgen, die komen wel weer terug!
+
+**Opdracht.**
+
+Maak de lijst nu nog langer. Zorg dat er minstens vijf dieren in staan. Verwijder  ook de stukken verhaal waarin je `dieren[1]` en `dieren[2]` gebruikt.
+
+## Opdracht 4b-5\) Een willekeurig dier in je verhaal \(extra\)
+
+Deze les wordt afgetekend als:
+
+* Je bovenaan je code hebt geschreven `import random`
+* Je een zin in je code hebt waarin steeds een ander dier verschijnt
+* Je in je schrift schrijft hoe deze code werkt
+
+**Opdracht.**
+
+Lees deze opdracht goed! Er komt nieuwe code in voor die nog niet is uitgelegd in de klas.
+
+Je hebt een lijst met vijf dieren erin gemaakt. Maar je krijgt nu steeds dezelfde te zien in je verhaal. We gaan dat nu veranderen, zodat je steeds een ander dieren in je verhaal krijgt.
+
+Random is Engels voor willekeurig. Met random-opdrachten kun je Python steeds iets anders laten doen. Shuffle betekent schudden. De shuffle\(\)-opdracht schudt de dieren door elkaar.
+
+Zet deze code onder `dieren =`:
 
 ```python
-dier = 'schildpad' 
+random.shuffle(dieren)
 ```
 
-Maar het kan bij jou natuurlijk een ander dier zijn. Verander deze regel nu eventjes in een ander dier, bijv. papegaai. Veranderen nu alle dieren in jouw verhaal? Zo ja, dan heb je het goed gedaan!
-
-### Opdracht 3b-4\) Maak twee verhalen \(extra\)
-
-Deze les wordt afgetekend als:
-
-* Je twee verhalen krijgt met daarin:
-  * Dezelfde zinnen, behalve...
-  * Per verhaal een ander dier
-
-**Opdracht.**
-
-Kopieer de codes die je al hebt. Je hebt nu dus op twee plaatsten `dier =` staan. Maak ze allebei anders.  
-Nu heb je twee keer het verhaal, maar steeds met een ander dier.
-
-Tip: Als je klaar bent, staan er twee dieren, allebei:
-
-* een keer in je code, maar...
-* drie keer in je verhaal!
+Voer je code een paar keer uit. Wat gebeurt er nu? Schrijf duidelijk in je schrift hoe je denkt dat deze code werkt.
 

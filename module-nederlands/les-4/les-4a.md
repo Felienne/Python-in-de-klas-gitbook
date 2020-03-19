@@ -1,214 +1,33 @@
-# Les 4a
+# Les 5a
 
-### Lijsten
+## input
 
 Aan het einde van de les kun jij:
 
-* woorden in een lijst aanwijzen
-* voorspellen wat code met een lijst erin doet
-* goede en foute print\(\)-codes vinden met lijsten erin
+* invoer gebruiken in je programma met `input()`
+* de invoer van een gebruiker opslaan in een variabele
+* goede en foute code met input herkennen
 
 **Even opfrissen!**
 
-**Begin op een nieuwe pagina en zet erboven: Les 4a**
+**Begin op een nieuwe pagina en zet erboven: Les 5a**
 
-Wat print Python als deze codes worden uitgevoerd?
+**Goed of fout?**
 
-Als er een fout in de code zit, schrijf dan FOUT!
+1\) Is de code goed of fout?
 
-```python
-1. doelgroep = 'leerlingen'
-   print('Hallo', doelgroep)
-```
-
-```python
-2. naam = 'Jansen'
-   #print('Hallo', 'meneer', naam)
-```
-
-```python
-3. eten = 'stamppot'
-   print('We', 'eten', eten)
-```
-
-```python
-4. #print('Goedemorgen')               
-   print('Klas', '1c')
-```
-
-```python
-5. klas = '1c'
-   print('Hallo', '1c')
-```
-
-```python
-6. #klas = c              
-   print('Leerlingen', 'uit', klas)
-```
-
-```python
-7. tijd = 'half 9'
-   print('Het', 'is', half, 9)
-```
-
-**Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.**
-
-Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
-
- **Lijsten maken**
-
-1\) Hieronder staan een aantal incomplete opdrachten om lijsten te vullen. Schijf ze over in je schrift en vul de juiste tekens in op de stippeltjes.
-
-```python
-1. dieren = ['konijn' ... 'biggetje']
-```
-
-```python
-2. hobbies ... [ ... dansen ... , ... voetballen ...]
-```
-
-```python
-3. kleuren ... ... ... groen ... , ... geel ... ... ... blauw ... ...
-```
-
-2\) Schijf nu de code voor deze lijsten zelf:
-
-* lijst `namen` met daarin de woorden: Jan, Merel, Samir
-* lijst `vakken` met daarin de woorden: Frans, Aardrijkskunde, Coderen
-* lijst `engelse_woorden`. Verzin zelf 3 Engelse woorden om in je lijst op te slaan
-
-Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
-
-Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
-
- **Aanwijzen in een lijst**
-
-1\) Hier staan steeds lijsten in code, en een aanwijzer.
-
-Wat wordt er uitgeprint?
-
-Soms komt er een fout! Schrijf dan FOUT.
-
-```python
-1. dieren = ['konijn', 'biggetje', 'vleermuis']            
-   print(dieren[2])
-```
-
-```python
-2. dieren = ['konijn', 'biggetje', 'vleermuis']            
-   print(dieren[0])
-```
-
-```python
-3. dieren = ['konijn', 'biggetje', 'vleermuis']            
-   print(dieren[3])
-```
-
-```python
-4. kleuren = ['blauw', 'geel', 'groen']            
-   print(kleuren[1])
-```
-
-```python
-5. kleuren = ['blauw', 'geel', 'groen']            
-   print(kleuren[0])
-```
-
-2\) Nu printen we zinnetjes. In de zin staat een woord uit een lijst. Wat komt er uit deze codes?
-
-```python
-1. dieren = ['konijn', 'biggetje', 'vleermuis']            
-   print('In', 'het', 'bos', 'loopt', 'een', dieren[1])
-```
-
-```python
-2. kleuren = ['blauw', 'geel', 'groen']            
-   print('De', 'deur', 'is', kleuren[0])
-```
-
-```python
-3. hobbies = ['dansen', 'voetballen', 'zingen']            
-   print('Ik', 'zit', 'op', hobbies[2])
-```
-
-```python
-4. kleuren = ['blauw', 'geel', 'groen', 'paars', 'roze']            
-   print('Mijn', 'trui', 'is', kleuren[4])
-```
-
-```python
-5. namen = ['Jan', 'Robin', 'Samir']
-   print(namen[2], 'is', 'mijn', 'beste', 'vriend')
-```
-
-```python
-6. vakken = ['Aardrijkskunde', 'Nederlands', 'Coderen']
-   print('Ik', 'vind', vakken[2], 'een', 'leuk', 'vak')
-```
-
-3\) Nu andersom!
-
-Nu krijg je de zin, en moet jij de code afmaken.
-
-1. Er moet geprint worden: 'De deur is geel' Maak de code af in je schrift. 
-
-   ```python
-   kleuren = ['blauw', 'geel', 'groen']            
-   print('De', 'deur', 'is', kleuren[...])
-   ```
-
-2. Er moet geprint worden: 'Ik hou van chocolade' 
-
-   ```python
-   snoepjes = ['chocolade', 'zuurtjes', 'drop']
-   print('Ik', 'hou', 'van', snoepjes[...])
-   ```
-
-**Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.**
-
-Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
-
- **Foutjes bij aanwijzen**
-
-1\) Fout of niet? Lees de code en bedenk of er een fout komt, of niet.
-
-Komt er een fout, schrijf dan in je schrift: FOUT. Komt er geen fout, schrijf dan op wat de code print.
-
-```python
-1. dieren = ['konijn', 'biggetje', 'vleermuis']            
-   print(dieren[3])
-```
-
-```python
-2. dieren = ['konijn', 'biggetje', 'vleermuis']            
-   print(dieren[0])
-```
-
-```python
-3. dieren = ['konijn', 'biggetje', 'vleermuis']            
-   print(dieren[10])
-```
-
-```python
-4. kleuren = ['blauw', 'geel', 'groen']            
-   print('kleuren[1]')
-```
-
-```python
-5. kleuren = ['blauw', 'geel', 'groen', 'roze']            
-   print(kleuren[])
-```
-
-2\) Nog meer fouten! Hier zijn nog wat codes. Welke is goed en welke is fout? Let goed op: er kunnen nu ook foutjes in andere dingen staan, niet alleen in de aanwijzer!
+* De code is goed -&gt; schrijf wat de code print
+* De code is fout -&gt; schrijf FOUT
+* Extra: schrijf ook **wat** er fout is
 
 ```python
 1. hobbies = ['dansen', 'voetballen', 'zingen']            
-   prnt('Zullen', 'we', 'gaan', hobbies[4], 'morgen')
+   print('Zullen', 'we', 'gaan', hobbies[1], 'morgen')
 ```
 
 ```python
 2. namen = ['Jan', 'Robin', 'Samir']
-   print('Mijn', 'beste', 'vriend', 'heet', namen['1'])
+   print('Mijn', 'beste', 'vriend', 'heet', namen[0])
 ```
 
 ```python
@@ -238,12 +57,12 @@ Komt er een fout, schrijf dan in je schrift: FOUT. Komt er geen fout, schrijf da
 
 ```python
 8. namen = ['Jan', 'Robin', 'Samir']
-   print namen[3], 'is', 'mijn', 'beste', 'vriend')
+   print(namen[3], 'is', 'mijn', 'beste', 'vriend')
 ```
 
 ```python
 9. vakken = ['Aardrijkskunde', 'Nederlands', 'Coderen']
-   print('Ik', 'vind', vakken[0], 'leuk')
+   print('Ik', 'vind', vakken[4], 'leuk')
 ```
 
 ```python
@@ -251,5 +70,196 @@ Komt er een fout, schrijf dan in je schrift: FOUT. Komt er geen fout, schrijf da
    print('De', 'deur', 'is', kleuren[1])
 ```
 
-**Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel**
+```python
+11.doelgroep = 'leerlingen'
+   print('Hallo', doelgroep)
+```
+
+```python
+12.naam = 'Jansen'
+   #print('Hallo', 'meneer', naam)
+```
+
+```python
+13. #klas = c              
+   print('Leerlingen', 'uit', klas)
+```
+
+```python
+14.dag = 'woensdag'
+   print('Het', 'is', 'vandaag', 'woensdag')
+```
+
+ 2\) Maak de code af
+
+Je krijgt een zin, en jij moet de code afmaken. Je hoeft alleen de lijst en de aanwijzer in je schrift te schrijven. Voorbeeld:
+
+Er moet geprint worden: 'Ik vind geel mooi' Maak de code af in je schrift.
+
+```python
+   kleuren = ['blauw', 'geel', 'groen']            
+   print('Ik', 'vind', kleuren[...], 'mooi')
+```
+
+Dan schijf jij in je schrift: kleuren\[1\] Nu jij!
+
+1. Er moet geprint worden: 'De trui is groen' Maak de code af in je schrift. 
+
+```python
+   kleuren = ['blauw', 'geel', 'groen']            
+   print('De', 'trui', 'is', kleuren[...])
+```
+
+1. Er moet geprint worden: 'Ik hou van drop' 
+
+```python
+   snoepjes = ['chocolade', 'zuurtjes', 'drop']
+   print('Ik', 'hou', 'van', snoepjes[...])
+```
+
+1. Er moet geprint worden: 'Zullen we gaan gamen morgen?'
+
+```python
+   hobbies = ['gamen', 'voetballen', 'zingen']            
+   print('Zullen', 'we', 'gaan', hobbies[...], 'morgen?')
+```
+
+1. Er moet geprint worden: 'Mijn beste vriend heet Samir'
+
+```python
+   namen = ['Jan', 'Robin', 'Samir']
+   print('Mijn', 'beste', 'vriend', 'heet', namen[...])
+```
+
+1. Er moet geprint worden: 'De beste programmeertaal is Python'
+
+```python
+   talen = ['Python', 'JavaScript', 'HTML']
+   print('De', 'beste', 'programmeertaal', 'is', talen[...] )
+```
+
+1. Er moet geprint worden: 'Ik woon in de Takstraat'
+
+```python
+   straatnamen = ['Witte Hertstraat', 'Takstraat', 'Coolsingel']
+   print('Ik', 'woon', 'in', 'de', straatnamen[...])
+```
+
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+
+Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
+
+ **Invoer**
+
+1\) Je krijgt een aantal codes, én de invoer van een gebruiker.
+
+Voorbeeld:
+
+```python
+   print('Koffie', 'of', 'thee?')
+   drinken = input()
+   print('Je', 'wilt', 'dus', drinken)
+   ---
+   Input: koffie
+```
+
+De invoer is: koffie \(kijk bij Input\) De code print: Je wilt dus koffie.
+
+Nu jij!
+
+```python
+1. print('Suiker', 'of', 'melk?')
+   in_de_thee = input()
+   print('Okee', 'ik', 'doe', 'er', in_de_thee, 'in')
+   ---
+   Input: melk
+```
+
+```python
+2. print('Hoe', 'laat', 'is', 'het?')
+   tijd = input()
+   print('Het', 'is', tijd)
+   ---
+   Input: tien uur
+```
+
+```python
+3. print('Hoe', 'heet', 'jij?')
+   naam = input()
+   print('Hallo', naam)
+   ---
+   Input: Jantien
+```
+
+```python
+4. print('Hoe', 'heet', 'jij?')
+   naam = input()
+   print('Hallo', 'naam')
+   ---
+   Input: Achmed
+```
+
+**Fouten bij input**
+
+1\) Wat print deze code? Is de code fout -&gt; schrijf FOUT Is de code goed -&gt; schrijf wat de code print
+
+```python
+1. print('Hoe', 'heet', 'jij?'
+   naam = input()
+   print('Hallo', 'naam')
+   ---
+   Input: Achmed
+```
+
+```python
+2. print('Hoe', 'heet', 'jij?')
+   voornaam = input()
+   print('Hallo', naam)
+   ---
+   Input: Sabine
+```
+
+```python
+3. print('Koffie', 'of', 'thee?')
+   drinken = input
+   print('Je', 'wilt', 'dus', drinken)
+   ---
+   Input: thee
+```
+
+```python
+4. print('Regent', 'het?')
+   antwoord = input()
+   print(antwoord, 'het', 'regent')
+   ---
+   Input: Ja
+```
+
+2\) Fouten
+
+Al deze codes zijn fout. Wat is er mis?
+
+```python
+1. print('Over', 'welk', 'dier', 'gaat', 'het?')
+   dier = input()
+   print('Dit', 'verhaal', 'gaat', 'over', dier
+```
+
+```python
+2. print('Over', 'welk', 'dier', 'gaat', 'het?')
+   input()
+   print('Dit', 'verhaal', 'gaat', 'over', dier)
+```
+
+```python
+3. print('Koffie', 'of', 'thee?')
+   drinken = input
+   print('Je', 'wilt', 'dus', drinken)
+```
+
+```python
+4. print('Regent', 'het?')
+   antwoord input()
+   print(antwoord, 'het', 'regent')
+```
 

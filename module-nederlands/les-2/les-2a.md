@@ -1,12 +1,14 @@
-# Les 2a
+# Les 3a
 
-## Printen
+## Variabelen
 
 Aan het einde van de les kun jij:
 
-* meerdere regels laten zien
 * 'commentaar' schrijven en herkennen
-* goede en foute print-codes vinden
+* tekst opslaan in een variabele
+* een variabele gebruiken om een tekst meerdere keren te printen
+* voorspellen wat een code doet met een variabele erin
+* goede en foute print\(\)-codes vinden met een variabele erin
 
 ### **Even opfrissen!**
 
@@ -72,68 +74,36 @@ Schrijf de code voor het zinnetje in je schrift.
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
-**Onder elkaar**
 
-1\) Wat printen deze codes uit? Schrijf het antwoord op in je schrift! Wees _heel_ precies.
+5\) Wat is de fout?
 
-Let op: **Er zitten ook foute codes tussen!** Als een code fout is, schrijf dan op: **FOUT.**
+Al deze codes zijn fout. Wat is er mis?
+
+Schrijf in je schrift wat de fout is.
 
 ```python
-1.print('Hallo', 'allemaal')
+1. prnt('Hallo', 'allemaal')
 ```
 
 ```python
-2.print('Hallo)
-  print('Allemaal')
+2. print('Hallo') print('Allemaal')
 ```
 
 ```python
-3.print('Hallo' , allemaal')
+3. print('Hallo' , allemaal')
 ```
 
 ```python
-4.print('Hallo')
-  print('allemaal')
+4. print('Hallo' 'allemaal')
 ```
 
 ```python
-5.print('Hallo Allemaal')
+5. print 'Hallo Allemaal'
 ```
 
 ```python
-6.prit('Hallo')
-  prit('Allemaal')
-```
-
-2\) Hier staan drie codes en drie resultaten: de woorden die in beeld komen.
-
-Welke code hoort bij welk resultaat?
-
-Schrijf de codes over in je schrift, met het resultaat erachter.
-
-Bijvoorbeeld:
-
-```python
-print('test')  > test
-```
-
-**Let op:** een van de drie codes geeft een fout.
-
-Codes: Resultaten:
-
-```python
-print(goedemorgen)                              # >goedemorgen
-```
-
-```python
-print('Goedemorgen')                            # >Goedemorgen
-```
-
-```python
-print('goedemorgen')                            # >FOUT
-```
-
-Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
+6. prit('Hallo')
+   prit('Allemaal')
 
 ### **Commentaar**
 
@@ -206,4 +176,136 @@ print('klas', '1c')
 ```
 
  \pagebreak &lt;- enter2 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
+
+
+
+### **Waardes zoeken**
+
+1\) In Python kun je woorden zonder aanhalingstekens gebruiken. Dat zijn variabeles. Als Python een variabele tegenkomt gaat hij omhoog zoeken in het programma naar de _definitie_ van de variabele. Dat betekent waar de variabele wordt ingesteld met een is-teken:
+
+```python
+naam = 'Felienne'
+```
+
+Schrijf deze codes over. Zet een pijltje tussen het gebruik van een variabele en zijn definitie.
+
+![De variabele klas en een pijltje naar de definitie ervan](../../.gitbook/assets/image-20190206124246541.png)
+
+```python
+1. les = 'Coderen'
+   print('Welkom', 'bij', les)
+```
+
+```python
+2. klas = '1c'
+   print('Hallo', klas)
+```
+
+```python
+3. les = 'Coderen'
+   klas = '1c'
+   print('Hallo' , klas, 'dit', 'is', les)
+```
+
+2\) Hieronder staan codes met een variabele erin. Wat print Python uit als we deze codes uitvoeren?
+
+Schrijf de uitvoer in je schrift.
+
+**Let op!** Een van de codes is fout. Schijf daarbij op: FOUT.
+
+```python
+1. print('Hallo', 'allemaal')
+```
+
+```python
+2. klas = '1c'
+   print('Hallo', klas)
+```
+
+```python
+3. achternaam = 'Hermans'
+   print('Hallo', 'mevrouw', achternaam)
+```
+
+```python
+4. print('Hallo', )
+```
+
+```python
+5. klas = 'klas 1c'
+   print('Hallo' 'leerlingen', 'van', klas)
+```
+
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+
+### **Naam niet gedefinieerd**
+
+Is de code goed of fout? Kijk goed of de variabele die gebruikt wordt wel gedefinieerd is.
+
+* Als de code fout is, schijf je Fout
+* Als de code goed is, schrijf je op wat er geprint wordt.
+
+Voorbeeld 1\)
+
+```python
+naam = 'Felienne'
+print(voornaam)
+```
+
+Deze code is fout, want `voornaam` bestaat niet. Dan schrijf je:
+
+Fout
+
+Voorbeeld 2\)
+
+```python
+klas = '1c'
+print('Hallo', klas)
+```
+
+Deze code is goed, klas is nu '1c'. Dan schrijf je:
+
+Hallo 1c
+
+Nu jij!
+
+```python
+1. klas = '1c'
+   print('Hallo', naam)
+```
+
+```python
+2. klas = '1c'
+   print('Hallo', '1c')
+```
+
+```python
+3. achternaam = 'Hermans'
+   print('Hallo', 'mevrouw', Hermans)
+```
+
+```python
+4. tijd_op_klok = 'half 9'
+   print('Het', 'is', tijd_op_klok)
+```
+
+```python
+5. klas = 'klas 1c'
+   print('Hallo', 'leerlingen', 'van', klas)
+```
+
+```python
+6. print(Goedemorgen)
+
+```
+
+```python
+7. tijd = 'half 9'
+   print('Het', 'is', 'tijd')
+```
+
+```python
+8. print('Goedemorgen')
+
+```
 
