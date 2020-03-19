@@ -17,8 +17,7 @@ Neem voor de gastles, nakijkmodules, certificaten en vragen contact op met VHTO 
 
 Meer informatie over Computer Science Certificate, waaronder ervaringen van leerlingen en docenten, is te vinden op onze [website](https://www.vhto.nl/projecten/computer-science-certificate/over-computer-science-certificate/). 
 
-<img src="/img/logoCSCert.jpg" width="25%"/>
 
-![](/img/logoCSCert.jpg | width=25%)
+![](/img/logoCSCert_10cm.jpg)
 
 ## 
