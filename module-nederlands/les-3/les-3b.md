@@ -1,6 +1,6 @@
-# Les 4b
+# Les 3b
 
-## Opdracht 4b-1\) Maak drie verhalen
+## 1\) Maak drie verhalen
 
 Deze les wordt afgetekend als:
 
@@ -17,7 +17,7 @@ Tips:
 * De code wordt van boven naar beneden gelezen!
 * Als je klaar bent, staat er drie keer `dier =` in je code, steeds met een ander dier erachter.
 
-## Opdracht 4b-2\) Sla je dieren op in een lijst
+## 2\) Sla je dieren op in een lijst
 
 Deze les wordt afgetekend als:
 
@@ -30,7 +30,7 @@ Zet alledrie de dieren in de lijst.
   
 **Let op:** Je hoeft nog geen aanwijzers te gebruiken voor deze opdracht.
 
-## Opdracht 4b-3\) Verander je variabelen in aanwijzers uit de lijst
+## 3\) Verander je variabelen in aanwijzers uit de lijst
 
 Deze les wordt afgetekend als:
 
@@ -45,7 +45,7 @@ Tips:
 * De code wordt nog steeds van boven naar beneden gelezen.
 * Als je het goed hebt gedaan, dan heb je nog steeds hetzelfde verhaal als je eerst had.
 
-## Opdracht 4b-4\) Maak de lijst langer
+## 4\) Maak de lijst langer
 
 Deze les wordt afgetekend als:
 
@@ -58,7 +58,7 @@ Deze les wordt afgetekend als:
 
 Maak de lijst nu nog langer. Zorg dat er minstens vijf dieren in staan. Verwijder  ook de stukken verhaal waarin je `dieren[1]` en `dieren[2]` gebruikt.
 
-## Opdracht 4b-5\) Een willekeurig dier in je verhaal \(extra\)
+## 5\) Een willekeurig dier in je verhaal \(extra\)
 
 Deze les wordt afgetekend als:
 
@@ -82,3 +82,4 @@ random.shuffle(dieren)
 
 Voer je code een paar keer uit. Wat gebeurt er nu? Schrijf duidelijk in je schrift hoe je denkt dat deze code werkt.
 
+![](/img/logoCSCert_10cm.jpg)

@@ -1,6 +1,6 @@
-# Les 3b
+# Les 2b
 
-### **Opdracht 2b-1\) Log in en maak een nieuw programma**
+### **1\) Log in en maak een nieuw programma**
 
 Deze les wordt afgetekend als:
 
@@ -12,7 +12,7 @@ Voor als je het vergeten bent:
 * Als emailadres heb je je school-email gebruikt
 * Je wachtwoord is je wachtwoord van school
 
-#### Opdracht 2b-2\) Voeg commentaar toe 
+#### 2\) Voeg commentaar toe 
 
 Deze les wordt afgetekend als: 
 
@@ -27,7 +27,7 @@ Zet deze regels in commentaar bovenaan je programma:
 1. Dit programma is gemaakt door …….  
 2. Wat ik nog weet over print\(\) is: 
 
-### Opdracht 3b-3\) Schijf een verhaal over een dier 
+### O3\) Schijf een verhaal over een dier 
 
 Deze les wordt afgetekend als:
 
@@ -73,7 +73,7 @@ Tip: Als je klaar bent, staat jouw dier:
 * een keer in je code, maar...
 * drie keer in je verhaal!
 
-### Opdracht 3b-3\) Maak een ander verhaal
+### 4\) Maak een ander verhaal
 
 Deze les wordt afgetekend als:
 
@@ -107,3 +107,4 @@ Tip: Als je klaar bent, staan er twee dieren, allebei:
 * een keer in je code, maar...
 * drie keer in je verhaal!
 
+![](/img/logoCSCert_10cm.jpg)

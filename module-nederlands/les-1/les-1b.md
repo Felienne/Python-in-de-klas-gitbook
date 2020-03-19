@@ -1,6 +1,6 @@
 # Les 1b
 
-## Opdracht 1b-1\) Maak een repl.it account
+## 1\) Maak een repl.it account
 
 Deze les wordt afgetekend als: 
 
@@ -14,7 +14,7 @@ Deze les wordt afgetekend als:
 * Je in onze classroom zit:
   * Ga naar de link die de leraar je geeft.
 
-## Opdracht 1b-2\) Schrijf een woord
+## 2\) Schrijf een woord
 
 Deze les wordt afgetekend als:
 
@@ -32,7 +32,7 @@ Volg deze stappen:
 
 Gefeliciteerd! Jij hebt nu je allereerste Pythonprogramma gemaakt!
 
-## Opdracht 1b-3\) Schrijf een zin
+## 3\) Schrijf een zin
 
 Deze les wordt afgetekend als:
 

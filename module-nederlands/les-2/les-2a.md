@@ -1,4 +1,4 @@
-# Les 3a
+# Les 2a
 
 ## Variabelen
 
@@ -309,3 +309,4 @@ Nu jij!
 
 ```
 
+![](/img/logoCSCert_10cm.jpg)

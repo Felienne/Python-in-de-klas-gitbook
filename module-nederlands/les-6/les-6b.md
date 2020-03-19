@@ -1,6 +1,6 @@
-# Les 7b
+# Eindopdracht
 
-## Opdracht 7b-1\) Maak je verhaal!
+## 1\) Maak je verhaal!
 
 Je hebt de afgelopen weken een hoop geleerd.
 
@@ -20,7 +20,7 @@ Je kunt extra punten verdienen door:
 * Het gebruiken van random.shuffle\(\) &lt;— vergeet dan niet om `import random` bovenaan je code te zetten!
 * Andere coole dingen die je kunt verzinnen!
 
-## Opdracht 7b-2\) Wat vond je ervan?
+## 2\) Wat vond je ervan?
 
 We willen graag weten wat jij van de lessen tot nu toe vond.
 

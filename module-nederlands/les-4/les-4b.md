@@ -1,6 +1,6 @@
-# Les 5b
+# Les 4b
 
-#### Opdracht 5b-1\) Voeg een input toe
+#### 1\) Voeg een input toe
 
 Deze opdracht wordt afgetekend als:
 
@@ -21,7 +21,7 @@ print('Dit', 'verhaal', 'gaat', 'over', dier)
 
 * Denk aan de ronde haakjes achter input!
 
-#### Opdracht 5b-2\) Printen zonder komma's
+#### 2\) Printen zonder komma's
 
 Deze opdracht wordt afgetekend als:
 
@@ -37,7 +37,7 @@ dier = input()
 print('Dit verhaal gaat over', dier)
 ```
 
-#### Opdracht 5b-3\) Maak een verhaal van 5 zinnen.
+#### 3\) Maak een verhaal van 5 zinnen.
 
 Deze opdracht wordt afgetekend als:
 
@@ -49,4 +49,4 @@ Breid nu je verhaal uit tot 5 zinnen. Het mag over alles gaan wat je maar wilt.
 ****
 
 
-
+![](/img/logoCSCert_10cm.jpg)

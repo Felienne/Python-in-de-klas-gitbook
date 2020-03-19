@@ -1,4 +1,4 @@
-# Les 6a
+# Les 5a
 
 **Even opfrissen!**
 
@@ -346,3 +346,4 @@ Je krijgt steeds een foutmelding te zien. Wat is er mis?
     SyntaxError: invalid syntax
 ```
 
+![](/img/logoCSCert_10cm.jpg)

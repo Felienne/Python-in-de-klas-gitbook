@@ -1,4 +1,4 @@
-# Les 4a
+# Les 3a
 
 ### Lijsten
 
@@ -287,3 +287,4 @@ Komt er een fout, schrijf dan in je schrift: FOUT. Komt er geen fout, schrijf da
 
 **Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel**
 
+![](/img/logoCSCert_10cm.jpg)

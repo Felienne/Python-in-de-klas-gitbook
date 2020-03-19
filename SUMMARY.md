@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welkom!](README.md)
+* [Welkom bij Computer Science Certificate!](README.md)
 * [Handleiding](handleiding.md)
 * [Module Nederlands](module-nederlands/README.md)
   * [Les 1](module-nederlands/les-1/README.md)

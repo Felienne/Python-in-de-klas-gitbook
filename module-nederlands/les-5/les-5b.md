@@ -1,6 +1,6 @@
-# Les 6b
+# Les 5b
 
-**Opdracht 6b-1\) Voeg een keuze toe**
+** 1\) Voeg een keuze toe**
 
 Deze les wordt afgetekend als:
 
@@ -28,7 +28,7 @@ Tips voor de if-else
 * Denk aan de dubbele =
 * Denk aan de spaties
 
-### Opdracht 6b-2\) if-else commandos en gewone prints
+### 2\) if-else commandos en gewone prints
 
 Deze les wordt afgetekend als:
 
@@ -39,7 +39,7 @@ Deze les wordt afgetekend als:
 
 Zorg er nu voor dat je verhaal na de if-else verder gaat met een paar gewone print\(\) regels. Let goed op dat die regels nu **niet** met twee spaties beginnen.
 
-### Opdracht 6b-3\) if-else commandos en een lijst
+### 3\) if-else commandos en een lijst
 
 Deze les wordt afgetekend als:
 
@@ -94,3 +94,4 @@ Schrijf duidelijk in je schrift hoe je denkt dat deze code werkt.
 
 Einde werkblad! Hebben we alles afgestempeld? Dan mag je meehelpen met stempelen.
 
+![](/img/logoCSCert_10cm.jpg)
