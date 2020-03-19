@@ -1,5 +1,7 @@
 # Welkom!
 
+![](logoCSCert.jpg)
+
 Welkom bij Computer Science Certificate. 
 
 Het Computer Science Certificate is een lesprogramma dat zich richt op programmeeronderwijs voor leerlingen in de onderbouw van het voortgezet onderwijs. Het lesprogramma is erop gericht om leerlingen stapsgewijs te begeleiden, feedback te geven en hen zelfvertrouwen op te laten bouwen door hen een erkend Computer Science-certificaat te laten behalen. Door leerlingen al op jongere leeftijd kennis te laten maken met programmeren willen we de keuze voor het vak Informatica in de bovenbouw stimuleren. Belangrijk speerpunten van het certificaat zijn genderinclusief onderwijs, diversiteit en maatschappelijke relevantie.
