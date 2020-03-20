@@ -57,6 +57,8 @@ Extra -&gt; Schrijf ook op wat de fout it
    Input: hond
 ```
 
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+
 ### If-else commando's
 
 1\) Je krijgt een aantal codes, én de invoer van een gebruiker. Wat wordt er geprint?
