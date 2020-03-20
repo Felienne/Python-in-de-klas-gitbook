@@ -46,7 +46,7 @@ Volg deze stappen:
 
 Gefeliciteerd! Jij hebt nu je tweede Python-programma gemaakt!
 
-### 4\) Schijf meerdere zinnen
+## 4\) Schijf meerdere zinnen
 
 Deze les wordt afgetekend als:
 
