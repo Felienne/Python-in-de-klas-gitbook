@@ -23,7 +23,7 @@ print('Goedemorgen')
 Je kunt ook meerdere woorden printen, bijvoorbeeld:
 
 ```python
-print('Goedemorgen', 'leerlingen', 'uit', '1c')
+print('Goedemorgen', 'leerlingen', 'uit', 'deze', 'klas)
 ```
 
 1\) Welke van deze print\(\) opdrachten print **Goedemorgen** uit?
@@ -102,6 +102,7 @@ Schrijf in je schrift wat de fout is.
 ```python
 6. prit('Hallo')
    prit('Allemaal')
+```
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
@@ -151,7 +152,7 @@ Schrijf de uitvoer in je schrift.
 
 ```python
 print('Goedemorgen')               
-#print('klas 1c')
+#print('leerlingen')
 ```
 
 ```python
@@ -166,13 +167,8 @@ print('Dit', 'is', 'Python!') #maar ook drie
 ```
 
 ```python
-print('Goedemorgen')  #een woord           
-#print('klas 1c') #twee woorden met een spatie ertussen
-```
-
-```python
 print('Hallo')               
-print('klas', '1c')
+print('leerlingen', 'uit', 'deze', 'klas')
 ```
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
@@ -196,14 +192,14 @@ Schrijf deze codes over. Zet een pijltje tussen het gebruik van een variabele en
 ```
 
 ```python
-2. klas = '1c'
-   print('Hallo', klas)
+2. doelgroep = 'leerlingen'
+   print('Hallo', doelgroep)
 ```
 
 ```python
 3. les = 'Coderen'
-   klas = '1c'
-   print('Hallo' , klas, 'dit', 'is', les)
+   doelgroep = 'leerlingen'
+   print('Hallo' , doelgroep, 'dit', 'is', les)
 ```
 
 2\) Hieronder staan codes met een variabele erin. Wat print Python uit als we deze codes uitvoeren?
@@ -217,8 +213,8 @@ Schrijf de uitvoer in je schrift.
 ```
 
 ```python
-2. klas = '1c'
-   print('Hallo', klas)
+2. doelgroep = 'leerlingen'
+   print('Hallo', doelgroep)
 ```
 
 ```python
@@ -231,8 +227,8 @@ Schrijf de uitvoer in je schrift.
 ```
 
 ```python
-5. klas = 'klas 1c'
-   print('Hallo' 'leerlingen', 'van', klas)
+5. les = 'coderen'
+   print('Hallo' 'leerlingen', 'bij', les)
 ```
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
@@ -258,24 +254,24 @@ Fout
 Voorbeeld 2\)
 
 ```python
-klas = '1c'
-print('Hallo', klas)
+doelgroep = 'leerlingen'
+print('Hallo', doelgroep)
 ```
 
-Deze code is goed, klas is nu '1c'. Dan schrijf je:
+Deze code is goed, doelgroep is nu 'leerlingen'. Dan schrijf je:
 
-Hallo 1c
+Hallo leerlingen
 
 Nu jij!
 
 ```python
-1. klas = '1c'
+1. doelgroep = 'leerlingen'
    print('Hallo', naam)
 ```
 
 ```python
-2. klas = '1c'
-   print('Hallo', '1c')
+2. doelgroep = 'leerlingen'
+   print('Hallo', 'leerlingen')
 ```
 
 ```python
@@ -289,8 +285,8 @@ Nu jij!
 ```
 
 ```python
-5. klas = 'klas 1c'
-   print('Hallo', 'leerlingen', 'van', klas)
+5. les = 'coderen'
+   print('Hallo', 'leerlingen', 'van', les)
 ```
 
 ```python
