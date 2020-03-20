@@ -2,7 +2,7 @@
 
 ## 1\) Maak drie verhalen
 
-Deze les wordt afgetekend als:
+Deze opdracht wordt afgetekend als:
 
 * Je je programma van vorige week hebt geopend \('les-3b'\)
 * Je in dat programma drie verhalen print met daarin:
@@ -58,7 +58,7 @@ Deze les wordt afgetekend als:
 
 Maak de lijst nu nog langer. Zorg dat er minstens vijf dieren in staan. Verwijder  ook de stukken verhaal waarin je `dieren[1]` en `dieren[2]` gebruikt.
 
-## 5\) Een willekeurig dier in je verhaal \(extra\)
+## Extra\) Een willekeurig dier in je verhaal 
 
 Deze les wordt afgetekend als:
 
