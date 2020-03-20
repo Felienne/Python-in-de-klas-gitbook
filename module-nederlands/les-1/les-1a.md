@@ -49,6 +49,8 @@ Schrijf de code over in je schrift.
 
 3\) Kies nu zelf drie woorden uit om te printen. Schrijf de goede codes in je schrift op.
 
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
+
 ### Meerdere woorden printen
 
 Een print\(\) kan ook meerdere woorden printen. Dan moeten er komma's tussen de woorden. Let goed op, ieder woord moet nog steeds tussen twee aanhalingstekens.
@@ -84,6 +86,8 @@ print ... ... Hallo ... ... ... Allemaal ... ...
 Schrijf de code in je schrift.
 
 3\) Kies nu zelf twee woorden om naast elkaar te printen. Schrijf de goede code op in je schrift.
+
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
 ### Zinnetjes printen
 
@@ -124,6 +128,8 @@ Weet jij welke code goed is?
 3\) Kies nu zelf korte zinnetjes om te printen. Bijvoorbeeld: 'Ik hou van programmeren'.
 
 Schrijf drie codes voor zinnetjes in je schrift.
+
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
 ### Onder elkaar
 
@@ -220,4 +226,4 @@ Deze code is fout omdat er maar 1 aanhalingsteken om het woord staat.
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
-
+![](/img/logoCSCert_10cm.jpg)
