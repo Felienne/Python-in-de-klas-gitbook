@@ -11,7 +11,7 @@ Voor als je het vergeten bent:
 * Als emailadres heb je je school-email gebruikt
 * Je wachtwoord is je wachtwoord van school
 
-#### 2\) Voeg commentaar toe 
+### 2\) Voeg commentaar toe 
 
 Deze opdracht wordt afgetekend als: 
 
