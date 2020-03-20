@@ -10,7 +10,7 @@ Aan het einde van de les kun jij:
 * voorspellen wat een code doet met een variabele erin
 * goede en foute print\(\)-codes vinden met een variabele erin
 
-### **Even opfrissen!**
+### Even opfrissen!
 
 Vorige week hebben we de print\(\) opdracht gezien.
 
@@ -72,8 +72,6 @@ Weet jij welke code goed is?
 
 Schrijf de code voor het zinnetje in je schrift.
 
-Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
-
 
 5\) Wat is de fout?
 
@@ -105,7 +103,9 @@ Schrijf in je schrift wat de fout is.
 6. prit('Hallo')
    prit('Allemaal')
 
-### **Commentaar**
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
+
+### Commentaar
 
 Je kunt Python ook codes laten overslaan met een hekje. Een hekje ziet er zo uit: \# Het hekje staat boven de 3 op je toetsenbord. Iedere regel die achter een hekje staat, wordt overgeslagen.
 
@@ -175,11 +175,10 @@ print('Hallo')
 print('klas', '1c')
 ```
 
- \pagebreak &lt;- enter2 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
 
-
-### **Waardes zoeken**
+### Waardes zoeken
 
 1\) In Python kun je woorden zonder aanhalingstekens gebruiken. Dat zijn variabeles. Als Python een variabele tegenkomt gaat hij omhoog zoeken in het programma naar de _definitie_ van de variabele. Dat betekent waar de variabele wordt ingesteld met een is-teken:
 
@@ -238,7 +237,7 @@ Schrijf de uitvoer in je schrift.
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
-### **Naam niet gedefinieerd**
+### Naam niet gedefinieerd
 
 Is de code goed of fout? Kijk goed of de variabele die gebruikt wordt wel gedefinieerd is.
 
