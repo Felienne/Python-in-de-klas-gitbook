@@ -1,17 +1,14 @@
-`print()`# Les 5b
+# Les 5b
 
-** 1\) Voeg een keuze toe**
+## 1\) Voeg een keuze toe
 
-Deze les wordt afgetekend als:
+Deze opdracht wordt afgetekend als:
 
-* Je een nieuw programma hebt gemaakt \('les-6b'\)
-* Je in dat programma minstens één keuze verwerkt.
+* Je in je programma minstens één keuze verwerkt.
 
 **Opdracht.**
 
-Open een nieuw programma.
-
-Zorg er nu voor de de lezer van je verhaal minstens één keer kan kiezen. Bijvoorbeeld kiezen uit twee dieren.
+Zorg er voor de de lezer van je verhaal minstens één keer kan kiezen. Bijvoorbeeld kiezen uit twee dieren.
 
 ```python
 print('Wil je een verhaal over een hond of een kat?')
@@ -28,20 +25,20 @@ Tips voor de if-else
 * Denk aan de dubbele =
 * Denk aan de spaties
 
-### 2\) if-else commandos en gewone prints
+## 2\) if-else commandos en gewone prints
 
-Deze les wordt afgetekend als:
+Deze opdracht wordt afgetekend als:
 
 * Je een verhaal maakt waarin if-else in zit
-* er in je verhaal ook minstens één print staat die **niet** in een if-else zit
+* Er in je verhaal ook minstens één print staat die **niet** in een if-else zit
 
 **Opdracht.**
 
 Zorg er nu voor dat je verhaal na de if-else verder gaat met een paar gewone `print()` regels. Let goed op dat die regels nu **niet** met twee spaties beginnen.
 
-### 3\) if-else commandos en een lijst
+## 3\) if-else commandos en een lijst
 
-Deze les wordt afgetekend als:
+Deze opdracht wordt afgetekend als:
 
 * Je een verhaal maakt waarin **drie** keer if-else in zit
 * je ook een lijst gebruikt, in een if-else
@@ -65,9 +62,9 @@ else:
 print('De', 'vriend', 'van', dier, 'is', vrienden[1], '.')
 ```
 
-### Opdracht 6b-4\) Voeg een shuffle toe 
+## Extra\) Voeg een shuffle toe 
 
-Deze les wordt afgetekend als:
+Deze opdracht wordt afgetekend als:
 
 * Je bovenaan je code hebt geschreven `import random`
 * Je een zin in je code hebt waarin steeds een ander dier verschijnt
