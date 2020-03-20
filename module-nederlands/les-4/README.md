@@ -10,5 +10,4 @@
 * de invoer van een gebruiker opslaan in een variabele
 * goede en foute code met `input()` herkennen
 
-
-
+![](/img/logoCSCert_10cm.jpg)
