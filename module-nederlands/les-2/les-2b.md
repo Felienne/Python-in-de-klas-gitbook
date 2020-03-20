@@ -1,11 +1,10 @@
 # Les 2b
 
-### **1\) Log in en maak een nieuw programma**
+### 1\) Log in en maak een nieuw programma
 
-Deze les wordt afgetekend als:
+Deze opdracht wordt afgetekend als:
 
 * Je ingelogd bent 
-* Je een nieuw programma hebt gemaakt en het 'les-2b' hebt genoemd.
 
 Voor als je het vergeten bent:
 
@@ -14,12 +13,11 @@ Voor als je het vergeten bent:
 
 #### 2\) Voeg commentaar toe 
 
-Deze les wordt afgetekend als: 
+Deze opdracht wordt afgetekend als: 
 
 * Je bovenaan je programma netjes commentaar hebt geschreven
 * Je drie dingen opschrijft die je nog weet over print\(\)
-* Die drie dingen moet je opschrijven: 
-* In je commentaar, en in je schrift!
+* Die drie dingen moet je opschrijven in je commentaar, en in je schrift!
 
 **Opdracht.** 
 
@@ -27,15 +25,12 @@ Zet deze regels in commentaar bovenaan je programma:
 1. Dit programma is gemaakt door …….  
 2. Wat ik nog weet over print\(\) is: 
 
-### O3\) Schijf een verhaal over een dier 
+### 3\) Schijf een verhaal over een dier 
 
-Deze les wordt afgetekend als:
+Deze opdracht wordt afgetekend als:
 
 * Je bovenaan je programma netjes commentaar hebt geschreven
-* Je een _samenhangend_ verhaal van minstens drie zinnen print met print\(\), 
-
-  compleet met hoofdletters en punten op het einde! 
-
+* Je een _samenhangend_ verhaal van minstens drie zinnen print met print\(\), compleet met hoofdletters en punten op het einde! 
 * Het verhaal als hoofdrolspeler een dier heeft. Je mag zelf kiezen welk dier.
 
 **Opdracht.**
@@ -48,9 +43,9 @@ De schildpad zoekt een tomaat.
 
 Print de zinnen met Python. Je hoeft nog geen variabele te gebruiken.
 
-### Opdracht 3b-4\) Voeg een variabele toe
+### 4\) Voeg een variabele toe
 
-Deze les wordt afgetekend als:
+Deze opdracht wordt afgetekend als:
 
 * Je bovenaan je programma netjes commentaar hebt geschreven.
 * Je een variabele `dier` hebt gemaakt waarin je jouw dier opslaat. 
@@ -73,7 +68,7 @@ Tip: Als je klaar bent, staat jouw dier:
 * een keer in je code, maar...
 * drie keer in je verhaal!
 
-### 4\) Maak een ander verhaal
+### 5\) Maak een ander verhaal
 
 Deze les wordt afgetekend als:
 
@@ -89,7 +84,7 @@ dier = 'schildpad'
 
 Maar het kan bij jou natuurlijk een ander dier zijn. Verander deze regel nu eventjes in een ander dier, bijv. papegaai. Veranderen nu alle dieren in jouw verhaal? Zo ja, dan heb je het goed gedaan!
 
-### Opdracht 3b-4\) Maak twee verhalen \(extra\)
+### Extra\) Maak twee verhalen
 
 Deze les wordt afgetekend als:
 
