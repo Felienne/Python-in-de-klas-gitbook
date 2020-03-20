@@ -8,11 +8,9 @@ Aan het einde van de les kun jij:
 * de invoer van een gebruiker opslaan in een variabele
 * goede en foute code met input herkennen
 
-**Even opfrissen!**
+### Even opfrissen!
 
-**Begin op een nieuwe pagina en zet erboven: Les 5a**
-
-**Goed of fout?**
+**Begin op een nieuwe pagina en zet erboven: Les 4a**
 
 1\) Is de code goed of fout?
 
@@ -81,8 +79,8 @@ Aan het einde van de les kun jij:
 ```
 
 ```python
-13. #klas = c              
-   print('Leerlingen', 'uit', klas)
+13. #les = coderen              
+   print('Dit', 'is', les)
 ```
 
 ```python
@@ -147,9 +145,8 @@ Dan schijf jij in je schrift: kleuren\[1\] Nu jij!
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
-Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 
- **Invoer**
+### Invoer
 
 1\) Je krijgt een aantal codes, én de invoer van een gebruiker.
 
@@ -199,7 +196,9 @@ Nu jij!
    Input: Achmed
 ```
 
-**Fouten bij input**
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+
+### Fouten bij input
 
 1\) Wat print deze code? Is de code fout -&gt; schrijf FOUT Is de code goed -&gt; schrijf wat de code print
 
@@ -262,5 +261,7 @@ Al deze codes zijn fout. Wat is er mis?
    antwoord input()
    print(antwoord, 'het', 'regent')
 ```
+
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
 ![](/img/logoCSCert_10cm.jpg)
