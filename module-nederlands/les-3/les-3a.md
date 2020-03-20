@@ -11,7 +11,7 @@ Aan het einde van de les kun jij:
 
 ### Even opfrissen!
 
-**Begin op een nieuwe pagina en zet erboven: Les 3a**
+Begin op een nieuwe pagina en zet erboven: Les 3a
 
 1\) Hieronder staan vijf codes met commentaar erin. Wat printen deze codes uit?
 
@@ -67,13 +67,13 @@ Als er een fout in de code zit, schrijf dan FOUT!
 ```
 
 ```python
-5. klas = '1c'
-   print('Hallo', '1c')
+5. doelgroep = 'leerlingen'
+   print('Hallo', 'leerlingen')
 ```
 
 ```python
-6. #klas = 1c              
-   print('Leerlingen', 'uit', klas)
+6. #les = 'coderen'              
+   print('We', 'gaan', les)
 ```
 
 ```python
@@ -81,11 +81,9 @@ Als er een fout in de code zit, schrijf dan FOUT!
    print('Het', 'is', half, 9)
 ```
 
-**Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.**
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
-Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
-
- **Lijsten maken**
+### Lijsten maken
 
 1\) Hieronder staan een aantal incomplete opdrachten om lijsten te vullen. Schijf ze over in je schrift en vul de juiste tekens in op de stippeltjes.
 
@@ -109,9 +107,7 @@ Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
-Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
-
- **Aanwijzen in een lijst**
+### Aanwijzen in een lijst
 
 1\) Hier staan steeds lijsten in code, en een aanwijzer.
 
@@ -194,11 +190,9 @@ Nu krijg je de zin, en moet jij de code afmaken.
    print('Ik', 'hou', 'van', snoepjes[...])
    ```
 
-**Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.**
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
-Als je klaar bent mag je aan het Extra Opgaves blad gaan werken.
-
- **Foutjes bij aanwijzen**
+### Foutjes bij aanwijzen
 
 1\) Fout of niet? Lees de code en bedenk of er een fout komt, of niet.
 
@@ -281,6 +275,6 @@ Komt er een fout, schrijf dan in je schrift: FOUT. Komt er geen fout, schrijf da
    print('De', 'deur', 'is', kleuren[1])
 ```
 
-**Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel**
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
 ![](/img/logoCSCert_10cm.jpg)
