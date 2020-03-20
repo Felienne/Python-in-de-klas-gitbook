@@ -198,7 +198,7 @@ Nu jij!
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
-### Fouten bij input
+### Fouten bij invoer
 
 1\) Wat print deze code? Is de code fout -&gt; schrijf FOUT Is de code goed -&gt; schrijf wat de code print
 
