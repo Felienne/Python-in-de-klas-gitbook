@@ -11,7 +11,7 @@ Aan het einde van de les kun jij:
 * goede en foute print-codes vinden
 * weten wat je moet doen als je een foutmelding van Python krijgt
 
-**Een woord printen**
+### Een woord printen
 
 Je hebt net op het bord de print\(\) opdracht gezien.
 
@@ -49,7 +49,7 @@ Schrijf de code over in je schrift.
 
 3\) Kies nu zelf drie woorden uit om te printen. Schrijf de goede codes in je schrift op.
 
-**Meerdere woorden printen**
+## Meerdere woorden printen
 
 Een print\(\) kan ook meerdere woorden printen. Dan moeten er komma's tussen de woorden. Let goed op, ieder woord moet nog steeds tussen twee aanhalingstekens.
 
@@ -85,7 +85,7 @@ Schrijf de code in je schrift.
 
 3\) Kies nu zelf twee woorden om naast elkaar te printen. Schrijf de goede code op in je schrift.
 
-**Zinnetjes**
+### Zinnetjes
 
 Je kunt zoveel woorden combineren met komma's als je maar wilt! Bijvoorbeeld:
 
@@ -157,7 +157,7 @@ Deze code is fout omdat er maar 1 aanhalingsteken om het woord staat.
 
 3\) Schijf nu in je schrift de goede versie op van de 3 verkeerde codes hierboven.
 
-**Onder elkaar**
+## Onder elkaar
 
 1\) Wat printen deze codes uit? Schrijf het antwoord op in je schrift! Wees _heel_ precies.
 
