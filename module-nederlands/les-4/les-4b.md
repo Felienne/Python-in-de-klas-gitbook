@@ -5,7 +5,7 @@
 Deze opdracht wordt afgetekend als:
 
 * Je een nieuw programma hebt gemaakt \('les-5b'\)
-* Je in dat programma minstens één invoer verwerkt.
+* Je in dat programma minstens één invoer verwerkt
 
 **Opdracht.**
 
@@ -25,7 +25,7 @@ print('Dit', 'verhaal', 'gaat', 'over', dier)
 
 Deze opdracht wordt afgetekend als:
 
-* Je je programma zo hebt veranderd dat je hele stukjes zin print zonder een komma tussen de woorden. 
+* Je je programma zo hebt veranderd dat je hele stukjes zin print zonder een komma tussen de woorden
 
 **Opdracht.**  
   
@@ -41,11 +41,13 @@ print('Dit verhaal gaat over', dier)
 
 Deze opdracht wordt afgetekend als:
 
-* Je 5 zinnen print.
+* Je 5 zinnen print
+* Je commentaar aan je programma hebt toegevoegd
+* Je minstens één keer gebruikt maakt van `input()`
 
 **Opdracht.**  
   
-Breid nu je verhaal uit tot 5 zinnen. Het mag over alles gaan wat je maar wilt.  
+Breid nu je verhaal uit tot 5 zinnen. Stel in je verhaal minstens één keer input van de gebruiker. Het verhaal mag over alles gaan wat je maar wilt. 
 ****
 
 
