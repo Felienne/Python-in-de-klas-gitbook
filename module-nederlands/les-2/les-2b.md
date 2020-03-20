@@ -16,21 +16,21 @@ Voor als je het vergeten bent:
 Deze opdracht wordt afgetekend als: 
 
 * Je bovenaan je programma netjes commentaar hebt geschreven
-* Je drie dingen opschrijft die je nog weet over print\(\)
+* Je drie dingen opschrijft die je nog weet over `print()`
 * Die drie dingen moet je opschrijven in je commentaar, en in je schrift!
 
 **Opdracht.** 
 
 Zet deze regels in commentaar bovenaan je programma:   
 1. Dit programma is gemaakt door …….  
-2. Wat ik nog weet over print\(\) is: 
+2. Wat ik nog weet over `print()` is: 
 
 ### 3\) Schijf een verhaal over een dier 
 
 Deze opdracht wordt afgetekend als:
 
 * Je bovenaan je programma netjes commentaar hebt geschreven
-* Je een _samenhangend_ verhaal van minstens drie zinnen print met print\(\), compleet met hoofdletters en punten op het einde! 
+* Je een _samenhangend_ verhaal van minstens drie zinnen print met `print()`, compleet met hoofdletters en punten op het einde! 
 * Het verhaal als hoofdrolspeler een dier heeft. Je mag zelf kiezen welk dier.
 
 **Opdracht.**
@@ -61,7 +61,7 @@ De schildpad heeft honger.
 De schildpad zoekt een tomaat.
 
 Stap 1\) We willen nu het stukje zin 'De schildpad' opslaan in een variabele. Noem de variabele `dier`.  
-Stap 2\) Verander de print\(\)s die je hebt zodat de variabele gebruikt.
+Stap 2\) Verander de `print()`s die je hebt zodat de variabele gebruikt.
 
 Tip: Als je klaar bent, staat jouw dier:
 

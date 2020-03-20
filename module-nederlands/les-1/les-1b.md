@@ -11,7 +11,7 @@ Deze opdracht wordt afgetekend als:
 * Je in onze classroom zit door naar de link te gaan die je van je leraar krijgt. 
 
 ## 2\) Schrijf een woord
-
+`print()`
 Deze opdracht wordt afgetekend als:
 
 * Je de code in Python in je schrift kan schrijven om je naam te printen
@@ -50,7 +50,7 @@ Gefeliciteerd! Jij hebt nu je tweede Python-programma gemaakt!
 
 Deze les wordt afgetekend als:
 
-* Je een samenhangend verhaal van minstens drie zinnen print met print\(\), 
+* Je een samenhangend verhaal van minstens drie zinnen print met `print()`, 
 * Het verhaal als hoofdrolspeler een dier heeft. Je mag zelf kiezen welk dier.
 
 **Opdracht.** 

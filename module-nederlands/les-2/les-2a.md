@@ -8,13 +8,13 @@ Aan het einde van de les kun jij:
 * tekst opslaan in een variabele
 * een variabele gebruiken om een tekst meerdere keren te printen
 * voorspellen wat een code doet met een variabele erin
-* goede en foute print\(\)-codes vinden met een variabele erin
+* goede en foute `print()`-codes vinden met een variabele erin
 
 ### Even opfrissen!
 
-Vorige week hebben we de print\(\) opdracht gezien.
+Vorige week hebben we de `print()` opdracht gezien.
 
-Een print\(\) opdracht print een woord uit, als het tussen aanhalingstekens staat. Bijvoorbeeld zo:
+Een `print()` opdracht print een woord uit, als het tussen aanhalingstekens staat. Bijvoorbeeld zo:
 
 ```python
 print('Goedemorgen')
@@ -26,7 +26,7 @@ Je kunt ook meerdere woorden printen, bijvoorbeeld:
 print('Goedemorgen', 'leerlingen', 'uit', 'deze', 'klas)
 ```
 
-1\) Welke van deze print\(\) opdrachten print **Goedemorgen** uit?
+1\) Welke van deze `print()` opdrachten print **Goedemorgen** uit?
 
 Schrijf de goede code over in je schrift!
 
@@ -44,7 +44,7 @@ Tip: **Let goed op de aanhalingstekens!**
 - print('Goedemorgen')
 ```
 
-2\) Welke van deze print\(\) opdrachten print **Python is een programmeertaal** uit?
+2\) Welke van deze `print()` opdrachten print **Python is een programmeertaal** uit?
 
 Schrijf de goede code over in je schrift.
 

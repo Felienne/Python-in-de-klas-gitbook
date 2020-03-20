@@ -7,7 +7,7 @@ Aan het einde van de les kun jij:
 * meerdere woorden in een lijst opslaan
 * woorden in een lijst aanwijzen
 * voorspellen wat code met een lijst erin doet
-* goede en foute print\(\)-codes vinden met lijsten erin
+* goede en foute `print()`-codes vinden met lijsten erin
 
 ### Even opfrissen!
 

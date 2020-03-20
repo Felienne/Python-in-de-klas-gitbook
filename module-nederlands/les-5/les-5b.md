@@ -1,4 +1,4 @@
-# Les 5b
+`print()`# Les 5b
 
 ** 1\) Voeg een keuze toe**
 
@@ -37,7 +37,7 @@ Deze les wordt afgetekend als:
 
 **Opdracht.**
 
-Zorg er nu voor dat je verhaal na de if-else verder gaat met een paar gewone print\(\) regels. Let goed op dat die regels nu **niet** met twee spaties beginnen.
+Zorg er nu voor dat je verhaal na de if-else verder gaat met een paar gewone `print()` regels. Let goed op dat die regels nu **niet** met twee spaties beginnen.
 
 ### 3\) if-else commandos en een lijst
 

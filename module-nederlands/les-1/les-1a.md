@@ -5,7 +5,7 @@
 Aan het einde van de les kun jij:
 
 * Python-code schrijven in repl.it
-* print\(\) gebruiken om woorden te laten zien
+* `print()` gebruiken om woorden te laten zien
 * meerdere regels laten zien
 * aanhalingstekens gebruiken 
 * goede en foute print-codes vinden
@@ -13,15 +13,15 @@ Aan het einde van de les kun jij:
 
 ### Een woord printen
 
-Je hebt net op het bord de print\(\) opdracht gezien.
+Je hebt net op het bord de `print()` opdracht gezien.
 
-Een print\(\) opdracht print een woord uit, als het tussen aanhalingstekens staat. Bijvoorbeeld zo:
+Een `print()` opdracht print een woord uit, als het tussen aanhalingstekens staat. Bijvoorbeeld zo:
 
 ```python
 print('Goedemorgen')
 ```
 
-1\) Welke van deze print\(\) opdrachten print **Hallo** uit?
+1\) Welke van deze `print()` opdrachten print **Hallo** uit?
 
 Schrijf de goede code over in je schrift!
 
@@ -39,7 +39,7 @@ Tip: **Let goed op de aanhalingstekens!**
 5. print('Hallo')
 ```
 
-2\) Maak deze print\(\) opdracht zelf af zodat er **Allemaal** in beeld komt.
+2\) Maak deze `print()` opdracht zelf af zodat er **Allemaal** in beeld komt.
 
 ```python
 print ... ... Allemaal ... ...
@@ -53,7 +53,7 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
 ### Meerdere woorden printen
 
-Een print\(\) kan ook meerdere woorden printen. Dan moeten er komma's tussen de woorden. Let goed op, ieder woord moet nog steeds tussen twee aanhalingstekens.
+Een `print()` kan ook meerdere woorden printen. Dan moeten er komma's tussen de woorden. Let goed op, ieder woord moet nog steeds tussen twee aanhalingstekens.
 
 Zo:
 
@@ -67,7 +67,7 @@ Op de plek van de komma komt een spatie in de uitvoer.
 
 Python stopt met printen bij een aanhalingsteken.
 
-1\) Welke van deze print\(\) opdrachten print **Hallo klas** uit?
+1\) Welke van deze `print()` opdrachten print **Hallo klas** uit?
 
 Schrijf de goede code over in je schrift. Kijk goed naar de aanhalingstekens!
 
@@ -79,7 +79,7 @@ Schrijf de goede code over in je schrift. Kijk goed naar de aanhalingstekens!
 5. print("Hallo', 'klas")
 ```
 
-2\) Maak deze print\(\) opdracht zelf af zodat er **Hallo allemaal** in beeld komt.
+2\) Maak deze `print()` opdracht zelf af zodat er **Hallo allemaal** in beeld komt.
 
 print ... ... Hallo ... ... ... Allemaal ... ...
 
@@ -97,7 +97,7 @@ Je kunt zoveel woorden combineren met komma's als je maar wilt! Bijvoorbeeld:
 print('Goedemorgen', 'leerlingen', 'uit', 'deze', 'klas')
 ```
 
-1\) Welke van deze print\(\) opdrachten print **ik hou van programmeren** uit?
+1\) Welke van deze `print()` opdrachten print **ik hou van programmeren** uit?
 
 Schrijf de goede code over in je schrift.
 
