@@ -1,11 +1,14 @@
 # Les 5a
 
-**Even opfrissen!**
+## If-else
 
 Aan het einde van de les kun jij:
 
 * Keuzes maken in een programma met if-else
 * goede en foute if-else codes herkennen
+
+
+### Even opfrissen!
 
 **Begin op een nieuwe pagina en zet erboven: Les 5a**
 
@@ -54,7 +57,7 @@ Extra -&gt; Schrijf ook op wat de fout it
    Input: hond
 ```
 
-**If-else**
+### If-else commando's
 
 1\) Je krijgt een aantal codes, én de invoer van een gebruiker. Wat wordt er geprint?
 
@@ -203,7 +206,7 @@ We gaan steeds de goede dierengeluiden printen. Deze horen bij elkaar:
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
- **Fouten bij if-else commando's**
+### Fouten bij if-else 
 
 1\) Fout of niet? Lees de code plus invoer. Voorspel of er een fout komt, of niet.
 
@@ -345,5 +348,7 @@ Je krijgt steeds een foutmelding te zien. Wat is er mis?
                                         ^
     SyntaxError: invalid syntax
 ```
+
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
 ![](/img/logoCSCert_10cm.jpg)
