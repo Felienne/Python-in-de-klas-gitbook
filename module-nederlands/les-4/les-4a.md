@@ -1,6 +1,6 @@
 # Les 4a
 
-## input
+## Input
 
 Aan het einde van de les kun jij:
 
