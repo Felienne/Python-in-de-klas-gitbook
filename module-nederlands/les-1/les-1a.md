@@ -49,7 +49,7 @@ Schrijf de code over in je schrift.
 
 3\) Kies nu zelf drie woorden uit om te printen. Schrijf de goede codes in je schrift op.
 
-## Meerdere woorden printen
+### Meerdere woorden printen
 
 Een print\(\) kan ook meerdere woorden printen. Dan moeten er komma's tussen de woorden. Let goed op, ieder woord moet nog steeds tussen twee aanhalingstekens.
 
@@ -85,7 +85,7 @@ Schrijf de code in je schrift.
 
 3\) Kies nu zelf twee woorden om naast elkaar te printen. Schrijf de goede code op in je schrift.
 
-### Zinnetjes
+### Zinnetjes printen
 
 Je kunt zoveel woorden combineren met komma's als je maar wilt! Bijvoorbeeld:
 
@@ -125,39 +125,7 @@ Weet jij welke code goed is?
 
 Schrijf drie codes voor zinnetjes in je schrift.
 
-**Foutmeldingen**
-
-Soms geeft Python een foutmelding.
-
-![image-20190126194646749](../../.gitbook/assets/image-20190126194646749.png)
-
-1\) Je ziet hier vijf foute codes. Wat is de fout? Schrijf het op in je schrift.
-
-**Tip:** kijk ook goed naar de kleuren. Alleen tekst en aanhalingstekens horen rood te zijn.
-
-```python
-1. pint('Python')
-2. print('Python)
-3. print(Python)
-4. print(Python')
-5. print('Python'
-```
-
-2\) Schrijf zelf nog 3 andere, _verkeerde_ codes in je schrift.
-
-Schrijf er ook bij waarom de code verkeerd is.
-
-Voorbeeld:
-
-```python
-print('Python)
-```
-
-Deze code is fout omdat er maar 1 aanhalingsteken om het woord staat.
-
-3\) Schijf nu in je schrift de goede versie op van de 3 verkeerde codes hierboven.
-
-## Onder elkaar
+### Onder elkaar
 
 1\) Wat printen deze codes uit? Schrijf het antwoord op in je schrift! Wees _heel_ precies.
 
@@ -218,5 +186,38 @@ print('Goedemorgen')                            # >Goedemorgen
 print('goedemorgen')                            # >FOUT
 ```
 
+### Foutmeldingen
+
+Soms geeft Python een foutmelding.
+
+![image-20190126194646749](../../.gitbook/assets/image-20190126194646749.png)
+
+1\) Je ziet hier vijf foute codes. Wat is de fout? Schrijf het op in je schrift.
+
+**Tip:** kijk ook goed naar de kleuren. Alleen tekst en aanhalingstekens horen rood te zijn.
+
+```python
+1. pint('Python')
+2. print('Python)
+3. print(Python)
+4. print(Python')
+5. print('Python'
+```
+
+2\) Schrijf zelf nog 3 andere, _verkeerde_ codes in je schrift.
+
+Schrijf er ook bij waarom de code verkeerd is.
+
+Voorbeeld:
+
+```python
+print('Python)
+```
+
+Deze code is fout omdat er maar 1 aanhalingsteken om het woord staat.
+
+3\) Schijf nu in je schrift de goede versie op van de 3 verkeerde codes hierboven.
+
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
+
 
