@@ -1,16 +1,17 @@
 # Les 3a
 
-### Lijsten
+## Lijsten
 
 Aan het einde van de les kun jij:
 
+* meerdere woorden in een lijst opslaan
 * woorden in een lijst aanwijzen
 * voorspellen wat code met een lijst erin doet
 * goede en foute print\(\)-codes vinden met lijsten erin
 
-**Even opfrissen!**
+### Even opfrissen!
 
-**Begin op een nieuwe pagina en zet erboven: Les 4a**
+**Begin op een nieuwe pagina en zet erboven: Les 3a**
 
 1\) Hieronder staan vijf codes met commentaar erin. Wat printen deze codes uit?
 
@@ -18,11 +19,11 @@ Schrijf de uitvoer in je schrift.
 
 ```python
 1. #print('Goedemorgen')               
-   print('Klas', '1c')
+   print('We', 'gaan', 'programmeren')
 ```
 
 ```python
-2. #goedemorgen, dit is een Pythonprogramma
+2. #goedemorgen, dit is een Python-programma
 
    #print('Hallo', 'kinderen!')
 ```
@@ -33,13 +34,8 @@ Schrijf de uitvoer in je schrift.
 ```
 
 ```python
-4. print('Goedemorgen')  #een woord           
-   #print('klas 1c') #twee woorden met een spatie ertussen
-```
-
-```python
-5. print('Hallo')               
-   print('klas', '1c')
+4. print('Hallo')               
+   print('leerlingen', 'uit', 'deze', 'klas')
    #print('hebben', 'jullie', 'er', 'zin', 'in?')
 ```
 
@@ -67,7 +63,7 @@ Als er een fout in de code zit, schrijf dan FOUT!
 
 ```python
 4. #print('Goedemorgen')               
-   print('Klas', '1c')
+   print('Klas')
 ```
 
 ```python
@@ -76,7 +72,7 @@ Als er een fout in de code zit, schrijf dan FOUT!
 ```
 
 ```python
-6. #klas = c              
+6. #klas = 1c              
    print('Leerlingen', 'uit', klas)
 ```
 
