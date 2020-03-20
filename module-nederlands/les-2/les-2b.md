@@ -1,6 +1,6 @@
 # Les 2b
 
-### 1\) Log in en maak een nieuw programma
+### 1\) Log in 
 
 Deze opdracht wordt afgetekend als:
 
