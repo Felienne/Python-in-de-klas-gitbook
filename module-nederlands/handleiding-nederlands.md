@@ -18,7 +18,7 @@ De leerlingen zullen, stapsgewijs, meerdere concepten leren. In de module Nederl
 
 ## Voorbeeld
 
-Op deze link staat een voorbeeld: [https://repl.it/@mevrHermans/Verhaal-Demonstratie](https://repl.it/@mevrHermans/Verhaal-Demonstratie)
+Op deze link staat een voorbeeld: [https://repl.it/@VHTO/demo](https://repl.it/@VHTO/demo)
 
 ![Voorbeeldcode \(links\) en de uitvoer van deze code \(rechts\)](../.gitbook/assets/screen-shot-2019-12-01-at-2.23.57-pm.png)
 
