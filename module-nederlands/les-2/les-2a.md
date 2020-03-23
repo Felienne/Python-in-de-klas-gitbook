@@ -146,7 +146,7 @@ Resultaten:
 
 * Deze code geeft een fout.
 
-3\) Hieronder staan vijf codes met commentaar erin. Wat printen deze codes uit?
+3\) Hieronder staan vier codes met commentaar erin. Wat printen deze codes uit?
 
 Schrijf de uitvoer in je schrift.
 
