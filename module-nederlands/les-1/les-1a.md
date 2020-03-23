@@ -226,4 +226,4 @@ Deze code is fout omdat er maar 1 aanhalingsteken om het woord staat.
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
-![](/img/logoCSCert_10cm.jpg)
+<img src="../../img/logoCSCert_10cm.jpg" align="right">
