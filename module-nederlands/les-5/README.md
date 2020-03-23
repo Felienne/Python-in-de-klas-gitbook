@@ -9,5 +9,5 @@
 * Keuzes maken in een programma met if-else
 * Goede en foute if-else codes herkennen
 
-![](/img/logoCSCert_10cm.jpg)
+<img src="../../img/logoCSCert_10cm.jpg" align="right">
 

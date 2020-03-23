@@ -11,7 +11,7 @@ Deze opdracht wordt afgetekend als:
 * Je in onze classroom zit door naar de link te gaan die je van je leraar krijgt. 
 
 ## 2\) Schrijf een woord
-`print()`
+
 Deze opdracht wordt afgetekend als:
 
 * Je de code in Python in je schrift kan schrijven om je naam te printen

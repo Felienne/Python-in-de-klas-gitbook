@@ -82,4 +82,4 @@ random.shuffle(dieren)
 
 Voer je code een paar keer uit. Wat gebeurt er nu? Schrijf duidelijk in je schrift hoe je denkt dat deze code werkt.
 
-![](/img/logoCSCert_10cm.jpg)
+<img src="../../img/logoCSCert_10cm.jpg" align="right">

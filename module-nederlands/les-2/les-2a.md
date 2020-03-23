@@ -304,4 +304,4 @@ Nu jij!
 
 ```
 
-![](/img/logoCSCert_10cm.jpg)
+<img src="../../img/logoCSCert_10cm.jpg" align="right">

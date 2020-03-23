@@ -8,5 +8,4 @@ Deel b is de eindopdracht.
 
 [Module Nederlands, les 6](https://slides.com/vhto/nederlands6)
 
-
-![](/img/logoCSCert_10cm.jpg)
+<img src="../../img/logoCSCert_10cm.jpg" align="right">

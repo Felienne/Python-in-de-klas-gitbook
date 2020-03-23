@@ -37,7 +37,7 @@ b\) Werkbladen zodat leerlingen zelf aan de slag kunnen achter de computer
 
 ## Nakijkmodellen en proefwerken
 
-We hebben ook nakijkmodellen voor de werkbladen maar die zetten we liever niet openbaar op internet, wie weet dat een leerling ze vindt. Heb je ze nodig, neem even contact met ons op via vhto@vhto.nl. 
+We hebben ook nakijkmodellen voor de werkbladen maar die zetten we liever niet openbaar op internet, wie weet dat een leerling ze vindt. Heb je ze nodig, neem even contact met ons op via [vhto@vhto.nl](mailto:vhto@vhto.nl). 
 
-![](/img/logoCSCert_10cm.jpg)
+<img src="../img/logoCSCert_10cm.jpg" align="right">
 

@@ -12,4 +12,4 @@
 * voorspellen wat een code doet met een variabele erin
 * goede en foute `print()`-codes vinden met een variabele erin
 
-![](/img/logoCSCert_10cm.jpg)
+<img src="../../img/logoCSCert_10cm.jpg" align="right">

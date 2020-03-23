@@ -51,4 +51,4 @@ Breid nu je verhaal uit tot 5 zinnen. Stel in je verhaal minstens één keer inp
 ****
 
 
-![](/img/logoCSCert_10cm.jpg)
+<img src="../../img/logoCSCert_10cm.jpg" align="right">

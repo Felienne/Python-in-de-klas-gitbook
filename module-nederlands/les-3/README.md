@@ -11,4 +11,4 @@
 * voorspellen wat code met een lijst erin doet
 * goede en foute print\(\)-codes vinden met lijsten erin
 
-![](/img/logoCSCert_10cm.jpg)
+<img src="../../img/logoCSCert_10cm.jpg" align="right">

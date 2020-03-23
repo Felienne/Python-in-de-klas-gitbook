@@ -133,8 +133,6 @@ Schrijf drie codes voor zinnetjes in je schrift.
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
-<div style="page-break-after: always;"></div>
-
 ### Onder elkaar
 
 1\) Wat printen deze codes uit? Schrijf het antwoord op in je schrift! Wees _heel_ precies.
