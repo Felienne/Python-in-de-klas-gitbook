@@ -74,4 +74,4 @@ Nog een aantal tips die je kunt toepassen in de lessen.
 * Sommige leerlingen hebben weinig ervaring met computeren. Het vinden van zaken op het toetsenbord kan al lastig zijn, zoals de min of de 'tab'. Ook vaardigheden als knippen en plakken met ctrl-c en ctrl-v ontbreken regelmatig, en ook de ctrl-z voor ongedaan maken kennen ze niet altijd. Of ze weten niet hoe ze het moeten invoeren en proberen steeds heel precies ctrl en z tegelijk in te drukken ipv eerst de ctrl en dan de z erbij. Dit zijn geen leerdoelen van deze lessen maar de kans is groot dat je er wel tegenaan loopt.
 * Stip steeds even de betekenis en goede uitspraak van de Engelse woorden in de code aan. We horen regelmatig leerlingen worstelen met wat die woorden nou zijn. In het materiaal wordt de betekenis van een woord wel uitgelegd maar het is handig als de docent dit extra benadrukt. En soms betekenen woorden ook net iets anders in Python. In de kunstlessen heb je bijv. het commando 'left'. Dat betekent natuurlijk links, maar in deze code betekent het "draai linksom", dus niet "ga naar links". 
 
-![](/img/logoCSCert_10cm.jpg)
+<img src="img/logoCSCert_10cm.jpg" align="right">
