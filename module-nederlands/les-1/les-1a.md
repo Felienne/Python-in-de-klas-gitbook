@@ -51,8 +51,6 @@ Schrijf de code over in je schrift.
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
-<div style="page-break-after: always;"></div>
-
 ### Meerdere woorden printen
 
 Een `print()` kan ook meerdere woorden printen. Dan moeten er komma's tussen de woorden. Let goed op, ieder woord moet nog steeds tussen twee aanhalingstekens.
