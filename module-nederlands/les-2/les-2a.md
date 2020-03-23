@@ -68,12 +68,12 @@ Weet jij welke code goed is?
 5. print(Python is een programmeertaal)
 ```
 
-4\) Kies nu zelf een kort zinnetje om te printen. Bijvoorbeeld: 'Is het al pauze?'.
+3\) Kies nu zelf een kort zinnetje om te printen. Bijvoorbeeld: 'Is het al pauze?'.
 
 Schrijf de code voor het zinnetje in je schrift.
 
 
-5\) Wat is de fout?
+4\) Wat is de fout?
 
 Al deze codes zijn fout. Wat is er mis?
 
