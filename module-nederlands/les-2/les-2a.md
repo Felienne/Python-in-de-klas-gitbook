@@ -57,15 +57,15 @@ Tip: Let goed op, de goede code heeft:
 Weet jij welke code goed is?
 
 ```python
-- print('Python', 'is', 'een', 'programmeertaal')
+1. print('Python', 'is', 'een', 'programmeertaal')
 
-- print('Python', is, een, 'programmeertaal')
+2. print('Python', is, een, 'programmeertaal')
 
-- print('Python', 'is', 'een' 'programmeertaal')
+3. print('Python', 'is', 'een' 'programmeertaal')
 
-- print Python is een programmeertaal
+4. print Python is een programmeertaal
 
-- print(Python is een programmeertaal)
+5. print(Python is een programmeertaal)
 ```
 
 4\) Kies nu zelf een kort zinnetje om te printen. Bijvoorbeeld: 'Is het al pauze?'.
