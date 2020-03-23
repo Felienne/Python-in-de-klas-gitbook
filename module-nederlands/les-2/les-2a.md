@@ -33,15 +33,15 @@ Schrijf de goede code over in je schrift!
 Tip: **Let goed op de aanhalingstekens!**
 
 ```python
-- print Goedemorgen
+1. print Goedemorgen
 
-- print('Goedemorgen")
+2. print('Goedemorgen")
 
-- print(Goedemorgen)
+3. print(Goedemorgen)
 
-- print("Goedemorgen')
+4. print("Goedemorgen')
 
-- print('Goedemorgen')
+5. print('Goedemorgen')
 ```
 
 2\) Welke van deze `print()` opdrachten print **Python is een programmeertaal** uit?
