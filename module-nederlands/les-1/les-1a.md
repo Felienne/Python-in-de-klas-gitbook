@@ -81,7 +81,7 @@ Schrijf de goede code over in je schrift. Kijk goed naar de aanhalingstekens!
 
 2\) Maak deze `print()` opdracht zelf af zodat er **Hallo allemaal** in beeld komt.
 
-print ... ... Hallo ... ... ... Allemaal ... ...
+print ... ... Hallo ... ... ... allemaal ... ...
 
 Schrijf de code in je schrift.
 
