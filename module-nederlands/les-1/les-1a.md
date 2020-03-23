@@ -156,11 +156,7 @@ Let op: **Er zitten ook foute codes tussen!** Als een code fout is, schrijf dan 
 ```
 
 ```python
-5.print('Hallo Allemaal')
-```
-
-```python
-6.prit('Hallo')
+5.prit('Hallo')
   prit('Allemaal')
 ```
 
