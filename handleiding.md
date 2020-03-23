@@ -1,6 +1,6 @@
 # Handleiding
 
-In deze handleiding beantwoorden we een aantal veelgestelde vragen. Staat jouw vraag er niet tussen? Neem dan gerust contact met ons op via vhto@vhto.nl.
+In deze handleiding beantwoorden we een aantal veelgestelde vragen. Staat jouw vraag er niet tussen? Neem dan gerust contact met ons op via [vhto@vhto.nl](mailto:vhto@vhto.nl).
 
 ## Voor wie is dit materiaal?
 
@@ -25,7 +25,7 @@ Joh moet ik echt al die vellen printen? Ja... Leerlingen vinden het echt lastig 
 
 Niet echt. De slides leggen alles uit dat je moet weten per les, dus die kun je vooraf lezen en dan ga je het wel redden.
 
-Voor deel b is het wel handig als je iemand in de klas hebt die een beetje kan programmeren, maar dat kan ook goed een leerling zijn, uit jouw klas of uit een hogere klas, of een vader of moeder die in het begin meehelpt. Mocht je graag extra hulp willen van een IT-student, stuur dan een mailtje naar vhto@vhto.nl. Dan gaan we op zoek naar een IT-student die jou op weg kan helpen tegen een kleine vergoeding.
+Voor deel b is het wel handig als je iemand in de klas hebt die een beetje kan programmeren, maar dat kan ook goed een leerling zijn, uit jouw klas of uit een hogere klas, of een vader of moeder die in het begin meehelpt. Mocht je graag extra hulp willen van een IT-student, stuur dan een mailtje naar [vhto@vhto.nl](mailto:vhto@vhto.nl). Dan gaan we op zoek naar een IT-student die jou op weg kan helpen tegen een kleine vergoeding.
 
 ## Opzet van het lesprogramma
 
