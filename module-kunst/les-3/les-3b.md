@@ -41,9 +41,9 @@ Deze les wordt afgetekend als:
 
 ![](../../.gitbook/assets/image-20190329212129413.png)
 
-## 5\) Extra
+## Extra\) Teken een eigen figuur
 
-Deze opdracht kun je zo vaak doen als je wilt, dus je kunt er zoveel stempels mee halen als je wilt. De opdracht gaat zo:
+Deze opdracht kun je zo vaak doen als je wilt. De opdracht gaat zo:
 
 1. Je tekent een figuur in je schrift, het mag ieder figuur zijn dat minstens uit 2 delen bestaat.
 2. Dit figuur laat je aftekenen \(doe een gele post-it op je scherm\).
@@ -51,3 +51,4 @@ Deze opdracht kun je zo vaak doen als je wilt, dus je kunt er zoveel stempels me
 
 Let op! Het telt alleen als je eerst tekent en dan pas code maakt!
 
+<img src="../../img/logoCSCert_10cm.jpg" align="right">

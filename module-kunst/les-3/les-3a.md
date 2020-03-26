@@ -45,7 +45,7 @@ for i in range(4):
   pen.left(90)
 ```
 
- 2\) Welke code hoort bij deze tekeningen? 
+ 2\) Welke code hoort bij deze tekeningen? Gebruik een for-lus waar dit handig is.
 
 1. 
 ![](../../.gitbook/assets/image-20190318130624359.png)
@@ -59,7 +59,7 @@ for i in range(4):
 4.
 ![](../../.gitbook/assets/image-20190322151013930.png)
 
- ------ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
 ### Meerdere figuren
 
@@ -164,3 +164,7 @@ Welke codes horen bij deze tekeningen? Gebruik natuurlijk wel een lus \(of meerd
 4.
 
 ![](../../.gitbook/assets/image-20190329210151106.png)
+
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+
+<img src="../../img/logoCSCert_10cm.jpg" align="right">
