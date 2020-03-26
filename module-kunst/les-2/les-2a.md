@@ -1,8 +1,8 @@
 # Les 2a
 
-**Herhalen met Turtle**
+## Herhalen met Turtle
 
-**Even opfrissen**
+### Even opfrissen
 
 1\) Maak een vierkant
 
@@ -45,8 +45,6 @@ Zet nu deze opdrachten bij de juiste plekken in de tekening. Je moet allebei de 
 5. ...
 6. ...
 
-​​
-
 3\) Nog wat sommen met hoeken
 
 Reken uit in je schrift:
@@ -74,7 +72,7 @@ Reken uit in je schrift:
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.​​
 
-**Herhalen met lussen**
+### Herhalen met lussen
 
 1\) Wat tekenen deze codes?
 
@@ -129,7 +127,7 @@ pen.left(90)
 
 
 
-**Extraatjes!**
+### Extraatjes!
 
 Welke codes horen bij deze tekeningen? Gebruik natuurlijk wel een lus \(of meerdere lussen\).
 

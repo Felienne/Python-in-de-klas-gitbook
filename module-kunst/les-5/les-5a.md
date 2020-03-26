@@ -1,10 +1,8 @@
 # Les 5a
 
+## Kleuren en plannen
 
-
-#### Kleuren en plannen
-
-**Even opfrissen**
+### Even opfrissen
 
 1\) Wat doen deze codes? Leg het in je eigen woorden uit.
 
@@ -186,7 +184,7 @@ for i in range(klas):
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
-**Kleuren tekenen**
+### Kleuren tekenen
 
 1\) Welke kleur wordt dit? Tip: de codes zijn RGB, RoodGroenBlauw. En lagere getallen zijn donkerder, niet lichter!
 
@@ -276,3 +274,4 @@ for i in range(aantal_keer):
 
 ![](../../.gitbook/assets/image-20190406142204920.png)
 
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.

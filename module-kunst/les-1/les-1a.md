@@ -9,7 +9,7 @@ Aan het einde van de les kun jij:
 * systematisch een spirograaf tekenen
 * de bijbehorende Python-code schrijven
 
-**Teken verschillende figuren**
+### Teken verschillende figuren
 
 1\) Maak een vierkant
 
@@ -41,7 +41,7 @@ Teken een driehoek, maar doe het weer volgens dit schema.
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
- **Tekenen en code**
+### Tekenen en code
 
 1\) Ga terug naar het vierkant dat je hebt getekend in je schrift. Zet deze nummers erbij, op dezelfde plekken.
 
@@ -98,7 +98,7 @@ Reken uit in je schrift:
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
- **Nog meer figuren**
+### Nog meer figuren
 
 1\) Maak een "spirograaf" figuur op papier
 
@@ -158,7 +158,7 @@ pen.left(60)
 
 ![](../../.gitbook/assets/image-20190318130244515.png)
 
-**Extraatje!**
+### Extraatje!
 
 Deze opdrachten zijn **extramoeilijk**! Maak ze alleen als je al klaar bent met de rest van de opdrachten.
 
