@@ -17,7 +17,9 @@ Materiaal uit module 1 wordt gebruikt, maar niet expliciet herhaald, daar moeten
 
 ## Voorbeeld
 
-Het idee van deze lessenserie is dat leerlingen een soort spirograafkunstwerk maken. Op deze link staat een voorbeeld: [https://repl.it/@Felienne/Spirograaf-Demo](https://repl.it/@Felienne/Spirograaf-Demo)
+Het idee van deze lessenserie is dat leerlingen een soort spirograafkunstwerk maken. Op deze link staat een voorbeeld: [https://repl.it/@VHTO/kunst-demo](https://repl.it/@VHTO/kunst-demo)
+
+![Voorbeeldcode \(links\) en de uitvoer van deze code \(rechts\)](../img/demo_kunst.png)
 
 Probeer dit voorbeeld zelf voor de les al even uit. Je ziet dat er verschillende figuren getekent worden.
 
