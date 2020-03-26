@@ -203,3 +203,5 @@ Schrijf nu weer de codes op die bij deze figuren horen.
 
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+
+<img src="../../img/logoCSCert_10cm.jpg" align="right">
