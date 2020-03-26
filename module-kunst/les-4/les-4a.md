@@ -1,7 +1,14 @@
 # Les 4a
 
-## Variabelen & Lussen
+## Lussen en variabelen
+Aan het einde van de les kun jij:
+* Dat variabelen ook getallen kunnen zijn
+* Hoe we variabelen gebruiken bij het tekenen
+* Hoe we variabelen gebruiken samen met lussen
 
+### Even opfrissen
+
+### Variabelen in een lus
 1\) Wat tekenen deze codes?
 
 ```python
@@ -212,5 +219,4 @@ for i in range(3):
   pen.left(120)
 ```
 
-
-
+<img src="../../img/logoCSCert_10cm.jpg" align="right">

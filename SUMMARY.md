@@ -31,7 +31,7 @@
     * [Les 3a](module-kunst/les-3/les-3a.md)
     * [Les 3b](module-kunst/les-3/les-3b.md)
   * [Les 4](module-kunst/les-4/README.md)
-    * [Les 4a](module-kunst/les-4/les-4a-1.md)
+    * [Les 4a](module-kunst/les-4/les-4a.md)
     * [Les 4b](module-kunst/les-4/les-4b.md)
   * [Les 5](module-kunst/les-5/README.md)
     * [Les 5a](module-kunst/les-5/les-5a.md)
