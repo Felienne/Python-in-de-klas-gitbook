@@ -2,11 +2,17 @@
 
 ## Herhalen met Turtle
 
+Aan het einde van de les kun jij:
+
+* For-lussen gebruiken om code te herhalen
+* 'Veelvlakken' tekenen met lussen
+* Spirograaffiguren tekenen met lussen
+
 ### Even opfrissen
 
-1\) Maak een vierkant
+Vorige week deden we deze opdracht ook, dat was best een lastige opdracht! 
 
-Vorige week deden we deze opdracht ook, dat was best een lastige opdracht! We gaan het daarom nog een keer oefenen. Teken dit figuur in je schrift.
+1\) Teken dit vierkant in je schrift.
 
 ![](../../.gitbook/assets/image-20190322135329083.png)
 
@@ -22,21 +28,18 @@ Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde op in
 7. ...
 8. ...
 
-​​2\) Teken nu een driehoek
+​​2\) Teken deze driehoek in je schrift.
 
 ![](../../.gitbook/assets/image-20190322135525607.png)
 
-1. Welke som reken je uit om een driehoek te maken? Weet je de som nog? Schrijf deze in je schrift.
-2. Welke Pythoncode gebruik jij voor de hoek van een driehoek? Vul het in op de puntjes.
+Nu moeten we even rekenen! Welke som reken je uit om een driehoek te maken? Schrijf de som in je schrift.
 
-pen.left\(……..\)
+Een driehoek maak je met:
 
-1. Een driehoek maak je met:
-
-* pen.left\(……..\) &lt;— dit is het commando voor draaien. Hier komt het getal dat je bij opdracht 1 hebt berekend
+* pen.left\(……..\) &lt;— dit is het commando voor draaien. Hier komt het getal dat je zojuist hebt berekend
 * pen.forward\(100\)
 
-Zet nu deze opdrachten bij de juiste plekken in de tekening. Je moet allebei de Python opdrachten drie keer gebruiken. Schrijf het in je schrift:
+Zet nu deze opdrachten bij de juiste plekken in de tekening. Je moet allebei de Python opdrachten nu drie keer gebruiken. Schrijf de 6 codes in je schrift:
 
 1. ...
 2. ...
@@ -67,8 +70,6 @@ Reken uit in je schrift:
 3. 
 
 ![](../../.gitbook/assets/image%20%282%29.png)
-
-
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.​​
 
@@ -152,8 +153,4 @@ Welke codes horen bij deze tekeningen? Gebruik natuurlijk wel een lus \(of meerd
 ![](../../.gitbook/assets/image-20190322151500039.png)
 
 
-
-
-
-
-
+<img src="../../img/logoCSCert_10cm.jpg" align="right">
