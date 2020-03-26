@@ -1,21 +1,20 @@
 # Les 1a
 
-## Figuren tekenen
+## Tekenen met Turtle
 
 Aan het einde van de les kun jij:
 
-* systematisch een vierkant tekenen
-* systematisch een driehoek tekenen
-* systematisch een spirograaf tekenen
-* de bijbehorende Python-code schrijven
+* Tekenen met Python turtle
+* 'Veelvlakken' tekenen met de juiste hoek
+* Spirograaffiguren tekenen
 
-### Teken verschillende figuren
+### Verschillende figuren tekenen
 
-1\) Maak een vierkant
+Voor we aan het programmeren gaan, gaan we eerst op papier oefenen. Teken de figuren in je schrift, maar… doe het precies volgens dit schema!
 
-Voor we aan het programmeren gaan, gaan we eerst op papier oefenen. Teken een vierkant in je schrift, maar… doe het precies volgens dit schema!
+**Let op:** Begin aan de linkerkant van je blad en begin *niet* bovenaan je blad, anders past het niet. Zorg ook dat er genoeg ruimte naast het figuur is, want je moet er straks Python codes bij zetten.
 
-**Let op:** Begin aan de linkerkant van je blad, anders past het niet. Zorg ook dat er genoeg ruimte naast het figuur is, want je moet er straks Python codes bij zetten.
+1\) Maak een vierkant door het onderstaande schema te volgen.
 
 * Begin in de tekenrichting 'rechts'
 * Ga 5 cm in de tekenrichting \(rechts nu dus\)
@@ -27,9 +26,7 @@ Voor we aan het programmeren gaan, gaan we eerst op papier oefenen. Teken een vi
 * Volgens de tekenrichting \(dat is nu omlaag\)
 * Draai 90 graden linksom
 
-2\) Maak een driehoek
-
-Teken een driehoek, maar doe het weer volgens dit schema.
+2\) Maak een driehoek door het onderstaande schema te volgen.
 
 * Begin in de tekenrichting 'rechts'
 * Ga 5 cm in de tekenrichting \(rechts nu dus\)
@@ -49,8 +46,6 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
 Nu gaan we Pythoncodes koppelen aan de stukjes van de tekening. Het stukje bij de 1, de rechte lijn, maken we met `pen.forward(100)`Bij 2 draaien we een kwartslag naar links, dus daar hoort `pen.left(90)`. Maak jij de codes af?
 
-Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde op in je schrift.
-
 1. pen.forward\(100\) 
 2. pen.left\(90\) 
 3. ...
@@ -60,22 +55,15 @@ Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde op in
 7. ...
 8. ...
 
- 
-
 2\) Doe nu hetzelfde voor de driehoek. Ga terug naar de driehoek die je hebt getekend in je schrift en zet deze nummers erbij.
 
 ![](../../.gitbook/assets/image-20190322135525607%20%281%29.png)
 
-Nu moeten we even rekenen! 
-
-1. Welke som reken je uit om een driehoek te maken? Schrijf de som in je schrift.
-2. Welke Pythoncode gebruik jij voor de hoek van een driehoek? Vul het in op de puntjes.
-
-`pen.left(……)`
+Nu moeten we even rekenen! Welke som reken je uit om een driehoek te maken? Schrijf de som in je schrift.
 
 Een driehoek maak je met:
 
-* pen.left\(……..\) &lt;— dit is het commando voor draaien. Hier komt het getal dat je bij vraag 2 hebt berekend
+* pen.left\(……..\) &lt;— dit is het commando voor draaien. Hier komt het getal dat je zojuist hebt berekend
 * pen.forward\(100\)
 
 Zet nu deze opdrachten bij de juiste plekken in de tekening. Je moet allebei de Python opdrachten nu drie keer gebruiken. Schrijf de 6 codes in je schrift:
@@ -87,7 +75,7 @@ Zet nu deze opdrachten bij de juiste plekken in de tekening. Je moet allebei de 
 5. ...
 6. ...
 
- 3\) Nog wat sommen met hoeken
+3\) Nog wat sommen met hoeken
 
 Reken uit in je schrift:
 
@@ -145,7 +133,7 @@ pen.forward(100)
 pen.left(60)
 ```
 
- 3\) Nu andersom. Weet jij met welke code je deze figuren tekent? Schijf de codes in je schrift. Tip: reken het na met je geodriehoek.
+3\) Nu andersom. Weet jij met welke code je deze figuren tekent? Schijf de codes in je schrift. Tip: reken het na met je geodriehoek.
 
 1. 
 ![](../../.gitbook/assets/image-20190318130624359%20%281%29.png)
@@ -200,7 +188,7 @@ pen.left(90)
 pen.forward(100)
 ```
 
- Schrijf nu weer de codes op die bij deze figuren horen.
+Schrijf nu weer de codes op die bij deze figuren horen.
 
 1. 
 ![](../../.gitbook/assets/image-20190318130606702.png)
@@ -214,4 +202,4 @@ pen.forward(100)
 ![](../../.gitbook/assets/image-20190318130138855.png)
 
 
-
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
