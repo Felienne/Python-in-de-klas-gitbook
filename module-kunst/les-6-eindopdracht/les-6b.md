@@ -59,3 +59,4 @@ pen.end_fill()
 
 **Je mag ook twee rgb-codes gebruiken in `pen.color()` maar let op! Dan moeten ze wel allebei tussen haakjes staan:**
 
+<img src="../../img/logoCSCert_10cm.jpg" align="right">
