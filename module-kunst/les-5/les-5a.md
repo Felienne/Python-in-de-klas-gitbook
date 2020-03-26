@@ -1,6 +1,10 @@
 # Les 5a
 
-## Kleuren en plannen
+## Kleuren
+Aan het einde van de les kun jij:
+* Hoe je kleuren in je tekening kunt gebruiken met namen
+* Hoe je kleuren in je tekening kunt gebruiken met RGB codes
+* Hoe je vlakken in je tekening kunt vullen met kleur
 
 ### Even opfrissen
 
@@ -275,3 +279,5 @@ for i in range(aantal_keer):
 ![](../../.gitbook/assets/image-20190406142204920.png)
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+
+<img src="../../img/logoCSCert_10cm.jpg" align="right">
