@@ -2,6 +2,10 @@
 
 ## Meerdere figuren
 
+Aan het einde van de les kun jij:
+* Hoe je meerdere figuren maakt
+* Hoe je je pen op kan tillen én neer kan zitten
+
 ### Even opfrissen
 
 Vorige week maakten we kennis met de `for` lus. Hoe ging dat ook al weer?
