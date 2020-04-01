@@ -334,6 +334,7 @@ pen.begin_fill()
 ```
 
 2\) Schrijf de code voor deze tekeningen. Gebruik RGB codes voor de kleuren.
+
 1.
 ![](../../img/Kunst_5a_figurenvullen_21.png)
 
