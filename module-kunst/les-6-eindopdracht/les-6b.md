@@ -3,35 +3,30 @@
 ## 1\) Maak je tekening!
 
 Je hebt de afgelopen weken een hoop geleerd. Nu is het tijd om een mooie tekening te maken.
+Deze dingen moeten in je programma zitten:
 
-**Lever een link naar je programma in voor vrijdag 13:00 via Magister.**
+* Minstens 5 _**losse**_ figuren.
+* Minstens 3 variabele die je definieert én gebruikt.
+* Minstens 3 kleuren.
+* Netjes commentaar bovenaan.
+* Bij moeilijke stukjes code ook commentaar achter de codes.
 
-Deze dingen moeten in je programma zitten voor een voldoende:
+Je kunt **extra** punten verdienen door:
 
-* Minstens 5 _**losse**_ **figuren.**
-* **Minstens 3 variabele die je definieert én gebruikt.**
-* **Minstens 3 kleuren.**
-* **Netjes commentaar bovenaan.**
-* **Bij moeilijke stukjes code ook commentaar achter de codes.**
+* Het gebruiken van rgb-codes voor kleuren.
+* `begin_fill()` en `end_fill` om vlakken in te kleuren.
+* Figuren met meerdere kleuren \(zie onderaan dit werkblad\).
+* Andere coole dingen die je kunt verzinnen!
 
-**Je kunt extra punten verdienen door:**
+## 2\) Wat vond je ervan?
 
-* **Het gebruiken van rgb-codes voor kleuren.**
-* **`begin_fill()` en `end_fill` om vlakken in te kleuren.**
-* **figuren met meerdere kleuren \(zie onderaan dit werkblad\)**
-* **Andere coole dingen die je kunt verzinnen!**
+We willen graag weten wat jij van de lessen tot nu toe vond.
+Schrijf in je schrift de drie dingen die je het leukst vond. Schrijf ook op wat je het minst leuk vond.
 
-## 2\) Wat vond je ervan?**
+## Extra\) Meerdere kleuren
 
-**We willen graag weten wat jij van de lessen tot nu toe vond.**
-
-**Schrijf in je schrift de drie dingen** die je het leukst vond. Schrijf ook op wat je het minst leuk vond.
-
-**\#\#\#Meerdere kleuren \(extra\)**
-
-**Je kunt ook figuren tekenen met 1 kleur, en invullen met een andere kleur!**
-
-**Dat doe je door twee kleuren in te voeren in `pen.color()`. Zo dus:**
+Je kunt ook figuren tekenen met 1 kleur, en invullen met een andere kleur!
+Dat doe je door twee kleuren in te voeren in `pen.color()`. Zo dus:
 
 ```text
 pen.color('orange', 'blue')
@@ -55,8 +50,8 @@ for i in range(60):
 pen.end_fill()
 ```
 
-**Dat maakt dit figuur:**
+Dat maakt dit figuur:
 
-**Je mag ook twee rgb-codes gebruiken in `pen.color()` maar let op! Dan moeten ze wel allebei tussen haakjes staan:**
+Je mag ook twee rgb-codes gebruiken in `pen.color()` maar let op! Dan moeten ze wel allebei tussen haakjes staan:
 
 <img src="../../img/logoCSCert_10cm.jpg" align="right">
