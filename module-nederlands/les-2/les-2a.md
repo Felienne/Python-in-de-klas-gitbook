@@ -75,7 +75,7 @@ Schrijf de code voor het zinnetje in je schrift.
 
 4\) Wat is de fout?
 
-Al deze codes zouden 'Hallo allemaal' moeten printen maar dat doen ze niet. Wat gaat er mis?
+Al deze codes zouden **Hallo allemaal** moeten printen maar dat doen ze niet. Wat gaat er mis?
 
 Schrijf in je schrift wat de fout is.
 
