@@ -209,8 +209,7 @@ Schrijf de uitvoer in je schrift.
 **Let op!** Een van de codes is fout. Schijf daarbij op: FOUT.
 
 ```python
-1. doelgroep = 'leerlingen'
-   print('Hallo', leerlingen)
+1. print('Hallo', 'allemaal')
 ```
 
 ```python
@@ -219,12 +218,11 @@ Schrijf de uitvoer in je schrift.
 ```
 
 ```python
-3. achternaam = 'Hermans'
-   print('Hallo', 'mevrouw', achternaam)
+3. print('Hallo', )
 ```
 
 ```python
-5. les = 'coderen'
+4. les = 'coderen'
    print('Hallo' 'leerlingen', 'bij', les)
 ```
 
