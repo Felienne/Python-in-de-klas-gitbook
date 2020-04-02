@@ -75,7 +75,7 @@ Schrijf de code voor het zinnetje in je schrift.
 
 4\) Wat is de fout?
 
-Al deze codes zijn fout. Wat is er mis?
+Al deze codes zouden 'Hallo allemaal' moeten printen maar dat doen ze niet. Wat gaat er mis?
 
 Schrijf in je schrift wat de fout is.
 
@@ -84,7 +84,7 @@ Schrijf in je schrift wat de fout is.
 ```
 
 ```python
-2. print('Hallo') print('Allemaal')
+2. print('Hallo') print('allemaal')
 ```
 
 ```python
@@ -96,12 +96,12 @@ Schrijf in je schrift wat de fout is.
 ```
 
 ```python
-5. print 'Hallo Allemaal'
+5. print 'Hallo allemaal'
 ```
 
 ```python
 6. prit('Hallo')
-   prit('Allemaal')
+   prit('allemaal')
 ```
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
