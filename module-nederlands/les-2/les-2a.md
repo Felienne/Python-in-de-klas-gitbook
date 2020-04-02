@@ -108,7 +108,7 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
 ### Commentaar
 
-Je kunt Python ook codes laten overslaan met een hekje. Een hekje ziet er zo uit: \# Het hekje staat boven de 3 op je toetsenbord. Iedere regel die achter een hekje staat, wordt overgeslagen.
+Je kunt Python ook codes laten overslaan met een hekje. Een hekje ziet er zo uit: \#. Het hekje staat boven de 3 op je toetsenbord. Iedere regel die achter een hekje staat, wordt overgeslagen.
 
 1\) Er zijn drie redenen waarom je commentaar gebruikt in een programma. Schrijf die redenen in je schrift.
 
