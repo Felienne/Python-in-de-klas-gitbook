@@ -133,4 +133,4 @@ Deze code is fout omdat alle aanhalingstekens om de woorden missen.
 print('Een', 'regel', 'code')
 ```
 
-<img src="../img/logoCSCert_10cm.jpg" align="right">
+<img src="../../img/logoCSCert_10cm.jpg" align="right">
