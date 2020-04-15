@@ -1,11 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%" />
+# Les 5a nakijkmodel
 
-## Module Nederlands Les 5 werkblad a nakijkmodel
-
-### if-else
-
-**Even opfrissen!**
-**Goed of fout?**
+## Even opfrissen!
 
 1)
 
@@ -88,6 +83,4 @@ Let op: er wordt wel iets uitgeprint maar **eigenlijk** moet het stukje `woensda
 3. In plaats van een dubbel = teken `==` is er een enkel = teken geschreven `=`
 4. De aanhalingsteken achter `'melk of suiker?` mist. 
 
-
-
-
+<img src="../../img/logoCSCert_10cm.jpg" align="right">
