@@ -20,6 +20,12 @@
     * [Les 5b](module-nederlands/les-5/les-5b.md)
   * [Les 6 \(Eindopdracht\)](module-nederlands/les-6/README.md)
     * [Les 6b](module-nederlands/les-6/les-6b.md)
+  * [Nakijkbladen]
+    * [Les 1](module-nederlands/nakijkbladen/les-1-nakijkmodel.md)
+    * [Les 2](module-nederlands/nakijkbladen/les-2-nakijkmodel.md)
+    * [Les 3](module-nederlands/nakijkbladen/les-3-nakijkmodel.md)
+    * [Les 4](module-nederlands/nakijkbladen/les-4-nakijkmodel.md)
+    * [Les 5](module-nederlands/nakijkbladen/les-5-nakijkmodel.md)
 * [Module Kunst](module-kunst/README.md)
   * [Les 1](module-kunst/les-1/README.md)
     * [Les 1a](module-kunst/les-1/les-1a.md)
@@ -38,5 +44,11 @@
     * [Les 5b](module-kunst/les-5/les-5b.md)
   * [Les 6 \(Eindopdracht\)](module-kunst/les-6-eindopdracht/README.md)
     * [Les 6b](module-kunst/les-6-eindopdracht/les-6b.md)
+  * [Nakijkbladen]
+    * [Les 1](module-kunst/nakijkbladen/les-1-nakijkmodel.md)
+    * [Les 2](module-kunst/nakijkbladen/les-2-nakijkmodel.md)
+    * [Les 3](module-kunst/nakijkbladen/les-3-nakijkmodel.md)
+    * [Les 4](module-kunst/nakijkbladen/les-4-nakijkmodel.md)
+    * [Les 5](module-kunst/nakijkbladen/les-5-nakijkmodel.md)
 * [Module Geschiedenis \(in ontwikkeling\)](module-geschiedenis/README.md)
 
