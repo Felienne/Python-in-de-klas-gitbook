@@ -108,35 +108,35 @@ Dan schijf jij in je schrift: kleuren\[1\] Nu jij!
    print('De', 'trui', 'is', kleuren[...])
 ```
 
-1. Er moet geprint worden: 'Ik hou van drop' 
+2. Er moet geprint worden: 'Ik hou van drop' 
 
 ```python
    snoepjes = ['chocolade', 'zuurtjes', 'drop']
    print('Ik', 'hou', 'van', snoepjes[...])
 ```
 
-1. Er moet geprint worden: 'Zullen we gaan gamen morgen?'
+3. Er moet geprint worden: 'Zullen we gaan gamen morgen?'
 
 ```python
    hobbies = ['gamen', 'voetballen', 'zingen']            
    print('Zullen', 'we', 'gaan', hobbies[...], 'morgen?')
 ```
 
-1. Er moet geprint worden: 'Mijn beste vriend heet Samir'
+4. Er moet geprint worden: 'Mijn beste vriend heet Samir'
 
 ```python
    namen = ['Jan', 'Robin', 'Samir']
    print('Mijn', 'beste', 'vriend', 'heet', namen[...])
 ```
 
-1. Er moet geprint worden: 'De beste programmeertaal is Python'
+5. Er moet geprint worden: 'De beste programmeertaal is Python'
 
 ```python
    talen = ['Python', 'JavaScript', 'HTML']
    print('De', 'beste', 'programmeertaal', 'is', talen[...] )
 ```
 
-1. Er moet geprint worden: 'Ik woon in de Takstraat'
+6. Er moet geprint worden: 'Ik woon in de Takstraat'
 
 ```python
    straatnamen = ['Witte Hertstraat', 'Takstraat', 'Coolsingel']
