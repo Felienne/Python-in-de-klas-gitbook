@@ -39,9 +39,6 @@ Schrijf de uitvoer in je schrift.
    #print('hebben', 'jullie', 'er', 'zin', 'in?')
 ```
 
-
-```
-
 2\) Wat print Python als deze codes worden uitgevoerd?
 
 Als er een fout in de code zit, schrijf dan FOUT!
@@ -109,9 +106,7 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
 ### Aanwijzen in een lijst
 
-1\) Hier staan steeds lijsten in code, en een aanwijzer.
-
-Wat wordt er uitgeprint?
+1\) Hier staan steeds lijsten in code, en een aanwijzer. Wat wordt er uitgeprint?
 
 Soms komt er een fout! Schrijf dan FOUT.
 
