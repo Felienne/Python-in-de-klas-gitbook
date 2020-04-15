@@ -101,7 +101,7 @@ Er moet geprint worden: 'Ik vind geel mooi' Maak de code af in je schrift.
 
 Dan schijf jij in je schrift: kleuren\[1\] Nu jij!
 
-1. Er moet geprint worden: 'De trui is groen' Maak de code af in je schrift. 
+1. Er moet geprint worden: 'De trui is groen'.  
 
    ```python
       kleuren = ['blauw', 'geel', 'groen']            
@@ -158,9 +158,9 @@ Voorbeeld:
    Input: koffie
 ```
 
-De invoer is: koffie \(kijk bij Input\) De code print: Je wilt dus koffie.
+De invoer is: koffie \(kijk bij Input\) De code print: `Je wilt dus koffie`.
 
-Nu jij!
+Wat wordt er geprint bij onderstaande codes na de invoer van een gebruiker?
 
 ```python
 1. print('Suiker', 'of', 'melk?')
@@ -198,7 +198,7 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
 ### Fouten bij invoer
 
-1\) Wat print deze code? Is de code fout -&gt; schrijf FOUT Is de code goed -&gt; schrijf wat de code print
+1\) Wat print deze code? Is de code fout -&gt; schrijf FOUT Is de code goed -&gt; schrijf wat de code print __na__ de invoer van de gebruiker.
 
 ```python
 1. print('Hoe', 'heet', 'jij?'
