@@ -142,7 +142,7 @@ Code zal geen foutmelding geven, maar in plaats van `'leerlingen'` moet er in de
    Hier is correct gebruik gemaakt van de variabele `les` die als waarde `'coderen'` heeft gekregen.
 
 
-6. **Fout**
+6. **Fout**  
    De gebruikte variabele `Goedemorgen` is niet gedefinieerd. In plaats van `Goedemorgen` moet er in de print gebruik gemaakt worden van een gedefinieerde variabele `goedemorgen` die als waarde `'Goedemorgen'` krijgt.
    Let op: Goedemorgen was als gedefinieerde variabele een foutieve variabele geweest, een variabelenaam begin je in python met een kleine letter. 
    
