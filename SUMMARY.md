@@ -38,5 +38,5 @@
     * [Les 5b](module-kunst/les-5/les-5b.md)
   * [Les 6 \(Eindopdracht\)](module-kunst/les-6-eindopdracht/README.md)
     * [Les 6b](module-kunst/les-6-eindopdracht/les-6b.md)
-* [Module Aardrijkskunde \(in ontwikkeling\)](module-aardrijkskunde/README.md)
+* [Module Geschiedenis \(in ontwikkeling\)](module-geschiedenis/README.md)
 
