@@ -206,8 +206,6 @@ Schrijf deze codes over. Zet een pijltje tussen het gebruik van een variabele en
 
 Schrijf de uitvoer in je schrift.
 
-**Let op!** Een van de codes is fout. Schijf daarbij op: FOUT.
-
 ```python
 1. print('Hallo', 'allemaal')
 ```
@@ -292,11 +290,6 @@ Nu jij!
 ```python
 7. tijd = 'half 9'
    print('Het', 'is', 'tijd')
-```
-
-```python
-8. print('Goedemorgen')
-
 ```
 
 <img src="../../img/logoCSCert_10cm.jpg" align="right">

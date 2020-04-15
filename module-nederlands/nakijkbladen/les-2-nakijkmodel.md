@@ -133,25 +133,19 @@ Code zal geen foutmelding geven, maar in plaats van `'leerlingen'` moet er in de
    print('Hallo', 'mevrouw', achternaam)
    ```
 
-   
-
 4. `Het is half 9`
 
-   Hier is correct gebruik gemaakt van de variabele tijd_op_klop die als waarde 'half 9' heeft gekregen.
+   Hier is correct gebruik gemaakt van de variabele `tijd_op_klok` die als waarde `'half 9'` heeft gekregen.
 
-    <div style="page-break-after: always;"></div>
+5. `Hallo leerlingen van coderen`
 
-5. `Hallo leerlingen van klas 1c`
+   Hier is correct gebruik gemaakt van de variabele `les` die als waarde `'coderen'` heeft gekregen.
 
-   Hier is correct gebruik gemaakt van de variabele klas die als waarde 'klas 1c' heeft gekregen.
-
-    
 
 6. **Fout**
-
-   De gebruikte variabele `Goedemorgen` is niet gedefinieerd.
-   In plaats van `Goedemorgen` moet er in de print gebruik gemaakt worden van een gedefinieerde variabele `goedemorgen` die als waarde `'Goedemorgen'` krijgt.
+   De gebruikte variabele `Goedemorgen` is niet gedefinieerd. In plaats van `Goedemorgen` moet er in de print gebruik gemaakt worden van een gedefinieerde variabele `goedemorgen` die als waarde `'Goedemorgen'` krijgt.
    Let op: Goedemorgen was als gedefinieerde variabele een foutieve variabele geweest, een variabelenaam begin je in python met een kleine letter. 
+   
    Onderstaand is de goede manier:
 
    ```python
@@ -159,28 +153,13 @@ Code zal geen foutmelding geven, maar in plaats van `'leerlingen'` moet er in de
    print(goedemorgen)
    ```
 
-   
-
 7. `Het is tijd`
 
-  Code zal geen foutmelding geven, maar in plaats van `'tijd'` moet er in de print gebruik gemaakt worden van de gedefinieerde variabele `tijd` . Onderstaand is de goede manier:
+  De code zal geen foutmelding geven, maar in plaats van `'tijd'` moet er in de print gebruik gemaakt worden van de gedefinieerde variabele `tijd` . Onderstaand is de goede manier:
 
   ```python
   tijd = 'half 9'
   print('Het', 'is', tijd)
   ```
-
-  
-
-8. `Goedemorgen` 
-
-   Code zal geen foutmelding geven, maar in plaats van `'Goedemorgen'` moet er in de print gebruik gemaakt worden van een gedefinieerde variabele `goedemorgen` die als waarde `'Goedemorgen'` krijgt.
-
-   Onderstaand is de goede manier:
-
-   ```python
-   goedemorgen = 'Goedemorgen'
-   print(goedemorgen)
-   ```
 
 <img src="../../img/logoCSCert_10cm.jpg" align="right">
