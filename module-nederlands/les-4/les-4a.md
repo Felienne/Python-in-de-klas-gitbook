@@ -103,51 +103,49 @@ Dan schijf jij in je schrift: kleuren\[1\] Nu jij!
 
 1. Er moet geprint worden: 'De trui is groen' Maak de code af in je schrift. 
 
-```python
-   kleuren = ['blauw', 'geel', 'groen']            
-   print('De', 'trui', 'is', kleuren[...])
-```
+   ```python
+      kleuren = ['blauw', 'geel', 'groen']            
+      print('De', 'trui', 'is', kleuren[...])
+   ```
 
 2. Er moet geprint worden: 'Ik hou van drop' 
 
-```python
-   snoepjes = ['chocolade', 'zuurtjes', 'drop']
-   print('Ik', 'hou', 'van', snoepjes[...])
-```
+   ```python
+      snoepjes = ['chocolade', 'zuurtjes', 'drop']
+      print('Ik', 'hou', 'van', snoepjes[...])
+   ```
 
 3. Er moet geprint worden: 'Zullen we gaan gamen morgen?'
 
-```python
-   hobbies = ['gamen', 'voetballen', 'zingen']            
-   print('Zullen', 'we', 'gaan', hobbies[...], 'morgen?')
-```
+   ```python
+      hobbies = ['gamen', 'voetballen', 'zingen']            
+      print('Zullen', 'we', 'gaan', hobbies[...], 'morgen?')
+   ```
 
 4. Er moet geprint worden: 'Mijn beste vriend heet Samir'
 
-```python
-   namen = ['Jan', 'Robin', 'Samir']
-   print('Mijn', 'beste', 'vriend', 'heet', namen[...])
-```
+   ```python
+      namen = ['Jan', 'Robin', 'Samir']
+      print('Mijn', 'beste', 'vriend', 'heet', namen[...])
+   ```
 
 5. Er moet geprint worden: 'De beste programmeertaal is Python'
 
-```python
-   talen = ['Python', 'JavaScript', 'HTML']
-   print('De', 'beste', 'programmeertaal', 'is', talen[...] )
-```
+   ```python
+      talen = ['Python', 'JavaScript', 'HTML']
+      print('De', 'beste', 'programmeertaal', 'is', talen[...] )
+   ```
 
 6. Er moet geprint worden: 'Ik woon in de Takstraat'
 
-```python
-   straatnamen = ['Witte Hertstraat', 'Takstraat', 'Coolsingel']
-   print('Ik', 'woon', 'in', 'de', straatnamen[...])
-```
+   ```python
+      straatnamen = ['Witte Hertstraat', 'Takstraat', 'Coolsingel']
+      print('Ik', 'woon', 'in', 'de', straatnamen[...])
+   ```
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
-
 ### Invoer
-
 1\) Je krijgt een aantal codes, én de invoer van een gebruiker.
 
 Voorbeeld:
