@@ -86,7 +86,7 @@ Deze code geeft een fout. Er wordt een comment geschreven in de functie print().
 
 1\) Er moet een streep getrokken zijn tussen de variabele definitie en het gebruik van de variabele zoals hieronder te zien is.
 
-<img src="../img/Les2a_waardeszoeken.png">  
+<img src="../../img/les2a_waardeszoeken.png">  
 
 2\)
 
@@ -182,4 +182,5 @@ Code zal geen foutmelding geven, maar in plaats van `'leerlingen'` moet er in de
    goedemorgen = 'Goedemorgen'
    print(goedemorgen)
    ```
-   
+
+<img src="../../img/logoCSCert_10cm.jpg" align="right">
