@@ -147,7 +147,7 @@ Er staat een spelfout in het woord `print`, de `i` mist en `hobbies[4]` bestaat 
 Er staan aanhalingsteken om het cijfer 1. Python zal nu een TypeError geven, dit betekent dat er een verkeerd 'type' aanwijzer gebruikt wordt tussen de blokhaken. Python verwacht een integer (dat is een cijfer) maar krijgt nu een char of string (dat is een letter of reeks van letters). De aanhalingstekens rondom 1 moeten worden verwijderd. 
 
 3. FOUT  
-De gedefineerde lijst heet `talen` en in de print wordt gebruikt gemaakt van de ongedefineerde lijst `taal'.
+De gedefineerde lijst heet `talen` en in de print wordt gebruikt gemaakt van de ongedefineerde lijst `taal`.
 
 4. FOUT  
 Er staan ronde haken in plaats van rechte haken voor het aanwijzen van het element `snoepjes[2]`. Python zal nu een TypeError geven en zeggen dat de lijst niet oproepbaar is, omdat Python de juiste aanwijscode mist en dus niet weet waar hij moet kijken.
