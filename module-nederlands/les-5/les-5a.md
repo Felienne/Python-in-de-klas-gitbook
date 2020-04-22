@@ -168,7 +168,7 @@ We gaan steeds de goede dierengeluiden printen. Deze horen bij elkaar:
 * koe - boe
 * varken - oink
 
-1\) Wat moet er op de puntjes? Alleen dat hoef je in je schrift te schrijven.
+Wat moet er op de puntjes? Alleen dat hoef je in je schrift te schrijven.
 
 ```python
 1. print('hond of kat')
@@ -227,12 +227,12 @@ Voorbeeld:
    Input: Frans
 ```
 
-De code…. print 'Bonjour'   
+De code print `Bonjour`.     
   
 Voorbeeld:
 
 ```python
-   print('Nederlands of Frans')
+   print('Nederlands', 'of', 'Frans')
    taal = input()
    if taal == 'Nederlands'
      print('Hallo')
@@ -242,7 +242,7 @@ Voorbeeld:
    Input: Frans
 ```
 
-De invoer is: Frans. De code…. is FOUT, want de eerste regel mist een :
+De code is FOUT, want de eerste regel mist een `:`.
 
 Nu jij!
 
@@ -280,18 +280,18 @@ Nu jij!
 ```
 
 ```python
-4. print('Engelse of Frans')
+4. print('Engels of Frans')
    taal = input()
    if taal == 'Engels':
      print('Bonjour!')
    else:
      print('Hello!')
   ---
-   Input: Engelse
+   Input: Engels
 ```
 
 ```python
-7. print('Duits', 'of', 'Nederlands')
+5. print('Duits of Nederlands')
    taal = input()
    if taal == 'Duits':
    print('Gutenabend!')
@@ -302,7 +302,7 @@ Nu jij!
 ```
 
 ```python
-7. print('Duits', 'of', 'Nederlands')
+6. print('Duits of Nederlands')
    taal = input()
    if taal == 'Duits':
      print('Gutenabend!')
@@ -313,7 +313,7 @@ Nu jij!
 ```
 
 ```python
-7. print('Duits', 'of', 'Nederlands')
+7. print('Duits of Nederlands')
    taal = input()
    if taal() == 'Duits':
      print('Gutenabend!')
