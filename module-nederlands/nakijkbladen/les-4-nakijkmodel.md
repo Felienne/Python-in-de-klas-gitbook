@@ -1,7 +1,8 @@
 # Les 4a nakijkmodel
 
 ## Even opfrissen!
-1\) 
+1\)   
+
 1. `Zullen we gaan voetballen morgen`  
 
 2. `Mijn beste vriend heet Jan`  
@@ -25,7 +26,6 @@ Er worden ronde haken gebruikt bij `snoepjes(2)`, dit moeten rechte haken zijn d
 9. FOUT  
 `vakken[4]` bestaat niet: Aardrijkskunde = 0, Nederlands = 1 en Coderen = 2. Python begint tellen bij 0 en niet bij 1. Trucje: tel op de hoeveelste plek het element staat en trek hier 1 vanaf, dan zit je op het juiste cijfer voor het aanwijzen van het element. 
 
-
 10. `De deur is geel`  
 
 11. `Hallo leerlingen`  
@@ -38,7 +38,8 @@ De bovenste regel wordt niet uitgeprint, dit is commentaar (uitgecommente code) 
 14. `Het is vandaag woensdag`
 De code is niet fout, maar let op. Er wordt geen gebruikt gemaakt van de variabele `dag`!
 
-2\) 
+2\)  
+
 1. `kleuren[2]`. De volledige code is
    ```python
       kleuren = ['blauw', 'geel', 'groen']            
@@ -76,7 +77,8 @@ De code is niet fout, maar let op. Er wordt geen gebruikt gemaakt van de variabe
    ```
    
 ## Invoer
-1\) 
+1\)  
+
 1. `Okee ik doe er melk in`  
 De invoer van de gebruiker wordt opgeslagen in de variabele `in_de_thee`. Deze wordt vervolgens in de print gebruikt.
 
