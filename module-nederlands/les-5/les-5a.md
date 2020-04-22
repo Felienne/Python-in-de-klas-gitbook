@@ -123,7 +123,7 @@ De invoer is: melk \(kijk bij Input:\) De code print: gieten. Nu jij!
 ```
 
 ```python
-6. print('Nederlands of Engels')
+5. print('Nederlands of Engels')
    taal = input()
    if taal == 'Engels':
      print('Hello', 'good morning!')
@@ -134,7 +134,7 @@ De invoer is: melk \(kijk bij Input:\) De code print: gieten. Nu jij!
 ```
 
 ```python
-7. print('Nederlands of Engels')
+6. print('Nederlands of Engels')
    taal = input()
    if taal == 'Engels':
      print('Hello', 'good morning!')
@@ -145,7 +145,7 @@ De invoer is: melk \(kijk bij Input:\) De code print: gieten. Nu jij!
 ```
 
 ```python
-8. print('Nederlands of Engels')
+7. print('Nederlands of Engels')
    taal = input()
    if taal == 'Engels':
      print('Hello', 'good morning!')
