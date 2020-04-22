@@ -1,8 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
+# Les 4a nakijkmodel
 
-## Module 2: Kunst Les 4 werkblad a nakijkmodel
-
-### Even opfrissen
+## Even opfrissen!
 
 1) 
 
@@ -70,4 +68,4 @@ Goedemorgen 1c
 3. <img src="../../img/image-20190416110912808.png" style="zoom:70%">
 4. <img src="../../img/image-20190416111050065.png" style="zoom:60%">
 
-<div style="page-break-after: always;"></div>
+<img src="../../img/logoCSCert_10cm.jpg" align="right">

@@ -1,8 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
+# Les 1a nakijkmodel
 
-## Module 2: Kunst Les 1 werkblad a nakijkmodel
-
-### Tekenen en code
+## Tekenen en code
 
 1) 
 ```python
@@ -150,3 +148,5 @@ Code die hoort bij tekeningen:
 	pen.right(90)
 	pen.forward(175)
 ```
+
+<img src="../../img/logoCSCert_10cm.jpg" align="right">

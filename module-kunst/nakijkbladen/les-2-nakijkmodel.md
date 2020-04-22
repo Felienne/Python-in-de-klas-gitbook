@@ -1,8 +1,6 @@
-<img src="../../img/Logo cs-certificate.jpg" style="zoom:9%">
+# Les 2a nakijkmodel
 
-## Module 2: Kunst Les 2 werkblad a nakijkmodel
-
-### Even opfrissen
+## Even opfrissen!
 
 1) 
 ```python
@@ -188,3 +186,4 @@ for i in range(3):
   pen.left(120)
 ```
 
+<img src="../../img/logoCSCert_10cm.jpg" align="right">
