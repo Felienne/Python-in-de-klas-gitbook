@@ -1,7 +1,5 @@
 # Les 5a
 
-
-
 #### Kleuren en plannen
 
 **Even opfrissen**

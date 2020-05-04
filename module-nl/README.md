@@ -35,7 +35,7 @@ b\) Werkbladen zodat lln zelf aan de slag kunnen achter de computer
 
 ## Slides
 
-[Je vindt alle slides bij elkaar op deze pagina.](https://slides.com/felienne/decks/pidk-m1)
+Je vindt alle [slides van Module Nederlands](https://slides.com/felienne/decks/pidk-m1) bij elkaar op deze pagina.
 
 ## Nakijkmodellen en proefwerken
 

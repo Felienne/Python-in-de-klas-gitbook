@@ -1,10 +1,8 @@
 # Les 4b
 
-### Les 4 werkblad b
-
 #### Opdracht 4b-1\) Maak twee vierkanten met 1 variabele
 
-Deze les wordt afgetekend als:
+Deze opdracht wordt afgetekend als:
 
 * Je twee vierkanten naast elkaar hebt getekend
 * Je een variabele gebruikt voor de **hoek**
@@ -19,7 +17,7 @@ Denk aan deze tips:
 
 #### Opdracht 4b-2\) Maak twee vierkanten met 2 variabelen
 
-Deze les wordt afgetekend als:
+Deze opdracht wordt afgetekend als:
 
 * Je twee vierkanten naast elkaar hebt getekend \(precies zoals bij opdracht 1\)
 * Je een variabele gebruikt voor de **hoek**
@@ -47,7 +45,7 @@ Deze les wordt afgetekend als:
 
 #### Opdracht 4b-5\) Maak twee driehoeken op elkaar met 3 variabelen
 
-Deze les wordt afgetekend als:
+Deze opdracht wordt afgetekend als:
 
 * Je weer twee driehoeken onder elkaar hebt getekend \(net als bij opdr. 4\)
 * Je een variabele gebruikt voor de **hoek**
@@ -56,7 +54,7 @@ Deze les wordt afgetekend als:
 
 #### Opdracht 4b-6\) Maak twee vierkanten, eentje klein met 3 variabelen
 
-Deze les wordt afgetekend als:
+Deze opdracht wordt afgetekend als:
 
 * Je twee vierkanten naast elkaar hebt getekend
 * De tweede half zo groot is als de eerste
