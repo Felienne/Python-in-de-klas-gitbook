@@ -21,11 +21,12 @@ Zoek voor je onderwerp minstens 10 feiten op die je als quizvraag kunt gebruiken
 Deze les wordt afgetekend als:
 
 * Je je vragen in een lijst hebt gezet
-* Je er willekeurig eentje kan printen
+* Je je antwoorden ook in een lijst hebt gezet \(op dezelfde volgorde!\)
+* Je een willekeurige vraag kan printen
 
 **Opdracht.** Zet je vragen in een lijst. Let goed op komma's tussen de vragen, en aanhalingstekens om de vragen. Print er steeds willekeurig eentje uit als het programma wordt opgestart.
 
-Belangrijk: Je hoeft nog niets met de antwoorden te doen.
+Belangrijk: Je hoeft nog niets met de antwoorden te doen. De antwoorden in de lijst zetten is voldoende.
 
 #### Opdracht 3b-1\) \[Extra\] Maak een programma met alle elementen die je al kent. Je mag zelf iets kiezen om te maken!
 

@@ -9,7 +9,8 @@
 * print\(\) gebruiken om woorden te laten zien
 * variabelen instellen en printen
 * werken met lijsten
-* willekeurige getallen in een lijst aanwijzen
+* willekeurige element in een lijst aanwijzen
+* if-else gebruiken op input van een gebruiker
 
 
 
