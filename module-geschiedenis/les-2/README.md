@@ -2,7 +2,7 @@
 
 ## Slides
 
-[Module Geschiedenis, les 2](https://slides.com/felienne/pidk-m3-l2a#/)
+Module Geschiedenis, les 2
 
 ## Leerdoelen 
 

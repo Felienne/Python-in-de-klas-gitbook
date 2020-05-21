@@ -1,12 +1,10 @@
 # Les 3a
 
-## Slides
+## 
 
-[Module Geschiedenis, les 3](https://slides.com/felienne/python-in-de-klas-module-3-les-3)
 
-## Leerdoelen 
 
-* willekeurige _getallen_ in een lijst aanwijzen
+Geen a-deel bij deze les omdat er vorige les an uitgebreid herhaald is er er eigenlijk geen nieuwe concepten aangeleerd zijn.
 
 
 
