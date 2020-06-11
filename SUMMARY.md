@@ -57,6 +57,8 @@
   * [Les 5](module-geschiedenis/les-5/README.md)
     * [Les 5a](module-geschiedenis/les-5/les-5a.md)
     * [Les 5b](module-geschiedenis/les-5/les-5b.md)
+  * [Les 6](module-geschiedenis/les-6/README.md)
+    * [Les 6b](module-geschiedenis/les-6/les-6b.md)
 * [Module Quiz \(in ontwikkeling\)](module-quiz-in-ontwikkeling/README.md)
   * [Les 1](module-quiz-in-ontwikkeling/les-1.md)
   * [Les 2](module-quiz-in-ontwikkeling/les-2.md)
