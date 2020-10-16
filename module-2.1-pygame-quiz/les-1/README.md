@@ -12,3 +12,7 @@
 * willekeurige element in een lijst aanwijzen
 * if-else gebruiken op input van een gebruiker
 
+## Instructies voor de leerkracht
+
+Deze les heeft maar een opwarmopdrachtje omdaat het de eerste les is, en er dus vast wat te herhalen valt. Ik doe dat graag met wisbordjes, maar het kan ook met een Kahoot of juist door leerlingen samen een mindmap te laten maken, net hoe je handig vindt!
+
