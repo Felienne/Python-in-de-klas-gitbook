@@ -65,5 +65,3 @@
 * [Module 2.1 - PyGame Quiz](module-2.1-pygame-quiz-2/README.md)
   * [Les 1](module-2.1-pygame-quiz-2/les-1.md)
 
-## Module 2.1 - PyGame Quiz <a id="module-2.1-pygame-quiz-1"></a>
-
