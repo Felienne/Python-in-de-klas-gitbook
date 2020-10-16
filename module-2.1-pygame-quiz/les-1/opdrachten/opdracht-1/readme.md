@@ -1,4 +1,4 @@
-# readme
+# Opdracht 1
 
 1. Zoek je quizvragen van voor de vakantie op \(of verzin nieuwe!\)
 2. Verzamel minstens 10 vragen
