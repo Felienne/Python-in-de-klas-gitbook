@@ -62,8 +62,8 @@
   * [Les 7](module-geschiedenis/les-7/README.md)
     * [Les 7a](module-geschiedenis/les-7/les-7a.md)
     * [Les 7b](module-geschiedenis/les-7/les-7b.md)
-* [Module 2.1 - PyGame Quiz](module-2.1-pygame-quiz.md)
-* [Module Quiz \(in ontwikkeling\)](module-quiz-in-ontwikkeling/README.md)
-  * [Les 1](module-quiz-in-ontwikkeling/les-1.md)
-  * [Les 2](module-quiz-in-ontwikkeling/les-2.md)
+* [Module 2.1 - PyGame Quiz](module-2.1-pygame-quiz-2/README.md)
+  * [Les 1](module-2.1-pygame-quiz-2/les-1.md)
+
+## Module 2.1 - PyGame Quiz <a id="module-2.1-pygame-quiz-1"></a>
 
