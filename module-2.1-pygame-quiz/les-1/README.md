@@ -2,7 +2,7 @@
 
 ## Slides
 
-[Module Geschiedenis, les 1](https://slides.com/felienne/pidk-m3-l1a)
+[Module PyGame Quiz, les 1](https://slides.com/felienne/python-klas-2-module-1-les-1/)
 
 ## Leerdoelen \(Herhaling van modules 1, 2 en 3\)
 
