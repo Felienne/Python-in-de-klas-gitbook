@@ -64,5 +64,7 @@
     * [Les 7b](module-1.3-geschiedenis/les-7/les-7b.md)
 * [Module 2.1 - PyGame Quiz](module-2.1-pygame-quiz/README.md)
   * [Les 1](module-2.1-pygame-quiz/les-1/README.md)
-    * [readme](module-2.1-pygame-quiz/les-1/readme.md)
+    * [Opdrachten](module-2.1-pygame-quiz/les-1/opdrachten/README.md)
+      * [Opdracht 1](module-2.1-pygame-quiz/les-1/opdrachten/opdracht-1/README.md)
+        * [readme](module-2.1-pygame-quiz/les-1/opdrachten/opdracht-1/readme.md)
 

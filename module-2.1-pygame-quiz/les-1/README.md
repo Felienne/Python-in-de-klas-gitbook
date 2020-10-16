@@ -12,9 +12,7 @@
 * willekeurige element in een lijst aanwijzen
 * if-else gebruiken op input van een gebruiker
 
-### Opdrachten 
-
-**1\) Voorbereidende werkzaamheden aan je quiz**
+### 
 
 
 
