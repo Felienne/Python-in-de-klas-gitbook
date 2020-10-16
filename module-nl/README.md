@@ -1,4 +1,4 @@
-# Module Nederlands
+# Module 1.1 - Nederlands
 
 ## Instructie voor de leerkracht
 

@@ -1,4 +1,4 @@
-# Module Geschiedenis
+# Module 1.3 - Geschiedenis
 
 ## Instructie voor de leerkracht
 

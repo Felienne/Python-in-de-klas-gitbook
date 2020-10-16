@@ -1,4 +1,4 @@
-# Module Kunst
+# Module 1.2 - Kunst
 
 ### Instructie voor de leerkracht
 
