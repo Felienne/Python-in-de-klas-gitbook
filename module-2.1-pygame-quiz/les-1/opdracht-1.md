@@ -8,7 +8,7 @@
 
 #### Startcode
 
-```import random
+`import random
 
 quizvragen = ['vraag 1', 'vraag 2'] #vul hier jouw vragen in!
 opties = ['A)... B)...', 'A)... B)...']  #vul hier jouw antwoorden in!
@@ -19,7 +19,7 @@ vraagnummer = random.randint(0, len(quizvragen)-1)
 
 print(quizvragen[vraagnummer])
 print("Kies uit")
-print(opties[vraagnummer])```
+print(opties[vraagnummer])`
 
 
 
