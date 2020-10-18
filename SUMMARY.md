@@ -65,4 +65,6 @@
 * [Module 2.1 - PyGame Quiz](module-2.1-pygame-quiz/README.md)
   * [Les 1](module-2.1-pygame-quiz/les-1/README.md)
     * [Opdracht 1](module-2.1-pygame-quiz/les-1/opdracht-1.md)
+  * [Les 2](module-2.1-pygame-quiz/les-2/README.md)
+    * [Opdracht 1](module-2.1-pygame-quiz/les-2/opdracht-1.md)
 
