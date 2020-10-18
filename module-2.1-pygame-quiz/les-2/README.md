@@ -2,7 +2,7 @@
 
 ## Slides
 
-[Module PyGame Quiz, les 2](https://slides.com/felienne/python-klas-2-module-1-les-1/)
+[Module PyGame Quiz, les 2](https://slides.com/felienne/python-klas-2-module-1-les-2)
 
 ## Leerdoelen
 
