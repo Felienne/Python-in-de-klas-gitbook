@@ -68,4 +68,7 @@
   * [Les 2](module-2.1-pygame-quiz/les-2/README.md)
     * [Les 2a](module-2.1-pygame-quiz/les-2/les-2a.md)
     * [Les 2b](module-2.1-pygame-quiz/les-2/opdracht-1.md)
+  * [Les 3](module-2.1-pygame-quiz/les-3/README.md)
+    * [Les 3a](module-2.1-pygame-quiz/les-3/les-3a.md)
+    * [Les 3b](module-2.1-pygame-quiz/les-3/les-3b.md)
 

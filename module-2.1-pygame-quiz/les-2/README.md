@@ -6,13 +6,13 @@
 
 ## Leerdoelen
 
+* Herhaling van rgb-codes
+* Plaatjes inladen in PyGame
 * x-y coordinaten gebruiken in PyGame
 
 ## Instructies voor de leerkracht
 
 Deze les gaan leerlingen echt aan de slag met PyGame, door het op de juiste plaats zetten van de letters. Ze mogen zelf kiezen wat het wordt, in de hoeken, of juist op een rijtje.
 
-### Opdrachtcodes
 
-Je vindt de markdown en de Python-codes om mee te beginnen op [GitHub](https://github.com/Felienne/Python-in-de-klas-gitbook/tree/master/module-2.1-pygame-quiz/les-1/opdracht-1). Je kunt die importeren in bijv. repl.it Teams of Google Classroom zodat leerlingen de opdracht knnen inleveren.
 

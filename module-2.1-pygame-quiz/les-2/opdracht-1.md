@@ -21,7 +21,7 @@ Het startprogramma is [online](https://repl.it/@mevrHermans/pidk-jaar-2-les-2-op
 Deze opdracht wordt afgetekend als:
 
 1. Je vier letters in beeld hebt
-2. Die letters netjes op de hoeken van het scherm staan
+2. De letters elkaar niet overlappen
 
 **Uitleg.** De code zet nu een letter A op het scherm, maar we willen alle vier de letters in beeld. Dan kunnen spelers er straks op klikken.   
   
@@ -38,7 +38,7 @@ Alleen deze regel is nog niet genoeg om de B op het scherm te krijgen. Probeer d
   screen.blit(A, (0, 0))
 ```
 
-Deze regel code zet de variable A op het scherm, op plekje \(0,0\). \(0, 0\) betekent links bovenaan. 
+Deze regel code zet de variable A op het scherm, op plekje \(0,0\). \(0, 0\) betekent links bovenaan. Zorg jij dat de andere letters ook netjes in beeld komen? Je mag zelf kiezen waar ze staan, als ze maar niet over elkaar staan.
 
 {% hint style="info" %}
 **Let op!** Verander de A in een B, maar verander ook de getallen!! Als je de getallen op \(0, 0\) laat staan, zie je alleen de B, die op de A geplakt wordt.
@@ -48,7 +48,7 @@ Deze regel code zet de variable A op het scherm, op plekje \(0,0\). \(0, 0\) bet
 
 Deze opdracht wordt afgetekend als:
 
-1. Je iets extra's in beeld krijgt
+1. Je een extra plaatje in beeld krijgt
 
 **Opdracht.** Je kunt ook zelf nog iets in beeld krijgen, bijv. een smiley, een foto van jezelf of een "ik weet het niet" knop voor de speler. Voeg jij zelf nog iets toe aan je programma? Volg deze stappen:
 
