@@ -1,6 +1,41 @@
 # Les 4a nakijkmodel
 
-## Even opfrissen!
+## Even opfrissen
+
+1)
+
+1.
+
+2.
+
+3.
+
+4.
+
+2)
+
+1.
+```python
+1. for i in range(3):
+2.    pen.left(120)
+3.    pen.forward(100)
+4. for i in range(4):
+5.    pen.left(90)
+6.    pen.forward(100)
+```
+
+2.
+```python
+1. for i in range(4):
+2.   pen.left(90)
+3.   pen.forward(100)
+4. pen.forward(100)
+5. for i in range(3):
+6.   pen.right(90)
+7.   pen.forward(100)
+```
+
+## Variabelen in een lus
 
 1) 
 
@@ -18,9 +53,9 @@
 
 6. <img src="../../img/image-20190415165852940.png" style="zoom:25%">
 
-7. De code van opdracht 6 gebruikt de variabele aantal_hoeken (die een waarde van 8 heeft) om te berekenen hoeveel graden de hoek van een (in dit geval) achthoek. Dat doe je door het totaal (360) graden te delen door het aantal hoeken (hier dus de variabele aantal_hoeken)
+7. De code van opdracht 6 gebruikt de variabele aantal_hoeken (die een waarde van 8 heeft) om te berekenen hoeveel graden de pen moet draaien voor de hoek van een (in dit geval) achthoek. Dat doe je door 360 graden te delen door het aantal hoeken (hier dus de variabele aantal_hoeken)
 
-   
+
 
 8. 
 
@@ -56,8 +91,8 @@ Goedemorgen 1c
 4. <img src="../../img/image-20190416104451721.png" style="zoom:25%">
 5. FOUT, de indentatie van de twee laatste regels code is incorrect. Hier moeten twee spaties voor, bij beide regels. 
 6. <img src="../../img/image-20190415151021170.png" style="zoom:25%">
-7. De code van opdracht 6 gebruikt de variabele aantal_keer in de for-lus om de herhaling dat aantal keren uit te voeren. aantal_keer heeft hier de waarde 3, dus de for-lus wordt 3 keer uitgevoerd. Ook de waarde van de hoek zit in een variabele. Voor het commando pen.left() wordt heir dus de variabele hoek gebruikt die een waarde van 60 heeft gekregen. Het aantal graden van de hoek zal dus 60 zijn.
-8. FOUT. Je krijgt hier een foutmelding. Voor het aantal herhalingen van de for-lus wordt de variabele klas gebruikt. De variabele klas heeft als waarde '1c', dus is een string (reeks van karakters) en geen integer (cijfer). Een for-lust heeft als argument een integer nodig en kan niets met een string. De for-lus weet nu niet hoe vaak deze een herhaling moet uitvoeren en geeft wegens het hebben gekregen van een ongeschikt argument een foutmelding.
+7. De code van opdracht 6 gebruikt de variabele aantal_keer in de for-lus om de herhaling dat aantal keren uit te voeren. aantal_keer heeft hier de waarde 3, dus de for-lus wordt 3 keer uitgevoerd. Ook de waarde van de hoek zit in een variabele. Voor het commando pen.left() wordt hier dus de variabele hoek gebruikt die een waarde van 60 heeft gekregen. Het aantal graden dat de pen draait zal dus 60 zijn.
+8. FOUT. Je krijgt hier een foutmelding. Voor het aantal herhalingen van de for-lus wordt de variabele klas gebruikt. De variabele klas heeft als waarde '1c', dus is een string (reeks van karakters) en geen integer (cijfer). Een for-lus heeft als argument een integer nodig en kan niets met een string. De for-lus weet nu niet hoe vaak deze een herhaling moet uitvoeren en geeft wegens het hebben gekregen van een ongeschikt argument een foutmelding.
 
 <div style="page-break-after: always;"></div>
 
