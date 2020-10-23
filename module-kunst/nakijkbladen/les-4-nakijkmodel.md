@@ -4,7 +4,7 @@
 
 1)
 
-1.
+1. <img src="../../img/image-20190415165611900.png" style="zoom:80%">
 
 2. FOUT. De dubbele punt (:) mist in de eerste regel. 
 
