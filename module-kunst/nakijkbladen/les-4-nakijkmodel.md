@@ -6,9 +6,9 @@
 
 1.
 
-2.
+2. FOUT. De dubbele punt (:) mist in de eerste regel. 
 
-3.
+3. FOUT. De indentatie (spaties) missen in de tweede en derde regel.
 
 4.
 
