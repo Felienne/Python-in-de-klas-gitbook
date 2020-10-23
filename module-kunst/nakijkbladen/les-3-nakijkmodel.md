@@ -66,51 +66,6 @@ for i in range(8):
 1. 
 
 ```python
-for i in range(4):
-  pen.left(90)
-  pen.forward(100)
-
-pen.forward(100)
-
-for i in range(3):
-  pen.right(90)
-  pen.forward(100)
-```
-
-2. 
-
-```python
-for i in range(4):
-  pen.forward(100)
-  pen.left(90)
-
-for i in range(3):
-  pen.forward(100)
-  pen.left(120)
-
-pen.forward(100)
-```
- <div style="page-break-after: always;"></div>
-
-3. 
-
-```python
-for i in range(4):
-  pen.forward(100)
-  pen.left(90)
-
-pen.penup()
-pen.forward(100)
-pen.pendown()
-
-for i in range(4):
-  pen.forward(100)
-  pen.left(90)
-```
-
-4. 
-
-```python
 for i in range(9):
   pen.forward(100)
   pen.left(80)
@@ -123,5 +78,53 @@ for i in range(9):
   pen.forward(50)
   pen.left(80)
 ```
+
+2. 
+
+```python
+for i in range(4):
+  pen.forward(100)
+  pen.left(90)
+
+pen.penup()
+pen.forward(100)
+pen.pendown()
+
+for i in range(4):
+  pen.forward(100)
+  pen.left(90)
+```
+
+ <div style="page-break-after: always;"></div>
+
+3. 
+
+```python
+for i in range(4):
+  pen.forward(100)
+  pen.left(90)
+
+for i in range(3):
+  pen.forward(100)
+  pen.left(120)
+
+pen.forward(100)
+```
+
+4. 
+
+
+```python
+for i in range(4):
+  pen.left(90)
+  pen.forward(100)
+
+pen.forward(100)
+
+for i in range(3):
+  pen.right(90)
+  pen.forward(100)
+```
+
 
 <img src="../../img/logoCSCert_10cm.jpg" align="right">
