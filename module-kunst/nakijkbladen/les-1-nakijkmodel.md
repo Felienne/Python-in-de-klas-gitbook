@@ -15,7 +15,7 @@
 ```
 
 2)
-1. Een driehoek heeft in totaal 360 graden. Een gelijkzijdige driehoek heeft drie even grote hoeken, dat is 360/3, dus een hoek van een driehoek is 120 graden. 
+1. Een driehoek heeft in totaal 360 graden. Een gelijkzijdige driehoek heeft drie even grote hoeken, elke hoek van deze driehoek is 360/3 = 120 graden. 
 2. 
 ```python
 1. pen.forward(100)
