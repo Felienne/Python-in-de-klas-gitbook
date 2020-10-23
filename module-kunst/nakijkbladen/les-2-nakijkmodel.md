@@ -15,11 +15,8 @@
 ```
 
 2)
-1. in totaal bestaan er 360 graden. Een driehoek heeft drie hoeken, dat is 360/3, dus een hoek van een driehoek is 120 graden. 
+Onze pen kan een heel rondje draaien, wat 360 graden is. We willen dat hij maar 1/3e rondje draait, want er zijn 3 hoeken en bij alle hoeken bij elkaar willen we het hele rondje gedraaid hebben. Dus draaien we per hoek 360/3 = 120 graden.
 
-2. 120
-
-3. 
 ```python
 1. pen.forward(100)
 2. pen.left(120)
@@ -32,11 +29,11 @@
 3)
 1. zeshoek
 
-2. 72 graden
+2. 360/5 = 72 graden
 
 3. achthoek
 
-4. 3,6 graden
+4. 360/100 = 3,6 graden
 
     <div style="page-break-after: always;"></div>
 
@@ -148,9 +145,12 @@ for i in range(3):
 2. 
 
 ```python
-for i in range(3):
+for i in range(4):
   pen.forward(100)
-  pen.right(120)
+  pen.left(90)
+for i in range(4):
+   pen.left(90)
+   pen.forward(100)
 ```
 
 3. 
@@ -167,12 +167,9 @@ for i in range(4):
 4. 
 
 ```python
-for i in range(4):
+for i in range(3):
   pen.forward(100)
-  pen.left(90)
-for i in range(4):
-  pen.left(90)
-  pen.forward(100)
+  pen.right(120)
 ```
 
 5. 
