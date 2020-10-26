@@ -51,13 +51,62 @@
 10. Paars
 
 2)
-1. 
+1. <img src="../../img/vierkant blauw lijn.PNG">
 
-2. 
+2. <img src="../../img/halve zeshoek rood lijn.PNG">
 
-3.
+3. <img src="../../img/driehoek blauw lijn.PNG">
 
-4.
+4. <img src="../../img/vierkant zwart driehoek groen lijn.PNG">
 
 5. Deze code tekent een vierkant met wit. 
+
+3)
+1.
+```python
+1. pen.color(255,0,0)
+2. antal_keer = 4
+3. for i in range(aantal_keer):
+4.   pen.forward(100)
+5.   pen.left(90)
+```
+
+2. 
+```python
+1. pen.color(255,0,0)
+2. aantal_keer = 4
+3. hoek = 90
+4. for i in range(aantal_keer):
+5.   pen.forward(100)
+6.   pen.left(hoek)
+
+7. pen.color(160,0,0)
+8. aantal_keer = 3
+9. hoek = 120
+10. for i in range(aantal_keer):
+11.   pen.forward(100)
+12.   pen.left(hoek)
+```
+
+3. 
+```python
+1. pen.color(0,0,255)
+2. aantal_keer = 4
+3. hoek = 90
+4. for i in range(aantal_keer):
+5.   pen.forward(100)
+6.   pen.left(hoek)
+
+7. pen.up()
+8. pen.forward(200)
+9. pen.down()
+
+10. pen.color(255,0,0)
+11. aantal_keer = 6
+12. hoek = 60
+13. for i in range(aantal_keer):
+14.   pen.forward(100)
+15.   pen.left(hoek)
+```
+
 <img src="../../img/logoCSCert_10cm.jpg" align="right">
