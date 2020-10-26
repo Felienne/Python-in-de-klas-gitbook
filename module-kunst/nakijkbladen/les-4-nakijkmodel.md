@@ -10,7 +10,7 @@
 
 3. FOUT. De indentatie (spaties) missen in de tweede en derde regel.
 
-4.
+4. <img src="../../img/les 4 1.4.PNG" style="zoom:80%">
 
 2)
 
