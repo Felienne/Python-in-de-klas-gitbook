@@ -166,20 +166,6 @@ for i in range(hoeken):
 
 ```python
 7.
-hoeken = 3
-for i in range(hoeken):
-  pen.forward(100)
-  pen.left(120)
-
-pen.forward(100)
-
-for i in range(hoeken):
-  pen.forward(100)
-  pen.left(120)
-```
-
-```python
-8.
 namen = 3
 klas = '1c'
 for i in range(klas):
@@ -193,16 +179,16 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 1\) Welke kleur wordt dit? Tip: de codes zijn RGB, RoodGroenBlauw. En lagere getallen zijn donkerder, niet lichter!
 
 ```python
-1. pen.color(255, 0, 0)
-2. pen.color(0, 255, 0)
-3. pen.color(255, 255, 0)
-4. pen.color(255, 0, 0)
-5. pen.color(255, 0, 255)
-6. pen.color(160, 0, 0)
-7. pen.color(160, 0, 0)
-8. pen.color(160, 160, 0)
-9. pen.color(0, 160, 0)
-10.pen.color(160, 0, 160)
+1. pen.color(1, 0, 0)
+2. pen.color(0, 1, 0)
+3. pen.color(1, 1, 0)
+4. pen.color(0, 0, 1)
+5. pen.color(1, 0, 1)
+6. pen.color(0.5, 0, 0)
+7. pen.color(0, 0, 0.5)
+8. pen.color(0.5, 0.5, 0)
+9. pen.color(0, 0.5, 0)
+10.pen.color(0.5, 0, 0.5)
 ```
 
 2\) Wat tekenen deze codes? Gebruik kleurpotloden of stiften. Heb je die niet? Zet dan de namen van de kleuren in de tekening.
@@ -228,7 +214,7 @@ for i in range(aantal_keer):
 
 ```python
 3.
-pen.color(0,0,255)
+pen.color(0,0,1)
 aantal_keer = 3
 hoek = 120
 for i in range(aantal_keer):
@@ -245,7 +231,7 @@ for i in range(aantal_keer):
   pen.forward(100)
   pen.left(hoek)
 
-pen.color(0, 255, 0)
+pen.color(0, 1, 0)
 aantal_keer = 3
 hoek = 120
 for i in range(aantal_keer):
@@ -255,7 +241,7 @@ for i in range(aantal_keer):
 
 ```python
 5.
-pen.color(255, 255, 255)
+pen.color(1, 1, 1)
 aantal_keer = 4
 hoek = 90
 grootte = 100
@@ -296,7 +282,7 @@ pen.end_fill()
 ```
 
 ```python
-2. pen.color(255,0,0)
+2. pen.color(1,0,0)
 aantal_keer = 6
 hoek = 60
 for i in range(aantal_keer):
@@ -307,7 +293,7 @@ pen.end_fill()
 ```
 
 ```python
-3. pen.color(0,0,255)
+3. pen.color(0,0,1)
 aantal_keer = 2
 hoek = 60
 pen.begin_fill()  
@@ -323,7 +309,7 @@ pen.end_fill()
 ```
 
 ```python
-4. pen.color(0,255,255)
+4. pen.color(0,1,1)
 aantal_keer = 3
 hoek = 120
 pen.end_fill()  
