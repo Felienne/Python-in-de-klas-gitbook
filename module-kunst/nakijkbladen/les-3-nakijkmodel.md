@@ -8,7 +8,7 @@
 
 2. Fout: de dubbele punt mist op regel 1.
 
-3. FOUT: de indenting (spaties) op de tweede en derde regel is fout.
+3. Fout: de indenting (spaties) op de tweede en derde regel is fout.
 
 4. <img src="../../img/les2 1.3.PNG' style-="zoom:80%"
 
