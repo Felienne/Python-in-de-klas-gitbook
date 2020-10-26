@@ -94,9 +94,9 @@ Onze pen kan een heel rondje draaien, wat 360 graden is. We willen dat hij maar 
 
 1. <img src="../../img/image-20190318130624359.png">
 
-2. <img src="../../img/image-20190415164642350.png" style="zoom:50%">
+2. <img src="../../img/image-20190415164642350.png" style="zoom:15%">
 
-3. <img src="../../img/Image-20190415160735365.png" style="zoom:80%">
+3. <img src="../../img/les 2 1.3.PNG" style="zoom:80%">
 
 4. <img src="../../img/image-20190415160753334.png" style="zoom:80%">
 
