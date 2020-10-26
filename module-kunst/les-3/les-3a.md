@@ -42,13 +42,6 @@ for i in range(4):
   pen.left(90)
 ```
 
-```python
-5.
-for i in range(4):
-  pen.forward(100)
-  pen.left(90)
-```
-
  2\) Welke code hoort bij deze tekeningen? Gebruik een for-lus waar dit handig is.
 
 1. 
