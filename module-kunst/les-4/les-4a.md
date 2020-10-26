@@ -108,7 +108,7 @@ for i in range(aantal_hoeken):
 8.
 namen = 3
 for i in range(namen):
-print('Hallo')
+  print('Hallo')
 ```
 
 ```python
