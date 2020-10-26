@@ -111,6 +111,50 @@
 
 ## Figuren vullen
 
+1)
+1. <img src="../../img/oranje vierkant gevuld.PNG">
 
+2. <img src="../../img/zeshoek rood lijn.PNG">
+
+3. <img src="../../img/halve zeshoek blauw gevuld.PNG">
+
+4. <img src="../../img/driehoek turqoise lijn.PNG">
+
+2)
+1.
+'''pyton
+1. pen.color(0,1,0)
+2. pen.begin_fill()
+3. aantal_keer = 4
+4. hoek = 90
+5. for i in range(aantal_keer):
+6.   pen.forward(100)
+7.   pen.left(hoek) 
+8. pen.end_fill()     
+```
+
+2.
+```python
+1. pen.color(1,1,0)
+2. pen.begin_fill()
+3. aantal_keer = 3
+4. hoek = 120
+5. for i in range(aantal_keer):
+6.   pen.forward(100)
+7.   pen.left(hoek) 
+8. pen.end_fill()     
+```
+
+3.
+```python
+1. pen.color(1,0,1)
+2. pen.begin_fill()
+3. aantal_keer = 2
+4. hoek = 90
+5. for i in range(aantal_keer):
+6.   pen.forward(100)
+7.   pen.left(hoek) 
+8. pen.end_fill()    
+```
 
 <img src="../../img/logoCSCert_10cm.jpg" align="right">
