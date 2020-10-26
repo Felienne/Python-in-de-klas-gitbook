@@ -64,7 +64,7 @@
 3)
 1.
 ```python
-1. pen.color(255,0,0)
+1. pen.color(1,0,0)
 2. antal_keer = 4
 3. for i in range(aantal_keer):
 4.   pen.forward(100)
@@ -73,14 +73,14 @@
 
 2. 
 ```python
-1. pen.color(255,0,0)
+1. pen.color(1,0,0)
 2. aantal_keer = 4
 3. hoek = 90
 4. for i in range(aantal_keer):
 5.   pen.forward(100)
 6.   pen.left(hoek)
 
-7. pen.color(160,0,0)
+7. pen.color(0.5,0,0)
 8. aantal_keer = 3
 9. hoek = 120
 10. for i in range(aantal_keer):
@@ -90,7 +90,7 @@
 
 3. 
 ```python
-1. pen.color(0,0,255)
+1. pen.color(0,0,1)
 2. aantal_keer = 4
 3. hoek = 90
 4. for i in range(aantal_keer):
@@ -101,12 +101,16 @@
 8. pen.forward(200)
 9. pen.down()
 
-10. pen.color(255,0,0)
+10. pen.color(1,0,0)
 11. aantal_keer = 6
 12. hoek = 60
 13. for i in range(aantal_keer):
 14.   pen.forward(100)
 15.   pen.left(hoek)
 ```
+
+## Figuren vullen
+
+
 
 <img src="../../img/logoCSCert_10cm.jpg" align="right">
