@@ -122,7 +122,7 @@
 
 2)
 1.
-'''pyton
+```pyton
 1. pen.color(0,1,0)
 2. pen.begin_fill()
 3. aantal_keer = 4
