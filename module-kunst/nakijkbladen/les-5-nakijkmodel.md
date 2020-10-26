@@ -32,20 +32,18 @@
 
 6. Deze code tekent twee evengrote driehoeken tegen elkaar aan.
 
-7. Deze code tekent twee evengrote driehoeken tegen elkaar aan.
-
-8. Fout: 'klas' is niet gedefinieerd als een aantal en kan dus niet in het 'range'commando verwerkt woden.
+7. Fout: 'klas' is niet gedefinieerd als een aantal en kan dus niet in het 'range'commando verwerkt woden.
 
 ## Kleuren tekenen
 
 1)
 1. Rood
-2. Felgroen
+2. Groen
 3. Geel
-4. Rood
+4. blauw
 5. Roze/Paars
 6. Donkerrood
-7. Donkerrood
+7. Donkerblauw
 8. Mosterdgeel/groen
 9. Donkergroen
 10. Paars
