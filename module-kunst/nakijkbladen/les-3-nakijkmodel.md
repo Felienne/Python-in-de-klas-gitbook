@@ -14,7 +14,7 @@
 
  <div style="page-break-after: always;"></div>
 
-2)
+2\)
 
 1. 
 ```python
@@ -51,7 +51,7 @@ for i in range(8):
 
 ### Meerdere figuren
 
-1) 
+1\) 
 
 1. <img src="../../img/image-20190415170548304.png" style="zoom:80%">
 2. <img src="../../img/image-20190415171210673.png" style="zoom:40%">
