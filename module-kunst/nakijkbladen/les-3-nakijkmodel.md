@@ -6,10 +6,13 @@
 
 1. <img src="../../img/image-20190415165611900.png" style="zoom:80%">
 
-2. <img src="../../img/image-20190415165852940.png" style="zoom:50%">
+2. Fout: de dubbele punt mist op regel 1.
+
 3. FOUT: de indenting (spaties) op de tweede en derde regel is fout.
-4. <img src="/Users/lisa/Library/Application Support/typora-user-images/image-20190415170006194.png" style="zoom:80%">
-5. <img src="/Users/lisa/Library/Application Support/typora-user-images/image-20190415170006194.png" style="zoom:80%">
+
+4. <img src="../../img/les2 1.3.PNG' style-="zoom:80%"
+
+5. 
 
  <div style="page-break-after: always;"></div>
 
