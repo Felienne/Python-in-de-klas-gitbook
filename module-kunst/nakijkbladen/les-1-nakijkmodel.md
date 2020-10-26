@@ -45,7 +45,7 @@ Hier komt een spirograaf uit, met een hoek van 65 graden en 11 herhalingen krijg
 
 2)
 
-1. <img src="../../img/image-20190415150543776.png" style="zoom:50%">
+1. <img src="../../img/Knipsel.PNG" style="zoom:100%">
 
 2. <img src="../../img/image-20190415150849824.png" style="zoom:50%">
 
