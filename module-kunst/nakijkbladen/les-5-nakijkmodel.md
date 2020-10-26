@@ -53,4 +53,11 @@
 2)
 1. 
 
+2. 
+
+3.
+
+4.
+
+5. Deze code tekent een vierkant met wit. 
 <img src="../../img/logoCSCert_10cm.jpg" align="right">
