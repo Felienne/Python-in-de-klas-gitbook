@@ -2,7 +2,7 @@
 
 ## Even opfrissen
 
-1)
+1\)
 
 1. <img src="../../img/image-20190415165611900.png" style="zoom:80%">
 
@@ -12,7 +12,7 @@
 
 4. <img src="../../img/les 4 1.4.PNG" style="zoom:80%">
 
-2)
+2\)
 
 1.
 ```python
@@ -37,7 +37,7 @@
 
 ## Variabelen in een lus
 
-1) 
+1\) 
 
 1. <img src="../../img/image-20190415170006194.png" style="zoom:50%">
 
@@ -83,7 +83,7 @@ Goedemorgen 1c
 
 <div style="page-break-after: always;"></div>
 
-2) 
+2\) 
 
 1. <img src="../../img/image-20190415170006194.png" style="zoom:60%">
 2. FOUT, aantal_hoeken is niet gedefinieerd.
@@ -96,7 +96,7 @@ Goedemorgen 1c
 
 <div style="page-break-after: always;"></div>
 
-3)
+3\)
 
 1. <img src="../../img/image-20190415171210673.png" style="zoom:30%">
 2. <img src="../../img/image-20190415171156881.png" style="zoom:30%">
