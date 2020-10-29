@@ -2,7 +2,7 @@
 
 ## Tekenen en code
 
-1) 
+1\) 
 ```python
 1. pen.forward(100)
 2. pen.left(90)
@@ -14,7 +14,7 @@
 8. pen.left(90)
 ```
 
-2)
+2\)
 1. Onze pen kan een heel rondje draaien, wat 360 graden is. We willen dat hij maar 1/3e rondje draait, want er zijn 3 hoeken en bij alle hoeken bij elkaar willen we het hele rondje gedraaid hebben. Dus draaien we per hoek 360/3 = 120 graden.
 
 2. 
@@ -27,7 +27,7 @@
 6. pen.left(120)
 ```
 
-3)
+3\)
 zeshoek: 360/6 = 120 graden
 
 tienhoek: 360/10 = 36 graden
@@ -38,12 +38,12 @@ dertighoek: 360/ 30 = 12 graden
 
 ### Nog meer figuren
 
-1)
+1\)
 Hier komt een spirograaf uit, met een hoek van 65 graden en 11 herhalingen krijg je bijvoorbeeld onderstaand:
 
 <img src="../../img/image-20190415150322353.png" style="zoom:50%">
 
-2)
+2\)
 
 1. <img src="../../img/Knipsel.PNG" style="zoom:100%">
 
@@ -51,7 +51,7 @@ Hier komt een spirograaf uit, met een hoek van 65 graden en 11 herhalingen krijg
 
 3. <img src="../../img/image-20190415151021170.png" style="zoom:50%">
 
-3) 
+3\) 
 
 1. 
 
