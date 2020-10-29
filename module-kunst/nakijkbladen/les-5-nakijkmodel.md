@@ -2,7 +2,7 @@
 
 ## Even opfrissen!
 
-1)
+1\)
 1. Deze code print 3 keer Hallo en Allemaal en daaronder 1 keer Goedemorgen.
 
 2. Deze code tekent een vierkant.
@@ -19,7 +19,7 @@
 
 8. Deze code print 3 keer Hallo 1c.
 
-2)
+2\)
 1. Deze code tekent een vierkant.
 
 2. Fout: 'aantal_hoeken' is niet gedefinieerd.
@@ -36,7 +36,7 @@
 
 ## Kleuren tekenen
 
-1)
+1\)
 1. Rood
 2. Groen
 3. Geel
@@ -48,7 +48,7 @@
 9. Donkergroen
 10. Paars
 
-2)
+2\)
 1. <img src="../../img/vierkant blauw lijn.PNG">
 
 2. <img src="../../img/halve zeshoek rood lijn.PNG">
@@ -59,7 +59,7 @@
 
 5. Deze code tekent een vierkant met wit. 
 
-3)
+3\)
 1.
 ```python
 1. pen.color(1,0,0)
@@ -109,7 +109,7 @@
 
 ## Figuren vullen
 
-1)
+1\)
 1. <img src="../../img/oranje vierkant gevuld.PNG">
 
 2. <img src="../../img/zeshoek rood lijn.PNG">
@@ -118,7 +118,7 @@
 
 4. <img src="../../img/driehoek turqoise lijn.PNG">
 
-2)
+2\)
 1.
 ```pyton
 1. pen.color(0,1,0)
