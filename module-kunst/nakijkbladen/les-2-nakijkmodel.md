@@ -2,7 +2,7 @@
 
 ## Even opfrissen!
 
-1) 
+1\) 
 ```python
 1. pen.forward(100)
 2. pen.left(90)
@@ -14,7 +14,7 @@
 8. pen.left(90)
 ```
 
-2)
+2\)
 Onze pen kan een heel rondje draaien, wat 360 graden is. We willen dat hij maar 1/3e rondje draait, want er zijn 3 hoeken en bij alle hoeken bij elkaar willen we het hele rondje gedraaid hebben. Dus draaien we per hoek 360/3 = 120 graden.
 
 ```python
@@ -26,7 +26,7 @@ Onze pen kan een heel rondje draaien, wat 360 graden is. We willen dat hij maar 
 6. pen.left(120)
 ```
 
-3)
+3\)
 1. zeshoek
 
 2. 360/5 = 72 graden
@@ -37,7 +37,7 @@ Onze pen kan een heel rondje draaien, wat 360 graden is. We willen dat hij maar 
 
     <div style="page-break-after: always;"></div>
 
-4)
+4\)
 1. 
 
 ```python
@@ -90,7 +90,7 @@ Onze pen kan een heel rondje draaien, wat 360 graden is. We willen dat hij maar 
 
 ### Herhalen met lussen
 
-1)
+1\)
 
 1. <img src="../../img/image-20190318130624359.png">
 
@@ -104,7 +104,7 @@ Onze pen kan een heel rondje draaien, wat 360 graden is. We willen dat hij maar 
 
     <div style="page-break-after: always;"></div>
 
-2)
+2\)
 
 1.  
 
