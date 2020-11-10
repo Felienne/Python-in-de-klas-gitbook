@@ -6,15 +6,15 @@ Het materiaal is erop gericht om leerlingen stapsgewijs te begeleiden, feedback 
 
 Meer weten? Lees de [handleiding](https://app.gitbook.com/@felienne/s/python-in-de-klas/handleiding), of bekijken meteen de [slides](https://slides.com/felienne/pidk-m1-l1a), [werkblad a](https://app.gitbook.com/@felienne/s/python-in-de-klas/module-nederlands/les-1a) \(voor klassikaal bij het digibord\) en [werkblad b](https://app.gitbook.com/@felienne/s/python-in-de-klas/module-nederlands/les-1b) \(voor achter de computer\) van de eerste les.
 
-## Computer Science Certificate!
+## Computer Science Certificate
 Het materiaal van Python in de klas wordt gebruikt in het Computer Science Certificate. Het Computer Science Certificate is een lesprogramma dat zich richt op programmeeronderwijs voor leerlingen in de onderbouw van het voortgezet onderwijs. 
 
 Het Computer Science Certificate bestaat uit de volgende onderdelen:
 * Gastles door een IT-professional
-* Lesmodules gebaseerd op 'Python in de klas'
+* Lesmodules 'Python in de klas'
 * Online toetsing 
 * Certificaat
 * Extra mogelijkheid: ondersteuning door IT-student (tegen betaling)
 
-Neem voor de gastles, certificaten en vragen contact op met VHTO via [vhto@vhto.nl](mailto:vhto@vhto.nl) of neem een kijkje op de [website](https://www.vhto.nl/projecten/computer-science-certificate/over-computer-science-certificate/). 
+Neem voor de gastles, certificaten en vragen over Computer Science Certificate contact op met VHTO via [vhto@vhto.nl](mailto:vhto@vhto.nl) of neem een kijkje op de [website](https://www.vhto.nl/projecten/computer-science-certificate/over-computer-science-certificate/). 
 
