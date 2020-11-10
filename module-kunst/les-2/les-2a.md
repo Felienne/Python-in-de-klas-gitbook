@@ -151,6 +151,3 @@ Welke codes horen bij deze tekeningen? Gebruik natuurlijk wel een lus \(of meerd
 5.
 
 ![](../../.gitbook/assets/image-20190322151500039.png)
-
-
-<img src="../../img/logoCSCert_10cm.jpg" align="right">
