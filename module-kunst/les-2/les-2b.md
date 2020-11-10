@@ -111,5 +111,3 @@ Opdracht. Probeer dit na te maken.
 
 Deze opdracht wordt afgetekend als je zelf iets leuks hebt getekend!
 
-<img src="../../img/logoCSCert_10cm.jpg" align="right">
-
