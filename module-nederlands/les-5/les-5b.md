@@ -90,5 +90,3 @@ Voer je code een paar keer uit. Wat gebeurt er nu?
 Schrijf duidelijk in je schrift hoe je denkt dat deze code werkt.
 
 Einde werkblad! Hebben we alles afgestempeld? Dan mag je meehelpen met stempelen.
-
-<img src="../../img/logoCSCert_10cm.jpg" align="right">
