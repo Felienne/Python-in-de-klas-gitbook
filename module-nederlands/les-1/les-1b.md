@@ -59,5 +59,3 @@ Print nu een verhaal over een dier. Je mag zelf bedenken waar het verhaal over g
 
 1. Schrijf de code om een verhaaltje te printen in je schrift op
 2. Typ de code dan over uit je schrift
-
-<img src="../../img/logoCSCert_10cm.jpg" align="right">
