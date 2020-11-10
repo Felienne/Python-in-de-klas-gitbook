@@ -161,5 +161,3 @@ Code zal geen foutmelding geven, maar in plaats van `'leerlingen'` moet er in de
   tijd = 'half 9'
   print('Het', 'is', tijd)
   ```
-
-<img src="../../img/logoCSCert_10cm.jpg" align="right">

@@ -132,5 +132,3 @@ Deze code is fout omdat alle aanhalingstekens om de woorden missen.
 ```python
 print('Een', 'regel', 'code')
 ```
-
-<img src="../../img/logoCSCert_10cm.jpg" align="right">

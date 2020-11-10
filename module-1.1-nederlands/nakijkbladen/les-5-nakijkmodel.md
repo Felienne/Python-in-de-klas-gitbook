@@ -82,5 +82,3 @@ De regel onder de `if` en onder `else` begint niet met twee spaties
 2. De regel begint niet met twee spaties.
 3. In plaats van een dubbel = teken `==` is er een enkel = teken geschreven `=`.
 4. De aanhalingsteken achter `'suiker` mist. 
-
-<img src="../../img/logoCSCert_10cm.jpg" align="right">

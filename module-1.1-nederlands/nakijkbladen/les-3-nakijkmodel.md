@@ -166,5 +166,3 @@ De ronde haak open na `print` mist.
 9. `Ik vind Aardrijkskunde leuk`
 
 10. `De deur is geel`
-
-<img src="../../img/logoCSCert_10cm.jpg" align="right">

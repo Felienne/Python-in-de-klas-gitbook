@@ -140,5 +140,3 @@ print('Regent', 'het?')
 antwoord input()
 print(antwoord, 'het', 'regent')
 ```
-
-<img src="../../img/logoCSCert_10cm.jpg" align="right">
