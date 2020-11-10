@@ -6,9 +6,5 @@
 
 ## Leerdoelen
 
-* invoer gebruiken in je programma met `input()`
-* de invoer van een gebruiker opslaan in een variabele
-* goede en foute code met `input()` herkennen
-
-
-
+* Keuzes maken in een programma met if-else
+* Goede en foute if-else codes herkennen

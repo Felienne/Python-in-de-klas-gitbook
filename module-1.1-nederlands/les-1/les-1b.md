@@ -1,25 +1,21 @@
 # Les 1b
 
-## Opdracht 1b-1\) Maak een repl.it account
+## 1\) Maak een repl.it account
 
-Deze les wordt afgetekend als: 
+Deze opdracht wordt afgetekend als: 
 
 * Je een account hebt gemaakt op repl.it
 * Gebruik als username je leerlingnummer
-  * 123456 &lt;--- maar dan met jouw leerlingnummer natuurlijk
-* Gebruik als emailadres je school-email:
-  * 123456@leerlingmail.nl &lt;--- maar dan met jouw leerlingnummer en leerlingmail natuurlijk
+* Gebruik als emailadres je school-emai
 * Gebruik als wachtwoord je wachtwoord van school
-  * Pass1234 &lt;--- maar dan jouw wachtwoord!
-* Je in onze classroom zit:
-  * Ga naar de link die de leraar je geeft.
+* Je in onze classroom zit door naar de link te gaan die je van je leraar krijgt. 
 
-## Opdracht 1b-2\) Schrijf een woord
+## 2\) Schrijf een woord
 
-Deze les wordt afgetekend als:
+Deze opdracht wordt afgetekend als:
 
 * Je de code in Python in je schrift kan schrijven om je naam te printen
-* Je dezlelfde code ook kan uitprinten in rep.lt
+* Je dezelfde code ook kan uitvoeren in repl.it
 
 **Opdracht.**
 
@@ -30,14 +26,14 @@ Volg deze stappen:
 1. Schrijf de code om een zinnetje te printen in je schrift op. 
 2. Typ de code dan over uit je schrift.
 
-Gefeliciteerd! Jij hebt nu je allereerste Pythonprogramma gemaakt!
+Gefeliciteerd! Jij hebt nu je allereerste Python-programma gemaakt!
 
-## Opdracht 1b-3\) Schrijf een zin
+## 3\) Schrijf een zin
 
-Deze les wordt afgetekend als:
+Deze opdracht wordt afgetekend als:
 
 * Je de code in Python in je schrift kan schrijven om een zinnetje te printen
-* Je dezlelfde code ook kan uitprinten in rep.lt
+* Je dezelfde code ook kan uitvoeren in repl.it
 
 **Opdracht.**
 
@@ -45,8 +41,21 @@ Nu is het tijd voor een hele zin. Je gaat de dag van de week in een zin zetten. 
 
 Volg deze stappen:
 
-1. Schrijf de code om een zinnetje te printen in je schrift op. 
-2. Typ de code dan over uit je schrift.
+1. Schrijf de code om een zinnetje te printen in je schrift op
+2. Typ de code dan over uit je schrift
 
-Gefeliciteerd! Jij hebt nu je tweede Pythonprogramma gemaakt!
+Gefeliciteerd! Jij hebt nu je tweede Python-programma gemaakt!
 
+## 4\) Schijf meerdere zinnen
+
+Deze les wordt afgetekend als:
+
+* Je een samenhangend verhaal van minstens drie zinnen print met `print()`, 
+* Het verhaal als hoofdrolspeler een dier heeft. Je mag zelf kiezen welk dier.
+
+**Opdracht.** 
+
+Print nu een verhaal over een dier. Je mag zelf bedenken waar het verhaal over gaat. Volg deze stappen:
+
+1. Schrijf de code om een verhaaltje te printen in je schrift op
+2. Typ de code dan over uit je schrift

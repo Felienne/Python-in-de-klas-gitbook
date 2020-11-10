@@ -5,22 +5,23 @@
 Aan het einde van de les kun jij:
 
 * Python-code schrijven in repl.it
-* print\(\) gebruiken om woorden te laten zien
+* `print()` gebruiken om woorden te laten zien
+* meerdere regels laten zien
 * aanhalingstekens gebruiken 
 * goede en foute print-codes vinden
 * weten wat je moet doen als je een foutmelding van Python krijgt
 
-**Een woord printen**
+### Een woord printen
 
-Je hebt net op het bord de print\(\) opdracht gezien.
+Je hebt net op het bord de `print()` opdracht gezien.
 
-Een print\(\) opdracht print een woord uit, als het tussen aanhalingstekens staat. Bijvoorbeeld zo:
+Een `print()` opdracht print een woord uit, als het tussen aanhalingstekens staat. Bijvoorbeeld zo:
 
 ```python
 print('Goedemorgen')
 ```
 
-1\) Welke van deze print\(\) opdrachten print **Hallo** uit?
+1\) Welke van deze `print()` opdrachten print **Hallo** uit?
 
 Schrijf de goede code over in je schrift!
 
@@ -38,7 +39,7 @@ Tip: **Let goed op de aanhalingstekens!**
 5. print('Hallo')
 ```
 
-2\) Maak deze print\(\) opdracht zelf af zodat er **Allemaal** in beeld komt.
+2\) Maak deze `print()` opdracht zelf af zodat er **Allemaal** in beeld komt.
 
 ```python
 print ... ... Allemaal ... ...
@@ -48,9 +49,11 @@ Schrijf de code over in je schrift.
 
 3\) Kies nu zelf drie woorden uit om te printen. Schrijf de goede codes in je schrift op.
 
-**Meerdere woorden printen**
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
 
-Een print\(\) kan ook meerdere woorden printen. Dan moeten er komma's tussen de woorden. Let goed op, ieder woord moet nog steeds tussen twee aanhalingstekens.
+### Meerdere woorden printen
+
+Een `print()` kan ook meerdere woorden printen. Dan moeten er komma's tussen de woorden. Let goed op, ieder woord moet nog steeds tussen twee aanhalingstekens.
 
 Zo:
 
@@ -64,7 +67,7 @@ Op de plek van de komma komt een spatie in de uitvoer.
 
 Python stopt met printen bij een aanhalingsteken.
 
-1\) Welke van deze print\(\) opdrachten print **Hallo klas** uit?
+1\) Welke van deze `print()` opdrachten print **Hallo klas** uit?
 
 Schrijf de goede code over in je schrift. Kijk goed naar de aanhalingstekens!
 
@@ -76,15 +79,17 @@ Schrijf de goede code over in je schrift. Kijk goed naar de aanhalingstekens!
 5. print("Hallo', 'klas")
 ```
 
-2\) Maak deze print\(\) opdracht zelf af zodat er **Hallo allemaal** in beeld komt.
+2\) Maak deze `print()` opdracht zelf af zodat er **Hallo allemaal** in beeld komt.
 
-print ... ... Hallo ... ... ... Allemaal ... ...
+print ... ... Hallo ... ... ... allemaal ... ...
 
 Schrijf de code in je schrift.
 
 3\) Kies nu zelf twee woorden om naast elkaar te printen. Schrijf de goede code op in je schrift.
 
-**Zinnetjes**
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
+
+### Zinnetjes printen
 
 Je kunt zoveel woorden combineren met komma's als je maar wilt! Bijvoorbeeld:
 
@@ -92,7 +97,7 @@ Je kunt zoveel woorden combineren met komma's als je maar wilt! Bijvoorbeeld:
 print('Goedemorgen', 'leerlingen', 'uit', 'deze', 'klas')
 ```
 
-1\) Welke van deze print\(\) opdrachten print **ik hou van programmeren** uit?
+1\) Welke van deze `print()` opdrachten print **ik hou van programmeren** uit?
 
 Schrijf de goede code over in je schrift.
 
@@ -124,7 +129,67 @@ Weet jij welke code goed is?
 
 Schrijf drie codes voor zinnetjes in je schrift.
 
-**Foutmeldingen**
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
+
+### Onder elkaar
+
+1\) Wat printen deze codes uit? Schrijf het antwoord op in je schrift! Wees _heel_ precies.
+
+Let op: **Er zitten ook foute codes tussen!** Als een code fout is, schrijf dan op: **FOUT.**
+
+```python
+1.print('Hallo', 'allemaal')
+```
+
+```python
+2.print('Hallo)
+  print('Allemaal')
+```
+
+```python
+3.print('Hallo' , allemaal')
+```
+
+```python
+4.print('Hallo')
+  print('allemaal')
+```
+
+```python
+5.prit('Hallo')
+  prit('Allemaal')
+```
+
+2\) Hier staan drie codes en drie resultaten: de woorden die in beeld komen.
+
+Welke code hoort bij welk resultaat?
+
+Schrijf de codes over in je schrift, met het resultaat erachter.
+
+Bijvoorbeeld:
+
+```python
+print('test')  > test
+```
+
+**Let op:** een van de drie codes geeft een fout.
+
+Codes: Resultaten:
+
+```python
+print(goedemorgen)                              # >goedemorgen
+```
+
+```python
+print('Goedemorgen')                            # >Goedemorgen
+```
+
+```python
+print('goedemorgen')                            # >FOUT
+```
+<div style="page-break-after: always;"></div>
+
+### Foutmeldingen
 
 Soms geeft Python een foutmelding.
 
@@ -156,3 +221,4 @@ Deze code is fout omdat er maar 1 aanhalingsteken om het woord staat.
 
 3\) Schijf nu in je schrift de goede versie op van de 3 verkeerde codes hierboven.
 
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel

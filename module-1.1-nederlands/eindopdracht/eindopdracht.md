@@ -1,12 +1,10 @@
-# Les 7b
+# Eindopdracht
 
-## Opdracht 7b-1\) Maak je verhaal!
+## 1\) Maak je verhaal!
 
 Je hebt de afgelopen weken een hoop geleerd.
 
-Nu is het tijd om een heel verhaal te maken. **Je krijgt hiervoor een cijfer.**
-
-Deze dingen moeten in je verhaal zitten voor een voldoende:
+Nu is het tijd om een heel verhaal te maken. Deze dingen moeten in je verhaal zitten voor een voldoende:
 
 * Minstens 25 zinnen
 * Minstens 3 variabele die je definieert én gebruikt
@@ -17,12 +15,11 @@ Deze dingen moeten in je verhaal zitten voor een voldoende:
 Je kunt extra punten verdienen door:
 
 * Het gebruiken van een lijst
-* Het gebruiken van random.shuffle\(\) &lt;— vergeet dan niet om `import random` bovenaan je code te zetten!
+* Het gebruiken van `random.shuffle()` &lt;— vergeet dan niet om `import random` bovenaan je code te zetten!
 * Andere coole dingen die je kunt verzinnen!
 
-## Opdracht 7b-2\) Wat vond je ervan?
+## 2\) Wat vond je ervan?
 
 We willen graag weten wat jij van de lessen tot nu toe vond.
 
 Schrijf in je schrift de **drie dingen** die je het leuk vond. Schrijf ook op wat je het minst leuk vond.
-

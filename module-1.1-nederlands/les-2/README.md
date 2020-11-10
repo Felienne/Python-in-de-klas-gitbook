@@ -2,11 +2,12 @@
 
 ## Slides
 
-[Module Nederlands, les 2](https://slides.com/felienne/pidk-m1-l2a#/)
+[Module Nederlands, les 2](https://slides.com/felienne/pidk-m1-l2a)
 
 ## Leerdoelen
 
-* meerdere regels laten zien
 * 'commentaar' schrijven en herkennen
-* goede en foute print-codes vinden
-
+* tekst opslaan in een variabele
+* een variabele gebruiken om een tekst meerdere keren te printen
+* voorspellen wat een code doet met een variabele erin
+* goede en foute `print()`-codes vinden met een variabele erin

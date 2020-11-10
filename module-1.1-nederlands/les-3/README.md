@@ -2,12 +2,11 @@
 
 ## Slides
 
-[Module Nederlands, les 3](https://slides.com/felienne/pidk-m1-l3a#/)
+[Module Nederlands, les 3](https://slides.com/felienne/pidk-m1-l3a)
 
 ## Leerdoelen
 
-* tekst opslaan in een variabele
-* een variabele gebruiken om een tekst meerdere keren te printen
-* voorspellen wat een code doet met een variabele erin
-* goede en foute print\(\)-codes vinden met een variabele erin
-
+* meerdere woorden opslaan in een lijst
+* woorden in een lijst aanwijzen
+* voorspellen wat code met een lijst erin doet
+* goede en foute print\(\)-codes vinden met lijsten erin
