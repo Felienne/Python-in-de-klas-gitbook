@@ -1,6 +1,6 @@
 # Handleiding
 
-In deze handleiding beantwoorden we een aantal veelgestelde vragen.
+In deze handleiding beantwoorden we een aantal veelgestelde vragen. Staat jouw vraag er niet tussen? Neem dan gerust contact met ons op via [f.f.j.hermans@liacs.leidenuniv.nl](f.f.j.hermans@liacs.leidenuniv.nl).
 
 ## Voor wie is dit materiaal?
 

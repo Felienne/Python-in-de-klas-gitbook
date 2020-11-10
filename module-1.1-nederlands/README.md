@@ -1,22 +1,20 @@
-# Module 1.1 - Nederlands
+# Handleiding Module 1.1 - Nederlands
 
 ## Instructie voor de leerkracht
 
-Het idee van deze module is dat leerlingen een interactief verhaal maken met Python. Leerlingen kiezen zelf een hoofdfiguur en een aantal gebeurtenissen die plaats kunnen vinden. Op aangewezen moment kan de lezer van het verhaal keuzes maken over de afloop. Leerlingen die snel door het materiaal gaat, maken ook gebruik van willekeurige keuzes in het verhaal.
+In deze module gaan leerlingen een interactief verhaal maken met Python. Leerlingen kiezen zelf een hoofdfiguur en een aantal gebeurtenissen die plaats kunnen vinden. Op aangewezen moment kan de lezer van het verhaal keuzes maken over de afloop. Leerlingen die snel door het materiaal gaat, maken ook gebruik van willekeurige keuzes in het verhaal.
 
 ## Doelen van deze module
 
-In deze lessenserie komen de volgende leerdoelen aan bod:
+De leerlingen zullen, stapsgewijs, meerdere concepten leren. In de module Nederlands zullen leerlingen het volgende leren;
 
-1. printen, ook meerdere regels 
-2. meerdere woorden printen met komma's
-3. woorden opslaan in een variabele
-4. opslaan in een lijst
-5. aanwijzen in een lijst
-6. een random getal kiezen \(en evt. ook ophalen uit de lijst\)
-7. een random woord uit een lijst halen
-8. invoer 
-9. condities \(evt. als extra voor snelle lln\) 
+1. Datatype String gebruiken
+2. Commentaar schrijven
+3. Variabele declareren, definiëren en gebruiken
+4. Lijst declareren, definiëren en gebruiken
+5. Gebruikersinput inlezen
+6. If-else statements gebruiken
+7. Foutmeldingen herkennen en oplossen
 
 ## Voorbeeld
 
@@ -31,15 +29,15 @@ Probeer dit zelf voor de les al even uit. Je ziet dat de lezer van het verhaal n
 Iedere module bestaat steeds uit twee delen: a en b
 
 a\) Klassikale les met slides, en werkbladen deel a om in de klassikale les te maken   
-b\) Werkbladen zodat lln zelf aan de slag kunnen achter de computer
+b\) Werkbladen zodat leerlingen zelf aan de slag kunnen achter de computer
 
 ## Slides
 
 Je vindt alle [slides van Module Nederlands](https://slides.com/felienne/decks/pidk-m1) bij elkaar op deze pagina.
 
-## Nakijkmodellen en proefwerken
+## Proefwerken
 
-We hebben ook nakijkmodellen en proefwerken voor de werkbladen a maar die zetten we liever niet openbaar op internet, wie weet dat een leerling ze vindt. Heb je ze nodig, neem even contact met ons op: f.f.j.hermans@liacs.leidenuniv.nl
+We hebben ook proefwerken maar die zetten we liever niet openbaar op internet, wie weet dat een leerling ze vindt. Heb je ze nodig, neem even contact met ons op: f.f.j.hermans@liacs.leidenuniv.nl
 
 
 
