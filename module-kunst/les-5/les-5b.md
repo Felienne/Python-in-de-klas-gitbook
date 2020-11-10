@@ -70,5 +70,3 @@ Deze opdracht kun je zo vaak doen als je wilt. De opdracht gaat zo:
 Maar… anders dan vorige week moet je nu in je figuren ook kleuren gebruiken.
 
 Let op! Het telt alleen als je eerst tekent en dan pas code maakt!
-
-<img src="../../img/logoCSCert_10cm.jpg" align="right">
