@@ -34,10 +34,6 @@ b\) Werkbladen zodat leerlingen zelf aan de slag kunnen achter de computer
 
 [Je vindt alle slides bij elkaar op deze pagina.](https://slides.com/vhto/decks/module-kunst)
 
-## Nakijkmodellen en proefwerken
-
-We hebben ook nakijkmodellen voor de werkbladen maar die zetten we liever niet openbaar op internet, wie weet dat een leerling ze vindt. Heb je ze nodig, neem even contact met ons op via [vhto@vhto.nl](mailto:vhto@vhto.nl). 
-
 ## Tips
 
 Nog een aantal tips:
@@ -48,5 +44,3 @@ Nog een aantal tips:
   * Stip ook even de betekenissen \(en uitspraak\) can Turtlecommando's aan:
   * forward betekent "ga vooruit"
   * left betekent links, maar in deze code betekent het "draai linksom", dus niet "ga naar links"
-
-<img src="../img/logoCSCert_10cm.jpg" align="right">
