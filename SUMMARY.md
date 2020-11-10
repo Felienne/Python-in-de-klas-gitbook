@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welkom!](README.md)
+* [Welkom bij Python in de Klas!](README.md)
 * [Handleiding](handleiding.md)
 * [Module 1.1 - Nederlands](module-1.1-nederlands/README.md)
   * [Spiekbrief](module-1.1-nederlands/spiekbrief/README.md)
