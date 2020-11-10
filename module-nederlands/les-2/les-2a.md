@@ -291,5 +291,3 @@ Nu jij!
 7. tijd = 'half 9'
    print('Het', 'is', 'tijd')
 ```
-
-<img src="../../img/logoCSCert_10cm.jpg" align="right">
