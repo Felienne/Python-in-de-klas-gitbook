@@ -72,5 +72,3 @@ Deze opdracht wordt afgetekend als:
 **Opdracht.** Voeg iets leuks toe aan je schilderij. Een sterretje, een zonnetje of een poppetje? Maak er maar iets leuks van!
 
 Tip: van het ene naar het andere figuur wil je soms even de pen van het papier halen. Dat kan met `pen.penup()` en `pen.pendown()`.
-
-<img src="../../img/logoCSCert_10cm.jpg" align="right">
