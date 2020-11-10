@@ -60,7 +60,7 @@ Nog een paar tips over deel b:
   * Zelf dingen uitproberen in Python leidt tot verwarring en frustratie
 * Sommige lesdoelen hebben "\(extra\)" in de titel. Die zijn voor snellere of meer ervaren leerlingen. Die kunnen op de volgorde in de lessenserie waar ze staan gedaan worden, of op het einde van alle lessen. Net hoeveel je wilt dat ze leerlingen uit elkaar gaan lopen qua waar ze zijn.
 
-### Afsluiting
+## Afsluiting
 
 Je kunt de les altijd even klassikaal afsluiten. Dat kan heel kort zijn, 5 of 10 minuutjes om even samen terug te blikken op het individuele deel. De laatste slide van deel a, waarin de leerdoelen herhaald worden, kun je hiervoor gebruiken. Ik vraag dan per leerdoel of leerlingen het idee hebben dat ze het ook echt kunnen en gebruik soms wisbordjes voor een gezamenlijke samenvatting van de les.
 
