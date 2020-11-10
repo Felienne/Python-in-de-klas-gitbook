@@ -101,5 +101,3 @@ Tip: Als je klaar bent, staan er twee dieren, allebei:
 
 * een keer in je code, maar...
 * drie keer in je verhaal!
-
-<img src="../../img/logoCSCert_10cm.jpg" align="right">
