@@ -257,5 +257,3 @@ for i in range(3):
   pen.forward(grootte)
   pen.left(120)
 ```
-
-<img src="../../img/logoCSCert_10cm.jpg" align="right">
