@@ -1,11 +1,9 @@
 # Les 2
 
 ## Slides  
-[Module Kunst, les 2](https://slides.com/vhto/kunst2)
+[Module Kunst, les 2](https://slides.com/felienne/pidk-m2-l2a)
 
 ## Leerdoelen
 * For-lussen gebruiken om code te herhalen
 * 'Veelvlakken' tekenen met lussen
 * Spirograaffiguren tekenen met lussen
-
-<img src="../../img/logoCSCert_10cm.jpg" align="right">
