@@ -4,7 +4,6 @@
 * [Handleiding](handleiding.md)
 * [Module 1.1 - Nederlands](module-1.1-nederlands/README.md)
   * [Spiekbrief](module-1.1-nederlands/spiekbrief/README.md)
-    * [Uitleg](module-1.1-nederlands/spiekbrief/uitleg.md)
     * [Spiekbrief - in te vullen](module-1.1-nederlands/spiekbrief/spiekbrief-in-te-vullen.md)
     * [Spiekbrief - ingevuld](module-1.1-nederlands/spiekbrief/spiekbrief-ingevuld.md)
   * [Les 1](module-1.1-nederlands/les-1/README.md)
