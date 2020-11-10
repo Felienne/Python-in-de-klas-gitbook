@@ -1,9 +1,6 @@
 # Eindopdracht
-
-Les 6 is een herhaling met wisbordjes ipv een opdrachtenvel deel a. Er zijn dus geen nieuwe leerdoelen. Indien gewenst kun je deze les ook als SO gebruiken, laat leerlingen dan de antwoorden op een vel opschrijven ipv op een wisbordje.
-
-Deel b is de eindopdracht.
+In de eindopdracht komen alle geleerde concepten uit de module Nederlands aan bod. Mocht je de eindopdracht in een zesde les behandelen, kun je ervoor kiezen om in deel a de geleerde concepten te herhalen met onderstaande slides. In deze slides vind je voornamelijk opdrachten. Leerlingen kunnen antwoorden op hun wisbordje of in hun schrift schrijven. Indien gewenst kun je deze les ook als SO gebruiken. In deel b kunnen leerlingen aan de slag met de eindopdracht.
 
 ## Slides
 
-[Module Nederlands, les 6](https://slides.com/felienne/pidk-m1-l6a)
+[Module Nederlands, eindopdracht](https://slides.com/felienne/pidk-m1-l6a)
