@@ -34,7 +34,7 @@ Zorg dat deze regels wel in de buitenste if blijven staan. Er staat al een stukj
 
 Verander de A's in de B, en kijk of je code werkt. Let op! Je moet de A op twee plekken veranderen. 
 
-Doen dan hetzelfde voor de C en de D.
+Doe dan hetzelfde voor de C en de D.
 
 **Opdracht 3**
 
@@ -42,7 +42,7 @@ Deze opdracht wordt afgetekend als:
 
 1. Je een variabele `antwoord` hebt gemaakt waarin de aangeklikte letter is opgeslagen.
 
-**Uitleg.** We printen nu de aangeklikte letter uit. Dat is prima, maar we willen de letter ook nog in een variabele opslaan. Want dan kunnen we straks kijken of het aangeklikte antwoord goed is. Zorg dat de letter in een variabele komt. Dat doet je door onder de regel `print('A')`deze regel te zetten:
+**Uitleg.** We printen nu de aangeklikte letter uit. Dat is prima, maar we willen de letter ook nog in een variabele opslaan. Want dan kunnen we straks kijken of het aangeklikte antwoord goed is. Zorg dat de letter in een variabele komt. Die variabele noemen we `antwoord`. Zet bovenaan je code de variabele op 'geen'. Zorg ook dat de variabele na het klikken verandert. Dat doet je door onder de regel `print('A')`deze regel te zetten:
 
 ```python
 antwoord = 'A'
@@ -51,6 +51,8 @@ antwoord = 'A'
 {% hint style="info" %}
 Let op! Zorg dat deze regel op dezelfde manier ingesprongen is als de regel erboven!
 {% endhint %}
+
+Lukt deze opdracht nog niet? Dat is niet erg! In de volgende les bespreken we deze code samen.
 
 **Opdracht 4 \(Extra\)**
 
