@@ -49,6 +49,3 @@ Deze opdracht wordt afgetekend als:
   
 Breid nu je verhaal uit tot 5 zinnen. Stel in je verhaal minstens één keer input van de gebruiker. Het verhaal mag over alles gaan wat je maar wilt. 
 ****
-
-
-<img src="../../img/logoCSCert_10cm.jpg" align="right">
