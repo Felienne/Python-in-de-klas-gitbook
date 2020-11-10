@@ -1,7 +1,7 @@
 # Les 1
 
 ## Slides  
-[Module Nederlands, les 1](https://slides.com/vhto/nederlands1)
+[Module Nederlands, les 1](https://slides.com/felienne/pidk-m1-l1a)
 
 ## Leerdoelen
 * Python-code schrijven in repl.it
