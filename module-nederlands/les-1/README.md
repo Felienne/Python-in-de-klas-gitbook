@@ -10,5 +10,3 @@
 * meerdere regels laten zien
 * goede en foute `print()`-codes vinden
 * weten wat je moet doen als je een foutmelding van Python krijgt
-
-<img src="../../img/logoCSCert_10cm.jpg" align="right">
