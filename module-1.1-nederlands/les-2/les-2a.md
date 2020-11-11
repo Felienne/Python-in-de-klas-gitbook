@@ -72,7 +72,6 @@ Weet jij welke code goed is?
 
 Schrijf de code voor het zinnetje in je schrift.
 
-
 4\) Wat is de fout?
 
 Al deze codes zouden **Hallo allemaal** moeten printen maar dat doen ze niet. Wat gaat er mis?
@@ -172,7 +171,6 @@ print('leerlingen', 'uit', 'deze', 'klas')
 ```
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
-
 
 ### Waardes zoeken
 
@@ -284,10 +282,10 @@ Nu jij!
 
 ```python
 6. print(Goedemorgen)
-
 ```
 
 ```python
 7. tijd = 'half 9'
    print('Het', 'is', 'tijd')
 ```
+

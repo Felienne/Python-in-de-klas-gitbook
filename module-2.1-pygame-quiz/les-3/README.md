@@ -7,6 +7,7 @@
 ## Leerdoelen
 
 * Leren muiskliks afhandelen in PyGame
+* Herhalen van gebruik variabelen \(in deel b\)
 
 ## Instructies voor de leerkracht
 

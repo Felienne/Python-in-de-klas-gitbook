@@ -171,14 +171,14 @@ Soms komt er een fout! Schrijf dan FOUT.
 
 Nu krijg je de zin, en moet jij de code afmaken.
 
-1. Er moet geprint worden: 'De deur is geel' Maak de code af in je schrift. 
+1. Er moet geprint worden: 'De deur is geel' Maak de code af in je schrift.
 
    ```python
    kleuren = ['blauw', 'geel', 'groen']            
    print('De', 'deur', 'is', kleuren[...])
    ```
 
-2. Er moet geprint worden: 'Ik hou van chocolade' 
+2. Er moet geprint worden: 'Ik hou van chocolade'
 
    ```python
    snoepjes = ['chocolade', 'zuurtjes', 'drop']
@@ -271,3 +271,4 @@ Komt er een fout, schrijf dan in je schrift: FOUT. Komt er geen fout, schrijf da
 ```
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
+

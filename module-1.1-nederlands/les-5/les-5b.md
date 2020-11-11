@@ -62,7 +62,7 @@ else:
 print('De', 'vriend', 'van', dier, 'is', vrienden[1], '.')
 ```
 
-## Extra\) Voeg een shuffle toe 
+## Extra\) Voeg een shuffle toe
 
 Deze opdracht wordt afgetekend als:
 
@@ -90,3 +90,4 @@ Voer je code een paar keer uit. Wat gebeurt er nu?
 Schrijf duidelijk in je schrift hoe je denkt dat deze code werkt.
 
 Einde werkblad! Hebben we alles afgestempeld? Dan mag je meehelpen met stempelen.
+

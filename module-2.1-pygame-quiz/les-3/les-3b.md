@@ -6,7 +6,7 @@ Deze opdracht wordt afgetekend als:
 
 1. Je de vier letters weer in beeld hebt
 
-**Uitleg.** Fork de startcode op [https://repl.it/@mevrHermans/pidk-jaar-2-les-2-opdr-1](https://repl.it/@mevrHermans/pidk-jaar-2-les-3-opdr-1). Die code is nog niet helemaal goed, jij gaat die code zelf stap voor stap verbeteren. Je begint net als vorige week maar met 1 letter. Zet jij alle vier de letters weer op een mooie plek?
+**Uitleg.** Fork de startcode op [https://repl.it/@mevrHermans/pidk-jaar-2-les-3-opdr-1](https://repl.it/@mevrHermans/pidk-jaar-2-les-3-opdr-1). Die code is nog niet helemaal goed, jij gaat die code zelf stap voor stap verbeteren. Je begint net als vorige week maar met 1 letter. Zet jij alle vier de letters weer op een mooie plek?
 
 **Opdracht 2**
 

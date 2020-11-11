@@ -1,8 +1,9 @@
-# Les 1a nakijkmodel
+# Les 1
 
 ## Tekenen en code
 
-1\) 
+1\)
+
 ```python
 1. pen.forward(100)
 2. pen.left(90)
@@ -14,21 +15,19 @@
 8. pen.left(90)
 ```
 
-2\)
-1. Onze pen kan een heel rondje draaien, wat 360 graden is. We willen dat hij maar 1/3e rondje draait, want er zijn 3 hoeken en bij alle hoeken bij elkaar willen we het hele rondje gedraaid hebben. Dus draaien we per hoek 360/3 = 120 graden.
+2\) 1. Onze pen kan een heel rondje draaien, wat 360 graden is. We willen dat hij maar 1/3e rondje draait, want er zijn 3 hoeken en bij alle hoeken bij elkaar willen we het hele rondje gedraaid hebben. Dus draaien we per hoek 360/3 = 120 graden.
 
-2. 
-```python
-1. pen.forward(100)
-2. pen.left(120)
-3. pen.forward(100)
-4. pen.left(120)
-5. pen.forward(100)
-6. pen.left(120)
-```
+1. \`\`\`python
+2. pen.forward\(100\)
+3. pen.left\(120\)
+4. pen.forward\(100\)
+5. pen.left\(120\)
+6. pen.forward\(100\)
+7. pen.left\(120\)
 
-3\)
-zeshoek: 360/6 = 120 graden
+   \`\`\`
+
+3\) zeshoek: 360/6 = 120 graden
 
 tienhoek: 360/10 = 36 graden
 
@@ -38,31 +37,27 @@ dertighoek: 360/ 30 = 12 graden
 
 ### Nog meer figuren
 
-1\)
-Hier komt een spirograaf uit, met een hoek van 65 graden en 11 herhalingen krijg je bijvoorbeeld onderstaand:
+1\) Hier komt een spirograaf uit, met een hoek van 65 graden en 11 herhalingen krijg je bijvoorbeeld onderstaand:
 
-<img src="../../img/image-20190415150322353.png" style="zoom:50%">
+![](../../.gitbook/assets/image-20190415150322353.png)
 
 2\)
 
-1. <img src="../../img/Knipsel.PNG" style="zoom:100%">
+1. ![](../../.gitbook/assets/Knipsel.PNG)
+2. ![](../../.gitbook/assets/image-20190415150849824.png)
+3. ![](../../.gitbook/assets/image-20190415151021170%20%281%29.png)
 
-2. <img src="../../img/image-20190415150849824.png" style="zoom:50%">
+3\)
 
-3. <img src="../../img/image-20190415151021170.png" style="zoom:50%">
+1. \`\`\`python
+2. pen.forward\(100\)
+3. pen.left\(120\)
+4. pen.forward\(100\)
+5. pen.left\(120\)
+6. pen.forward\(100\)
+7. pen.left\(120\)
 
-3\) 
-
-1. 
-
-```python
-1. pen.forward(100)
-2. pen.left(120)
-3. pen.forward(100)
-4. pen.left(120)
-5. pen.forward(100)
-6. pen.left(120)
-```
+   \`\`\`
 
 2.
 
@@ -82,6 +77,7 @@ Hier komt een spirograaf uit, met een hoek van 65 graden en 11 herhalingen krijg
 ```
 
 3.
+
 ```python
 1. pen.forward(100)
 2. pen.left(36)
@@ -105,21 +101,18 @@ Hier komt een spirograaf uit, met een hoek van 65 graden en 11 herhalingen krijg
 20. pen.left(36)
 ```
 
-<div style="page-break-after: always;"></div>
-
 ### **Extraatje**
 
 Tekeningen die horen bij code:
 
-1. <img src="../../img/image-20190415153151230.png" style="zoom:50%">
-
-2. <img src="../../img/image-20190415153242500.png" style="zoom:50%">
-
-3. <img src="../../img/image-20190322130925083.png" style="zoom:50%">
+1. ![](../../.gitbook/assets/image-20190415153151230.png)
+2. ![](../../.gitbook/assets/image-20190415153242500.png)
+3. ![](../../.gitbook/assets/image-20190322130925083.png)
 
 Code die hoort bij tekeningen:
 
 1.
+
 ```python
 1. pen.forward(100)
 2. pen.right(120)
@@ -127,7 +120,9 @@ Code die hoort bij tekeningen:
 4. pen.right(120)
 5. pen.forward(100)
 ```
+
 2.
+
 ```python
 1. pen.left(120)
 2. pen.forward(100)
@@ -144,7 +139,9 @@ Code die hoort bij tekeningen:
 13. pen.left(90)
 14. pen.forward(100)
 ```
+
 3.
+
 ```python
 1. pen.forward(100)
 2. pen.left(60)
@@ -165,4 +162,5 @@ Code die hoort bij tekeningen:
 17. pen.forward(175)
 ```
 
-<img src="../../img/logoCSCert_10cm.jpg" align="right">
+![](../../.gitbook/assets/logoCSCert_10cm.jpg)
+

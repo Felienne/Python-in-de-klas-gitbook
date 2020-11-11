@@ -1,6 +1,6 @@
 # Les 2b
 
-### 1\) Log in 
+## 1\) Log in
 
 Deze opdracht wordt afgetekend als:
 
@@ -11,21 +11,21 @@ Voor als je het vergeten bent:
 * Als emailadres heb je je school-email gebruikt
 * Je wachtwoord is je wachtwoord van school
 
-### 2\) Voeg commentaar toe 
+## 2\) Voeg commentaar toe
 
-Deze opdracht wordt afgetekend als: 
+Deze opdracht wordt afgetekend als:
 
 * Je bovenaan je programma netjes commentaar hebt geschreven
 * Je drie dingen opschrijft die je nog weet over `print()`
 * Die drie dingen moet je opschrijven in je commentaar, en in je schrift!
 
-**Opdracht.** 
+**Opdracht.**
 
-Zet deze regels in commentaar bovenaan je programma:   
+Zet deze regels in commentaar bovenaan je programma:  
 1. Dit programma is gemaakt door …….  
-2. Wat ik nog weet over `print()` is: 
+2. Wat ik nog weet over `print()` is:
 
-### 3\) Schijf een verhaal over een dier 
+## 3\) Schijf een verhaal over een dier
 
 Deze opdracht wordt afgetekend als:
 
@@ -43,7 +43,7 @@ De schildpad zoekt een tomaat.
 
 Print de zinnen met Python. Je hoeft nog geen variabele te gebruiken.
 
-### 4\) Voeg een variabele toe
+## 4\) Voeg een variabele toe
 
 Deze opdracht wordt afgetekend als:
 
@@ -68,7 +68,7 @@ Tip: Als je klaar bent, staat jouw dier:
 * een keer in je code, maar...
 * drie keer in je verhaal!
 
-### 5\) Maak een ander verhaal
+## 5\) Maak een ander verhaal
 
 Deze les wordt afgetekend als:
 
@@ -79,12 +79,12 @@ Deze les wordt afgetekend als:
 We gaan controleren of je je code goed hebt aangepast. Bovenaan jouw code staat:
 
 ```python
-dier = 'schildpad' 
+dier = 'schildpad'
 ```
 
 Maar het kan bij jou natuurlijk een ander dier zijn. Verander deze regel nu eventjes in een ander dier, bijv. papegaai. Veranderen nu alle dieren in jouw verhaal? Zo ja, dan heb je het goed gedaan!
 
-### Extra\) Maak twee verhalen
+## Extra\) Maak twee verhalen
 
 Deze les wordt afgetekend als:
 
@@ -101,3 +101,4 @@ Tip: Als je klaar bent, staan er twee dieren, allebei:
 
 * een keer in je code, maar...
 * drie keer in je verhaal!
+

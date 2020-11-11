@@ -7,7 +7,6 @@ Aan het einde van de les kun jij:
 * Keuzes maken in een programma met if-else
 * goede en foute if-else codes herkennen
 
-
 ### Even opfrissen!
 
 **Begin op een nieuwe pagina en zet erboven: Les 5a**
@@ -182,7 +181,7 @@ Wat moet er op de puntjes? Alleen dat hoef je in je schrift te schrijven.
 ```python
 2. print('hond of kat')
    dier = input()
-   if dier __ 'hond':
+   if dier .. 'hond':
      print('waf')
    else:
      print('miauw')
@@ -208,7 +207,7 @@ Wat moet er op de puntjes? Alleen dat hoef je in je schrift te schrijven.
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
-### Fouten bij if-else 
+### Fouten bij if-else
 
 1\) Fout of niet? Lees de code plus invoer. Voorspel of er een fout komt, of niet.
 
@@ -227,8 +226,8 @@ Voorbeeld:
    Input: Frans
 ```
 
-De code print `Bonjour`.     
-  
+De code print `Bonjour`.
+
 Voorbeeld:
 
 ```python
@@ -323,7 +322,7 @@ Nu jij!
    Input: Duits
 ```
 
- 2\) Foutmeldingen lezen
+2\) Foutmeldingen lezen
 
 Je krijgt steeds een foutmelding te zien. Wat is er mis?
 
@@ -352,3 +351,4 @@ Je krijgt steeds een foutmelding te zien. Wat is er mis?
 ```
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+

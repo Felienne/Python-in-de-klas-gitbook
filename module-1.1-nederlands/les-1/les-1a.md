@@ -187,7 +187,6 @@ print('Goedemorgen')                            # >Goedemorgen
 ```python
 print('goedemorgen')                            # >FOUT
 ```
-<div style="page-break-after: always;"></div>
 
 ### Foutmeldingen
 
@@ -222,3 +221,4 @@ Deze code is fout omdat er maar 1 aanhalingsteken om het woord staat.
 3\) Schijf nu in je schrift de goede versie op van de 3 verkeerde codes hierboven.
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel
+

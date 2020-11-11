@@ -2,7 +2,7 @@
 
 ## 1\) Maak een repl.it account
 
-Deze opdracht wordt afgetekend als: 
+Deze opdracht wordt afgetekend als:
 
 * Je een account hebt gemaakt op repl.it
 * Gebruik als username je leerlingnummer
@@ -53,9 +53,10 @@ Deze les wordt afgetekend als:
 * Je een samenhangend verhaal van minstens drie zinnen print met `print()`, 
 * Het verhaal als hoofdrolspeler een dier heeft. Je mag zelf kiezen welk dier.
 
-**Opdracht.** 
+**Opdracht.**
 
 Print nu een verhaal over een dier. Je mag zelf bedenken waar het verhaal over gaat. Volg deze stappen:
 
 1. Schrijf de code om een verhaaltje te printen in je schrift op
 2. Typ de code dan over uit je schrift
+

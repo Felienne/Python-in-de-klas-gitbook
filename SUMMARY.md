@@ -17,7 +17,7 @@
     * [Les 3b](module-1.1-nederlands/les-3/les-3b.md)
   * [Les 4](module-1.1-nederlands/les-4/README.md)
     * [Les 4a](module-1.1-nederlands/les-4/les-4a.md)
-    * [Les 4b](module-1.1-nederlands/les-4/untitled.md)
+    * [Les 4b](module-1.1-nederlands/les-4/les-4b.md)
   * [Les 5](module-1.1-nederlands/les-5/README.md)
     * [Les 5a](module-1.1-nederlands/les-5/les-5a.md)
     * [Les 5b](module-1.1-nederlands/les-5/les-5b.md)
@@ -53,7 +53,6 @@
     * [Les 3](module-1.2-kunst/nakijkbladen/les-3-nakijkmodel.md)
     * [Les 4](module-1.2-kunst/nakijkbladen/les-4-nakijkmodel.md)
     * [Les 5](module-1.2-kunst/nakijkbladen/les-5-nakijkmodel.md)
-
 * [Module 1.3 - Geschiedenis](module-1.3-geschiedenis/README.md)
   * [Les 1](module-1.3-geschiedenis/les-1/README.md)
     * [Les 1a](module-1.3-geschiedenis/les-1/les-1a.md)
@@ -84,4 +83,7 @@
   * [Les 3](module-2.1-pygame-quiz/les-3/README.md)
     * [Les 3a](module-2.1-pygame-quiz/les-3/les-3a.md)
     * [Les 3b](module-2.1-pygame-quiz/les-3/les-3b.md)
+  * [Les 4](module-2.1-pygame-quiz/les-4/README.md)
+    * [Les 4a](module-2.1-pygame-quiz/les-4/les-4a.md)
+    * [Les 4b](module-2.1-pygame-quiz/les-4/les-4b.md)
 

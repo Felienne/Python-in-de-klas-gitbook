@@ -10,3 +10,4 @@
 * woorden in een lijst aanwijzen
 * voorspellen wat code met een lijst erin doet
 * goede en foute print\(\)-codes vinden met lijsten erin
+

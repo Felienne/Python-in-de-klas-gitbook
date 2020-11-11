@@ -1,6 +1,6 @@
 # Handleiding
 
-In deze handleiding beantwoorden we een aantal veelgestelde vragen. Staat jouw vraag er niet tussen? Neem dan gerust contact met ons op via [f.f.j.hermans@liacs.leidenuniv.nl](f.f.j.hermans@liacs.leidenuniv.nl).
+In deze handleiding beantwoorden we een aantal veelgestelde vragen. Staat jouw vraag er niet tussen? Neem dan gerust contact met ons op via [f.f.j.hermans@liacs.leidenuniv.nl](https://github.com/Felienne/Python-in-de-klas-gitbook/tree/551df754c27f8e5a258ab10ae9d13eaa76b79cae/f.f.j.hermans@liacs.leidenuniv.nl).
 
 ## Voor wie is dit materiaal?
 
@@ -16,7 +16,6 @@ Dit materiaal is voor leerkrachten die in de klas programmeerlessen met Python w
 ## Is het materiaal gratis te gebruiken?
 
 Ja! Het is en blijft gratis, en is beschikbaar gemaakt dmv een CC licentie. Dit betekent dat je het materiaal gratis mag gebruiken maar niet mag verkopen.
-
 
 ## De uitgeprinte werkbladen
 
@@ -47,8 +46,7 @@ Deel a is een klassikaal uit te voeren les. Je kunt hiervoor, als je wilt, de me
 
 ### Deel b
 
-In deel b gaan leerlingen zelf aan de slag met werkbladen. Bovenaan de werkbladen staan steeds doelen voor leerlingen. Bijvoorbeeld: "deze opdracht wordt afgetekend als er een vierkant is getekend".
-Die doelen kun je in principe aftekenen zelfs als je niet zoveel programmeerkennis hebt. Het is een kwestie van kijken of er \(bijv\) een vierkant staat. Daar waar je iets moet opzoeken de code van een ll, is ook dat zo uitgelegd dat iedereen het kan aftekenen, bijvoorbeeld "er is een vierkant getekend, en de code bevat 'for'".
+In deel b gaan leerlingen zelf aan de slag met werkbladen. Bovenaan de werkbladen staan steeds doelen voor leerlingen. Bijvoorbeeld: "deze opdracht wordt afgetekend als er een vierkant is getekend". Die doelen kun je in principe aftekenen zelfs als je niet zoveel programmeerkennis hebt. Het is een kwestie van kijken of er \(bijv\) een vierkant staat. Daar waar je iets moet opzoeken de code van een ll, is ook dat zo uitgelegd dat iedereen het kan aftekenen, bijvoorbeeld "er is een vierkant getekend, en de code bevat 'for'".
 
 Natuurlijk verlopen lessen het allerbest als de docent zelf vaardig is in Python en de bijbehorende problemen en misconcepties maar de realiteit is dat niet alle leerkrachten dat op dit moment zijn. Dat is voor deze serie geen probleem! Ook de te verwachten problemen en vragen van leerlingen worden steeds uitgelegd in de docenteninstructie per lesdoel.
 

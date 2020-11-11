@@ -88,7 +88,7 @@ Aan het einde van de les kun jij:
    print('Het', 'is', 'vandaag', 'woensdag')
 ```
 
- 2\) Maak de code af
+2\) Maak de code af
 
 Je krijgt een zin, en jij moet de code afmaken. Je hoeft alleen de lijst en de aanwijzer in je schrift te schrijven. Voorbeeld:
 
@@ -101,14 +101,14 @@ Er moet geprint worden: 'Ik vind geel mooi' Maak de code af in je schrift.
 
 Dan schijf jij in je schrift: kleuren\[1\] Nu jij!
 
-1. Er moet geprint worden: 'De trui is groen'.  
+1. Er moet geprint worden: 'De trui is groen'.
 
    ```python
       kleuren = ['blauw', 'geel', 'groen']            
       print('De', 'trui', 'is', kleuren[...])
    ```
 
-2. Er moet geprint worden: 'Ik hou van drop' 
+2. Er moet geprint worden: 'Ik hou van drop'
 
    ```python
       snoepjes = ['chocolade', 'zuurtjes', 'drop']
@@ -146,6 +146,7 @@ Dan schijf jij in je schrift: kleuren\[1\] Nu jij!
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
 ### Invoer
+
 1\) Je krijgt een aantal codes, én de invoer van een gebruiker.
 
 Voorbeeld:
@@ -198,7 +199,7 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
 ### Fouten bij invoer
 
-1\) Wat print deze code? Is de code fout -&gt; schrijf FOUT Is de code goed -&gt; schrijf wat de code print __na__ de invoer van de gebruiker.
+1\) Wat print deze code? Is de code fout -&gt; schrijf FOUT Is de code goed -&gt; schrijf wat de code print **na** de invoer van de gebruiker.
 
 ```python
 1. print('Hoe', 'heet', 'jij?'
@@ -261,3 +262,4 @@ Al deze codes zijn fout. Wat is er mis?
 ```
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+

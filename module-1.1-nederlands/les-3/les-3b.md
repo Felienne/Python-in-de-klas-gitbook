@@ -25,9 +25,9 @@ Deze les wordt afgetekend als:
 
 **Opdracht.**
 
-Je hebt drie dieren bedacht in opdracht 4b-1. Maak nu een lijst, en noem de lijst `dieren`.   
-Zet alledrie de dieren in de lijst.   
-  
+Je hebt drie dieren bedacht in opdracht 4b-1. Maak nu een lijst, en noem de lijst `dieren`.  
+Zet alledrie de dieren in de lijst.
+
 **Let op:** Je hoeft nog geen aanwijzers te gebruiken voor deze opdracht.
 
 ## 3\) Verander je variabelen in aanwijzers uit de lijst
@@ -56,9 +56,9 @@ Deze les wordt afgetekend als:
 
 **Opdracht.**
 
-Maak de lijst nu nog langer. Zorg dat er minstens vijf dieren in staan. Verwijder  ook de stukken verhaal waarin je `dieren[1]` en `dieren[2]` gebruikt.
+Maak de lijst nu nog langer. Zorg dat er minstens vijf dieren in staan. Verwijder ook de stukken verhaal waarin je `dieren[1]` en `dieren[2]` gebruikt.
 
-## Extra\) Een willekeurig dier in je verhaal 
+## Extra\) Een willekeurig dier in je verhaal
 
 Deze les wordt afgetekend als:
 
@@ -81,3 +81,4 @@ random.shuffle(dieren)
 ```
 
 Voer je code een paar keer uit. Wat gebeurt er nu? Schrijf duidelijk in je schrift hoe je denkt dat deze code werkt.
+
