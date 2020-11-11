@@ -12,29 +12,22 @@ Deze opdracht wordt afgetekend als:
 
 Deze opdracht wordt afgetekend als:
 
-1. Alle vier de letters aangeklikt kunnen worden
+1. De letter A aangeklikt kan worden
 2. Je de letter waarop geklikt is, onderin in beeld krijgt
 
-**Uitleg.** Als je nu op de letter A klikt, komt er A in beeld onderin, onder de PyGame codes.
+**Uitleg.**  Zorg nu dat de A onderin in beeld komt als je op de A klikt. Als je klaar bent, ziet het  er zo uit als je op de A klikt:
 
 ![](../../.gitbook/assets/image%20%283%29.png)
 
-Dat willen we graag voor alle letters, en dat ga jij programmeren. Kopieer deze twee regels code:
+Zet de if-code op de juiste plek neer, en zorg dat deze regels wel in de buitenste if blijven staan. Er staat al een stukje commentaar op de goede plek voor je klaar:
 
 ```python
-    if A.get_rect().collidepoint(locatie_muis):
-      print('A')
+# vul hier code in om te kijken of er op de A geklikt is
 ```
 
-Zorg dat deze regels wel in de buitenste if blijven staan. Er staat al een stukje commentaar op de goede plek voor je klaar:
-
-```python
-#vul hier de if voor de B in
-```
-
-Verander de A's in de B, en kijk of je code werkt. Let op! Je moet de A op twee plekken veranderen. 
-
-Doe dan hetzelfde voor de C en de D.
+{% hint style="info" %}
+Heb je ook geprobeerd het zo te programmeren dat het voor de B en de C en D werkt? Dat werkt nog niet meteen, dat gaan we de volgende les leren.
+{% endhint %}
 
 **Opdracht 3**
 
