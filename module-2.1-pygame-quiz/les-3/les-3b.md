@@ -29,25 +29,7 @@ Zet de if-code op de juiste plek neer, en zorg dat deze regels wel in de buitens
 Heb je ook geprobeerd het zo te programmeren dat het voor de B en de C en D werkt? Dat werkt nog niet meteen, dat gaan we de volgende les leren.
 {% endhint %}
 
-**Opdracht 3**
-
-Deze opdracht wordt afgetekend als:
-
-1. Je een variabele `antwoord` hebt gemaakt waarin de aangeklikte letter is opgeslagen.
-
-**Uitleg.** We printen nu de aangeklikte letter uit. Dat is prima, maar we willen de letter ook nog in een variabele opslaan. Want dan kunnen we straks kijken of het aangeklikte antwoord goed is. Zorg dat de letter in een variabele komt. Die variabele noemen we `antwoord`. Zet bovenaan je code de variabele op 'geen'. Zorg ook dat de variabele na het klikken verandert. Dat doet je door onder de regel `print('A')`deze regel te zetten:
-
-```python
-antwoord = 'A'
-```
-
-{% hint style="info" %}
-Let op! Zorg dat deze regel op dezelfde manier ingesprongen is als de regel erboven!
-{% endhint %}
-
-Lukt deze opdracht nog niet? Dat is niet erg! In de volgende les bespreken we deze code samen.
-
-**Opdracht 4 \(Extra\)**
+**Opdracht 3 \(Extra\)**
 
 Deze opdracht wordt afgetekend als:
 
@@ -60,7 +42,7 @@ Deze opdracht wordt afgetekend als:
 3. Laad het plaatje en sla het op in een variable
 4. "Blit" de variabele op het scherm, doe dat in de `while` lus
 
-**Opdracht 5 \(Extra\)**
+**Opdracht 4 \(Extra\)**
 
 Deze opdracht wordt afgetekend als:
 
@@ -68,7 +50,7 @@ Deze opdracht wordt afgetekend als:
 
 **Uitleg.** De letters blijven nu op dezelfde plek staan als ze worden aangeklikt. Je kan de quiz nog moeilijker maken, en leuker, als de letters nadat ze zijn aangeklikt, ergens anders weer in beeld komen. Dat kan op een random \(willekeurige\) plak zijn.
 
-**Opdracht 6 \(Extra\)**
+**Opdracht 5 \(Extra\)**
 
 Deze opdracht wordt afgetekend als:
 

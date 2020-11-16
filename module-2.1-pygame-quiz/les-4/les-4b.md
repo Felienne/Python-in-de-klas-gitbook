@@ -1,20 +1,72 @@
 # Les 4b
 
-**Opdracht 1 : Maak de variabele antwoord**
+**Opdracht 1**
+
+Deze opdracht wordt afgetekend als:
+
+1. Je alle code voor A hebt veranderd zodat de rechthoek meedoet
+2. Je dus A onderin in beeld krijgt als je op de A klikt.
+
+**Uitleg.** Pak jouw code van vorige week. Om te kijken of er op een letter wordt geklikt gebruikte jij `A.get_rect().collidepoint()` om te kijken of er op de A werd geklikt. Dat werkte wel voor de A maar niet voor de andere letters. In de les heb je gezien hoe je dat moet verbeteren. Volg deze 5 stappen:
+
+1. Maak bovenaan de code een nieuwe variabele
+2. Sla in de variabele `A_rechthoek` de rechthoek van A op met `A.get_rect()`
+3. Stel het midden van de letter a, `A_rechthoek.center` in op \(100,100\)
+4. blit de A in `A_rechthoek`, in plaats van directe op een locatie zoals in je oude code
+5. Gebruik in de if `get_rect().collidepoint()` in plaats van `A_rechthoek.collidepoint`
+
+Als je klaar bent, ziet het  er zo uit als je op de A klikt:
+
+![](../../.gitbook/assets/image%20%283%29.png)
+
+**Opdracht 2**
+
+Deze opdracht wordt afgetekend als:
+
+1. De letters B, C en D **ook** aangeklikt kan worden
+2. Je de letter waarop geklikt is, onderin in beeld krijgt
+
+Herhaal nu de 5 stappen voor alle andere letters. Let op deze dingen. Het kan helpen om ze af te strepen als je ze gedaan hebt:
+
+* Kopieer de code die je in stap 1 gemaakt hebt, alle 5 de regels!
+* Verander alle A's in B's. Ook in de variabelen!
+* Verander de plaats waar de B komt met `B_rechthoek.center`. Anders komen alle letters op elkaar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Uitleg.**  Zorg nu dat de A onderin in beeld komt als je op de A klikt. Als je klaar bent, ziet het  er zo uit als je op de A klikt:
+
+![](../../.gitbook/assets/image%20%283%29.png)
+
+Zet de if-code op de juiste plek neer, en zorg dat deze regels wel in de buitenste if blijven staan. Er staat al een stukje commentaar op de goede plek voor je klaar:
+
+```python
+# vul hier code in om te kijken of er op de A geklikt is
+```
+
+**Opdracht 3**
 
 Deze opdracht wordt afgetekend als:
 
 1. Je een variabele `antwoord` hebt gemaakt waarin de aangeklikte letter is opgeslagen.
-2. De variabele ook uitgeprint wordt na het klikken
 
-**Uitleg.** Fork de startcode op [https://repl.it/@mevrHermans/pidk-jaar-2-les-4-opdr-1](https://repl.it/@mevrHermans/pidk-jaar-2-les-3-opdr-1). Die code is nog niet helemaal goed, jij gaat die code zelf stap voor stap verbeteren.
-
-In deze voorbeeldcode ****printen we nu de aangeklikte letter uit. Dat is prima, maar we willen de letter ook nog in een variabele opslaan. Want dan kunnen we straks kijken of het aangeklikte antwoord goed is. 
-
-Volg deze stappen: 
-
-1. Zet bovenaan je code, vóór de while lus, een nieuwe variabele`antwoord`op 'geen'. 
-2. Zorg ook dat de variabele na het klikken verandert. Dat doet je door onder de regel `print('A')`deze regel te zetten:
+**Uitleg.** We printen nu de aangeklikte letter uit. Dat is prima, maar we willen de letter ook nog in een variabele opslaan. Want dan kunnen we straks kijken of het aangeklikte antwoord goed is. Zorg dat de letter in een variabele komt. Die variabele noemen we `antwoord`. Zet bovenaan je code de variabele op 'geen'. Zorg ook dat de variabele na het klikken verandert. Dat doet je door onder de regel `print('A')`deze regel te zetten:
 
 ```python
 antwoord = 'A'
@@ -24,41 +76,11 @@ antwoord = 'A'
 Let op! Zorg dat deze regel op dezelfde manier ingesprongen is als de regel erboven!
 {% endhint %}
 
-3. print de variabele `antwoord`onderin de while lus.
+Lukt deze opdracht nog niet? Dat is niet erg! In de volgende les bespreken we deze code samen.
 
-**Opdracht 2 : Controleer het antwoord**
 
-Deze opdracht wordt afgetekend als:
 
-1. Er bij een goed antwoord 'goed' geprint wordt en bij een fout antwoord 'fout'
 
-**Uitleg.**  Voeg een if toe aan je code, waarmee je kijkt of het antwoord goed is. Volg deze stappen:
-
-1. Maak een variabele `goede_antwoord` waarin je het goede antwoord van de vraag opslaat
-2. Kijk met een if of het antwoord van de speler, in `antwoord`hetzelfde is als `goede_antwoord`
-
-**Opdracht 3 : Reset de variabele**
-
-Deze opdracht wordt afgetekend als je:
-
-1. Na een goed of fout antwoord, de variabele `antwoord`weer op 'geen' gezet wordt.
-
-**Uitleg.** Als de speler het antwoord nu goed of fout heeft, dan blijft dat de hele tijd zo. Dat is natuurlijk niet leuk. Zeker niet bij een fout antwoord. Daarom moet de variabele `antwoord` weer op 'geen' gezet worden, zodat het nog een keer geprobeerd kan worden.
-
-```python
-    if A.get_rect().collidepoint(locatie_muis):
-      print('A')
-```
-
-Zorg dat deze regels wel in de buitenste if blijven staan. Er staat al een stukje commentaar op de goede plek voor je klaar:
-
-```python
-#vul hier de if voor de B in
-```
-
-Verander de A's in de B, en kijk of je code werkt. Let op! Je moet de A op twee plekken veranderen. 
-
-Doe dan hetzelfde voor de C en de D.
 
 **Opdracht 4 \(Extra\)**
 

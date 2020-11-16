@@ -86,4 +86,11 @@
   * [Les 4](module-2.1-pygame-quiz/les-4/README.md)
     * [Les 4a](module-2.1-pygame-quiz/les-4/les-4a.md)
     * [Les 4b](module-2.1-pygame-quiz/les-4/les-4b.md)
+  * [Les 5](module-2.1-pygame-quiz/les-5/README.md)
+    * [Les 5a](module-2.1-pygame-quiz/les-5/les-4a.md)
+    * [Les 5b](module-2.1-pygame-quiz/les-5/les-4b.md)
+  * [Les 6](module-2.1-pygame-quiz/les-6/README.md)
+    * [Les 6a](module-2.1-pygame-quiz/les-6/les-6a.md)
+    * [Les 6b](module-2.1-pygame-quiz/les-6/les-6b.md)
+  * [TODOs](module-2.1-pygame-quiz/todos.md)
 
