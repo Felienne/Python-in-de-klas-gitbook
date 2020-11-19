@@ -45,20 +45,33 @@ Deze opdracht wordt afgetekend als je:
 
 Pas eerste de code van de A aan, en test die dan goed. Verander de code daarna pas weer voor de B, C en D.
 
-**Opdracht 4 \(Extra\)**
+**Opdracht 4**
 
 Deze opdracht wordt afgetekend als:
 
-1. Je een extra plaatje in beeld krijgt
+* Je minstens 3 problemen in de code hebt gevonden
 
-**Opdracht.** Je kunt ook zelf nog iets in beeld krijgen, bijv. een smiley, een foto van jezelf of een "ik weet het niet" knop voor de speler. Voeg jij zelf nog iets toe aan je programma? Volg deze stappen:
+Niet alles is al goed aan dit programma, maar dat lossen we in de verdere lessen nog samen op. Welke problemen zie jij in het programma? Schrijf de problemen op, bijv in een schrift of in commentaar bovenin je code.
 
-1. Zoek een plaatje en sla het op op je computer
-2. Upload het plaatje in repl.it met de drie kleine stippeltjes
-3. Laad het plaatje en sla het op in een variable
-4. "Blit" de variabele op het scherm, doe dat in de `while` lus
+Een voorbeeld van een probleem is: het gekozen antwoord komt steeds maar weer in beeld
+
+Welke problemen zie jij nog meer?
 
 **Opdracht 5 \(Extra\)**
+
+Deze opdracht wordt afgetekend als:
+
+* Je weet waar de problemen in de code zitten
+* Je bedenkt hoe je ze zou kunnen oplossen
+
+Je hebt bij Opdracht 4 minstens 3 problemen in de code gevonden. Schrijf nu per probleem op:
+
+* In welke regels code het probleem volgens jou zit
+* Hoe je het probleem op kan lossen in woorden
+
+De oplossing hoeft niet met programmeren te maken te hebben. Je mag bijv. schrijven "De letter moet niet steeds in beeld komen" of "De letter moet alleen in beeld komen als er net op geklikt is". Hoe we het programmeren zien we in de volgende les!
+
+**Opdracht 6 \(Extra\)**
 
 Deze opdracht wordt afgetekend als:
 
@@ -66,7 +79,7 @@ Deze opdracht wordt afgetekend als:
 
 **Uitleg.** De letters blijven nu op dezelfde plek staan als ze worden aangeklikt. Je kan de quiz nog moeilijker maken, en leuker, als de letters nadat ze zijn aangeklikt, ergens anders weer in beeld komen. Dat kan op een random \(willekeurige\) plak zijn.
 
-**Opdracht 6 \(Extra\)**
+**Opdracht 7 \(Extra\)**
 
 Deze opdracht wordt afgetekend als:
 
