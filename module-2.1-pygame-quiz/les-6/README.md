@@ -15,7 +15,7 @@ In deze les blikken we terug op de code van de vorige les. Die code was nog niet
 
 ## Eindprogramma
 
-Op het einde van de les zouden leerlingen ongeveer dit programma moeten hebben. 
+Op het einde van de les zouden leerlingen ongeveer [dit programma](https://repl.it/@mevrHermans/Pidk-M4-L6a-Einde) moeten hebben. 
 
 
 
