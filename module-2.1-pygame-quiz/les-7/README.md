@@ -16,7 +16,7 @@ Omdat functies vrij lastig zijn, oefenen we dat los van PyGame. Dat voegen we la
 
 ## Eindprogramma
 
-Op het einde van de les zouden leerlingen ongeveer dit programma moeten hebben. 
+Op het einde van de les zouden leerlingen ongeveer [dit programma](https://repl.it/@mevrHermans/Pidk-M4-L7a-Einde) moeten hebben. 
 
 
 

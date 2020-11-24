@@ -12,7 +12,7 @@ Deze opdracht wordt afgetekend als:
 * Meteen de functie maken en dan aanroepen \(moeilijker\)
 * Eerst je code copy-pasten en dan aanpassen zoals we geoefend hebben in deel A \(iets makkelijker\)
 
-
+Lukt het nog niet helemaal? Dat geeft niks! Volgende les bespreken we de aanpak samen.
 
 
 
