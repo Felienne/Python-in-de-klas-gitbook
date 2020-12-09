@@ -4,3 +4,6 @@ Les 6 is een herhaling met wisbordjes ipv een opdrachtenvel deel a. Er zijn dus 
 
 Deel b is de eindopdracht.
 
+## Slides  
+[Module Kunst, Eindopdracht](hhttps://slides.com/felienne/pidk-m2-l6a-16)
+
