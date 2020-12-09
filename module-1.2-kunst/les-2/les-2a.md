@@ -1,12 +1,18 @@
 # Les 2a
 
-**Herhalen met Turtle**
+## Herhalen met Turtle
 
-**Even opfrissen**
+Aan het einde van de les kun jij:
 
-1\) Maak een vierkant
+* For-lussen gebruiken om code te herhalen
+* 'Veelvlakken' tekenen met lussen
+* Spirograaffiguren tekenen met lussen
 
-Vorige week deden we deze opdracht ook, dat was best een lastige opdracht! We gaan het daarom nog een keer oefenen. Teken dit figuur in je schrift.
+### Even opfrissen
+
+Vorige week deden we deze opdracht ook, dat was best een lastige opdracht! We gaan het daarom nog een keer oefenen.
+
+1\) Teken dit vierkant in je schrift.
 
 ![](../../.gitbook/assets/image-20190322135329083.png)
 
@@ -22,21 +28,18 @@ Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde op in
 7. ...
 8. ...
 
-​​2\) Teken nu een driehoek
+​​2\) Teken deze driehoek in je schrift.
 
 ![](../../.gitbook/assets/image-20190322135525607.png)
 
-1. Welke som reken je uit om een driehoek te maken? Weet je de som nog? Schrijf deze in je schrift.
-2. Welke Pythoncode gebruik jij voor de hoek van een driehoek? Vul het in op de puntjes.
+Nu moeten we even rekenen! Welke som reken je uit om een driehoek te maken? Schrijf de som in je schrift. 
 
-pen.left\(……..\)
+Een driehoek maak je met:
 
-1. Een driehoek maak je met:
-
-* pen.left\(……..\) &lt;— dit is het commando voor draaien. Hier komt het getal dat je bij opdracht 1 hebt berekend
+* pen.left\(……..\) &lt;— dit is het commando voor draaien. Hier komt het getal dat je zojuist hebt berekend. Schrijft de juiste Python code voor het maken van een driehoek in je schrift.
 * pen.forward\(100\)
 
-Zet nu deze opdrachten bij de juiste plekken in de tekening. Je moet allebei de Python opdrachten drie keer gebruiken. Schrijf het in je schrift:
+Zet nu deze opdrachten bij de juiste plekken in de tekening. Je moet allebei de Python opdrachten nu drie keer gebruiken. Schrijf de 6 codes in je schrift:
 
 1. ...
 2. ...
@@ -44,8 +47,6 @@ Zet nu deze opdrachten bij de juiste plekken in de tekening. Je moet allebei de 
 4. ...
 5. ...
 6. ...
-
-​​
 
 3\) Nog wat sommen met hoeken
 
@@ -70,11 +71,9 @@ Reken uit in je schrift:
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
-
-
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.​​
 
-**Herhalen met lussen**
+### Herhalen met lussen
 
 1\) Wat tekenen deze codes?
 
@@ -129,7 +128,7 @@ pen.left(90)
 
 
 
-**Extraatjes!**
+### Extraatjes!
 
 Welke codes horen bij deze tekeningen? Gebruik natuurlijk wel een lus \(of meerdere lussen\).
 
@@ -152,10 +151,3 @@ Welke codes horen bij deze tekeningen? Gebruik natuurlijk wel een lus \(of meerd
 5.
 
 ![](../../.gitbook/assets/image-20190322151500039.png)
-
-
-
-
-
-
-
