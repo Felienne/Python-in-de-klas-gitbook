@@ -1,8 +1,12 @@
 # Les 5a
 
-#### Kleuren en plannen
+## Kleuren
+Aan het einde van de les kun jij:
+* Hoe je kleuren in je tekening kunt gebruiken met namen
+* Hoe je kleuren in je tekening kunt gebruiken met RGB codes
+* Hoe je vlakken in je tekening kunt vullen met kleur
 
-**Even opfrissen**
+### Even opfrissen
 
 1\) Wat doen deze codes? Leg het in je eigen woorden uit.
 
@@ -162,20 +166,6 @@ for i in range(hoeken):
 
 ```python
 7.
-hoeken = 3
-for i in range(hoeken):
-  pen.forward(100)
-  pen.left(120)
-
-pen.forward(100)
-
-for i in range(hoeken):
-  pen.forward(100)
-  pen.left(120)
-```
-
-```python
-8.
 namen = 3
 klas = '1c'
 for i in range(klas):
@@ -184,7 +174,7 @@ for i in range(klas):
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
-**Kleuren tekenen**
+### Kleuren tekenen
 
 1\) Welke kleur wordt dit? Tip: de codes zijn RGB, RoodGroenBlauw. En lagere getallen zijn donkerder, niet lichter!
 
@@ -274,3 +264,70 @@ for i in range(aantal_keer):
 
 ![](../../.gitbook/assets/image-20190406142204920.png)
 
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+
+### Figuren vullen
+
+1\) Wat tekenen deze codes? Gebruik kleurpotloden of stiften. Heb je die niet? Zet dan de namen van de kleuren in de tekening.
+
+```python
+1. pen.color('orange')
+aantal_keer = 4
+hoek = 90
+pen.begin_fill()    
+for i in range(antal_keer):
+  pen.forward(100)
+  pen.left(hoek)
+pen.end_fill()     
+```
+
+```python
+2. pen.color(255,0,0)
+aantal_keer = 6
+hoek = 60
+for i in range(aantal_keer):
+  pen.forward(100)
+  pen.left(hoek)
+pen.begin_fill()   
+pen.end_fill()     
+```
+
+```python
+3. pen.color(0,0,255)
+aantal_keer = 2
+hoek = 60
+pen.begin_fill()  
+for i in range(aantal_keer):
+  pen.forward(100)
+  pen.left(hoek)
+pen.end_fill()  
+pen.begin_fill()  
+for i in range(aantal_keer):
+  pen.forward(100)
+  pen.left(hoek)
+pen.end_fill()  
+```
+
+```python
+4. pen.color(0,255,255)
+aantal_keer = 3
+hoek = 120
+pen.end_fill()  
+for i in range(aantal_keer):
+  pen.forward(100)
+  pen.left(hoek)
+pen.begin_fill()  
+```
+
+2\) Schrijf de code voor deze tekeningen. Gebruik RGB codes voor de kleuren.
+
+1.
+![](../../img/Kunst_5a_figurenvullen_21.png)
+
+2. 
+![](../../img/Kunst_5a_figurenvullen_22.png)
+
+3. 
+![](../../img/Kunst_5a_figurenvullen_23.png)
+
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
