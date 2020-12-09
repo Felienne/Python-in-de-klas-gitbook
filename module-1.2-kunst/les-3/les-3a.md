@@ -1,8 +1,12 @@
 # Les 3a
 
-#### Meerdere figuren
+## Meerdere figuren
 
-**Even opfrissen**
+Aan het einde van de les kun jij:
+* Hoe je meerdere figuren maakt
+* Hoe je je pen op kan tillen én neer kan zitten
+
+### Even opfrissen
 
 Vorige week maakten we kennis met de `for` lus. Hoe ging dat ook al weer?
 
@@ -38,36 +42,23 @@ for i in range(4):
   pen.left(90)
 ```
 
-```python
-5.
-for i in range(4):
-  pen.forward(100)
-  pen.left(90)
-```
-
- 2\) Welke code hoort bij deze tekeningen? 
+ 2\) Welke code hoort bij deze tekeningen? Gebruik een for-lus waar dit handig is.
 
 1. 
-
 ![](../../.gitbook/assets/image-20190318130624359.png)
 
 2.
-
 ![](../../.gitbook/assets/image-20190325083528686.png)
 
  3. 
-
 ![](../../.gitbook/assets/image-20190322150946880.png)
 
-
-
 4.
-
 ![](../../.gitbook/assets/image-20190322151013930.png)
 
- ------ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
-**Meerdere figuren**
+### Meerdere figuren
 
 1\) Wat tekenen deze codes?
 
@@ -151,7 +142,7 @@ for i in range(3):
   pen.left(120)
 ```
 
-**Extraatje!**
+### Extraatje!
 
 Welke codes horen bij deze tekeningen? Gebruik natuurlijk wel een lus \(of meerdere lussen\).
 
@@ -170,4 +161,6 @@ Welke codes horen bij deze tekeningen? Gebruik natuurlijk wel een lus \(of meerd
 4.
 
 ![](../../.gitbook/assets/image-20190329210151106.png)
+
+Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
