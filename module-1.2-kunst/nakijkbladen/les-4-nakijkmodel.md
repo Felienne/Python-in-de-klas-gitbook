@@ -64,5 +64,4 @@
 3. ![](../../.gitbook/assets/image-20190416110912808.png)
 4. ![](../../.gitbook/assets/image-20190416111050065.png)
 
-![](../../.gitbook/assets/logoCSCert_10cm%20%283%29.jpg)
 

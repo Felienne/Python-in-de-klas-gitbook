@@ -148,5 +148,5 @@ for i in range(3):
   pen.left(120)
 ```
 
-![](../../.gitbook/assets/logoCSCert_10cm.jpg)
+
 

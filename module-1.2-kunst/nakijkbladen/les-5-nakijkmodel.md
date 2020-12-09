@@ -35,7 +35,7 @@
 3\) 1.
 
 ```python
-1. pen.color(1,0,0)
+1. pen.color(255,0,0)
 2. antal_keer = 4
 3. for i in range(aantal_keer):
 4.   pen.forward(100)
@@ -43,13 +43,13 @@
 ```
 
 1. \`\`\`python
-2. pen.color\(1,0,0\)
+2. pen.color\(255,0,0\)
 3. aantal\_keer = 4
 4. hoek = 90
 5. for i in range\(aantal\_keer\):
 6. pen.forward\(100\)
 7. pen.left\(hoek\)
-8. pen.color\(0.5,0,0\)
+8. pen.color\(160,0,0\)
 9. aantal\_keer = 3
 10. hoek = 120
 11. for i in range\(aantal\_keer\):
@@ -59,7 +59,7 @@
     \`\`\`
 
 14. \`\`\`python
-15. pen.color\(0,0,1\)
+15. pen.color\(0,0,255\)
 16. aantal\_keer = 4
 17. hoek = 90
 18. for i in range\(aantal\_keer\):
@@ -68,7 +68,7 @@
 21. pen.up\(\)
 22. pen.forward\(200\)
 23. pen.down\(\)
-24. pen.color\(1,0,0\)
+24. pen.color\(255,0,0\)
 25. aantal\_keer = 6
 26. hoek = 60
 27. for i in range\(aantal\_keer\):
@@ -88,7 +88,7 @@
 2\) 1.
 
 ```text
-1. pen.color(0,1,0)
+1. pen.color(0,255,0)
 2. pen.begin_fill()
 3. aantal_keer = 4
 4. hoek = 90
@@ -101,7 +101,7 @@
 2.
 
 ```python
-1. pen.color(1,1,0)
+1. pen.color(255,255,0)
 2. pen.begin_fill()
 3. aantal_keer = 3
 4. hoek = 120
@@ -114,7 +114,7 @@
 3.
 
 ```python
-1. pen.color(1,0,1)
+1. pen.color(255,0,255)
 2. pen.begin_fill()
 3. aantal_keer = 2
 4. hoek = 90
@@ -124,5 +124,4 @@
 8. pen.end_fill()
 ```
 
-![](../../.gitbook/assets/logoCSCert_10cm.jpg)
 

@@ -161,6 +161,3 @@ Code die hoort bij tekeningen:
 16. pen.right(90)
 17. pen.forward(175)
 ```
-
-![](../../.gitbook/assets/logoCSCert_10cm.jpg)
-

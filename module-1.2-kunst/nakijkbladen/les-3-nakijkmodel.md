@@ -59,5 +59,5 @@ for i in range(3):
   pen.forward(100)
 ```
 
-![](../../.gitbook/assets/logoCSCert_10cm.jpg)
+
 
