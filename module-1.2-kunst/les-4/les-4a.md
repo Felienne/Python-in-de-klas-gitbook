@@ -1,7 +1,53 @@
 # Les 4a
 
-**Variabelen & Lussen**
+## Lussen en variabelen
+Aan het einde van de les kun jij:
+* Dat variabelen ook getallen kunnen zijn
+* Hoe we variabelen gebruiken bij het tekenen
+* Hoe we variabelen gebruiken samen met lussen
 
+### Even opfrissen
+1\) Wat tekenen deze codes?
+Let op! De codes kunnen ook fout zijn! Schrijf dan FOUT.
+
+```python
+1.
+for i in range(3):
+  pen.forward(100)
+  pen.left(120)
+```
+
+```python
+2.
+for i in range(5)
+  pen.forward(100)
+  pen.left(60)
+```
+
+```python
+3.
+for i in range(3):
+pen.forward(100)
+pen.left(90)
+```
+
+```python
+4.
+for i in range(5):
+  pen.forward(100)
+  pen.left(45)
+```
+
+2\) Welke codes horen bij deze tekeningen?
+1.
+
+![](../../.gitbook/assets/image-20190318125810948.png)
+
+2.
+
+![](../../.gitbook/assets/image-20190329210151106.png)
+
+### Variabelen in een lus
 1\) Wat tekenen deze codes?
 
 ```python
@@ -62,7 +108,7 @@ for i in range(aantal_hoeken):
 8.
 namen = 3
 for i in range(namen):
-print('Hallo')
+  print('Hallo')
 ```
 
 ```python
@@ -211,6 +257,3 @@ for i in range(3):
   pen.forward(grootte)
   pen.left(120)
 ```
-
-
-
