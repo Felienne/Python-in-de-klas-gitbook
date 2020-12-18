@@ -80,7 +80,7 @@ Deze opdracht wordt afgetekend als:
 
 Dit is een schilderij van een berg \(met een beetje fantasie!\). Kun jij het namaken met Python? Je moet wel twee lussen gebruiken!
 
-![image-20181207110047621](../../.gitbook/assets/image-20181207110047621.png)
+![image-20181207110047621](../../.gitbook/assets/image-20181207110047621%20%281%29.png)
 
 ## Extra\) Maak een huisje met twee for-lussen
 

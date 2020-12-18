@@ -39,7 +39,7 @@ Deze opdracht wordt afgetekend als:
 
 Dit is een schilderij van een berg \(met een beetje fantasie!\)
 
-![](../../.gitbook/assets/image-20181207110047621%20%281%29.png)
+![](../../.gitbook/assets/image-20181207110047621%20%281%29%20%281%29.png)
 
 **Opdracht.** Teken dit plaatje met de hand over in je schrift. Zorg dat je pen op het papier blijft. Zet nu de juiste Pythoncodes bij de juiste plekken. Bij de lijntjes én bij de hoeken!
 

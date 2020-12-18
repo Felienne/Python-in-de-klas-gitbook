@@ -77,10 +77,10 @@ while not antwoord == goede_antwoord:
         print('Helaas,', antwoord, 'is niet goed')
         vorige_antwoord = antwoord
         antwoord = 'geen' #reset het antwoord zodat de speler nog een keer kan proberen 
-        
+
 
     time.sleep(0.5) #even wachten op de volgende klik!
-  
+
 
 vraagtekst = "Wat is de hoofdstad van Belgie?"
 vraagblok = font.render(vraagtekst, True, (255,255,255))
@@ -134,8 +134,8 @@ while not antwoord == goede_antwoord:
         print('Helaas,', antwoord, 'is niet goed')
         vorige_antwoord = antwoord
         antwoord = 'geen' #reset het antwoord zodat de speler nog een keer kan proberen 
-        
-    time.sleep(0.5) #even wachten op de volgende klik! 
+
+    time.sleep(0.5) #even wachten op de volgende klik!
 ```
 
 Kijk nog eens goed naar de code. Welke stukjes zijn hetzelfde? Omcirkel die stukken.

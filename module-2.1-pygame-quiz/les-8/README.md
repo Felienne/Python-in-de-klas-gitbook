@@ -1,4 +1,4 @@
-# Les 8 
+# Les 8
 
 ## Slides
 
@@ -14,5 +14,5 @@ In deze les maken gebruiken we functies om meerdere vragen te stellen, zodat de 
 
 ## Eindprogramma
 
-Op het einde van de les zouden leerlingen ongeveer [dit programma](https://repl.it/@mevrHermans/Pidk-M4-L8a-Einde) moeten hebben. 
+Op het einde van de les zouden leerlingen ongeveer [dit programma](https://repl.it/@mevrHermans/Pidk-M4-L8a-Einde) moeten hebben.
 

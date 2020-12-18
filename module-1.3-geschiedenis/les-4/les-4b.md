@@ -35,10 +35,10 @@ import time
 # begin de while lus, kijk of punten meer is dan 5
   # kies een willekeurige vraag
   # zoek het bijbehorende antwoord op
-  
+
   # controleer met een if
   # goed? -> 1 punt erbij
-  
+
 # feliciteer de speler hier met 5 goede antwoorden
 ```
 

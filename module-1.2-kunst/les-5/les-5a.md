@@ -260,7 +260,7 @@ for i in range(aantal_keer):
 
 1. ![](../../.gitbook/assets/image-20190406142059944.png)
 2. 
-![](../../.gitbook/assets/image-20190406142204920%20%281%29.png)
+![](../../.gitbook/assets/image-20190406142204920%20%281%29%20%281%29.png)
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
