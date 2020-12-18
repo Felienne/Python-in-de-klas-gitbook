@@ -81,72 +81,60 @@
 16. pen.left(45)
 ```
 
- \#\#\# Herhalen met lussen 1\\) 1. ![](../../.gitbook/assets/image-20190318130624359%20%282%29.png) 2. ![](../../.gitbook/assets/image-20190415164642350.png) 3. ![](../../.gitbook/assets/les%202%201.3.PNG) 4. ![](../../.gitbook/assets/image-20190415160753334.png) 5. ![](../../.gitbook/assets/image-20190415160852179.png)
+\#\#\# Herhalen met lussen 1\\) 1. ![](../../.gitbook/assets/image-20190318130624359%20%282%29.png) 2. ![](../../.gitbook/assets/image-20190415164642350.png) 3. ![](../../.gitbook/assets/les%202%201.3.PNG) 4. ![](../../.gitbook/assets/image-20190415160753334.png) 5. ![](../../.gitbook/assets/image-20190415160852179%20%281%29.png)
 
 2\)
-
-1. 
-```python
-for i in range(4):
-  pen.forward(100)
-  pen.left(90)
-```
-
-1. 
-```python
-for i in range(5):
-  pen.forward(100)
-  pen.left(72)
-```
-
-1. 
-```python
-for i in range(8):
-  pen.forward(100)
-  pen.left(45)
-```
-
-### Extraatje!
-
-1. 
-```python
-for i in range(3):
-  pen.forward(100)
-  pen.left(60)
-```
 
 1. ```python
    for i in range(4):
    pen.forward(100)
    pen.left(90)
-   for i in range(4):
-   pen.left(90)
-   pen.forward(100)
    ```
-2. 
-```python
-for i in range(3):
-  pen.left(120)
-  pen.forward(100)
-for i in range(4):
-  pen.left(90)
-  pen.forward(100)
-```
+2. ```python
+   for i in range(5):
+   pen.forward(100)
+   pen.left(72)
+   ```
+3. ```python
+   for i in range(8):
+   pen.forward(100)
+   pen.left(45)
+   ```
+
+### Extraatje!
 
 1. ```python
    for i in range(3):
    pen.forward(100)
+   pen.left(60)
+   ```
+2. ```python
+   for i in range(4):
+   pen.forward(100)
+   pen.left(90)
+   for i in range(4):
+   pen.left(90)
+   pen.forward(100)
+   ```
+3. ```python
+   for i in range(3):
+   pen.left(120)
+   pen.forward(100)
+   for i in range(4):
+   pen.left(90)
+   pen.forward(100)
+   ```
+4. ```python
+   for i in range(3):
+   pen.forward(100)
    pen.right(120)
    ```
-2. 
-```python
-for i in range(10):
-  pen.forward(100)
-  pen.left(80)
-for i in range(3):
-  pen.forward(100)
-  pen.left(120)
-```
-
-
+5. ```python
+   for i in range(10):
+   pen.forward(100)
+   pen.left(80)
+   for i in range(3):
+   pen.forward(100)
+   pen.left(120)
+   ```
 

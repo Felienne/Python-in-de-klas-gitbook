@@ -29,7 +29,7 @@ Ben je met deze opdrachten klaar? Hang dan je gele post-it op.
 
 Je mag ondertussen wel doorwerken aan de rest van de opdrachten.
 
-## Extra\) Teken een schilderij 
+## Extra\) Teken een schilderij
 
 Deze opdracht wordt afgetekend als:
 
@@ -39,11 +39,11 @@ Deze opdracht wordt afgetekend als:
 
 Dit is een schilderij van een berg \(met een beetje fantasie!\)
 
-![](../../.gitbook/assets/image-20181207110047621.png)
+![](../../.gitbook/assets/image-20181207110047621%20%281%29.png)
 
 **Opdracht.** Teken dit plaatje met de hand over in je schrift. Zorg dat je pen op het papier blijft. Zet nu de juiste Pythoncodes bij de juiste plekken. Bij de lijntjes én bij de hoeken!
 
-## Extra\) Maak een huisje 
+## Extra\) Maak een huisje
 
 Deze opdracht wordt afgetekend als:
 
@@ -51,9 +51,9 @@ Deze opdracht wordt afgetekend als:
 
 **Opdracht.** Probeer dit huisje na te maken.
 
-![](../../.gitbook/assets/image-20190318132016472.png)
+![](../../.gitbook/assets/image-20190318132016472%20%281%29.png)
 
-## Extra\) Maak een diamant 
+## Extra\) Maak een diamant
 
 Deze opdracht wordt afgetekend als:
 
@@ -61,9 +61,9 @@ Deze opdracht wordt afgetekend als:
 
 Opdracht. Probeer dit na te maken.
 
-![](../../.gitbook/assets/image-20190318132305903.png)
+![](../../.gitbook/assets/image-20190318132305903%20%281%29.png)
 
-## Extra\) Maak je tekening mooier 
+## Extra\) Maak je tekening mooier
 
 Deze opdracht wordt afgetekend als:
 
@@ -72,3 +72,4 @@ Deze opdracht wordt afgetekend als:
 **Opdracht.** Voeg iets leuks toe aan je schilderij. Een sterretje, een zonnetje of een poppetje? Maak er maar iets leuks van!
 
 Tip: van het ene naar het andere figuur wil je soms even de pen van het papier halen. Dat kan met `pen.penup()` en `pen.pendown()`.
+

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Les 7b
 
 **Opdracht 1 : Gebruik een functie in de quiz**
@@ -19,4 +20,7 @@ Lukt het nog niet helemaal? Dat geeft niks! Volgende les bespreken we de aanpak 
 
 
 
+=======
+# Les 8b
+>>>>>>> 7efe319c04e893b480574c7bf1947a7a1e7fd0ac
 

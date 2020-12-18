@@ -12,7 +12,7 @@ Aan het einde van de les kun jij:
 
 Voor we aan het programmeren gaan, gaan we eerst op papier oefenen. Teken de figuren in je schrift, maar… doe het precies volgens dit schema!
 
-**Let op:** Begin aan de linkerkant van je blad en begin *niet* bovenaan je blad, anders past het niet. Zorg ook dat er genoeg ruimte naast het figuur is, want je moet er straks Python codes bij zetten.
+**Let op:** Begin aan de linkerkant van je blad en begin _niet_ bovenaan je blad, anders past het niet. Zorg ook dat er genoeg ruimte naast het figuur is, want je moet er straks Python codes bij zetten.
 
 1\) Maak een vierkant door het onderstaande schema te volgen.
 
@@ -59,7 +59,7 @@ Hint: Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde
 
 2\) Doe nu hetzelfde voor de driehoek. Ga terug naar de driehoek die je hebt getekend in je schrift en zet deze nummers erbij.
 
-![](../../.gitbook/assets/image-20190322135525607%20%281%29.png)
+![](../../.gitbook/assets/image-20190322135525607%20%283%29.png)
 
 Nu moeten we even rekenen! Welke som reken je uit om een driehoek te maken? Schrijf de som in je schrift.
 
@@ -137,16 +137,13 @@ pen.left(60)
 
 3\) Nu andersom. Weet jij met welke code je deze figuren tekent? Schijf de codes in je schrift. Tip: reken het na met je geodriehoek.
 
-1. 
-![](../../.gitbook/assets/image-20190318130624359%20%281%29.png)
+1. ![](../../.gitbook/assets/image-20190318130624359%20%282%29%20%284%29.png)
 
 2.
 
-![](../../.gitbook/assets/image-20190318125720956.png)
+![](../../.gitbook/assets/image-20190318125720956%20copy%20%281%29.png)
 
-3. 
-
-![](../../.gitbook/assets/image-20190318130244515.png)
+1. ![](../../.gitbook/assets/image-20190318130244515%20%281%29.png)
 
 ### Extraatje!
 
@@ -192,16 +189,11 @@ pen.forward(100)
 
 Schrijf nu weer de codes op die bij deze figuren horen.
 
-1. 
-![](../../.gitbook/assets/image-20190318130606702.png)
-
+1. ![](../../.gitbook/assets/image-20190318130606702%20%281%29.png)
 2. 
+![](../../.gitbook/assets/image-20190318125810948%20%282%29.png)
 
-![](../../.gitbook/assets/image-20190318125810948%20%281%29.png)
-
-3. 
-
-![](../../.gitbook/assets/image-20190318130138855.png)
-
+1. ![](../../.gitbook/assets/image-20190318130138855.png)
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+

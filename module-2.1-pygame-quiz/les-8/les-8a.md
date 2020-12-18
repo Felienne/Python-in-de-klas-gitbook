@@ -24,4 +24,4 @@ stel_vraag()
 
 Kijk nog eens goed naar de code. Welke stukjes zijn hetzelfde? Omcirkel die stukken.
 
-In deel b van de les gaan we de functie zelf ook maken.
+In deel b van de les gaan we de functie zelf ook maken
