@@ -97,5 +97,6 @@
     * [Les 7b](module-2.1-pygame-quiz/les-7/les-7b.md)
   * [Les 8](module-2.1-pygame-quiz/les-8/README.md)
     * [Les 8a](module-2.1-pygame-quiz/les-8/les-8a.md)
+    * [Les 8b](module-2.1-pygame-quiz/les-8/les-8b.md)
   * [TODOs](module-2.1-pygame-quiz/todos.md)
 
