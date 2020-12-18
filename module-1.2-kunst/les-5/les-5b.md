@@ -21,7 +21,7 @@ Deze opdracht wordt afgetekend als:
 
 * Je het bergschilderij van de vorige lessen met kleuren maakt. Kies de kleuren zelf.
 
-![](../../.gitbook/assets/image-20190406145634717.png)
+![](../../.gitbook/assets/image-20190406145634717%20%281%29.png)
 
 ## 3\) Maak twee spirografen
 
@@ -43,7 +43,7 @@ Deze opdracht wordt afgetekend als:
 * Je variabelen hebt gebruikt voor \(minstens\) de hoek, en de grootte.
 * Ze allebei een andere kleur hebben.
 
-![](../../.gitbook/assets/image-20190406150007097.png)
+![](../../.gitbook/assets/image-20190406150007097%20%281%29.png)
 
 Probeer de tekening zo goed mogelijk na te maken.
 
@@ -70,3 +70,4 @@ Deze opdracht kun je zo vaak doen als je wilt. De opdracht gaat zo:
 Maar… anders dan vorige week moet je nu in je figuren ook kleuren gebruiken.
 
 Let op! Het telt alleen als je eerst tekent en dan pas code maakt!
+

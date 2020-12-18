@@ -12,5 +12,3 @@
 
 In deze les gaan de leerlingen leren hoe PyGame muiskliks van de gebruiker kan detecteren.
 
-### 
-

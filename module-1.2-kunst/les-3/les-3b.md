@@ -6,7 +6,7 @@ Deze les wordt afgetekend als:
 
 * Je twee spirograaffiguren naast elkaar hebt getekend
 
-![](../../.gitbook/assets/image-20190329211324881.png)
+![](../../.gitbook/assets/image-20190329211324881%20%281%29.png)
 
 Denk aan deze tips:
 
@@ -21,7 +21,7 @@ Deze les wordt afgetekend als:
 
 * Je twee driehoeken onder elkaar hebt getekend
 
-![](../../.gitbook/assets/image-20190329212013611.png)
+![](../../.gitbook/assets/image-20190329212013611%20%281%29.png)
 
 ## 3\) Maak twee vierkanten, eentje kleiner
 
@@ -30,7 +30,7 @@ Deze les wordt afgetekend als:
 * Je twee vierkanten naast elkaar hebt getekend
 * De tweede half zo groot is als de eerste
 
-![](../../.gitbook/assets/image-20190329212412678.png)
+![](../../.gitbook/assets/image-20190329212412678%20%282%29.png)
 
 ## 4\) Maak twee driehoeken op elkaar, eentje ondersteboven
 
@@ -50,3 +50,4 @@ Deze opdracht kun je zo vaak doen als je wilt. De opdracht gaat zo:
 3. Nu maak je de code voor het figuur.
 
 Let op! Het telt alleen als je eerst tekent en dan pas code maakt!
+

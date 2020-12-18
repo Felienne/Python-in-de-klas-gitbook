@@ -1,7 +1,9 @@
 # Les 5a
 
 ## Kleuren
+
 Aan het einde van de les kun jij:
+
 * Hoe je kleuren in je tekening kunt gebruiken met namen
 * Hoe je kleuren in je tekening kunt gebruiken met RGB codes
 * Hoe je vlakken in je tekening kunt vullen met kleur
@@ -256,13 +258,9 @@ for i in range(aantal_keer):
 
 ![](../../.gitbook/assets/image-20190406141936243.png)
 
+1. ![](../../.gitbook/assets/image-20190406142059944.png)
 2. 
-
-![](../../.gitbook/assets/image-20190406142059944.png)
-
-3. 
-
-![](../../.gitbook/assets/image-20190406142204920.png)
+![](../../.gitbook/assets/image-20190406142204920%20%281%29.png)
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
@@ -278,7 +276,7 @@ pen.begin_fill()
 for i in range(antal_keer):
   pen.forward(100)
   pen.left(hoek)
-pen.end_fill()     
+pen.end_fill()
 ```
 
 ```python
@@ -289,7 +287,7 @@ for i in range(aantal_keer):
   pen.forward(100)
   pen.left(hoek)
 pen.begin_fill()   
-pen.end_fill()     
+pen.end_fill()
 ```
 
 ```python
@@ -305,7 +303,7 @@ pen.begin_fill()
 for i in range(aantal_keer):
   pen.forward(100)
   pen.left(hoek)
-pen.end_fill()  
+pen.end_fill()
 ```
 
 ```python
@@ -316,18 +314,15 @@ pen.end_fill()
 for i in range(aantal_keer):
   pen.forward(100)
   pen.left(hoek)
-pen.begin_fill()  
+pen.begin_fill()
 ```
 
 2\) Schrijf de code voor deze tekeningen. Gebruik RGB codes voor de kleuren.
 
-1.
-![](../../img/Kunst_5a_figurenvullen_21.png)
+1. ![](../../.gitbook/assets/Kunst_5a_figurenvullen_21.png)
 
-2. 
-![](../../img/Kunst_5a_figurenvullen_22.png)
-
-3. 
-![](../../img/Kunst_5a_figurenvullen_23.png)
+1. ![](../../.gitbook/assets/Kunst_5a_figurenvullen_22.png)
+2. ![](../../.gitbook/assets/Kunst_5a_figurenvullen_23.png)
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
+

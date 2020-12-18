@@ -45,7 +45,7 @@ dertighoek: 360/ 30 = 12 graden
 
 1. ![](../../.gitbook/assets/Knipsel.PNG)
 2. ![](../../.gitbook/assets/image-20190415150849824.png)
-3. ![](../../.gitbook/assets/image-20190415151021170%20%281%29.png)
+3. ![](../../.gitbook/assets/image-20190415151021170%20%282%29%20%281%29.png)
 
 3\)
 
@@ -161,3 +161,4 @@ Code die hoort bij tekeningen:
 16. pen.right(90)
 17. pen.forward(175)
 ```
+

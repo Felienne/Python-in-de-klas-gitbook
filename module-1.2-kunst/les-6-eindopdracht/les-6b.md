@@ -2,8 +2,7 @@
 
 ## 1\) Maak je tekening!
 
-Je hebt de afgelopen weken een hoop geleerd. Nu is het tijd om een mooie tekening te maken.
-Deze dingen moeten in je programma zitten:
+Je hebt de afgelopen weken een hoop geleerd. Nu is het tijd om een mooie tekening te maken. Deze dingen moeten in je programma zitten:
 
 * Minstens 5 _**losse**_ figuren.
 * Minstens 3 variabele die je definieert én gebruikt.
@@ -20,13 +19,11 @@ Je kunt **extra** punten verdienen door:
 
 ## 2\) Wat vond je ervan?
 
-We willen graag weten wat jij van de lessen tot nu toe vond.
-Schrijf in je schrift de drie dingen die je het leukst vond. Schrijf ook op wat je het minst leuk vond.
+We willen graag weten wat jij van de lessen tot nu toe vond. Schrijf in je schrift de drie dingen die je het leukst vond. Schrijf ook op wat je het minst leuk vond.
 
 ## Extra\) Meerdere kleuren
 
-Je kunt ook figuren tekenen met 1 kleur, en invullen met een andere kleur!
-Dat doe je door twee kleuren in te voeren in `pen.color()`. Zo dus:
+Je kunt ook figuren tekenen met 1 kleur, en invullen met een andere kleur! Dat doe je door twee kleuren in te voeren in `pen.color()`. Zo dus:
 
 ```text
 pen.color('orange', 'blue')
@@ -53,3 +50,4 @@ pen.end_fill()
 Dat maakt dit figuur:
 
 Je mag ook twee rgb-codes gebruiken in `pen.color()` maar let op! Dan moeten ze wel allebei tussen haakjes staan:
+

@@ -14,9 +14,9 @@ Vorige week deden we deze opdracht ook, dat was best een lastige opdracht! We ga
 
 1\) Teken dit vierkant in je schrift.
 
-![](../../.gitbook/assets/image-20190322135329083.png)
+![](../../.gitbook/assets/image-20190322135329083%20%282%29.png)
 
-Nu gaan we Pythoncodes koppelen aan de stukjes van de tekening. Welke code hoort bij welk stukje?   
+Nu gaan we Pythoncodes koppelen aan de stukjes van de tekening. Welke code hoort bij welk stukje?  
 Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde op in je schrift.
 
 1. pen.forward\(100\)
@@ -32,7 +32,7 @@ Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde op in
 
 ![](../../.gitbook/assets/image-20190322135525607.png)
 
-Nu moeten we even rekenen! Welke som reken je uit om een driehoek te maken? Schrijf de som in je schrift. 
+Nu moeten we even rekenen! Welke som reken je uit om een driehoek te maken? Schrijf de som in je schrift.
 
 Een driehoek maak je met:
 
@@ -63,12 +63,8 @@ Reken uit in je schrift:
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
+1. ![](../../.gitbook/assets/image.png)
 2. 
-
-![](../../.gitbook/assets/image.png)
-
-3. 
-
 ![](../../.gitbook/assets/image%20%282%29.png)
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.​​
@@ -116,17 +112,11 @@ pen.left(90)
 
 1.
 
-![](../../.gitbook/assets/image-20190322150806389%20%281%29.png)
+![](../../.gitbook/assets/image-20190322150806389.png)
 
+1. ![](../../.gitbook/assets/image-20190322150743162.png)
 2. 
-
-![](../../.gitbook/assets/image-20190322150743162.png)
-
-3. 
-
-![](../../.gitbook/assets/image-20190322151013930%20%281%29.png)
-
-
+![](../../.gitbook/assets/image-20190322151013930.png)
 
 ### Extraatjes!
 
@@ -134,20 +124,19 @@ Welke codes horen bij deze tekeningen? Gebruik natuurlijk wel een lus \(of meerd
 
 1.
 
-![](../../.gitbook/assets/image-20190322150946880%20%281%29.png)
+![](../../.gitbook/assets/image-20190322150946880%20%283%29.png)
 
-2.  
-
-![](../../.gitbook/assets/image-20190322151224232.png)
+1. 
+![](../../.gitbook/assets/image-20190322151224232%20%281%29.png)
 
 3.
 
-![](../../.gitbook/assets/image-20190318125810948%20%282%29.png)
+![](../../.gitbook/assets/image-20190318125810948%20%285%29.png)
 
-4.   
-
-![](../../.gitbook/assets/image-20190318130606702%20%281%29.png)
+1. 
+![](../../.gitbook/assets/image-20190318130606702%20%282%29.png)
 
 5.
 
 ![](../../.gitbook/assets/image-20190322151500039.png)
+

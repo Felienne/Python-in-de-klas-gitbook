@@ -1,4 +1,4 @@
-# Handleiding Kunst
+# Module 1.2 - Kunst
 
 ## Instructie voor de leerkracht
 
@@ -17,9 +17,9 @@ Materiaal uit module 1 wordt gebruikt, maar niet expliciet herhaald, daar moeten
 
 ## Voorbeeld
 
-Het idee van deze lessenserie is dat leerlingen een soort spirograafkunstwerk maken. Op deze link staat een voorbeeld: [[https://repl.it/@Felienne/Spirograaf-Demo](https://repl.it/@Felienne/Spirograaf-Demo)
+Het idee van deze lessenserie is dat leerlingen een soort spirograafkunstwerk maken. Op deze link staat een voorbeeld: \[[https://repl.it/@Felienne/Spirograaf-Demo](https://repl.it/@Felienne/Spirograaf-Demo)
 
-![Voorbeeldcode \(links\) en de uitvoer van deze code \(rechts\)](../img/demo_kunst.png)
+![Voorbeeldcode \(links\) en de uitvoer van deze code \(rechts\)](../.gitbook/assets/demo_kunst.png)
 
 Probeer dit voorbeeld zelf voor de les al even uit. Je ziet dat er verschillende figuren getekent worden.
 
@@ -27,7 +27,7 @@ Probeer dit voorbeeld zelf voor de les al even uit. Je ziet dat er verschillende
 
 Iedere module bestaat steeds uit twee delen: a en b
 
-a\) Klassikale les met slides, en werkbladen deel a om in de klassikale les te maken   
+a\) Klassikale les met slides, en werkbladen deel a om in de klassikale les te maken  
 b\) Werkbladen zodat leerlingen zelf aan de slag kunnen achter de computer
 
 ## Slides
@@ -44,3 +44,4 @@ Nog een aantal tips:
   * Stip ook even de betekenissen \(en uitspraak\) can Turtlecommando's aan:
   * forward betekent "ga vooruit"
   * left betekent links, maar in deze code betekent het "draai linksom", dus niet "ga naar links"
+

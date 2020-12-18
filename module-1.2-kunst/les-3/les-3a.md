@@ -3,6 +3,7 @@
 ## Meerdere figuren
 
 Aan het einde van de les kun jij:
+
 * Hoe je meerdere figuren maakt
 * Hoe je je pen op kan tillen én neer kan zitten
 
@@ -42,19 +43,15 @@ for i in range(4):
   pen.left(90)
 ```
 
- 2\) Welke code hoort bij deze tekeningen? Gebruik een for-lus waar dit handig is.
+2\) Welke code hoort bij deze tekeningen? Gebruik een for-lus waar dit handig is.
 
-1. 
-![](../../.gitbook/assets/image-20190318130624359.png)
+1. ![](../../.gitbook/assets/image-20190318130624359%20%282%29.png)
 
-2.
-![](../../.gitbook/assets/image-20190325083528686.png)
+2. ![](../../.gitbook/assets/image-20190325083528686%20%281%29.png)
 
- 3. 
-![](../../.gitbook/assets/image-20190322150946880.png)
+1. ![](../../.gitbook/assets/image-20190322150946880%20%282%29.png)
 
-4.
-![](../../.gitbook/assets/image-20190322151013930.png)
+4. ![](../../.gitbook/assets/image-20190322151013930%20%282%29.png)
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
@@ -148,7 +145,7 @@ Welke codes horen bij deze tekeningen? Gebruik natuurlijk wel een lus \(of meerd
 
 1.
 
-![](../../.gitbook/assets/image-20190329210728482.png)
+![](../../.gitbook/assets/image-20190329210728482%20%281%29.png)
 
 2.
 
@@ -156,7 +153,7 @@ Welke codes horen bij deze tekeningen? Gebruik natuurlijk wel een lus \(of meerd
 
 3.
 
-![](../../.gitbook/assets/image-20190318125810948.png)
+![](../../.gitbook/assets/image-20190318125810948%20%284%29.png)
 
 4.
 
