@@ -62,9 +62,9 @@ Maak daar een if die kijkt of `honger` meer is dan 100. Als het meer is, zet de 
 
 Deze opdracht wordt afgetekend als:
 
-* Je twee dieren hebt gekozen die in jouw simulatie voor gaan komen
-* Je voldoende onderzoek hebt gedaan over de snelheid en leefsituatie van die dieren. Denk bijvoorbeeld aan: snelheid, leefstijl \(alleen of in een groep\), voedsel, waterbehoefte.
-* Je deze informatie hebt samengevat in je schrift
+* Je een dier hebt gekozen die in jouw simulatie voor gaan komen
+* Je voldoende onderzoek hebt gedaan over de snelheid en leefsituatie van het dier. Denk bijvoorbeeld aan: snelheid, leefstijl \(alleen of in een groep\), voedsel, waterbehoefte.
+* Je deze informatie hebt samengevat in je schrift of in een bestand op de computer
 
 **Uitleg**
 
@@ -74,8 +74,8 @@ Later in de lessen gaan we de schildpad en de krop sla veranderen in een dier di
 
 Deze opdracht wordt afgetekend als:
 
-* Je je eigen dierenplaatjes hebt gezocht en ingeladen in je simulatie
-* Je de namen van de variabele netjes hebt aangepast naar jouw roofdier en prooidier.
+* Je je eigen dierenplaatje hebt gezocht en ingeladen in je simulatie
+* Je de namen van de variabeles netjes hebt aangepast naar jouw dier en voedsel.
 
 **Uitleg** Je hebt als het goed is al een dier gekozen. Zoek nu op internet goede plaatjes op van dat dier.
 
