@@ -106,4 +106,8 @@
   * [Les 2](module-2.2-pygame-biologie/les-2/README.md)
     * [Les 2a](module-2.2-pygame-biologie/les-2/les-2a.md)
     * [Les 2b](module-2.2-pygame-biologie/les-2/les-2b.md)
+* [Module 3.2 - Databases](module-3.2-databases/README.md)
+  * [Les 1](module-3.2-databases/les-1/README.md)
+    * [Les 1a](module-3.2-databases/les-1/les-1a.md)
+    * [Les 1b](module-3.2-databases/les-1/les-1b.md)
 
