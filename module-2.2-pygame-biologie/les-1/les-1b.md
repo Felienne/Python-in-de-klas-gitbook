@@ -56,7 +56,9 @@ Ga naar de regel code waar dit staat: `# als de honger meer is dan 100, zet dier
 
 Maak daar een if die kijkt of `honger` meer is dan 100. Als het meer is, zet de variabele dier\_leeft dan op False.
 
-**Tip:** Denk aan de hoofdletter bij False. Met een kleine letter werkt het niet.
+{% hint style="info" %}
+Denk aan de hoofdletter bij False. Met een kleine letter werkt het niet.
+{% endhint %}
 
 **Opdracht 5\) Doe onderzoek voor jouw eigen simulatie**
 
