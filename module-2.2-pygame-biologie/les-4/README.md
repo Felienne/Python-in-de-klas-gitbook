@@ -1,34 +1,17 @@
 # Les 4
 
-**1) Flip je dier aan de rand**
+# Slides
+
+[Module PyGame Simulatie, les 4](https://slides.com/felienne/pidk-k2-m2-l4)
 
 
-Deze opdracht wordt afgetekend als:
+# Leerdoelen
+
+- Plaatjes ook visueel aan de rand om laten keren met een flip
+- Het voedsel na een paar iteraties naar een andere plek laten verplaatsen
 
 
-- Je dier ook visueel omdraait aan de rand 
+# Instructies voor de leerkracht
 
-
-**Uitleg**. Gebruik de code `transform.flip()` om je dier ook te draaien. Draai het originele plaatje om en niet het gewone plaatje, anders gaat de kwaliteit omlaag.
-
-
-**2) Laat het voedsel door het beeld springen**
-
-Deze opdracht wordt afgetekend als:
-
-- Je voedsel door het veld 'springt' en na een paar iteraties op een andere plek komt
-
-**Uitleg**. Voedsel staat niet altijd stil, dus zorg dat het steeds op een andere plek verschijnt. Dat moet niet iedere iteratie, maar om de 10 stappen.  Gebruik daarvoor de code % zoals op de slides uitgelegd is. 
-
-Vergeet niet import random helemaal bovenaan je code te zetten!
-
-
-**3) Roteer je dier ook (extra)**
-
-Deze opdracht wordt afgetekend als:
-
-
-- Je dier schuint door het beeld gaat en ook netjes meedraait.
-
-**Uitleg**. Verander je snelheid van [-1,0] in [1,1]. Nu zal je dier schuin door het beeld bewegen. Dan wil je je dier niet alleen flippen maar ook roteren aan de rand met rotozoom.
+Deze les gaan leerlingen het plaatje van het dier ook laten omkeren. Aan het einde van de les hebben de leerlingen ongeveer dit programma (zonder extra's): https://repl.it/@mevrHermans/Pidk-M5-L4a-einde
 
