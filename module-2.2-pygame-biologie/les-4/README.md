@@ -13,5 +13,5 @@
 
 ## Instructies voor de leerkracht
 
-Deze les gaan leerlingen het plaatje van het dier ook laten omkeren. Aan het einde van de les hebben de leerlingen ongeveer dit programma \(zonder extra's\): [https://repl.it/@mevrHermans/Pidk-M5-L4a-einde](https://repl.it/@mevrHermans/Pidk-M5-L4a-einde)
+Deze les gaan leerlingen het plaatje van het dier ook laten omkeren. Aan het einde van de les hebben de leerlingen ongeveer dit programma \(zonder extra's\): [https://repl.it/@mevrHermans/Pidk-K2-M2-L4a-einde](https://repl.it/@mevrHermans/Pidk-K2-M2-L4a-einde)
 

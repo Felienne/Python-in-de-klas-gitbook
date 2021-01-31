@@ -11,5 +11,5 @@
 
 ## Instructies voor de leerkracht
 
-Deze les gaan leerlingen het dier echt laten eten van het voedsel. Iedere keer als het dier het voedsel aanraakt, gaat het dier groeien, ipv met een muisklik. Het voedsel is dan natuurlijk opgegeten en verdwijnt. Eindprogramma: [https://repl.it/@mevrHermans/Pidk-M5-L5a-einde](https://repl.it/@mevrHermans/Pidk-M5-L5a-einde)
+Deze les gaan leerlingen het dier echt laten eten van het voedsel. Iedere keer als het dier het voedsel aanraakt, gaat het dier groeien, ipv met een muisklik. Het voedsel is dan natuurlijk opgegeten en verdwijnt. Eindprogramma: [https://repl.it/@mevrHermans/Pidk-K2-M2-L5a-einde](https://repl.it/@mevrHermans/Pidk-K2-M2-L5a-einde)
 
