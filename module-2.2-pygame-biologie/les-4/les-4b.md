@@ -8,13 +8,17 @@ Deze opdracht wordt afgetekend als:
 
 **Uitleg**. Gebruik de code `transform.flip()` om je dier ook te draaien. Draai het originele plaatje om en niet het gewone plaatje, anders gaat de kwaliteit omlaag.
 
+{% hint style="info" %}
+Tip: Loopt de schildpad uit beeld? Verander dan de hoogte en breedte een beetje zodat je goed het hele scherm ziet!
+{% endhint %}
+
 **2\) Laat het voedsel door het beeld springen**
 
 Deze opdracht wordt afgetekend als:
 
 * Je voedsel door het veld 'springt' en na een paar iteraties op een andere plek komt
 
-**Uitleg**. Voedsel staat niet altijd stil, dus zorg dat het steeds op een andere plek verschijnt. Dat moet niet iedere iteratie, maar om de 10 stappen. Gebruik daarvoor de code % zoals op de slides uitgelegd is.
+**Uitleg**. Voedsel staat niet altijd stil, dus zorg dat het steeds op een andere plek verschijnt. Dat moet niet iedere iteratie, maar om de 10 stappen. Gebruik daarvoor de code met `spring_teller` zoals op de slides uitgelegd is.
 
 Vergeet niet import random helemaal bovenaan je code te zetten!
 

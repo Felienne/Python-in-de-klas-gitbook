@@ -20,7 +20,7 @@ Deze opdracht wordt afgetekend als:
 **Uitleg.** Er staat al wat code voor je klaar, je hoeft het alleen aan te passen.
 
 ```text
-breedte = 800
+breedte = 600
 hoogte = __
 ​
 screen = pygame.display.set_mode((breedte, hoogte))

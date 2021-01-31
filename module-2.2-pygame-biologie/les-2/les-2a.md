@@ -17,8 +17,8 @@ import time
 
 ------- Blok 2 ------
 pygame.init()
-breedte = 800
-hoogte = 600
+breedte = 600
+hoogte = 300
 screen = pygame.display.set_mode((breedte, hoogte))
 backgroundColor = 0, 0, 0
 
