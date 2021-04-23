@@ -11,8 +11,6 @@ Meer oefenen met bekende concepten:
 * Functies
 * if-elif-else
 
-
-
 ## Slides
 
 Deze module heeft nog geen slides, de opdrachten worden steeds in Les a uitgelegd.
