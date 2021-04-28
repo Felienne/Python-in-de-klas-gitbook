@@ -13,13 +13,13 @@ Deze opdracht wordt afgetekend als:
 
 * Jouw code netjes op twee getallen vraagt
 * Jouw code om een operator vraagt \(dat zijn symbolen van wiskunde: plus, min, keer, gedeeld door\)
-* Jouw code dan het antwoord print
+* Jouw code dat het antwoord print
 
 **Uitleg.** Er staat wal wat code voor jou klaar om mee te beginnen. Belangrijke codes om te gebruiken zijn deze:
 
 * met `getal = input(tekst)` vraag je de gebruiker om een getal, dat komt in de variabele `getal`. 
 * `int(tekst)` vertaalt de tekst tussen haakjes in een getal
-* `if: elif: else:` gebruik je om een keuze te maken
+* `if elif else` gebruik je om een keuze te maken
 
 {% hint style="info" %}
 Vergeet niet dat Python voor een sterretje gebruikt, dat is deze \*. Python gebruikt voor gedeeld door de slash, deze /
