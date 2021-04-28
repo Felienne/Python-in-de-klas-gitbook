@@ -31,5 +31,22 @@ Deze opdracht wordt afgetekend als:
 Test je code goed? Krijg jij als antwoord op 5 + 5 55 in plaats van 10? dan heb je jouw getallen niet vertaald met `int()`!
 {% endhint %}
 
-\*\*\*\*
+**Opdracht 4\) Verbeter de foutmelding \(Extra\)**
+
+Deze opdracht wordt afgetekend als:
+
+* Je een nette foutmelding geeft als de gebruiker geen spaties gebruikt.
+
+**Uitleg.** Ben je vergeten een spatie te gebruiken? Dan doet de code het niet goed. Probeer het maar eens, dan krijg je dit in beeld:
+
+![](../../.gitbook/assets/image%20%288%29.png)
+
+Dat is natuurlijk niet zo netjes. Kun jij een mooie foutmelding maken? Je hebt daarvoor deze codes nodig:
+
+* met `' ' in som` kan je kijken of er een spatie in de code zit
+* een `if` om de som alleen uit te voeren als er een  spatie in zit
+
+
+
+
 
