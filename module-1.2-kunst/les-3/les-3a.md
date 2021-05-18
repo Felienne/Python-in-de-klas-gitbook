@@ -45,13 +45,13 @@ for i in range(4):
 
 2\) Welke code hoort bij deze tekeningen? Gebruik een for-lus waar dit handig is.
 
-1. ![](../../.gitbook/assets/image-20190318130624359%20%282%29%20%284%29%20%284%29%20%284%29.png)
+1. ![](../../.gitbook/assets/image-20190318130624359%20%282%29%20%284%29%20%284%29%20%284%29%20%284%29.png)
 
 2. ![](../../.gitbook/assets/image-20190325083528686%20%281%29.png)
 
-1. ![](../../.gitbook/assets/image-20190322150946880%20%283%29%20%283%29%20%283%29%20%282%29.png)
+1. ![](../../.gitbook/assets/image-20190322150946880%20%283%29%20%283%29%20%283%29%20%283%29%20%282%29.png)
 
-4. ![](../../.gitbook/assets/image-20190322151013930%20%283%29%20%283%29%20%283%29%20%282%29.png)
+4. ![](../../.gitbook/assets/image-20190322151013930%20%283%29%20%283%29%20%283%29%20%282%29%20%282%29.png)
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
