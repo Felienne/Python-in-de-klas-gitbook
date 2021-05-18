@@ -124,5 +124,7 @@
   * [Les 1](module-3.2-databases/les-1/README.md)
     * [Les 1a](module-3.2-databases/les-1/les-1a.md)
     * [Les 1b](module-3.2-databases/les-1/les-1b.md)
-* [Les 3](les-3.md)
+* [Les 3](les-3/README.md)
+  * [Les 3a](les-3/les-3a.md)
+  * [Les 3b](les-3/les-3b.md)
 
