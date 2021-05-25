@@ -6,7 +6,9 @@ Deze opdracht wordt afgetekend als:
 
 * Je een variabele `antwoord` hebt gemaakt om het antwoord van een som in op te slaan. 
 
-**Uitleg.** Als eerste stap gaan we een variabele toevoegen. In plaats van het antwoord meteen te printen met `print(getal1 + getal2)` gaan we de waarde eerst in een variabele zetten.  
+**Uitleg.** Je hoeft vanaf deze les de code niet meer te forken, je mag steeds aan je eigen rekenmachine doorwerken.  
+  
+Als eerste stap gaan we een variabele toevoegen. In plaats van het antwoord meteen te printen met `print(getal1 + getal2)` gaan we de waarde eerst in een variabele zetten.  
   
 Vervang alle vier regels voor operatoren door toewijzingen, bijvoorbeeld:
 
@@ -55,19 +57,57 @@ Test je code nu weer goed, met een kloppende som en een foute som! Bijv:
 hallo dit is een som -&gt; dat moet een nette foutmelding geven
 {% endhint %}
 
-**Opdracht 3\) Zet het antwoord weer in de lijst**
+**Opdracht 3\) Zet het antwoord in de lijst**
 
 Deze opdracht wordt afgetekend als:
 
-* Je het antwoord op de som terug in de lijst hebt gezet.
+* Je het antwoord op de som in de lijst hebt gezet.
 
-**Uitleg.** Je hoeft vanaf deze les de code niet meer te forken, je mag steeds aan je eigen rekenmachine doorwerken.
+**Uitleg.** We gaan nu het antwoord in de lijst zetten op de plek van de som. Dat gaat zo:
+
+We zetten eerst deze code onder `print(antwoord)`
+
+```php
+som_onderdelen = [antwoord] + str(som_onderdelen)
+print(som_onderdelen)
+```
+
+Deze code pakt antwoord, maakt er een lijst van en plakt 'm vooraan. We printen de lijst even zodat je goed ziet wat er in zit, bijv bij de som 1+ 4, wordt dit de lijst:  
+  
+\['5', '1', '+', '4'\]  
+  
+De 5 ziet er nu netjes in zoals je ziet. Maar... de 1, de plus en de 4 die mogen eruit. Want die som hebben we al opgelost. Dat gaan we zo doen:
+
+```python
+som_onderdelen.pop(1)
+som_onderdelen.pop(1)
+som_onderdelen.pop(1)
+print(som_onderdelen)
+```
+
+Ken je `pop()`nog van de geschiedenisquiz? Die haalt een element uit de lijst op een bepaalde plek. Wij halen plekje 1, drie keer weg. Dus dat betekent dat plekken 1 \(de tweede plek\), 2 en 3 worden weggehaald.
+
+We printen de lijst weer zodat je ziet wat er gebeurt.  
+  
+Er is nog een stapje nodig, omdat we nu de lijst printen. Bij 1 + 6 krijgen we dit: \['7'\]. Dat is niet zo mooi. Verander de laatste regel dus in het printen van alleen het eerste element van `som_onderdelen`. Je weet vast hoe dat moet!
 
 **Opdracht 4\) Voeg een while lus toe**
 
 Deze opdracht wordt afgetekend als:
 
 * Je een while lus aan je code hebt toegevoegd 
+
+
+
+Som: 1 + 2 + 3 + 8  
+In de lijst \['1', '+', '2', '+', '3', '+', '8'\]  
+We rekenen nu het eerste stukje som uit. Dat is 1 + 2, dat wordt natuurlijk 3.   
+Dan zetten we 3 op de plaats in de lijst van '1' en '+' en '2'. Zo: \['3', '+', '3', '+', '8'\]  
+Dat kunnen we weer herhalen.  
+Dus: \['3', '+', 3, '+', '8'\]  
+We rekenen nu het eerste stukje som uit. Dat is 3 + 3, dat wordt natuurlijk 6.  
+Dan zetten we 6 op de plaats in de lijst van '3' en '+' en '3'. Zo: \['6', '+', '8'\]  
+Het laatste stukje som gaat als van ouds; gewoon 6 + 8.
 
 
 
