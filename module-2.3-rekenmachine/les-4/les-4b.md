@@ -109,5 +109,5 @@ We rekenen nu het eerste stukje som uit. Dat is 3 + 3, dat wordt natuurlijk 6.
 Dan zetten we 6 op de plaats in de lijst van '3' en '+' en '3'. Zo: \['6', '+', '8'\]  
 Het laatste stukje som gaat als van ouds; gewoon 6 + 8.
 
-
+**Opdracht 5\) Nog betere foutmeldingen \(Extra\)**
 
