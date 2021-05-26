@@ -97,17 +97,33 @@ Deze opdracht wordt afgetekend als:
 
 * Je een while lus aan je code hebt toegevoegd 
 
+**Uitleg.** Nu we een sommetje van drie elementen kunnen vervangen door het antwoord, kunnen we dat steeds herhalen! Het gaat bijvoorbeeld zo:
 
-
-Som: 1 + 2 + 3 + 8  
-In de lijst \['1', '+', '2', '+', '3', '+', '8'\]  
+De som is: 1 + 2 + 3 + 8  
+In de lijst krijgen we dan \['1', '+', '2', '+', '3', '+', '8'\]  
 We rekenen nu het eerste stukje som uit. Dat is 1 + 2, dat wordt natuurlijk 3.   
-Dan zetten we 3 op de plaats in de lijst van '1' en '+' en '2'. Zo: \['3', '+', '3', '+', '8'\]  
+Dan zetten we '3' op de plaats in de lijst van '1' en '+' en '2'. Zo: \['3', '+', '3', '+', '8'\]  
 Dat kunnen we weer herhalen.  
-Dus: \['3', '+', 3, '+', '8'\]  
+Dus nu is de lijst: \['3', '+', 3, '+', '8'\]  
 We rekenen nu het eerste stukje som uit. Dat is 3 + 3, dat wordt natuurlijk 6.  
 Dan zetten we 6 op de plaats in de lijst van '3' en '+' en '3'. Zo: \['6', '+', '8'\]  
-Het laatste stukje som gaat als van ouds; gewoon 6 + 8.
+Het laatste stukje som gaat ook hetzelfde, 6 en 8 worden vervangen door 14.
 
-**Opdracht 5\) Nog betere foutmeldingen \(Extra\)**
+Dat herhalen gaan we in de code doen met een while-lus. Die ken je natuurlijk wel van andere opdrachten. We gaan de lus herhalen zolang de lijst nog meer dan 3 elementen heeft. Weet jij nog hoe dat geschreven moet worden?  
+  
+Zet al jouw code vanaf de regel `getal_1 = som_onderdelen[0]`in de while lus.
+
+Test je code weer goed!
+
+**Opdracht 5\) Stop op tijd \(Extra\)**
+
+Heb je ook geprobeerd om een verkeerde som in de voeren? Bijv x + y? Dat wordt niks! Je code vertelt wel dat het geen geldige getallen zijn, maar hij houdt er nooit meer mee op. Dat kun je oplossen door onder `print('Je voerde geen geldige getallen in!')`een nieuwe code te zetten: `break`. Dat zorgt ervoor dat de lus gestopt wordt. 
+
+Dat foutje zit nog op een andere plek in de code. Weet jij waar?
+
+**Opdracht 6\) Nog betere foutmeldingen \(Extra\)**
+
+We krijgen nu een mooie foutmelding als we geen getallen invoeren of een gekke operator. Maar als je alleen tekst invoert, gebeurt er niets. Probeer bijv. maar eens **hallo** in te voeren. Weet jij hoe dat komt? En kan jij zorgen dat er in zo'n geval ook een goede foutmelding komt? Bijv: dit is geen som.
+
+
 
