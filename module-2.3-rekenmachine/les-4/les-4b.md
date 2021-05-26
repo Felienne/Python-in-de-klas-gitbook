@@ -68,7 +68,7 @@ Deze opdracht wordt afgetekend als:
 We zetten eerst deze code onder `print(antwoord)`
 
 ```php
-som_onderdelen = [antwoord] + str(som_onderdelen)
+som_onderdelen = [str(antwoord)] + som_onderdelen
 print(som_onderdelen)
 ```
 
