@@ -12,5 +12,5 @@ Nog geen slides beschikbaar
 
 ## Instructies voor de leerkracht
 
-Deze les gaan maken de leerlingen een beginnetje met een simpele rekenmachine. Op het einde hebben de leerlingen ongeveer dit programma: [https://replit.com/@mevrHermans/Pidk-K2-M3-L4-einde](https://replit.com/@mevrHermans/Pidk-K2-M3-L4-einde)
+Deze les gaan maken de leerlingen het mogelijk om langere sommen te maken, bijv 5 + 4 + 2. Op het einde hebben de leerlingen ongeveer dit programma: [https://replit.com/@mevrHermans/Pidk-K2-M3-L4-einde](https://replit.com/@mevrHermans/Pidk-K2-M3-L4-einde)
 

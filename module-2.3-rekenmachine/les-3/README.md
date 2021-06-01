@@ -12,5 +12,5 @@ Nog geen slides beschikbaar
 
 ## Instructies voor de leerkracht
 
-Deze les gaan maken de leerlingen een beginnetje met een simpele rekenmachine. Op het einde hebben de leerlingen ongeveer dit programma: [https://replit.com/@mevrHermans/Pidk-K2-M3-L3-einde](https://replit.com/@mevrHermans/Pidk-K2-M3-L3-einde)
+In deze les zorgen we ervoor dat sommen met een spatie ook mogen, bijv 5 + 4. Op het einde hebben de leerlingen ongeveer dit programma: [https://replit.com/@mevrHermans/Pidk-K2-M3-L3-einde](https://replit.com/@mevrHermans/Pidk-K2-M3-L3-einde)
 

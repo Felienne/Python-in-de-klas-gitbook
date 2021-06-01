@@ -16,7 +16,7 @@ Om de lange sommen mogelijk te maken gaan we de lijst steeds aanpassen. We reken
 
 **Hele lange sommen**
 
-We willen een some van willekeurige lengte uit kunnen rekenen, dus we gaan een while lus gebruiken. Zo lang er nog meer dan 3 dingen in de lijst zitten, blijven we rekenen en vervangen.
+We willen ook een som van willekeurige lengte uit kunnen rekenen, dus we gaan een while lus gebruiken. Zo lang er nog meer dan 3 dingen in de lijst zitten, blijven we rekenen en vervangen.
 
 
 
