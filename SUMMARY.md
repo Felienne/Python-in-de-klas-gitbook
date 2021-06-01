@@ -126,6 +126,7 @@
   * [Les 4](module-2.3-rekenmachine/les-4/README.md)
     * [Les 4a](module-2.3-rekenmachine/les-4/les-4a.md)
     * [Les 4b](module-2.3-rekenmachine/les-4/les-4b.md)
+  * [Les 5](module-2.3-rekenmachine/les-5.md)
 * [Module 3.2 - Databases](module-3.2-databases/README.md)
   * [Les 1](module-3.2-databases/les-1/README.md)
     * [Les 1a](module-3.2-databases/les-1/les-1a.md)
