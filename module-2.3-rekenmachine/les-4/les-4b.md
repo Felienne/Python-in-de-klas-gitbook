@@ -68,26 +68,28 @@ Deze opdracht wordt afgetekend als:
 We zetten eerst deze code onder `print(antwoord)`
 
 ```php
-som_onderdelen = [str(antwoord)] + som_onderdelen
+som_onderdelen.insert(0, str(antwoord))
 print(som_onderdelen)
 ```
 
-Deze code pakt antwoord, maakt er een lijst van en plakt 'm vooraan. We printen de lijst even zodat je goed ziet wat er in zit, bijv bij de som 1+ 4, wordt dit de lijst:  
+Deze code insert antwoord in de lijst op plek 0. Insert is engels voor invoegen. En invoegen op plek 0 dat is natuurlijk aan het begin van de lijst, helemaal vooraan.  
+  
+We printen de lijst even zodat je goed ziet wat er in zit, bijv bij de som 1+ 4, wordt dit de lijst:  
   
 \['5', '1', '+', '4'\]  
   
 De 5 ziet er nu netjes in zoals je ziet. Maar... de 1, de plus en de 4 die mogen eruit. Want die som hebben we al opgelost. Dat gaan we zo doen:
 
 ```python
-som_onderdelen.pop(1)
-som_onderdelen.pop(1)
-som_onderdelen.pop(1)
+som_onderdelen.pop(0)
+som_onderdelen.pop(0)
+som_onderdelen.pop(0)
 print(som_onderdelen)
 ```
 
 Ken je `pop()`nog van de geschiedenisquiz? Die haalt een element uit de lijst op een bepaalde plek. Wij halen plekje 1, drie keer weg. Dus dat betekent dat plekken 1 \(de tweede plek\), 2 en 3 worden weggehaald.
 
-We printen de lijst weer zodat je ziet wat er gebeurt.  
+We printen de lijst weer zodat je ziet wat er gebeurt. Zet jij de `pop()`s op de goede plek?  
   
 Er is nog een stapje nodig, omdat we nu de lijst printen. Bij 1 + 6 krijgen we dit: \['7'\]. Dat is niet zo mooi. Verander de laatste regel dus in het printen van alleen het eerste element van `som_onderdelen`. Je weet vast hoe dat moet!
 

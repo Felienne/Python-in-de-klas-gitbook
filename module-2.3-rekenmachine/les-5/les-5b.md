@@ -48,23 +48,74 @@ Deze opdracht wordt afgetekend als:
 * Of er zit een keer in de som, en dan willen we die keer pakken en de getallen voor en na de keer. 
 * Of er zit geen keer in de som, en dan willen we gewoon de eerste twee getallen en de eerste operator \(zoals we het eerst deden\)
 
+We gaan daarvoor een nieuwe variabele `begin` maken. Die begint op 0 als er geen keer is, en op de plek voor de keer als er wel een keer is.
+
 Maak jij deze code af?
 
 ```python
+  #zoek naar de eerste * in de lijst:
   if '*' in som_onderdelen:
-    #vind de eerste plek van een keer
     index_keer = som_onderdelen.index('*')
-
-    #haal de getallen voor en na de keer op
-    getal_1 = __  <- zet hier som_onderdelen op de plek voor de keer 
-    operator = __ <- zet hier som_onderdelen op de plek van de keer 
-    getal_2 = __  <- zet hier som_onderdelen op de plek na de keer 
+    #is er een keer? Dan beginnen we daar!
+    begin = index_keer-1
   else:
-    #haal de eerste drie elementen uit de lijst, zoals we al deden
-    getal_1 = som_onderdelen[0]
-    operator = som_onderdelen[1]
-    getal_2 = som_onderdelen[2]
+    #geen keer? We beginnen aan het begin
+    begin = 0
+
+  getal_1 = __  <- zet hier som_onderdelen op de plek van begin
+  operator = __  <- zet hier som_onderdelen op de plek van begin + 1
+  getal_2 = __  <- zet hier som_onderdelen op de plek van begin + 2
+  
+  __ #hier komt de rest van jouw code
+
 ```
 
-\*\*\*\*
+Test je code nu uit. Werkt het al goed?
+
+**Opdracht 4\) De goede getallen weghalen!**
+
+Deze opdracht wordt afgetekend als:
+
+* Je **de goede getallen uit de lijst haalt**
+* Je daardoor iedere som met \* en - en + netjes uitrekent
+
+De code werkt niet goed. Dat komt omdat we nu nog altijd de eerste drie dingen uit de lijst halen, en niet de getallen en operator die we net gedaan hebben. Dat werkt natuurlijk niet goed.
+
+We hadden deze codes:
+
+```python
+      som_onderdelen.pop(0)
+      som_onderdelen.pop(0)
+      som_onderdelen.pop(0)
+      som_onderdelen.insert(0, str(antwoord))
+```
+
+Maar in plaats van weghalen en invoegen bij 0 willen we dat nu natuurlijk bij `begin` doen. Dat is of 0 of de plek van de keer. Past jij de code aan?
+
+{% hint style="info" %}
+Kijk goed of al deze sommen het doen:
+
+* 5 + 4 \* 10 -&gt; 45
+* 2 + 2 + 2  -&gt; 6
+* 2 + 2 \* 2  -&gt; ook 6
+{% endhint %}
+
+**Opdracht 5\) Ook de gedeeld door heeft voorrang \(extra\)**
+
+Deze opdracht wordt afgetekend als:
+
+* Je ook sommen met een / kan uitrekenen. Gedeeld door komt ook voor + en -
+
+**Uitleg.** Ook delen gaat voor plus en min. Kun jij zorgen dat dat ook werkt in je rekenmachine? Dat is een pittige klus, maar wel heel leuk als het lukt. Weet je al hoe je dat gaat doen? Ga er dan maar voor!
+
+Heb je nog geen idee? Deze stappen zou ik volgen:
+
+1. Maak een functie `zoek_eerste_operator()`
+2. Zet de code die kijkt of er een \* in de som zit in de functie en retourneer het getal begin
+3. In de functie ga je kijken of er een / in de som zit. 
+   1. Zo nee, dan kun je de code gebruiken die er al is om de eerste keer als beginplek te geven.
+   2. Zo ja, kijk dan of er ook nog een \* in de som zit. 
+      1. Als er een \* en een / in de som zitten, moet je kijken welke er het meest vooraan staat, want die moet eerst. Dat kun je bekijken door wie de laagste index heeft
+
+Succes! 
 
