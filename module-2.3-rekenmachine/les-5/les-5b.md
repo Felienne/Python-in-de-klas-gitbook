@@ -10,7 +10,7 @@ Deze opdracht wordt afgetekend als:
 
 Zoek de positie op met deze code en sla die op een in een variable. Die variabele noemen we `index_keer`. We doen het zoeken nu alleen nog eventjes naar de keer, de gedeeld door die komt later!
 
-Print de variabele uit en kijk of het klopt. 
+Print de variabele uit en kijk of het klopt.
 
 {% hint style="info" %}
 Denk eraan dat de lijst altijd op 0 begint, dus als er staat dat een \* op plek 1 staat, dan staat die op de tweede plek!
@@ -65,9 +65,8 @@ Maak jij deze code af?
   getal_1 = __  <- zet hier som_onderdelen op de plek van begin
   operator = __  <- zet hier som_onderdelen op de plek van begin + 1
   getal_2 = __  <- zet hier som_onderdelen op de plek van begin + 2
-  
-  __ #hier komt de rest van jouw code
 
+  __ #hier komt de rest van jouw code
 ```
 
 Test je code nu uit. Werkt het al goed?
@@ -108,13 +107,12 @@ Deze opdracht wordt afgetekend als:
 
 **Uitleg.** Ook delen gaat voor plus en min. Kun jij zorgen dat dat ook werkt in je rekenmachine? Dat is een pittige klus, maar wel heel leuk als het lukt. Weet je al hoe je dat gaat doen? Ga er dan maar voor!
 
-
 Heb je nog geen idee? Deze stappen zou ik volgen:
 
-1. Begin bij deze code `if '*' in som_onderdelen:`Die code kijkt nu alleen of er een * in de som zit.
-2. Zet in deze if nog een if die kijkt of er **ook** een / in de som_onderdelen zit.
-   1. Zo ja? Als er een * en een / in de som zitten, moet je kijken welke er het meest vooraan staat, want die moet eerst. Dat kun je bekijken door wie de laagste index heeft.
-   2. Zo nee? Dan ga je nog kijken of er in de som alleen een * zit (zoals we al deden)
+1. Begin bij deze code `if '*' in som_onderdelen:`Die code kijkt nu alleen of er een \* in de som zit.
+2. Zet in deze if nog een if die kijkt of er **ook** een / in de som\_onderdelen zit.
+   1. Zo ja? Als er een \* en een / in de som zitten, moet je kijken welke er het meest vooraan staat, want die moet eerst. Dat kun je bekijken door wie de laagste index heeft.
+   2. Zo nee? Dan ga je nog kijken of er in de som alleen een \* zit \(zoals we al deden\)
    3. Zit er geen keer in? Dan kijken nog even of er alleen een / in zit. Dat lijkt op de code die we al hadden maar dan voor de gedeeld door. 
 
 Succes! En vergeet je code niet te testen met veel verschillende sommen.
