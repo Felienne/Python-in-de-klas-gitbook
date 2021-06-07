@@ -130,7 +130,6 @@
     * [Les 5a](module-2.3-rekenmachine/les-5/les-5a.md)
     * [Les 5b](module-2.3-rekenmachine/les-5/les-5b.md)
   * [Les 6](module-2.3-rekenmachine/les-6/README.md)
-    * [Les 6a](module-2.3-rekenmachine/les-6/les-6a-1.md)
     * [Les 6b](module-2.3-rekenmachine/les-6/les-6b.md)
 * [Module 3.2 - Databases](module-3.2-databases/README.md)
   * [Les 1](module-3.2-databases/les-1/README.md)
