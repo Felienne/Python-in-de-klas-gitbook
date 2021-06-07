@@ -108,14 +108,14 @@ Deze opdracht wordt afgetekend als:
 
 **Uitleg.** Ook delen gaat voor plus en min. Kun jij zorgen dat dat ook werkt in je rekenmachine? Dat is een pittige klus, maar wel heel leuk als het lukt. Weet je al hoe je dat gaat doen? Ga er dan maar voor!
 
+
 Heb je nog geen idee? Deze stappen zou ik volgen:
 
-1. Maak een functie `zoek_eerste_operator()`
-2. Zet de code die kijkt of er een \* in de som zit in de functie en retourneer het getal begin
-3. In de functie ga je kijken of er een / in de som zit. 
-   1. Zo nee, dan kun je de code gebruiken die er al is om de eerste keer als beginplek te geven.
-   2. Zo ja, kijk dan of er ook nog een \* in de som zit. 
-      1. Als er een \* en een / in de som zitten, moet je kijken welke er het meest vooraan staat, want die moet eerst. Dat kun je bekijken door wie de laagste index heeft
+1. Begin bij deze code `if '*' in som_onderdelen:`Die code kijkt nu alleen of er een * in de som zit.
+2. Zet in deze if nog een if die kijkt of er **ook** een / in de som_onderdelen zit.
+   1. Zo ja? Als er een * en een / in de som zitten, moet je kijken welke er het meest vooraan staat, want die moet eerst. Dat kun je bekijken door wie de laagste index heeft.
+   2. Zo nee? Dan ga je nog kijken of er in de som alleen een * zit (zoals we al deden)
+   3. Zit er geen keer in? Dan kijken nog even of er alleen een / in zit. Dat lijkt op de code die we al hadden maar dan voor de gedeeld door. 
 
-Succes! 
+Succes! En vergeet je code niet te testen met veel verschillende sommen.
 
