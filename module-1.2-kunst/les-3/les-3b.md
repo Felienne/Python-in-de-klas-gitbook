@@ -21,7 +21,7 @@ Deze les wordt afgetekend als:
 
 * Je twee driehoeken onder elkaar hebt getekend
 
-![](../../.gitbook/assets/image-20190329212013611%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
+![](../../.gitbook/assets/image-20190329212013611%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
 
 ## 3\) Maak twee vierkanten, eentje kleiner
 
