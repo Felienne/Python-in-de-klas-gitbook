@@ -1,11 +1,8 @@
 # Les 6a
 
-**Haakjes**
+**Ook de gedeeld door gaat voor**
 
-Er is nog iets dat jouw rekenmachine mist en dat zijn... haakjes! 
+In de vorige les hebben we gezorgd dat de keer voor de + en de - komt. Maar datzelfde geldt natuurlijk ook voor de gedeeld door. Immers 5 + 10 / 5 is 7, want we delen 10 eerst door 5 dat geeft 2. Die twee tellen we   dan bij de eerste 5 op.
 
-Haakjes gaan voor de keer en de gedeeld door. Bijvoorbeeld:
 
-De som 5 \* __4 + 6 wordt 26 want de 5 \* 4 gaat eerst.   
-Maar de som 5 \* \(4+6\) wordt 50 want nu zorgen de haakjes ervoor dat 4 + 6 eerst gaat. Dat gaan wij vandaag ook in de rekenmachine zetten.
 

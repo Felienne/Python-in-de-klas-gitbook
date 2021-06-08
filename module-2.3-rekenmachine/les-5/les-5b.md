@@ -105,15 +105,5 @@ Deze opdracht wordt afgetekend als:
 
 * Je ook sommen met een / kan uitrekenen. Gedeeld door komt ook voor + en -
 
-**Uitleg.** Ook delen gaat voor plus en min. Kun jij zorgen dat dat ook werkt in je rekenmachine? Dat is een pittige klus, maar wel heel leuk als het lukt. Weet je al hoe je dat gaat doen? Ga er dan maar voor!
-
-Heb je nog geen idee? Deze stappen zou ik volgen:
-
-1. Begin bij deze code `if '*' in som_onderdelen:`Die code kijkt nu alleen of er een \* in de som zit.
-2. Zet in deze if nog een if die kijkt of er **ook** een / in de som\_onderdelen zit.
-   1. Zo ja? Als er een \* en een / in de som zitten, moet je kijken welke er het meest vooraan staat, want die moet eerst. Dat kun je bekijken door wie de laagste index heeft.
-   2. Zo nee? Dan ga je nog kijken of er in de som alleen een \* zit \(zoals we al deden\)
-   3. Zit er geen keer in? Dan kijken nog even of er alleen een / in zit. Dat lijkt op de code die we al hadden maar dan voor de gedeeld door. 
-
-Succes! En vergeet je code niet te testen met veel verschillende sommen.
+**Uitleg.** Ook delen gaat voor plus en min. Kun jij zorgen dat dat ook werkt in je rekenmachine? Dat is een pittige klus, maar wel heel leuk als het lukt. Weet je al hoe je dat gaat doen? Ga er dan maar voor! 
 
