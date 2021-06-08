@@ -49,3 +49,15 @@ for operator in operatoren:
 
 Zet op het linkse streepje de variabele operator, en op het rechterstreepje die variabele met spaties erom heen.
 
+**Opdracht 5\) Niet delen door 0 \(extra\)**
+
+Deze opdracht wordt afgetekend als:
+
+* Je een mooie foutmelding geeft als iemand probeert door 0 te delen.
+
+Uitleg. Delen door 0 dat mag natuurlijk niet. Als je dat nu probeert dan krijg je een error van Python:
+
+![](../../.gitbook/assets/image%20%2811%29.png)
+
+Dat is natuurlijk niet zo mooi. Zorg dat jij dat er een nette foutmelding in beeld komt als getal2 0 is?
+
