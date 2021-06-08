@@ -46,7 +46,7 @@ Nu mag je de regel print\(antwoord\) bij alle vier de regels weghalen en alleen 
       antwoord = getal1 + getal2
     ____
       
-    print (antwoord)
+    print (round(antwoord))
   else:
     print('deze operator ken ik niet!')
 ```
