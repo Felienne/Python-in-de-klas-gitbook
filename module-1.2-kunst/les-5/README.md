@@ -6,7 +6,7 @@
 
 ## Leerdoelen
 
-* Hoe je kleuren in je tekening kunt gebruiken met namen
-* Hoe je kleuren in je tekening kunt gebruiken met RGB codes
-* Hoe je vlakken in je tekening kunt vullen met kleur
+* Kleuren in je tekening gebruiken met namen
+* Kleuren in je tekening gebruiken met RGB codes
+* Vlakken in je tekening vullen met kleur
 

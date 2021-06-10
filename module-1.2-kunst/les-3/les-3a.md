@@ -4,8 +4,8 @@
 
 Aan het einde van de les kun jij:
 
-* Hoe je meerdere figuren maakt
-* Hoe je je pen op kan tillen én neer kan zitten
+* Meerdere figuren maken
+* Je pen optillen én neerzetten
 
 ### Even opfrissen
 
