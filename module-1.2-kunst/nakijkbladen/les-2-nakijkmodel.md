@@ -81,7 +81,7 @@
 16. pen.left(45)
 ```
 
-\#\#\# Herhalen met lussen 1\\) 1. ![](../../.gitbook/assets/image-20190318130624359%20%282%29%20%284%29%20%284%29%20%284%29.png) 2. ![](../../.gitbook/assets/image-20190415164642350.png) 3. ![](../../.gitbook/assets/les%202%201.3.PNG) 4. ![](../../.gitbook/assets/image-20190415160753334.png) 5. ![](../../.gitbook/assets/image-20190415160852179%20%281%29.png)
+\#\#\# Herhalen met lussen 1\\) 1. ![](../../.gitbook/assets/image-20190318130624359%20%282%29%20%284%29%20%284%29%20%284%29%20%284%29%20%284%29%20%284%29%20%284%29.png) 2. ![](../../.gitbook/assets/image-20190415164642350.png) 3. ![](../../.gitbook/assets/les%202%201.3.PNG) 4. ![](../../.gitbook/assets/image-20190415160753334.png) 5. ![](../../.gitbook/assets/image-20190415160852179%20%281%29.png)
 
 2\)
 

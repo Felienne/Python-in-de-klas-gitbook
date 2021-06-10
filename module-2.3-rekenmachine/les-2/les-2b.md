@@ -31,7 +31,11 @@ Deze opdracht wordt afgetekend als:
 Test je code goed? Krijg jij als antwoord op 5 + 5 55 in plaats van 10? dan heb je jouw getallen niet vertaald met `int()`!
 {% endhint %}
 
-**Opdracht 4\) Verbeter de foutmelding \(Extra\)**
+**Op**
+
+\*\*\*\*
+
+**Opdracht 5\) Verbeter de foutmelding \(Extra\)**
 
 Deze opdracht wordt afgetekend als:
 

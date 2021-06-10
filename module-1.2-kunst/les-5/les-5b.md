@@ -21,7 +21,7 @@ Deze opdracht wordt afgetekend als:
 
 * Je het bergschilderij van de vorige lessen met kleuren maakt. Kies de kleuren zelf.
 
-![](../../.gitbook/assets/image-20190406145634717%20%282%29%20%282%29%20%282%29%20%281%29.png)
+![](../../.gitbook/assets/image-20190406145634717%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
 
 ## 3\) Maak twee spirografen
 
