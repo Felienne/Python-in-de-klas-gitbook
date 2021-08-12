@@ -16,7 +16,7 @@ Zoek voor je onderwerp minstens 10 feiten op die je als quizvraag kunt gebruiken
 * Wie was er president toen de Amerikaanse burgeroorlog eindigde? \(Lincoln\)
 * In welk jaar vond het Beleg van Leiden plaats? \(1574\)
 
-#### Opdracht 2b-1\) Zet de vragen in een lijst en print er 1 uit
+#### Opdracht 1b-2\) Zet de vragen in een lijst en print er 1 uit
 
 Deze les wordt afgetekend als:
 
@@ -28,7 +28,7 @@ Deze les wordt afgetekend als:
 
 Belangrijk: Je hoeft nog niets met de antwoorden te doen. De antwoorden in de lijst zetten is voldoende.
 
-#### Opdracht 3b-1\) \[Extra\] Maak een programma met alle elementen die je al kent. Je mag zelf iets kiezen om te maken!
+#### Opdracht 1b-3\) \[Extra\] Maak een programma met alle elementen die je al kent. Je mag zelf iets kiezen om te maken!
 
 Deze opdracht wordt afgetekend als je een programma hebt gemaakt met daarin deze dingen:
 

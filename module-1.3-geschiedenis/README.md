@@ -2,7 +2,7 @@
 
 ## Instructie voor de leerkracht
 
-Het idee van deze module is dat leerlingen een eigen quiz over geschiedenis maken met Python. Leerlingen kiezen zelf een onderwerp en de bijbehorende vragen. Een speler van het spel kan punten verzamelen door goed te antwoorden. Leerlingen die snel door het materiaal gaat, maken ook een "volgorde"vraag waarbij de speler gebeurtenissen op volgorde moet leggen.
+Het idee van deze module is dat leerlingen een eigen quiz over geschiedenis maken met Python. Leerlingen kiezen zelf een onderwerp en de bijbehorende vragen. Een speler van de quiz kan punten verzamelen door goed te antwoorden. Leerlingen die snel door het materiaal gaan, maken ook een "volgorde" vraag waarbij de speler gebeurtenissen op volgorde moet leggen.
 
 ## Doelen van deze module
 

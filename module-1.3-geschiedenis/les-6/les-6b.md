@@ -1,6 +1,6 @@
 # Les 6b
 
-#### Opdracht 6-1\) Geef de speler een hint als hij of zij het antwoord niet weet
+#### Opdracht 6b-1\) Geef de speler een hint als hij of zij het antwoord niet weet
 
 Deze opdracht wordt afgetekend als:
 
