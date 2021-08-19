@@ -135,6 +135,7 @@
   * [Les 7](module-2.3-rekenmachine/les-7/README.md)
     * [Les 7a](module-2.3-rekenmachine/les-7/les-7a.md)
     * [Les 7b](module-2.3-rekenmachine/les-7/les-7b.md)
+* [Module 3.1 - Spreadsheets](module-3.1-spreadsheets.md)
 * [Module 3.2 - Databases](module-3.2-databases/README.md)
   * [Les 1](module-3.2-databases/les-1/README.md)
     * [Les 1a](module-3.2-databases/les-1/les-1a.md)
