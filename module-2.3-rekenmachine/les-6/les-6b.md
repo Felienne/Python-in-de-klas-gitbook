@@ -24,17 +24,26 @@ Succes! En vergeet je code niet te testen met veel verschillende sommen.
 
 Deze opdracht wordt afgetekend als:
 
-* Je kommagetallen uitprint met een punt maar gehele getallen zonder punt
+* Je kommagetallen uitprint met een punt, maar gehele getallen zonder punt
 
 **Uitleg.** Tot nu hebben we steeds alle getallen afgerond. Dus als je 10/5 uitrekende, kreeg je mooi 2. Maar als je 10/3 deed, dan kreeg je 3. Dus geen 3.333333.... . Dat gaan we nu oplossen!
 
+Laten we eens beginnen met het weghalen van de `round` in deze regel code:
+
+```text
+  som_onderdelen.insert(begin, str(round(antwoord)))
+```
+
+Probeer dat eens en kijk wat er gebeurt. 10/3 wordt nu 3.333333 dus dat is prima! Maar nu krijgen we bij 10/2 5.0 en dat is weer niet zo mooi. Dat moet gewoon 5 worden!
+
+Dat gaan we oplossen door te kijken of het afgerond getal en het getal zelf hetzelfde zijn. Voor 2 is dat zo want 2.0 is hetzelfde getal als 2. Maar voor 3.333333 is dat niet zo want dan is het afgeronde getal 3. Zet deze code onder de regels met `pop()`.
+
+```text
+  if round(antwoord) == antwoord:
+    antwoord = round(antwoord)
+```
 
 
-Opdracht 3\) Werken met rest
-
-
-
-maar ook geen 3 rest 1 wat natuurlijk ook een goed antwoord is. En ook geen 3 en 1/3
 
 
 
