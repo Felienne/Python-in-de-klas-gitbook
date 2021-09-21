@@ -2,14 +2,15 @@
 
 ## Slides
 
-[Module Flask, les 1](https://slides.com/felienne/pidk-k4-m1-l1)
+[Module Flask, les 2](https://slides.com/felienne/pidk-k4-m1-l2)
 
 ## Leerdoelen
 
-* Een basiswebsite maken in Flask
-* Die website deployen op Heroku
+* Herhaling van lijsten
+* Basis van HTML tags
+* Begin van CSS
 
 ## Instructies voor de leerkracht
 
-Deze les maakt de start met databases in SQL. Het bouwt verder op wat leerlingen al weten uit Module 1 van Jaar 3, in de les trekken we veel parallellen met Excel en Python. 
+Deze les maakt wordt er verder gewerkt met HTML en CSS.
 

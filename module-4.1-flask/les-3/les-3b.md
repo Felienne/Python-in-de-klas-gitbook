@@ -6,7 +6,8 @@ Volg deze [lesbrief](https://drive.google.com/open?id=1C_FDwr-g1kHGIeF_yxZc8RezF
 
 **Opdracht 2\) Maak jouw site mooier en beter**
 
-Gebruik je kennis van templates om je site te verbeteren. Zorg dat je minstens deze zaken op je site hebt:
+Gebruik je kennis van templates om je site te verbeteren.   
+Zorg dat je minstens deze zaken op je site hebt:
 
 * Minstens 3 HTML template-pagina's 
   * Denk bijv. aan verschillende pagina's voor verschillende onderwerpen of mensen \(admin en gewone gebruikers\)
