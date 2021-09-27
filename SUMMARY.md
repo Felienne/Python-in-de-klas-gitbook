@@ -161,4 +161,6 @@
     * [Les 2b](module-4.1-flask/les-2/les-2b.md)
   * [Les 3](module-4.1-flask/les-3/README.md)
     * [Les 3b](module-4.1-flask/les-3/les-3b.md)
+  * [Les 4](module-4.1-flask/les-4/README.md)
+    * [Les 4b](module-4.1-flask/les-4/les-4b.md)
 
