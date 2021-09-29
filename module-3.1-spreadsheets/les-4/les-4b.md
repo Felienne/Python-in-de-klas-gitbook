@@ -20,13 +20,20 @@ Je mag ook zelf formules bedenken om uit te rekenen!
 
 **Opdracht 3\) Vliegtuigroutes \(X\)**
 
-In het bestand [vliegtuig\_routes](https://www.dropbox.com/s/h0k2vtwuv98ut09/vliegtuig_routes.xlsx?dl=0) vind je vliegreizen van en naar verschillende vliegvelden. Je kunt ook het soort vliegtuig zien.
+In het bestand [vliegtuig\_routes](https://www.dropbox.com/scl/fi/nnxsiz924w0u9a5b5cr41/vliegtuig_routes.xlsx?dl=0&rlkey=92kb31a9be21pnsam1ycsi69c) vind je vliegreizen van en naar verschillende vliegvelden. Je kunt ook het soort vliegtuig zien.
 
-Op het tabblad vliegvelden kun je de gps coördinaten zien van alle vliegvelden. Kun jij een mooie datavisualizatie maken met deze data? Bijv:
+Kun jij een mooie datavisualizatie maken met deze data? Bijv:
 
-* Welke luchthavens zijn het drukst? Maak een staafdiagram!
+* Welke luchthavens zijn het drukst \(hebben de meeste vluchten\)? Maak een staafdiagram!
 * Waar kun je komen vanuit Schiphol \(AMS\) zonder overstappen?
-* Welk soort vliegtuig vliegt het verste gemiddeld? Maak een radarplot.
+
+Op het tabblad vliegvelden kun je de gps coördinaten zien van alle vliegvelden onder latitude en longitude. Daarmee kun je ook van alles berekenen! Bijv:
+
+* Welke vlucht is het langste? Tips:
+  * Haal van begin- en eindpunt \(source en destination\) de latitude en longitude op
+  * Bereken dan met Pythagoras de hemelsbrede afstand
+* Welk soort vliegtuig vliegt het verste gemiddeld? 
+  * Bereken eerst de afstand voor alle vluchten en gebruikt dan gemiddelde.als per vliegtuigtype
 
 Als je er echt voor wilt gaan, kijk dan eens of het je lukt om de vliegreizen op een wereldkaart te zetten door naar de GPS coördinaten te kijken!
 
