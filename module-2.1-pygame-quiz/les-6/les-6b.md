@@ -10,27 +10,35 @@
 
 **Opdracht 1:  Als er geklikt is, moet de geklikte letter in beeld komen**
 
-Volg deze stappen. Schrijf steeds op papier of het al goed is, en wat er anders moet!   
+Volg deze stappen. Schrijf steeds op papier of het al goed is, en wat er anders moet! \
 Ga dan pas programmeren!
 
 1. Werkt dit voor jouw code al goed?
-   1. Ja -&gt; Super!
-   2. Nee -&gt; Ga naar stap 
-2. Waar in de code zit het probleem?  
-3. Wat moet er anders?  
+   1. Ja -> Super!
+   2. Nee -> Ga naar stap&#x20;
+2. Waar in de code zit het probleem?\
+   \
+
+3. Wat moet er anders?\
+   \
+
 4. Verander de code en ga naar stap 1.
 
-  
+****\
 **Opdracht 2:  De geklikte letter moet maar 1 keer in beeld komen**
 
-Volg deze stappen. Schrijf steeds op papier of het al goed is, en wat er anders moet!   
+Volg deze stappen. Schrijf steeds op papier of het al goed is, en wat er anders moet! \
 Ga dan pas programmeren!
 
 1. Werkt dit voor jouw code al goed?
-   1. Ja -&gt; Super!
-   2. Nee -&gt; Ga naar stap 
-2. Waar in de code zit het probleem?  
-3. Wat moet er anders?  
+   1. Ja -> Super!
+   2. Nee -> Ga naar stap&#x20;
+2. Waar in de code zit het probleem?\
+   \
+
+3. Wat moet er anders?\
+   \
+
 4. Verander de code en ga naar stap 1.
 
 
@@ -41,14 +49,18 @@ Voor opdracht 3 moet je eerst nog dieper nadenken. Wat betekent het dat je niet 
 
 Dat betekent: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Volg nu de stappen. Schrijf steeds op papier of het al goed is, en wat er anders moet!   
+Volg nu de stappen. Schrijf steeds op papier of het al goed is, en wat er anders moet! \
 Ga dan pas programmeren!
 
 1. Werkt dit voor jouw code al goed?
-   1. Ja -&gt; Super!
-   2. Nee -&gt; Ga naar stap 
-2. Waar in de code zit het probleem?  
-3. Wat moet er anders?  
+   1. Ja -> Super!
+   2. Nee -> Ga naar stap&#x20;
+2. Waar in de code zit het probleem?\
+   \
+
+3. Wat moet er anders?\
+   \
+
 4. Verander de code en ga naar stap 1.
 
 
@@ -57,13 +69,16 @@ Ga dan pas programmeren!
 
 Voor opdracht 4 moet je ook weer eerst even diep nadenken. Schrijf de requirement duidelijker op; wat moet er gebeuren als het antwoord goed is?
 
-Volg nu de stappen. Schrijf steeds op papier of het al goed is, en wat er anders moet!   
+Volg nu de stappen. Schrijf steeds op papier of het al goed is, en wat er anders moet! \
 Ga dan pas programmeren!
 
 1. Werkt dit voor jouw code al goed?
-   1. Ja -&gt; Super!
-   2. Nee -&gt; Ga naar stap 
-2. Waar in de code zit het probleem?  
-3. Wat moet er anders?  
-4. Verander de code en ga naar stap 1.
+   1. Ja -> Super!
+   2. Nee -> Ga naar stap&#x20;
+2. Waar in de code zit het probleem?\
+   \
 
+3. Wat moet er anders?\
+   \
+
+4. Verander de code en ga naar stap 1.

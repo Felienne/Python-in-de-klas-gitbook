@@ -1,23 +1,13 @@
 # Les 4
 
-**Opdracht 1\) For loops in Flask**
+## Slides
 
-Volg deze [tutorial](https://ttl255.com/jinja2-tutorial-part-2-loops-and-conditionals/) over templates in Flask.
+[Module Flask, les 4](https://slides.com/felienne/pidk-k4-m1-l4)
 
-**Opdracht 2\) Maak jouw dynamischer**
+## Leerdoelen
 
-Gebruik je kennis van for loops templates om je site te verbeteren.   
-Zorg dat je minstens deze zaken op je site hebt:
+* For lussen gebruiken in Flask Templates&#x20;
 
-* Minstens 3 lijstjes om te renderen
-  * Denk bijv. aan verschillende soorten bomen, weerberichten, games, of weetjes
-* Minstens 2 templates die een for-lus gebruiken
+## Instructies voor de leerkracht
 
-**Opdracht 3\) Gebruik dictionaries \(extra\)**
-
-Heb je meer complexe data? Bijvoorbeeld games met een prijs, of weerberichten met een datum? Dan kun je ook een lijstje van dictionaries maken en die in een Flask template inladen. Zoek zelf op hoe dat moet!
-
-\*\*\*\*
-
-
-
+Deze les gaat verder op de vorige, door templates in Flask verder uit te breiden met for loops. Dat is handig als een een grotere dataset op een site wilt gebruiken.

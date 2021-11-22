@@ -1,6 +1,6 @@
 # Les 1b
 
-**Opdracht 1\) Fork de startcode** 
+**Opdracht 1) Fork de startcode **
 
 Deze opdracht wordt afgetekend als:
 
@@ -9,17 +9,17 @@ Deze opdracht wordt afgetekend als:
 
 Klik op het potloodje naast de naam van het programma. Klik dan op de grijze knop met fork erop. Je hebt nu een kopie van het programma gemaakt. Dat wordt vanzelf opgeslagen zodat je er steeds aan door kan werken.
 
-![](../../.gitbook/assets/les1-afb1.png)
+![](../../.gitbook/assets/Les1-Afb1.png)
 
-**Opdracht 2\) Stel het veld in**
+**Opdracht 2) Stel het veld in**
 
 Deze opdracht wordt afgetekend als:
 
 * Je simulatie werkt en alles in beeld komt
 
-**Uitleg.** Er staat al wat code voor je klaar, je hoeft het alleen aan te passen.
+**Uitleg. **Er staat al wat code voor je klaar, je hoeft het alleen aan te passen.
 
-```text
+```
 breedte = 600
 hoogte = __
 ​
@@ -28,27 +28,27 @@ screen = pygame.display.set_mode((breedte, hoogte))
 schildpad = pygame.image.load('schildpad.png')
 ```
 
-Als eerste pas je de grootte van het scherm aan bij hoogte en breedte. Je hoeft alleen een getal op de streepjes te zetten. Kijk eens goed naar het scherm. Wat is meer, de grootte of de breedte? Als de breedte 800 is wat zou dan \(ongeveer\) de hoogte zijn? Vul en getal in en probeer je code uit.
+Als eerste pas je de grootte van het scherm aan bij hoogte en breedte. Je hoeft alleen een getal op de streepjes te zetten. Kijk eens goed naar het scherm. Wat is meer, de grootte of de breedte? Als de breedte 800 is wat zou dan (ongeveer) de hoogte zijn? Vul en getal in en probeer je code uit.
 
-**Opdracht 3\) Programmeer de honger-variabele**
+**Opdracht 3) Programmeer de honger-variabele**
 
 Deze opdracht wordt afgetekend als:
 
-* De honger van het dier \(in de variabele `honger`\) steeds hoger wordt.
+* De honger van het dier (in de variabele `honger`) steeds hoger wordt.
 
 **Uitleg.** Er is al een variabele honger aangemaakt, en die wordt ook al geprint, dat zie er zo uit:
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](<../../.gitbook/assets/image (4).png>)
 
-Maar de variabele blijft nu steeds op 0 staan. Dat ga jij nu aanpassen. 
+Maar de variabele blijft nu steeds op 0 staan. Dat ga jij nu aanpassen.&#x20;
 
 In de code staat al `# maak honger hier eentje meer` . Op die plek ga jij de variabele `honger` eentje meer maken. Weet je nog hoe dat moet?
 
-**Opdracht 4\) Beëindig de simulatie**
+**Opdracht 4) Beëindig de simulatie**
 
 Deze opdracht wordt afgetekend als:
 
-* De simulatie stopt als de honger van het dier 100 is geworden. 
+* De simulatie stopt als de honger van het dier 100 is geworden.&#x20;
 
 De simulatie gaat nu eindeloos door. Dat klopt natuurlijk niet, als een dier geen voedsel vindt, dat moet de simulatie stoppen. Er staat al wat code voor je klaar, de while lus bijvoorbeeld, die stopt al vanzelf als de variabele `dier_leeft` op `False` gezet wordt.
 
@@ -60,19 +60,19 @@ Maak daar een if die kijkt of `honger` meer is dan 100. Als het meer is, zet de 
 Denk aan de hoofdletter bij False. Met een kleine letter werkt het niet.
 {% endhint %}
 
-**Opdracht 5\) Doe onderzoek voor jouw eigen simulatie**
+**Opdracht 5) Doe onderzoek voor jouw eigen simulatie**
 
 Deze opdracht wordt afgetekend als:
 
 * Je een dier hebt gekozen die in jouw simulatie voor gaan komen
-* Je voldoende onderzoek hebt gedaan over de snelheid en leefsituatie van het dier. Denk bijvoorbeeld aan: snelheid, leefstijl \(alleen of in een groep\), voedsel, waterbehoefte.
+* Je voldoende onderzoek hebt gedaan over de snelheid en leefsituatie van het dier. Denk bijvoorbeeld aan: snelheid, leefstijl (alleen of in een groep), voedsel, waterbehoefte.
 * Je deze informatie hebt samengevat in je schrift of in een bestand op de computer
 
 **Uitleg**
 
 Later in de lessen gaan we de schildpad en de krop sla veranderen in een dier die jij mag kiezen. Ga nu informatie gaan zoeken over dieren. Kies een dier uit en een voedsel van dat dier. Zoek ook informatie uit over de leeromgeving van je dier.
 
-#### **Opdracht 6\)** Laad je eigen plaatjes in
+#### **Opdracht 6) **Laad je eigen plaatjes in
 
 Deze opdracht wordt afgetekend als:
 
@@ -88,8 +88,6 @@ Denk aan de Google-regels van mevr. Hermans en stel je zoekresultaten in via Too
 Upload de plaatjes naar je simulatie en pas de code aan zodat die plaatjes worden ingeladen.
 
 Pas ook de variabelenamen aan! Het is niet netjes als er `schildpad_rechthoek` in jouw code staat, staat terwijl je bijv. een antilope inlaadt. Daar kun je van in de war raken.
-
-
 
 
 

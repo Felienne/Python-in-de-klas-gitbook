@@ -7,7 +7,7 @@
 1. Deze code tekent een vierkant.
 2. Deze code tekent twee vierkanten tegen elkaar aan, waarbij het tweede vierkant half zo groot is als het eerste.
 3. Deze code tekent een zeshoek.
-4. Deze code tekent een zeshoek \(kleiner dan die bij opdracht 4\).
+4. Deze code tekent een zeshoek (kleiner dan die bij opdracht 4).
 5. Deze code print 2 keer Goedemorgen 1c.
 6. Deze code tekent een driehoek.
 7. Deze code print 3 keer Hallo 1c.
@@ -17,7 +17,7 @@
 1. Fout: 'aantal\_hoeken' is niet gedefinieerd.
 2. Deze code tekent vier zijden van een zeshoek.
 3. Deze code tekent een vijfhoek.
-4. Fout: de indentatie \(spatie\) mist in regel 4 en 5.
+4. Fout: de indentatie (spatie) mist in regel 4 en 5.
 5. Deze code tekent twee evengrote driehoeken tegen elkaar aan.
 6. Fout: 'klas' is niet gedefinieerd als een aantal en kan dus niet in het 'range'commando verwerkt woden.
 
@@ -25,11 +25,11 @@
 
 1\) 1. Rood 2. Groen 3. Geel 4. blauw 5. Roze/Paars 6. Donkerrood 7. Donkerblauw 8. Mosterdgeel/groen 9. Donkergroen 10. Paars
 
-2\) 1. ![](../../.gitbook/assets/vierkant%20blauw%20lijn.PNG)
+2\) 1. ![](<../../.gitbook/assets/vierkant blauw lijn.PNG>)
 
-1. ![](../../.gitbook/assets/halve%20zeshoek%20rood%20lijn.PNG)
-2. ![](../../.gitbook/assets/driehoek%20blauw%20lijn.PNG)
-3. ![](../../.gitbook/assets/vierkant%20zwart%20driehoek%20groen%20lijn.PNG)
+1. ![](<../../.gitbook/assets/halve zeshoek rood lijn.PNG>)
+2. ![](<../../.gitbook/assets/driehoek blauw lijn.PNG>)
+3. ![](<../../.gitbook/assets/vierkant zwart driehoek groen lijn.PNG>)
 4. Deze code tekent een vierkant met wit.
 
 3\) 1.
@@ -43,51 +43,50 @@
 ```
 
 1. \`\`\`python
-2. pen.color\(255,0,0\)
+2. pen.color(255,0,0)
 3. aantal\_keer = 4
 4. hoek = 90
-5. for i in range\(aantal\_keer\):
-6. pen.forward\(100\)
-7. pen.left\(hoek\)
-8. pen.color\(160,0,0\)
+5. for i in range(aantal\_keer):
+6. pen.forward(100)
+7. pen.left(hoek)
+8. pen.color(160,0,0)
 9. aantal\_keer = 3
 10. hoek = 120
-11. for i in range\(aantal\_keer\):
-12. pen.forward\(100\)
-13. pen.left\(hoek\)
+11. for i in range(aantal\_keer):
+12. pen.forward(100)
+13. pen.left(hoek)
 
     \`\`\`
-
 14. \`\`\`python
-15. pen.color\(0,0,255\)
+15. pen.color(0,0,255)
 16. aantal\_keer = 4
 17. hoek = 90
-18. for i in range\(aantal\_keer\):
-19. pen.forward\(100\)
-20. pen.left\(hoek\)
-21. pen.up\(\)
-22. pen.forward\(200\)
-23. pen.down\(\)
-24. pen.color\(255,0,0\)
+18. for i in range(aantal\_keer):
+19. pen.forward(100)
+20. pen.left(hoek)
+21. pen.up()
+22. pen.forward(200)
+23. pen.down()
+24. pen.color(255,0,0)
 25. aantal\_keer = 6
 26. hoek = 60
-27. for i in range\(aantal\_keer\):
-28. pen.forward\(100\)
-29. pen.left\(hoek\)
+27. for i in range(aantal\_keer):
+28. pen.forward(100)
+29. pen.left(hoek)
 
     \`\`\`
 
 ## Figuren vullen
 
-1\) 1. ![](../../.gitbook/assets/oranje%20vierkant%20gevuld.PNG)
+1\) 1. ![](<../../.gitbook/assets/oranje vierkant gevuld.PNG>)
 
-1. ![](../../.gitbook/assets/zeshoek%20rood%20lijn.PNG)
-2. ![](../../.gitbook/assets/halve%20zeshoek%20blauw%20gevuld.PNG)
-3. ![](../../.gitbook/assets/driehoek%20turqoise%20lijn.PNG)
+1. ![](<../../.gitbook/assets/zeshoek rood lijn.PNG>)
+2. ![](<../../.gitbook/assets/halve zeshoek blauw gevuld.PNG>)
+3. ![](<../../.gitbook/assets/driehoek turqoise lijn.PNG>)
 
 2\) 1.
 
-```text
+```
 1. pen.color(0,255,0)
 2. pen.begin_fill()
 3. aantal_keer = 4
@@ -98,7 +97,7 @@
 8. pen.end_fill()
 ```
 
-2.
+2\.
 
 ```python
 1. pen.color(255,255,0)
@@ -111,7 +110,7 @@
 8. pen.end_fill()
 ```
 
-3.
+3\.
 
 ```python
 1. pen.color(255,0,255)
@@ -123,4 +122,3 @@
 7.   pen.left(hoek) 
 8. pen.end_fill()
 ```
-

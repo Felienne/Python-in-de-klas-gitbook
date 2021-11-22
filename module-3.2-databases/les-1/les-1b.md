@@ -1,8 +1,8 @@
 # Les 1b
 
-**1\) Print alle cijferdata**
+**1) Print alle cijferdata**
 
-Dit is je eerste SQL opdracht. 
+Dit is je eerste SQL opdracht.&#x20;
 
 Verander alleen de code in `main.sql`. Verander niets aan database.sql!
 
@@ -14,7 +14,7 @@ select __
 from __
 ```
 
-**2\) Print naam en gemiddelde**
+**2) Print naam en gemiddelde**
 
 Dit is je tweede SQL opdracht. Verander weer alleen de code in `main.sql`, niet in `database.sql`!
 
@@ -26,13 +26,13 @@ select __
 from __
 ```
 
-**3\) Print alle drie de toetsen**
+**3) Print alle drie de toetsen**
 
 Verander de code in `main.sql` weer, maar verander nog steeds niets aan `database.sql`!
 
-Zorg ervoor dat **de data van de drie toetsen**  uit de tabel cijfers geprint wordt. Deze keer moet jij de code helemaal zelf schrijven.
+Zorg ervoor dat **de data van de drie toetsen ** uit de tabel cijfers geprint wordt. Deze keer moet jij de code helemaal zelf schrijven.
 
-**4\) Data toevoegen \(X\)**
+**4) Data toevoegen (X)**
 
 Ben je klaar met de cijferdata? Duik dan eens in de insert code. Met deze code maak je zelf een tabel.
 
@@ -48,5 +48,4 @@ Je krijgt alleen de data voor de drie toetsen. Reken het gemiddelde en de voldoe
 
 * Een nieuwe kolom erbij voor een vierde toets? Verzin de data zelf. Zoek dan met Google maar uit hoe je bestaande data in een tabel kan aanpassen.
 
-\`\`
-
+``

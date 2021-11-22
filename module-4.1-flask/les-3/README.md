@@ -11,5 +11,4 @@
 
 ## Instructies voor de leerkracht
 
-Deze les gaat verder op de vorige, door templates in Flask verder uit te werken. Ook wordt er een start gemaakt met dictionaries, die worden in een volgende les gebruikt om het aanroepen van templates te vereenvoudigen. 
-
+Deze les gaat verder op de vorige, door templates in Flask verder uit te werken. Ook wordt er een start gemaakt met dictionaries, die worden in volgende lessen gebruikt om data te verwerken en het aanroepen van templates te vereenvoudigen.&#x20;

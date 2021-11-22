@@ -254,13 +254,14 @@ for i in range(aantal_keer):
 
 3\) Schrijf de code voor deze tekeningen. Gebruik RGB codes voor de kleuren.
 
-1.
+1\.
 
-![](../../.gitbook/assets/image-20190406141936243.png)
+![](<../../.gitbook/assets/image-20190406141936243 (1).png>)
 
-1. ![](../../.gitbook/assets/image-20190406142059944.png)
-2. 
-![](../../.gitbook/assets/image-20190406142204920%20%281%29%20%281%29.png)
+1. ![](<../../.gitbook/assets/image-20190406142059944 (1).png>)
+2.
+
+![](<../../.gitbook/assets/image-20190406142204920 (1) (1).png>)
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
@@ -319,10 +320,9 @@ pen.begin_fill()
 
 2\) Schrijf de code voor deze tekeningen. Gebruik RGB codes voor de kleuren.
 
-1. ![](../../.gitbook/assets/Kunst_5a_figurenvullen_21.png)
+1\. ![](../../.gitbook/assets/Kunst\_5a\_figurenvullen\_21.png)
 
-1. ![](../../.gitbook/assets/Kunst_5a_figurenvullen_22.png)
-2. ![](../../.gitbook/assets/Kunst_5a_figurenvullen_23.png)
+1. ![](../../.gitbook/assets/Kunst\_5a\_figurenvullen\_22.png)
+2. ![](../../.gitbook/assets/Kunst\_5a\_figurenvullen\_23.png)
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
-

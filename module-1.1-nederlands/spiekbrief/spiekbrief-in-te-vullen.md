@@ -2,321 +2,74 @@
 
 **Les 1**
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>print &#xE9;&#xE9;n woord</b>
-      </th>
-      <th style="text-align:left">&lt;b&gt;&lt;/b&gt;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Code</td>
-      <td style="text-align:left"><code>print()</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Voorbeeldprogramma</td>
-      <td style="text-align:left"><code>print(&apos;Hallo&apos;)</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Wat doet deze code?</td>
-      <td style="text-align:left">Zet het woord tussen de haakjes op het scherm.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Vergeet niet...</td>
-      <td style="text-align:left">
-        <ul>
-          <li>Ronde haakjes</li>
-          <li>Aanhalingsteken voor en achter het woord</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| **print één woord** | ****                                                                             |
+| ------------------- | -------------------------------------------------------------------------------- |
+| Code                | `print()`                                                                        |
+| Voorbeeldprogramma  | `print('Hallo')`                                                                 |
+| Wat doet deze code? | Zet het woord tussen de haakjes op het scherm.                                   |
+| Vergeet niet...     | <ul><li>Ronde haakjes</li><li>Aanhalingsteken voor en achter het woord</li></ul> |
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>print meerdere woorden</b>
-      </th>
-      <th style="text-align:left">&lt;b&gt;&lt;/b&gt;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Code</td>
-      <td style="text-align:left"><code>print()</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Voorbeeldprogramma</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Wat doet deze code?</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Vergeet niet...</td>
-      <td style="text-align:left">
-        <ul>
-          <li>Ronde haakjes</li>
-          <li>......................................................................................</li>
-          <li>......................................................................................</li>
-        </ul>
-        <p></p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| **print meerdere woorden** | ****                                                                                                                                                                                                                                 |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Code                       | `print()`                                                                                                                                                                                                                            |
+| Voorbeeldprogramma         |                                                                                                                                                                                                                                      |
+| Wat doet deze code?        |                                                                                                                                                                                                                                      |
+| Vergeet niet...            | <ul><li>Ronde haakjes</li><li>......................................................................................</li><li>......................................................................................</li></ul><p></p> |
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>print meerdere zinnen</b>
-      </th>
-      <th style="text-align:left">&lt;b&gt;&lt;/b&gt;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Code</td>
-      <td style="text-align:left"><code>print()</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Voorbeeldprogramma</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Wat doet deze code?</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Vergeet niet...</td>
-      <td style="text-align:left">
-        <ul>
-          <li>......................................................................................</li>
-          <li>......................................................................................</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| **print meerdere zinnen** | ****                                                                                                                                                                                                    |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Code                      | `print()`                                                                                                                                                                                               |
+| Voorbeeldprogramma        |                                                                                                                                                                                                         |
+| Wat doet deze code?       |                                                                                                                                                                                                         |
+| Vergeet niet...           | <ul><li>......................................................................................</li><li>......................................................................................</li></ul> |
 
 **Les 2**
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>commentaar</b>
-      </th>
-      <th style="text-align:left">&lt;b&gt;&lt;/b&gt;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Code</td>
-      <td style="text-align:left"><code>#</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Voorbeeldprogramma</td>
-      <td style="text-align:left"><code>#Dit programma is gemaakt door Shirley</code>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Wat doet deze code?</td>
-      <td style="text-align:left">Code met een hekje ervoor slaat Python over</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Vergeet niet...</td>
-      <td style="text-align:left">
-        <ul>
-          <li>Python slaat codes met een hekje ervoor over</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| **commentaar**      | ****                                                           |
+| ------------------- | -------------------------------------------------------------- |
+| Code                | `#`                                                            |
+| Voorbeeldprogramma  | `#Dit programma is gemaakt door Shirley`                       |
+| Wat doet deze code? | Code met een hekje ervoor slaat Python over                    |
+| Vergeet niet...     | <ul><li>Python slaat codes met een hekje ervoor over</li></ul> |
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>variabelen</b>
-      </th>
-      <th style="text-align:left">&lt;b&gt;&lt;/b&gt;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Code</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Voorbeeldprogramma</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Wat doet deze code?</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Vergeet niet...</td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>......................................................................................</li>
-          <li>......................................................................................</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| **variabelen**      | ****                                                                                                                                                                                                           |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Code                |                                                                                                                                                                                                                |
+| Voorbeeldprogramma  |                                                                                                                                                                                                                |
+| Wat doet deze code? |                                                                                                                                                                                                                |
+| Vergeet niet...     | <p></p><ul><li>......................................................................................</li><li>......................................................................................</li></ul> |
 
 **Les 3**
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>lijsten maken</b>
-      </th>
-      <th style="text-align:left">&lt;b&gt;&lt;/b&gt;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Code</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Voorbeeldprogramma</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Wat doet deze code?</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Vergeet niet...</td>
-      <td style="text-align:left">
-        <ul>
-          <li>......................................................................................</li>
-          <li>......................................................................................</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| **lijsten maken**   | ****                                                                                                                                                                                                    |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Code                |                                                                                                                                                                                                         |
+| Voorbeeldprogramma  |                                                                                                                                                                                                         |
+| Wat doet deze code? |                                                                                                                                                                                                         |
+| Vergeet niet...     | <ul><li>......................................................................................</li><li>......................................................................................</li></ul> |
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>aanwijzen in een lijst</b>
-      </th>
-      <th style="text-align:left">&lt;b&gt;&lt;/b&gt;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Code</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Voorbeeldprogramma</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Wat doet deze code?</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Vergeet niet...</td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>......................................................................................</li>
-          <li>......................................................................................</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| **aanwijzen in een lijst** | ****                                                                                                                                                                                                           |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Code                       |                                                                                                                                                                                                                |
+| Voorbeeldprogramma         |                                                                                                                                                                                                                |
+| Wat doet deze code?        |                                                                                                                                                                                                                |
+| Vergeet niet...            | <p></p><ul><li>......................................................................................</li><li>......................................................................................</li></ul> |
 
 **Les 4**
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>input</b>
-      </th>
-      <th style="text-align:left">&lt;b&gt;&lt;/b&gt;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Code</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Voorbeeldprogramma</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Wat doet deze code?</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Vergeet niet...</td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>......................................................................................</li>
-          <li>......................................................................................</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| **input**           | ****                                                                                                                                                                                                           |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Code                |                                                                                                                                                                                                                |
+| Voorbeeldprogramma  |                                                                                                                                                                                                                |
+| Wat doet deze code? |                                                                                                                                                                                                                |
+| Vergeet niet...     | <p></p><ul><li>......................................................................................</li><li>......................................................................................</li></ul> |
 
 **Les 5**
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>input</b>
-      </th>
-      <th style="text-align:left"><b>&#x200B;</b>Title</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Code</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Voorbeeldprogramma</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Wat doet deze code?</td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Vergeet niet...</td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>......................................................................................</li>
-          <li>......................................................................................</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
+| **input**           | **​**Title                                                                                                                                                                                                     |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Code                |                                                                                                                                                                                                                |
+| Voorbeeldprogramma  |                                                                                                                                                                                                                |
+| Wat doet deze code? |                                                                                                                                                                                                                |
+| Vergeet niet...     | <p></p><ul><li>......................................................................................</li><li>......................................................................................</li></ul> |
 

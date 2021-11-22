@@ -17,23 +17,23 @@ Voor we aan het programmeren gaan, gaan we eerst op papier oefenen. Teken de fig
 1\) Maak een vierkant door het onderstaande schema te volgen.
 
 * Begin in de tekenrichting 'rechts'
-* Ga 5 cm in de tekenrichting \(rechts nu dus\)
+* Ga 5 cm in de tekenrichting (rechts nu dus)
 * Draai 90 graden linksom
-* Ga 5 cm volgens de tekenrichting \(dat is nu omhoog\)
+* Ga 5 cm volgens de tekenrichting (dat is nu omhoog)
 * Draai 90 graden linksom
-* Ga 5 cm volgens de tekenrichting \(dat is nu links\)
+* Ga 5 cm volgens de tekenrichting (dat is nu links)
 * Draai 90 graden linksom
-* Volgens de tekenrichting \(dat is nu omlaag\)
+* Volgens de tekenrichting (dat is nu omlaag)
 * Draai 90 graden linksom
 
 2\) Maak een driehoek door het onderstaande schema te volgen.
 
 * Begin in de tekenrichting 'rechts'
-* Ga 5 cm in de tekenrichting \(rechts nu dus\)
-* Draai **120** graden linksom 
-* Ga 5 cm volgens de tekenrichting \(dat is nu schuin links-omhoog\)
+* Ga 5 cm in de tekenrichting (rechts nu dus)
+* Draai **120** graden linksom&#x20;
+* Ga 5 cm volgens de tekenrichting (dat is nu schuin links-omhoog)
 * Draai **120** graden linksom
-* Ga 5 cm volgens de tekenrichting \(dat is nu schuin rechts-omlaag\)
+* Ga 5 cm volgens de tekenrichting (dat is nu schuin rechts-omlaag)
 * Draai **120** graden linksom
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
@@ -42,14 +42,14 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
 1\) Ga terug naar het vierkant dat je hebt getekend in je schrift. Zet deze nummers erbij, op dezelfde plekken.
 
-![](../../.gitbook/assets/image-20190322135329083%20%283%29%20%283%29%20%283%29%20%283%29%20%283%29%20%283%29%20%283%29%20%281%29.png)
+![](<../../.gitbook/assets/image-20190322135329083 (3) (3) (3) (3) (3) (3) (3) (1).png>)
 
 Nu gaan we Pythoncodes koppelen aan de stukjes van de tekening. Het stukje bij de 1, de rechte lijn, maken we met `pen.forward(100)`Bij 2 draaien we een kwartslag naar links, dus daar hoort `pen.left(90)`. Maak jij de codes af?
 
 Hint: Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde op in je schrift.
 
-1. pen.forward\(100\) 
-2. pen.left\(90\) 
+1. pen.forward(100)&#x20;
+2. pen.left(90)&#x20;
 3. ...
 4. ...
 5. ...
@@ -59,14 +59,14 @@ Hint: Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde
 
 2\) Doe nu hetzelfde voor de driehoek. Ga terug naar de driehoek die je hebt getekend in je schrift en zet deze nummers erbij.
 
-![](../../.gitbook/assets/image-20190322135525607%20%283%29%20%283%29%20%283%29%20%283%29%20%283%29%20%283%29%20%283%29%20%283%29.png)
+![](../../.gitbook/assets/image-20190322135525607.png)
 
 Nu moeten we even rekenen! Welke som reken je uit om een driehoek te maken? Schrijf de som in je schrift.
 
 Een driehoek maak je met:
 
-* pen.left\(……..\) &lt;— dit is het commando voor draaien. Hier komt het getal dat je zojuist hebt berekend. Schrijf de code op in je schrift.
-* pen.forward\(100\)
+* pen.left(……..) <— dit is het commando voor draaien. Hier komt het getal dat je zojuist hebt berekend. Schrijf de code op in je schrift.
+* pen.forward(100)
 
 Zet nu deze opdrachten bij de juiste plekken in de tekening. Je moet allebei de Python opdrachten nu drie keer gebruiken. Schrijf de 6 codes in je schrift:
 
@@ -97,8 +97,8 @@ Kies nu een eigen getal, waardoor 360 niet mooi deelbaar is. Schrijf je getal in
 Teken nu het figuur dat bij die hoek hoort.
 
 * Begin in de tekenrichting 'rechts'
-* Ga 5 cm in de tekenrichting \(rechts nu dus\)
-* Draai **...** graden linksom &lt;— hier komt jouw getal
+* Ga 5 cm in de tekenrichting (rechts nu dus)
+* Draai **...** graden linksom <— hier komt jouw getal
 
 Doe dit een paar keer, minstens 10!
 
@@ -137,13 +137,13 @@ pen.left(60)
 
 3\) Nu andersom. Weet jij met welke code je deze figuren tekent? Schijf de codes in je schrift. Tip: reken het na met je geodriehoek.
 
-1. ![](../../.gitbook/assets/image-20190318130624359%20%282%29%20%284%29%20%284%29%20%284%29%20%284%29%20%284%29%20%284%29%20%284%29%20%284%29.png)
+1. ![](<../../.gitbook/assets/image-20190318130624359 (2).png>)
 
-2.
+2\.
 
-![](../../.gitbook/assets/image-20190318125720956%20copy%20%281%29.png)
+![](<../../.gitbook/assets/image-20190318125720956 copy (1).png>)
 
-1. ![](../../.gitbook/assets/image-20190318130244515%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
+1. ![](../../.gitbook/assets/image-20190318130244515.png)
 
 ### Extraatje!
 
@@ -189,11 +189,11 @@ pen.forward(100)
 
 Schrijf nu weer de codes op die bij deze figuren horen.
 
-1. ![](../../.gitbook/assets/image-20190318130606702%20%283%29%20%283%29%20%283%29%20%283%29%20%283%29%20%283%29%20%283%29%20%281%29.png)
-2. 
-![](../../.gitbook/assets/image-20190318125810948%20%285%29%20%285%29%20%282%29%20%282%29.png)
+1. ![](<../../.gitbook/assets/image-20190318130606702 (3) (3) (3) (3) (3) (3) (3) (1).png>)
+2.
 
-1. ![](../../.gitbook/assets/image-20190318130138855%20%281%29.png)
+![](<../../.gitbook/assets/image-20190318125810948 (5) (5) (2) (3).png>)
+
+1. ![](<../../.gitbook/assets/image-20190318130138855 (1) (1).png>)
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
-

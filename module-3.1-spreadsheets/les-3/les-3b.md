@@ -1,6 +1,6 @@
 # Les 3b
 
-**Opdracht 1\) Formules in de herhaling**
+**Opdracht 1) Formules in de herhaling**
 
 Open het [nieuwe bestand](https://www.dropbox.com/s/f7opvepdq2yyo0n/Cijfers-leerling-versie.xlsx?dl=0) over cijfers. Maak formules voor deze zeven berekeningen:
 
@@ -12,7 +12,7 @@ Open het [nieuwe bestand](https://www.dropbox.com/s/f7opvepdq2yyo0n/Cijfers-leer
 6. Aantal jongens met een onvoldoende
 7. Aantal cijfers onder de 8 bij totaal
 
-**Opdracht 2\) Moeilijkere formules** 
+**Opdracht 2) Moeilijkere formules **
 
 Open het nieuwe bestand over [atletiekdata](https://www.dropbox.com/s/mfrckp48wndikix/Atletiekdata.xlsx?dl=0). Maak formules voor deze zes berekeningen:
 
@@ -25,23 +25,23 @@ Open het nieuwe bestand over [atletiekdata](https://www.dropbox.com/s/mfrckp48wn
 
 Vond je dit niet zo lastig? Maak dan deze extra sommen ook!
 
-1. Extra moeilijk: Wat is de snelste tijd op alledrie de afstanden bij elkaar? En wie heeft die snelste tijd behaald? 
-2. Extra extra moeilijk! Als we kijken naar het hordelopen en kogelstoten samen, wie doet het dan het allerbeste? En hoe heb je dat bepaald? 
+1. Extra moeilijk: Wat is de snelste tijd op alledrie de afstanden bij elkaar? En wie heeft die snelste tijd behaald?&#x20;
+2. Extra extra moeilijk! Als we kijken naar het hordelopen en kogelstoten samen, wie doet het dan het allerbeste? En hoe heb je dat bepaald?&#x20;
 
-**Opdracht 3\) Grafieken**
+**Opdracht 3) Grafieken**
 
 Deze opdracht gaat over het maken van grafieken. We maken eerst grafieken van de cijferlijsten. Werk verder aan het bestand dat je al hebt**.**
 
 Maak deze grafieken:
 
-* Een kolomgrafiek van toets 1  &lt;--- staat er dus al!
+* Een kolomgrafiek van toets 1  <--- staat er dus al!
 * Een lijngrafiek van toets 2
 * Box and whiskersplot van totaal
 * Box and whiskersplot van toets 3
 * Radargrafiek van toets 1
 
-**Opdracht 3\) Grafieken en formules \(X\)**  
-  
+**Opdracht 3) Grafieken en formules (X)**\
+\
 Deze opdracht gaat over het maken van grafieken. Werk verder aan het bestand met cijfers dat je al hebt.
 
 Als data in Excel letters of woorden zijn, en geen getallen, dan kun er niet meteen een grafiek maken. Excel weet niet hoe dat moet. Je moet dan eerst formules schrijven. Daaruit komen cijfers en die kun je dan in een grafiek gebruiken.
@@ -51,4 +51,3 @@ Maak formules voor deze zaken. Maak dan ook de grafiek erbij. Wat zie je aan de 
 * Een staafgrafiek met het aantal voldoendes en onvoldoendes
 * Een staafgrafiek met het aantal jongens en meisjes
 * Een staafgrafiek met het aantal eindcijfers boven en onder de 8
-

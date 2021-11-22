@@ -14,14 +14,12 @@
 
 In deze meerweekse opdracht gaan leerlingen zelf een Excelsheet zoeken en verbeteren. De opdracht werkt in vier fases:
 
-0. Excelsheet zoeken \(1 week\)  
-1. Verslag maken over de Excelsheet \(2 weken\)  
-2. Verbetering bedenken en overleggen met klant \(2 weken\)  
-3. Verbeteringen doorvoeren \(2 weken\)
+0\. Excelsheet zoeken (1 week)\
+1\. Verslag maken over de Excelsheet (2 weken)\
+2\. Verbetering bedenken en overleggen met klant (2 weken)\
+3\. Verbeteringen doorvoeren (2 weken)
 
 De fases kunnen een beetje in elkaar overlopen, dat is niet zo heel erg, maar zorg wel dat lln eerst nadenken en dan pas formules gaan maken. Anders verzinnen ze soms onhaalbare dingen.
-
-
 
 
 

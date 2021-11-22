@@ -18,14 +18,14 @@
 2\) 1. Onze pen kan een heel rondje draaien, wat 360 graden is. We willen dat hij maar 1/3e rondje draait, want er zijn 3 hoeken en bij alle hoeken bij elkaar willen we het hele rondje gedraaid hebben. Dus draaien we per hoek 360/3 = 120 graden.
 
 1. \`\`\`python
-2. pen.forward\(100\)
-3. pen.left\(120\)
-4. pen.forward\(100\)
-5. pen.left\(120\)
-6. pen.forward\(100\)
-7. pen.left\(120\)
+2. pen.forward(100)
+3. pen.left(120)
+4. pen.forward(100)
+5. pen.left(120)
+6. pen.forward(100)
+7.  pen.left(120)
 
-   \`\`\`
+    \`\`\`
 
 3\) zeshoek: 360/6 = 120 graden
 
@@ -45,21 +45,21 @@ dertighoek: 360/ 30 = 12 graden
 
 1. ![](../../.gitbook/assets/Knipsel.PNG)
 2. ![](../../.gitbook/assets/image-20190415150849824.png)
-3. ![](../../.gitbook/assets/image-20190415151021170%20%282%29%20%284%29%20%284%29%20%284%29%20%284%29%20%284%29%20%284%29%20%284%29%20%281%29.png)
+3. ![](<../../.gitbook/assets/image-20190415151021170 (2) (4) (4) (4) (4) (4) (4) (4) (3).png>)
 
 3\)
 
 1. \`\`\`python
-2. pen.forward\(100\)
-3. pen.left\(120\)
-4. pen.forward\(100\)
-5. pen.left\(120\)
-6. pen.forward\(100\)
-7. pen.left\(120\)
+2. pen.forward(100)
+3. pen.left(120)
+4. pen.forward(100)
+5. pen.left(120)
+6. pen.forward(100)
+7.  pen.left(120)
 
-   \`\`\`
+    \`\`\`
 
-2.
+2\.
 
 ```python
 1. pen.forward(100)
@@ -76,7 +76,7 @@ dertighoek: 360/ 30 = 12 graden
 12. pen.left(60)
 ```
 
-3.
+3\.
 
 ```python
 1. pen.forward(100)
@@ -111,7 +111,7 @@ Tekeningen die horen bij code:
 
 Code die hoort bij tekeningen:
 
-1.
+1\.
 
 ```python
 1. pen.forward(100)
@@ -121,7 +121,7 @@ Code die hoort bij tekeningen:
 5. pen.forward(100)
 ```
 
-2.
+2\.
 
 ```python
 1. pen.left(120)
@@ -140,7 +140,7 @@ Code die hoort bij tekeningen:
 14. pen.forward(100)
 ```
 
-3.
+3\.
 
 ```python
 1. pen.forward(100)
@@ -161,4 +161,3 @@ Code die hoort bij tekeningen:
 16. pen.right(90)
 17. pen.forward(175)
 ```
-
