@@ -159,6 +159,8 @@
     * [Les 3b](module-3.2-databases/les-3/les-3b.md)
   * [Les 4](module-3.2-databases/les-4/README.md)
     * [Les 4b](module-3.2-databases/les-4/les-4b.md)
+  * [Les 5](module-3.2-databases/les-5/README.md)
+    * [Les 5b](module-3.2-databases/les-5/les-5b.md)
 * [Module 4.1 - Flask](module-4.1-flask/README.md)
   * [Les 1](module-4.1-flask/les-1/README.md)
     * [Les 1b](module-4.1-flask/les-1/les-1b.md)
