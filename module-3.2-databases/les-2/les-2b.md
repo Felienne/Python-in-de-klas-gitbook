@@ -2,7 +2,7 @@
 
 **Opdracht 1) Formules**
 
-Gebruik formules om deze dingen te printen:
+Open dit [programma](https://replit.com/@mevrHermans/Pidk-K3-M2-L2b-1). Gebruik nu formules om deze dingen te printen:
 
 *   Het aantal aardbevingen in de dataset.&#x20;
 
@@ -38,9 +38,9 @@ from earthquakes;
 
 **Opdracht 2) Conditionele formules**
 
-Ook in deze opdracht werken we weer met de tabel van de aardbevingen.&#x20;
+Ook in deze opdracht werken we weer met de tabel van de aardbevingen, maar nu uit [dit programma](https://replit.com/@mevrHermans/Pidk-K3-M2-L2b-2).
 
-Maar, let op! Er zitten nu meerdere soorten in de dataset: earthquakes en Nuclear Explosions. Dat zie je in de Kolom 'Soort'
+Let op! Er zitten nu meerdere soorten in de dataset: earthquakes en Nuclear Explosions. Dat zie je in de Kolom **Soort.**
 
 Maak formules voor deze zes berekeningen:
 
@@ -73,11 +73,9 @@ Tip: Voor query 6 heb je een 'and' nodig!
 
 **Opdracht 3) **
 
-Bereken nu deze berekeningen voor een dataset met toetsen.&#x20;
+Bereken nu deze berekeningen voor een [dataset met toetsen](https://replit.com/@mevrHermans/Pidk-K3-M2-L2b-3).&#x20;
 
 :warning:Let op! Deze data is anders dan in het voorbeeld op de slides.
-
-
 
 Maak formules voor deze zeven berekeningen:
 
@@ -91,7 +89,7 @@ Maak formules voor deze zeven berekeningen:
 
 **Opdracht 4) Atletiekformules (X)**
 
-Ook deze dataset hebben we eerder gezien in Excel.
+Ook deze dataset hebben we eerder gezien in Excel, open deze [hier](https://replit.com/@mevrHermans/Pidk-K3-M2-L2b-4).
 
 Maak formules voor deze zes berekeningen:
 

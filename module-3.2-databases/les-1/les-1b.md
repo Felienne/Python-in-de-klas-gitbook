@@ -2,7 +2,7 @@
 
 **1) Print alle cijferdata**
 
-Dit is je eerste SQL opdracht.&#x20;
+Dit is je eerste SQL opdracht. Fork eerst [dit programma](https://replit.com/@mevrHermans/Pidk-K3-M2-L1b-1).
 
 Verander alleen de code in `main.sql`. Verander niets aan database.sql!
 
@@ -34,7 +34,7 @@ Zorg ervoor dat **de data van de drie toetsen ** uit de tabel cijfers geprint wo
 
 **4) Data toevoegen (X)**
 
-Ben je klaar met de cijferdata? Duik dan eens in de insert code. Met deze code maak je zelf een tabel.
+Ben je klaar met de cijferdata? Duik dan eens in de insert code. Met deze code maak je zelf een tabel. Begin met [dit programma](https://replit.com/@mevrHermans/Pidk-K3-M2-L4b).
 
 Met create maak je een tabel aan, en met insert voeg je data toe.
 
