@@ -28,9 +28,9 @@ Voor sommigen van deze opdrachten moet je koppelen én ook formules gebruiken!&#
 Pluis zelf uit hoe dit moet. Maak dan deze queries:
 
 1. Het aantal reizen gemaakt door meisjes
-2. Het aantal reizen naar Nesselande
-3. Het aantal reizen van en naar Nesselande
-4. De naam van de persoon die het vaakst naar Eendrachtsplein is gereisd
+2. Het aantal reizen naar Poortugaal
+3. Het aantal reizen van en naar Poortugaal
+4. De naam van de persoon die het vaakst naar Delfshaven is gereisd
 5. In welke tijdsperiode reizen jongens het vaakst?&#x20;
 
 * Nacht (van 00:00 tot 6:00)&#x20;
