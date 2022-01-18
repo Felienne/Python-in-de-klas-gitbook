@@ -172,3 +172,7 @@
     * [Les 4b](module-4.1-flask/les-4/les-4b.md)
   * [Les 5](module-4.1-flask/les-5/README.md)
     * [Les 5b](module-4.1-flask/les-5/les-5b.md)
+* [Module 4.2 - JavaScript](module-4.2-javascript/README.md)
+  * [Les 1](module-4.2-javascript/les-1.md)
+  * [Les 2](module-4.2-javascript/les-2/README.md)
+    * [Les 2b](module-4.2-javascript/les-2/les-2b.md)
