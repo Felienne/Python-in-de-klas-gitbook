@@ -178,3 +178,5 @@
   * [Les 1](module-4.2-javascript/les-1.md)
   * [Les 2](module-4.2-javascript/les-2/README.md)
     * [Les 2b](module-4.2-javascript/les-2/les-2b.md)
+* [Les 7](les-7/README.md)
+  * [Les 7b](les-7/les-7b.md)
