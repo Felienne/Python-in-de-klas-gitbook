@@ -8,7 +8,7 @@ Deze opdracht wordt afgetekend als:
 2. De achtergrondkleur van het veld zwart is
 3. De kleur van de tekst wit is
 
-**Uitleg. **Fork de startcode op [https://repl.it/@mevrHermans/pidk-jaar-2-les-2-opdr-1](https://repl.it/@mevrHermans/pidk-jaar-2-les-2-opdr-1). Die code is nog niet helemaal goed, jij gaat die code zelf stap voor stap verbeteren.
+**Uitleg.** Fork de startcode op [https://repl.it/@mevrHermans/pidk-jaar-2-les-2-opdr-1](https://repl.it/@mevrHermans/pidk-jaar-2-les-2-opdr-1). Die code is nog niet helemaal goed, jij gaat die code zelf stap voor stap verbeteren.
 
 Voor de eerste opdracht ga jij de instellingen goed zetten. Stel de grootte van het scherm in op 600 hoog en 800 breed. Zet ook de beide kleuren goed. Dat gaat met RGB (Rood Groen Blauw) codes. Ken je die nog uit het eerste jaar? Als de de getallen goed instelt krijg je een zwarte achtergrond met witte letters erop. Probeer je code uit om te kijken of het goed is!
 
@@ -50,7 +50,7 @@ Deze opdracht wordt afgetekend als:
 
 1. Je een extra plaatje in beeld krijgt
 
-**Opdracht. **Je kunt ook zelf nog iets in beeld krijgen, bijv. een smiley, een foto van jezelf of een "ik weet het niet" knop voor de speler. Voeg jij zelf nog iets toe aan je programma? Volg deze stappen:
+**Opdracht.** Je kunt ook zelf nog iets in beeld krijgen, bijv. een smiley, een foto van jezelf of een "ik weet het niet" knop voor de speler. Voeg jij zelf nog iets toe aan je programma? Volg deze stappen:
 
 1. Zoek een plaatje en sla het op op je computer
 2. Upload het plaatje in repl.it met de drie kleine stippeltjes

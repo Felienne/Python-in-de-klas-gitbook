@@ -8,7 +8,7 @@ Deze opdracht wordt afgetekend als:
 * De speler een hint in beeld krijgt als het antwoord fout is
 * De hint verwijderd wordt uit de lijst als het wel antwoord goed is.
 
-**Opdracht. **Maak de lijst `hints` en zorg dat alles goed werkt. Bij een hint kan je denken aan extra uitleg, maar je zou de speler ook kunnen laten kiezen uit een paar opties.&#x20;
+**Opdracht.** Maak de lijst `hints` en zorg dat alles goed werkt. Bij een hint kan je denken aan extra uitleg, maar je zou de speler ook kunnen laten kiezen uit een paar opties.&#x20;
 
 #### Opdracht 6b-2) Maak nog meer lijsten
 

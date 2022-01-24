@@ -1,6 +1,6 @@
 # Les 1b
 
-**Opdracht 1) Fork de startcode **
+**Opdracht 1) Fork de startcode**&#x20;
 
 Deze opdracht wordt afgetekend als:
 

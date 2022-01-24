@@ -1,6 +1,6 @@
 # Les 2b
 
-**Opdracht 1) Fork de startcode **
+**Opdracht 1) Fork de startcode**&#x20;
 
 Deze opdracht wordt afgetekend als:
 
@@ -25,7 +25,7 @@ Deze opdracht wordt afgetekend als:
 
 * Jouw code de som netjes uitrekent.
 
-**Uitleg. **Nu moet de som natuurlijk nog uitgerekend worden. Kijk naar jouw code van vorige week en zorg dat de code goed rekent. Je mag jouw code natuurlijk kopiëren, maar let op! Er moet nog wel wat aan veranderd worden.
+**Uitleg.** Nu moet de som natuurlijk nog uitgerekend worden. Kijk naar jouw code van vorige week en zorg dat de code goed rekent. Je mag jouw code natuurlijk kopiëren, maar let op! Er moet nog wel wat aan veranderd worden.
 
 {% hint style="info" %}
 Test je code goed? Krijg jij als antwoord op 5 + 5 55 in plaats van 10? dan heb je jouw getallen niet vertaald met `int()`!
@@ -41,7 +41,7 @@ Deze opdracht wordt afgetekend als:
 
 * Je een nette foutmelding geeft als de gebruiker geen spaties gebruikt.
 
-**Uitleg. **Ben je vergeten een spatie te gebruiken? Dan doet de code het niet goed. Probeer het maar eens, dan krijg je dit in beeld:
+**Uitleg.** Ben je vergeten een spatie te gebruiken? Dan doet de code het niet goed. Probeer het maar eens, dan krijg je dit in beeld:
 
 ![](<../../.gitbook/assets/image (8).png>)
 

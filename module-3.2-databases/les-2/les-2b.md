@@ -71,7 +71,7 @@ Tip: Voor query 6 heb je een 'and' nodig!
 
 
 
-**Opdracht 3) **
+**Opdracht 3)**&#x20;
 
 Bereken nu deze berekeningen voor een [dataset met toetsen](https://replit.com/@mevrHermans/Pidk-K3-M2-L2b-3).&#x20;
 

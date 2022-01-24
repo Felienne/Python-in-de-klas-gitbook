@@ -14,6 +14,6 @@ Deze opdracht wordt afgetekend als:
 * &#x20;je het goede antwoord opgeslagen hebt in een variabele
 * noem de variabele `goed_antwoord`&#x20;
 
-**Opdracht. **Print het goede antwoord niet uit, dat is te makkelijk! Sla 'm in plaats daarvan op in een variabele. Die variabele kun je dan later gaan gebruiken om te kijken of een ingevoerd antwoord goed is.
+**Opdracht.** Print het goede antwoord niet uit, dat is te makkelijk! Sla 'm in plaats daarvan op in een variabele. Die variabele kun je dan later gaan gebruiken om te kijken of een ingevoerd antwoord goed is.
 
 ####

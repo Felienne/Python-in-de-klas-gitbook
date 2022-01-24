@@ -1,6 +1,6 @@
 # Les 1b
 
-**Opdracht 1) Fork de startcode **
+**Opdracht 1) Fork de startcode**&#x20;
 
 Deze opdracht wordt afgetekend als:
 
@@ -17,7 +17,7 @@ Deze opdracht wordt afgetekend als:
 
 * Je simulatie werkt en alles in beeld komt
 
-**Uitleg. **Er staat al wat code voor je klaar, je hoeft het alleen aan te passen.
+**Uitleg.** Er staat al wat code voor je klaar, je hoeft het alleen aan te passen.
 
 ```
 breedte = 600
@@ -72,7 +72,7 @@ Deze opdracht wordt afgetekend als:
 
 Later in de lessen gaan we de schildpad en de krop sla veranderen in een dier die jij mag kiezen. Ga nu informatie gaan zoeken over dieren. Kies een dier uit en een voedsel van dat dier. Zoek ook informatie uit over de leeromgeving van je dier.
 
-#### **Opdracht 6) **Laad je eigen plaatjes in
+#### **Opdracht 6)** Laad je eigen plaatjes in
 
 Deze opdracht wordt afgetekend als:
 

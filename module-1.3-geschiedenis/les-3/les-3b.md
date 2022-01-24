@@ -15,7 +15,7 @@ Deze opdracht wordt afgetekend als:
 * je het goede antwoord opslaat in `goed_antwoord`&#x20;
 * je een `if else` gebruikt om te kijken of het goed of fout is
 
-**Opdracht. **Sla het goede antwoord op in een variabele. Gebruik die variabele om met if te kijken of het antwoord klopt.&#x20;
+**Opdracht.** Sla het goede antwoord op in een variabele. Gebruik die variabele om met if te kijken of het antwoord klopt.&#x20;
 
 #### Opdracht 3b-3) Voeg de puntentelling toe
 
@@ -24,7 +24,7 @@ Deze opdracht wordt afgetekend als:
 * Je een variabele punten hebt gemaakt
 * Je 1 punt krijgt voor een goed antwoord
 
-**Opdracht. **Gebruik nu een variabele `punten`.&#x20;
+**Opdracht.** Gebruik nu een variabele `punten`.&#x20;
 
 #### Opdracht 3b-4) Blijven spelen met een lus (extra)
 
@@ -32,7 +32,7 @@ Deze opdracht wordt afgetekend als:
 
 * Je een for lus om je code zet, zodat je meerdere vragen krijgt
 
-**Opdracht. **Je moet nu steeds opnieuw de code runnen voor een nieuwe vraag, en je kunt maar 1 punt verdienen. Als je de hele code in een for lus zet, dan gaat het vaker. Je code komt er ongeveer zo uit te zien:
+**Opdracht.** Je moet nu steeds opnieuw de code runnen voor een nieuwe vraag, en je kunt maar 1 punt verdienen. Als je de hele code in een for lus zet, dan gaat het vaker. Je code komt er ongeveer zo uit te zien:
 
 ```
 punten = 0

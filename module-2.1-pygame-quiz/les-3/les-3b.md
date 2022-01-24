@@ -6,7 +6,7 @@ Deze opdracht wordt afgetekend als:
 
 1. Je de vier letters weer in beeld hebt
 
-**Uitleg. **Fork de startcode op [https://repl.it/@mevrHermans/pidk-jaar-2-les-3-opdr-1](https://repl.it/@mevrHermans/pidk-jaar-2-les-3-opdr-1). Die code is nog niet helemaal goed, jij gaat die code zelf stap voor stap verbeteren. Je begint net als vorige week maar met 1 letter. Zet jij alle vier de letters weer op een mooie plek?
+**Uitleg.** Fork de startcode op [https://repl.it/@mevrHermans/pidk-jaar-2-les-3-opdr-1](https://repl.it/@mevrHermans/pidk-jaar-2-les-3-opdr-1). Die code is nog niet helemaal goed, jij gaat die code zelf stap voor stap verbeteren. Je begint net als vorige week maar met 1 letter. Zet jij alle vier de letters weer op een mooie plek?
 
 **Opdracht 2**
 
@@ -15,7 +15,7 @@ Deze opdracht wordt afgetekend als:
 1. De letter A aangeklikt kan worden
 2. Je de letter waarop geklikt is, onderin in beeld krijgt
 
-**Uitleg. ** Zorg nu dat de A onderin in beeld komt als je op de A klikt. Als je klaar bent, ziet het  er zo uit als je op de A klikt:
+**Uitleg.** Zorg nu dat de A onderin in beeld komt als je op de A klikt. Als je klaar bent, ziet het  er zo uit als je op de A klikt:
 
 ![](<../../.gitbook/assets/image (3).png>)
 
@@ -35,7 +35,7 @@ Deze opdracht wordt afgetekend als:
 
 1. Je een extra plaatje in beeld krijgt
 
-**Opdracht. **Je kunt ook zelf nog iets in beeld krijgen, bijv. een smiley, een foto van jezelf of een "ik weet het niet" knop voor de speler. Voeg jij zelf nog iets toe aan je programma? Volg deze stappen:
+**Opdracht.** Je kunt ook zelf nog iets in beeld krijgen, bijv. een smiley, een foto van jezelf of een "ik weet het niet" knop voor de speler. Voeg jij zelf nog iets toe aan je programma? Volg deze stappen:
 
 1. Zoek een plaatje en sla het op op je computer
 2. Upload het plaatje in repl.it met de drie kleine stippeltjes
@@ -48,7 +48,7 @@ Deze opdracht wordt afgetekend als:
 
 1. De letters van plek kunnen veranderen.
 
-**Uitleg. **De letters blijven nu op dezelfde plek staan als ze worden aangeklikt. Je kan de quiz nog moeilijker maken, en leuker, als de letters nadat ze zijn aangeklikt, ergens anders weer in beeld komen. Dat kan op een random (willekeurige) plak zijn.
+**Uitleg.** De letters blijven nu op dezelfde plek staan als ze worden aangeklikt. Je kan de quiz nog moeilijker maken, en leuker, als de letters nadat ze zijn aangeklikt, ergens anders weer in beeld komen. Dat kan op een random (willekeurige) plak zijn.
 
 **Opdracht 5 (Extra)**
 
@@ -56,7 +56,7 @@ Deze opdracht wordt afgetekend als:
 
 1. Je zelf iets nieuws verzonnen hebt, en gemaakt
 
-**Opdracht. **Ben je klaar? Verzin dan zelf nog iets leuks! Bijv:
+**Opdracht.** Ben je klaar? Verzin dan zelf nog iets leuks! Bijv:
 
 * Een aftelklok van 10 seconden waarbinnen de speler moet klikken.
 * Andere letters of plaatjes om op te klikken, bijv een Appel voor A en een Banaan voor B

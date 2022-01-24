@@ -30,7 +30,7 @@ from __
 
 Verander de code in `main.sql` weer, maar verander nog steeds niets aan `database.sql`!
 
-Zorg ervoor dat **de data van de drie toetsen ** uit de tabel cijfers geprint wordt. Deze keer moet jij de code helemaal zelf schrijven.
+Zorg ervoor dat **de data van de drie toetsen** uit de tabel cijfers geprint wordt. Deze keer moet jij de code helemaal zelf schrijven.
 
 **4) Data toevoegen (X)**
 

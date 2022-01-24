@@ -12,7 +12,7 @@ Open het [nieuwe bestand](https://www.dropbox.com/s/f7opvepdq2yyo0n/Cijfers-leer
 6. Aantal jongens met een onvoldoende
 7. Aantal cijfers onder de 8 bij totaal
 
-**Opdracht 2) Moeilijkere formules **
+**Opdracht 2) Moeilijkere formules**&#x20;
 
 Open het nieuwe bestand over [atletiekdata](https://www.dropbox.com/s/mfrckp48wndikix/Atletiekdata.xlsx?dl=0). Maak formules voor deze zes berekeningen:
 

@@ -14,7 +14,7 @@ Deze opdracht wordt afgetekend als:
 
 * Jouw dier over het scherm beweegt
 
-**Uitleg. **Nu ga je je dier laten bewegen. Daarvoor gaan we twee stappen zetten.
+**Uitleg.** Nu ga je je dier laten bewegen. Daarvoor gaan we twee stappen zetten.
 
 1\) Maak een variabele snelheid, buiten de lus, dus boven de regel met `while dier_leeft`
 
@@ -53,7 +53,7 @@ Deze opdracht wordt afgetekend als:
 
 * De dier ook aan de linkerkant omdraait&#x20;
 
-**Uitleg. **Zorg nu dat het dier ook aan de linkerkant omdraait. Welke waarde zou je daarvoor moeten gebruiken? Denk goed na, of probeer het uit. Je kunt de code van de rechterkant kopieren en aanpassen.
+**Uitleg.** Zorg nu dat het dier ook aan de linkerkant omdraait. Welke waarde zou je daarvoor moeten gebruiken? Denk goed na, of probeer het uit. Je kunt de code van de rechterkant kopieren en aanpassen.
 
 {% hint style="info" %}
 verander de > in een < voor de linkerkant

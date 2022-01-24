@@ -53,7 +53,7 @@ Deze opdracht wordt afgetekend als:
 
 * Je je dier met een muisklik op het voedsel kan voeren
 
-**Uitleg. **
+**Uitleg.**&#x20;
 
 Je dier kan nu alleen kleiner worden en dan is je simulatie natuurlijk snel afgelopen. Zorg daarom dat je op het voedsel kan klikken, en dat de variabele honger dan met 10 verlaagd wordt. Als het goed is, groeit je dier dan ook vanzelf!
 

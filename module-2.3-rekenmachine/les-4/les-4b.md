@@ -14,9 +14,9 @@ Vervang alle vier regels voor operatoren door toewijzingen, bijvoorbeeld:
 
 `print(getal1 + getal2)`
 
-wordt** **
+wordt ****&#x20;
 
-`antwoord  = getal1 + getal2 `\
+`antwoord  = getal1 + getal2` \
 `print (antwoord)`
 
 Test je code nu uit. Als het goed is, werkt alles nog precies hetzelfde!
@@ -25,9 +25,9 @@ Test je code nu uit. Als het goed is, werkt alles nog precies hetzelfde!
 
 Deze opdracht wordt afgetekend als:
 
-* Je nog maar een keer** ** `print(antwoord)` in je code hebt staan.
+* Je nog maar een keer **** `print(antwoord)` in je code hebt staan.
 
-**Uitleg. **We hebben nu vier keer dezelfde regen in de code staan. Dat is niet zo handig, dus dat gaan we eerst netjes maken voor we verder gaan.
+**Uitleg.** We hebben nu vier keer dezelfde regen in de code staan. Dat is niet zo handig, dus dat gaan we eerst netjes maken voor we verder gaan.
 
 We gaan eerst kijken of de operator wel in het lijstjes operatoren zit. Dat doen we met de regel `if operator in operatoren:`Die if gaan we combineren met de else die we al hadden, zoals in de code hier onder. Op de \_\_\_\_ staart de code die jij al had, met 4 if's.
 
@@ -63,7 +63,7 @@ Deze opdracht wordt afgetekend als:
 
 * Je het antwoord op de som in de lijst hebt gezet.
 
-**Uitleg. **We gaan nu het antwoord in de lijst zetten op de plek van de som. Dat gaat zo:
+**Uitleg.** We gaan nu het antwoord in de lijst zetten op de plek van de som. Dat gaat zo:
 
 We zetten eerst deze code onder `print(antwoord)`
 
@@ -99,7 +99,7 @@ Deze opdracht wordt afgetekend als:
 
 * Je een while lus aan je code hebt toegevoegd&#x20;
 
-**Uitleg. **Nu we een sommetje van drie elementen kunnen vervangen door het antwoord, kunnen we dat steeds herhalen! Het gaat bijvoorbeeld zo:
+**Uitleg.** Nu we een sommetje van drie elementen kunnen vervangen door het antwoord, kunnen we dat steeds herhalen! Het gaat bijvoorbeeld zo:
 
 De som is: 1 + 2 + 3 + 8\
 In de lijst krijgen we dan \['1', '+', '2', '+', '3', '+', '8']\

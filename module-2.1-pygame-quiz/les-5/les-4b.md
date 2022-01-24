@@ -7,7 +7,7 @@ Deze opdracht wordt afgetekend als:
 1. Je een variabele `antwoord` hebt gemaakt waarin de aangeklikte letter is opgeslagen.
 2. De variabele ook uitgeprint wordt na het klikken
 
-**Uitleg. **Ga naar jouw code van vorige week. In die code** **print je nu de aangeklikte letter uit. Dat is prima, maar we willen de letter ook nog in een variabele opslaan. Want dan kunnen we straks kijken of het aangeklikte antwoord goed is.&#x20;
+**Uitleg.** Ga naar jouw code van vorige week. In die code **** print je nu de aangeklikte letter uit. Dat is prima, maar we willen de letter ook nog in een variabele opslaan. Want dan kunnen we straks kijken of het aangeklikte antwoord goed is.&#x20;
 
 Volg deze stappen:&#x20;
 
@@ -30,7 +30,7 @@ Deze opdracht wordt afgetekend als:
 
 1. Er bij een goed antwoord 'goed' geprint wordt en bij een fout antwoord 'fout'
 
-**Uitleg. ** Voeg een if toe aan je code, waarmee je kijkt of het antwoord goed is. Volg deze stappen:
+**Uitleg.** Voeg een if toe aan je code, waarmee je kijkt of het antwoord goed is. Volg deze stappen:
 
 1. Maak een variabele `goede_antwoord` waarin je het goede antwoord van de vraag opslaat
 2. Kijk met een if of het antwoord van de speler, in `antwoord`hetzelfde is als `goede_antwoord`
@@ -41,7 +41,7 @@ Deze opdracht wordt afgetekend als je:
 
 1. Na een goed of fout antwoord, de variabele `antwoord`weer op 'geen' gezet wordt.
 
-**Uitleg. **Als de speler het antwoord nu goed of fout heeft, dan blijft dat de hele tijd zo. Dat is natuurlijk niet leuk. Zeker niet bij een fout antwoord. Daarom moet de variabele `antwoord `weer op 'geen' gezet worden, zodat het nog een keer geprobeerd kan worden.
+**Uitleg.** Als de speler het antwoord nu goed of fout heeft, dan blijft dat de hele tijd zo. Dat is natuurlijk niet leuk. Zeker niet bij een fout antwoord. Daarom moet de variabele `antwoord` weer op 'geen' gezet worden, zodat het nog een keer geprobeerd kan worden.
 
 Pas eerste de code van de A aan, en test die dan goed. Verander de code daarna pas weer voor de B, C en D.
 
@@ -77,7 +77,7 @@ Deze opdracht wordt afgetekend als:
 
 1. De letters van plek kunnen veranderen.
 
-**Uitleg. **De letters blijven nu op dezelfde plek staan als ze worden aangeklikt. Je kan de quiz nog moeilijker maken, en leuker, als de letters nadat ze zijn aangeklikt, ergens anders weer in beeld komen. Dat kan op een random (willekeurige) plak zijn.
+**Uitleg.** De letters blijven nu op dezelfde plek staan als ze worden aangeklikt. Je kan de quiz nog moeilijker maken, en leuker, als de letters nadat ze zijn aangeklikt, ergens anders weer in beeld komen. Dat kan op een random (willekeurige) plak zijn.
 
 **Opdracht 7 (Extra)**
 
@@ -85,7 +85,7 @@ Deze opdracht wordt afgetekend als:
 
 1. Je zelf iets nieuws verzonnen hebt, en gemaakt
 
-**Opdracht. **Ben je klaar? Verzin dan zelf nog iets leuks! Bijv:
+**Opdracht.** Ben je klaar? Verzin dan zelf nog iets leuks! Bijv:
 
 * Een aftelklok van 10 seconden waarbinnen de speler moet klikken.
 * Andere letters of plaatjes om op te klikken, bijv een Appel voor A en een Banaan voor B

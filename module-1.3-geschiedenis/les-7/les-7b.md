@@ -14,7 +14,7 @@ Deze opdracht wordt afgetekend als:
   * een hint geeft als de speler het niet weet
   * een punt geeft als de speler het wel weet
 
-**Opdracht. **Zorg dat jouw quiz een lijst van lijsten gebruikt, maar verder hetzelfde werkt als eerst.
+**Opdracht.** Zorg dat jouw quiz een lijst van lijsten gebruikt, maar verder hetzelfde werkt als eerst.
 
 #### Opdracht 7-2) Verwijder nu ook de gestelde vragen&#x20;
 
@@ -22,7 +22,7 @@ Deze opdracht wordt afgetekend als:
 
 * Je een vraag die wordt gesteld verwijdert uit de lijst.
 
-**Opdracht. **Gebruik nu 1 `remove()` om de lijst met een vraag, antwoord, thema en hint te verwijderen als de vraag goed beantwoord os.
+**Opdracht.** Gebruik nu 1 `remove()` om de lijst met een vraag, antwoord, thema en hint te verwijderen als de vraag goed beantwoord os.
 
 
 

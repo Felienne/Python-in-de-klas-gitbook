@@ -1,12 +1,12 @@
 # Les 6b
 
-** Opdracht 1) Ook de gedeeld door heeft voorrang**
+&#x20;**Opdracht 1) Ook de gedeeld door heeft voorrang**
 
 Deze opdracht wordt afgetekend als:
 
 * Je ook sommen met een / goed kan uitrekenen. Gedeeld door komt ook voor + en -
 
-**Uitleg. **Sommen met een / nog niet goed, dan gaan we dat nu samen verbeteren. Kijk bijvoorbeeld eens naar deze som: 5 + 10 / 5
+**Uitleg.** Sommen met een / nog niet goed, dan gaan we dat nu samen verbeteren. Kijk bijvoorbeeld eens naar deze som: 5 + 10 / 5
 
 Daar moet 7 uitkomen want gedeeld door gaat voor. Dus eerst 10/5, dat is 2 en die 2 wordt dan opgeteld bij de 5. Maar in onze rekenmachine gaat dat niet goed. Wij gaan van links naar rechts, dus we krijgen 5 + 10 dat is 15 gedeeld door 5 is 3.
 
@@ -26,7 +26,7 @@ Deze opdracht wordt afgetekend als:
 
 * Je kommagetallen uitprint met een punt, maar gehele getallen zonder punt
 
-**Uitleg. **Tot nu hebben we steeds alle getallen afgerond. Dus als je 10/5 uitrekende, kreeg je mooi 2. Maar als je 10/3 deed, dan kreeg je 3. Dus geen 3.333333.... . Dat gaan we nu oplossen!
+**Uitleg.** Tot nu hebben we steeds alle getallen afgerond. Dus als je 10/5 uitrekende, kreeg je mooi 2. Maar als je 10/3 deed, dan kreeg je 3. Dus geen 3.333333.... . Dat gaan we nu oplossen!
 
 Laten we eens beginnen met het weghalen van de `round` in deze regel code:
 
