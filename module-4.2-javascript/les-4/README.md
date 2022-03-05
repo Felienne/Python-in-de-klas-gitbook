@@ -2,7 +2,7 @@
 
 ## Slides
 
-JavaScript Les 4 (geen presentatie voor deze week nog v afwezigheid Felienne)
+[JavaScript Les 4](https://slides.com/felienne/pidk-k4-m2-l4)
 
 ### Lesbrief
 
