@@ -185,3 +185,5 @@
     * [Les 3b](module-4.2-javascript/les-3/les-3b.md)
   * [Les 4](module-4.2-javascript/les-4/README.md)
     * [Les 4b](module-4.2-javascript/les-4/les-4b.md)
+  * [Les 5](module-4.2-javascript/les-5/README.md)
+    * [Les 5b](module-4.2-javascript/les-5/les-5b.md)
