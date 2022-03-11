@@ -15,3 +15,4 @@ Zorg ervoor dat:
 * De kleur van de titel `steelblue` wordt
 * De inhoud van de paragraaf met id `paragraaf1` als volgt is: `Dingen Werken!`
 
+TODO: deze les heeft wat weinig opgaves vergeleken met de volgende les. Iest meer erbij hier?
