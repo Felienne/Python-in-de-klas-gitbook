@@ -14,4 +14,4 @@
 
 ## Instructies voor de leerkracht
 
-In deze les leren leerlingen hoe ze JavaScript invoer van een gebruiker kunnen verwerken.
+In deze les leren leerlingen hoe ze meerdere tags of classes in een keer kunnen ophalen en aanpassen.
