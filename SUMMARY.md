@@ -191,3 +191,5 @@
     * [Les 6b](module-4.2-javascript/les-6/les-6b.md)
   * [Les 7](module-4.2-javascript/les-7/README.md)
     * [Les 7b](module-4.2-javascript/les-7/les-7b.md)
+  * [Les 8](module-4.2-javascript/les-8/README.md)
+    * [Les 8b](module-4.2-javascript/les-8/les-8b.md)
