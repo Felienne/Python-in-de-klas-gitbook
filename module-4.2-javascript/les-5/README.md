@@ -10,8 +10,8 @@
 
 ## Leerdoelen
 
-* Debuggen in JavaScript
+* Invoer van de gebruiken verwerken
 
 ## Instructies voor de leerkracht
 
-In deze les leren leerlingen hoe ze JavaScript invoer van een gebruiker kunnen verwerken.
+In deze les leren leerlingen hoe ze in JavaScript invoer van een gebruiker kunnen verwerken.
