@@ -2,7 +2,7 @@
 
 ## Slides
 
-JavaScript Les 7 (nog geen slides)
+[JavaScript Les 7](https://slides.com/felienne/pidk-k4-m2-l7/)
 
 ### Lesbrief
 
@@ -10,7 +10,7 @@ JavaScript Les 7 (nog geen slides)
 
 ## Leerdoelen
 
-* Andere soorten gebruikersinteractief naast muiskliks (bijc onMouseOver)
+* Andere soorten gebruikersinteractief naast knoppen: interactieve tekstelementen en plaatjes en mouseover.
 
 ## Instructies voor de leerkracht
 
