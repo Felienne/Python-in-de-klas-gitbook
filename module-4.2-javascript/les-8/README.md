@@ -2,7 +2,7 @@
 
 ## Slides&#x20;
 
-Slides moeten nog gemaakt worden (iets van: wat weet je nog over concept x y z met wosbordjes op post-its)
+[JavaScript, les 8](https://slides.com/felienne/pidk-k4-m2-l8) (nog niet af, moet iets worden met wisbordjes "wat weet je nog over")
 
 ## Lesbrief
 
