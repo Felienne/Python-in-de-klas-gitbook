@@ -34,15 +34,15 @@ auto.src = "url van je eigen autoplaatje";
 
 **Opdracht 4) Tekst onder het plaatje**
 
-Werk verder met de code van "Opdracht 3 Verander het plaatje".
+Werk verder met de code van "Opdracht 3) Verander het plaatje".
 
 Breid het vorige programma uit zodat de knop die je hebt gemaakt, om de plaatjes te veranderen, ook een tekstje op de pagina zet over de desbetreffende plaatjes. Elke keer als er dus op de knop gedrukt wordt veranderen de plaatjes maar ook de tekst.
 
 **Opdracht 5) Klikkerdeklik**
 
-Je krijgt nu [in deze repl](https://replit.com/@mevrHermans/pidk-k4-m2-l5-opdracht-5) een pagina met een lege paragraaf (met id = aantalkliks) en een button.
+Je krijgt nu [in deze repl](https://replit.com/@mevrHermans/pidk-k4-m2-l5-opdracht-5) een pagina met een lege paragraaf (met `id = "aantalkliks"`) en een button.
 
-Programmeer de button zodat in de paragaaf te zien is hoe vaak er is geklikt op de button.
+Programmeer de button zodat in de paragraaf te zien is hoe vaak er is geklikt op de button.
 
 **Opdracht 6) Waar klik ik?**
 
