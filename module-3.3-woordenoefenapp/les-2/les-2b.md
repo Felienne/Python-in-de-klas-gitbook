@@ -43,11 +43,9 @@ with open(___, 'w') as csvfile: #kies hier een nieuwe bestandsnaam
   writer.writerows(woordlijst)
 ```
 
-Voer de code uit en kijk of alles goed is gegaan, met andere woorden of jouw data in het nieuwe bestand staat. Zo ziet het er uit als alles goed is:
+Voer de code uit en kijk of alles goed is gegaan, met andere woorden of jouw data in het nieuwe bestand staat. Zo ziet het er uit als alles goed is (maar bij jou kunnen de ja's en nee's natuurlijk op andere plekken staan)
 
-
-
-
+![](https://previews.dropbox.com/p/thumb/ABc-3mVSSgarLtuJKF1dlau-SSK0hl\_y8AZ3LxW9YXFJrhmEZ5pgkg6hjR-TNIl0pH3tdV0OUxEOdfwEzQAz9vyUwIT8TTK4mWbEZMAmgZdIWFsr8DdoU5WrcbezY-WMt8gXwkN-fUtRxNjwlbgNOQF1Wog4Ls\_itZO88qUBSxV4NCdoscK8UfA3ze6ZXmk2IezWxU7Xe9axIdzEXgrv6r8XnR1SnyGh7ocizHCzgIahyCa9w92uYnwftQCLkQDtfARjhsjZhCFffJcX4oKvGKykPWxbA4C\_Krgu0Z-63mz\_M\_Zem0CWhWJf2PBtrPd-IRQVpYD0ZBTygaZboH2m4eTTxAwAf\_IlwmfzvRvNKxJBifByFbv3Lu9d3rfUpPtZ3ps/p.png)
 
 **Opdracht 4) Vang verkeerde invoer af (extra)**
 
