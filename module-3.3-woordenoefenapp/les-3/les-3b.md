@@ -1,4 +1,4 @@
-# Les 2b
+# Les 3b
 
 De app die we gaan maken kent straks twee fases:&#x20;
 
@@ -12,8 +12,7 @@ In deze les werken we nog even verder aan het selecteren van woorden, maar treff
 Ga verder met je replit van vorige les. Als je het programma nu nog eens uitvoert, moet je nog een keer zeggen van woorden of je ze al kent. Dat is natuurlijk gek, want we hebben al eens aangeven van de woorden of we ze kenden. Daarom maak je nu deze aanpassingen aan je programma.
 
 1. Lees bij het beginnen niet het bestand `words.csv`in, maar `words-selectie.csv`
-2. Haal in de for-lus niet alleen de kolom woord op met \['`woord']`  maar ook de kolom bekend. Vraag alleen aan de gebruiker of het woord bekend is, als de kolom bekend nog leeg is. Dat doe je met een if, vergelijk daarvoor bekend met `''`.
-3. Het antwoord is stoppen -> stop de loop met `break`
+2. Haal in de for-lus niet alleen de kolom woord op met \['`woord']`  maar ook de kolom `bekend`. Vraag alleen aan de gebruiker of het woord bekend is, als de kolom bekend nog leeg is. Dat doe je met een `if`, vergelijk daarvoor bekend met `''`.
 
 **Opdracht 2) Een functie maken**
 
@@ -30,5 +29,5 @@ Het stukje code dat zegt dat we gaan oefenen breiden we volgende les verder uit.
 
 **Opdracht 4) Vang verkeerde invoer af (extra)**
 
-Ook hier kunnen we weer netjes controleren of de gebruiker wel het juiste heeft ingevoerd. Geef een goede melding bij onlogische invoer.
+Ook hier kunnen we weer netjes controleren of de gebruiker wel het juiste heeft ingevoerd. Geef een goede melding bij onlogische invoer, en bedenk deze melding zelf.
 
