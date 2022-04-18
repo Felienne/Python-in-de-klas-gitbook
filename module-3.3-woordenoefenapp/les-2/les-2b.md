@@ -49,5 +49,5 @@ Voer de code uit en kijk of alles goed is gegaan, met andere woorden of jouw dat
 
 **Opdracht 4) Vang verkeerde invoer af (extra)**
 
-In opdracht 1 heb je naar 3 mogeijkheden gekeken, maar soms maakt een gebruiker een typfout. Geef de melnding "onbekende invoer" als de gebruiker iets onvpert dat niet ja, nee of stoppen is.
+In opdracht 1 heb je naar 3 mogeijkheden gekeken, maar soms maakt een gebruiker een typfout. Geef de melding "onbekende invoer" als de gebruiker iets onvpert dat niet ja, nee of stoppen is.
 
