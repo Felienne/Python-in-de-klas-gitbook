@@ -23,9 +23,15 @@ Tip: Klap de functie `selecteren()`even dicht met het driehoekje:
 
 **Opdracht 3) De functie invullen**
 
+Nu ga jij de functie invullen. Zorg dat er het volgende gebeurt:
 
+1. Lees het csv-bestand weer in
+2. Kijk per regel of het woord bekend is. Doe alleen iets voor onbekende woorden, dus als `rij['bekend'] == 'nee'`
+3. Voor onbekende woorden, vraag de gebruiker om **twee** invoeren!
+   1. De betekenis
+   2. Een zin met het woord erin
 
-
+Voor nu slaan we de twee antwoorden op in twee variabelen: `betekenis` en `zin`. Volgende les schrijven we die variabelen teurg in de csv file zodat je die aan je leraar Engels kan laten zien!&#x20;
 
 ****
 

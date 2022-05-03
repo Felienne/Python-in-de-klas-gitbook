@@ -175,6 +175,7 @@
     * [Les 3b](module-3.3-woordenoefenapp/les-3/les-3b.md)
   * [Les 4](module-3.3-woordenoefenapp/les-4/README.md)
     * [Les 4b](module-3.3-woordenoefenapp/les-4/les-4b.md)
+  * [Les 5](module-3.3-woordenoefenapp/les-5.md)
 * [Module 4.1 - Flask](module-4.1-flask/README.md)
   * [Les 1](module-4.1-flask/les-1/README.md)
     * [Les 1b](module-4.1-flask/les-1/les-1b.md)
