@@ -18,7 +18,7 @@ Ga verder met je replit van vorige les. Als je het programma nu nog eens uitvoer
 
 We hebben al heel wat code gemaakt, en er komt binnenkort nog meer code bij! Tijd om te code die we tot nu toe gemaakt hebben, in een functie te zetten om de code beter georganiseerd te houden. Maak een functie en noem deze `selecteren`.&#x20;
 
-**Opdracht 3) Kiezen tussen**&#x20;
+**Opdracht 3) Kiezen tussen selecteren en oefenen**
 
 Nu je een functie hebt gemaakt, moeten we die nog _aanroepen_. Aanroepen betekent de code in de functie opstarten. Vraag aan de gebruiker wat hij of zij wil doen, en zet dit in een if:
 
