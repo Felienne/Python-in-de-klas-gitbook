@@ -5,7 +5,7 @@ De app die we gaan maken kent straks twee fases:&#x20;
 1. Woorden selecteren
 2. Woorden oefenen
 
-In deze les gaan we het oefenen om orde maken. Dat doen we meteen in een functie.
+In deze les gaan we het oefenen in orde maken. Dat doen we meteen in een functie.
 
 **Opdracht 1) Oefenfunctie aanroepen**
 
@@ -31,7 +31,7 @@ Nu ga jij de functie invullen. Zorg dat er het volgende gebeurt:
    1. De betekenis
    2. Een zin met het woord erin
 
-Voor nu slaan we de twee antwoorden op in twee variabelen: `betekenis` en `zin`. Volgende les schrijven we die variabelen teurg in de csv file zodat je die aan je leraar Engels kan laten zien!&#x20;
+Voor nu slaan we de twee antwoorden op in twee variabelen: `betekenis` en `zin`. Volgende les schrijven we die variabelen terug in de csv file zodat je die aan je leraar Engels kan laten zien!&#x20;
 
 ****
 
