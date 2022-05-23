@@ -1,6 +1,6 @@
 # Les 5b
 
-De app die we gaan maken kent straks twee fases:&#x20;
+De app die we gaan maken kent twee fases:&#x20;
 
 1. Woorden selecteren
 2. Woorden oefenen
