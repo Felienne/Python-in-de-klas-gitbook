@@ -1,38 +1,48 @@
-# Les 5b
+# Les 6b
 
-De app die we gaan maken kent twee fases:&#x20;
+De app die we gaan maken kent nu twee fases:&#x20;
 
 1. Woorden selecteren
 2. Woorden oefenen
 
-In deze les gaan we het oefenen verder uitbreiden door de ingevulden antwoorden van de gebruiker op te slaan in het bestand.&#x20;
+In deze les gaan we een derde fases toevoegen: Uitvoer tonen.
 
-**Opdracht 1) Antwoorden opslaan**
+In die fase gaan we jouw opgeslagen csv bestand uitlezen en netjes weergeven zodat je het kan tonen aan je docent, of aan je ouders!&#x20;
 
-We gaan eerst de antwoorden van de gebruiker in =de dictionary opslaan, dat doen we zo:
+**Opdracht 1) Nieuwe fase toevoegen**
 
-`rij['Betekenis'] = betekenis`
+Maak een nieuwe functie en noem die `uitvoer_tonen()`. Weet je niet meer hoe je een funcite maakt? Kijkt dan in de code die je al hebt.
 
-Doe dat meteen na de invoer, en doe het ook voor de variabele zin om dezelfde manier
+Vul de body van de functie nog even met:
 
-**Opdracht 2) kolommen aanmaken in het csv bestand**
+`print('We gaan jouw woordenlijst nu tonen')`
 
-Er is nu nog niets veranderd aan het bestand, voer je code maar eens uit, er is nog niets terug geschreven in het bestand. We moeten nog aan het csv bestand vertellen welke kolommen er in zitten, dat gaat zo:
+Dat vullen we later verder in.
 
-`headers = ['Nummer', 'Woord', 'Beschrijving',` ....`]`
+**Opdracht 2) Keuze voor de gebruiker uitbreiden.**
 
-Vul op de puntjes zelf de nieuwe kolommen in. Krijg je een foutmelding? Lees dan goed wat er staat, waarschijnlijk heb je een foutje gemaakt in een naam van een kolom.
+Eerst had de gebruiker 2 opties, en nu 3. Verander jij de if zelf? Vergeet niet ook de instructie aan te passen, dat is deze regel:
 
-**Opdracht 3) data opslaan**
+`input('Wil je woorden selecteren(s) of oefenen(o)?')`
 
-Sla nu de data op, dat doe je met deze code:
+Test je code! Wordt de funtion `uitvoer_tonen` goed aangeroepen?
 
-```python
-    with open('words-selectie.csv', 'w', newline='') as csvfile:
-      writer = csv.DictWriter(csvfile, fieldnames=headers)
-      writer.writeheader()
-      writer.writerows(woordlijst)
-```
+**Opdracht 3) Data laten zien**
+
+We gaan nu de functie ook invullen met code. Kijk goed in je bestaande code en volg deze stappen:
+
+1. Lees het csv bestand words-selectie.csv uit
+2. Print alleen de woorden waarvoor een antwoord is opgeslagen (doorvoor geldt: betekenis is niet leeg)
+3. Zorg dat iedere regel zo geprint wordt:
+4. Het woord `woord` betekent volgens jou `betekenis` Jij maakte er deze zin mee: `zin`
+
+{% hint style="info" %}
+Een handig manier om strings in Python mooi te maken is het gebruik van fstrings, die maak je zo:
+
+f"Het woord {woord} betekent volgens jou {betekenis} Jij maakte er deze zin mee: {zin}.
+{% endhint %}
+
+****
 
 ****
 
