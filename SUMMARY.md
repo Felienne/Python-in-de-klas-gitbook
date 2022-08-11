@@ -2,6 +2,7 @@
 
 * [Welkom bij Python in de Klas!](README.md)
 * [Handleiding](handleiding.md)
+* [Moduleoverzicht](moduleoverzicht.md)
 * [Module 1.1 - Nederlands](module-1.1-nederlands/README.md)
   * [Spiekbrief](module-1.1-nederlands/spiekbrief/README.md)
     * [Spiekbrief - in te vullen](module-1.1-nederlands/spiekbrief/spiekbrief-in-te-vullen.md)
