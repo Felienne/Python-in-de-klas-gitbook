@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welkom bij Python in de Klas!](README.md)
+* [Welkom bij Codasium!](README.md)
 * [Handleiding](handleiding.md)
 * [Moduleoverzicht](moduleoverzicht.md)
 * [Module 1.1 - Nederlands](module-1.1-nederlands/README.md)

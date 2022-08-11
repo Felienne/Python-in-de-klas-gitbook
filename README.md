@@ -1,6 +1,8 @@
-# Welkom bij Python in de Klas!
+# Welkom bij Codasium!
 
-Welkom op de pagina van 'Python in de klas'. Dit materiaal is bedoeld om programmeerlessen te geven met ruime instructie, met slides en werkbladen voor leerlingen. Leerlingen gaan dus niet meteen zelfstandig achter de computer aan het werk maar volgen gezamelijk uitleg met veel interactie.\
+Welkom op de pagina van het Codasium. Hier delen en organiseren wij al het lesmateriaal dat gebruikt wordt in het [Codasium programma](https://www.codasium.nl/) van Lyceum Kralingen en inmiddels ook op andere plekken.\
+\
+Dit materiaal is bedoeld om programmeerlessen te geven met ruime instructie, met slides en werkbladen voor leerlingen. Leerlingen gaan dus niet meteen zelfstandig achter de computer aan het werk maar volgen gezamelijk uitleg met veel interactie.\
 \
 Het materiaal is gemaakt door Felienne Hermans (Lyceum Kralingen/Universiteit Leiden) in samenwerking met VHTO en met hulp van Lisa van der Plas en Marijn van der Meer. Op dit moment worden de lessen gebruikt op het Metis Montessori in Amsterdam en Lyceum Kralingen in Rotterdam. Ga jij de lessen ook gebruiken? Dan vinden we het leuk om van je te horen!
 
