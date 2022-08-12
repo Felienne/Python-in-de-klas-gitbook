@@ -9,11 +9,13 @@ In deze module maken leerlingen ook kennis met TKinter, een manier om met Python
 ## Doelen van deze module
 
 * UI maken met Python
-* Functies maken
 
 Daarnaast ook meer oefenen met bekende concepten:
 
 * if-elif-else
+* functies
+
+
 
 ## Slides
 

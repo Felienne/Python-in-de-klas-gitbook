@@ -26,20 +26,4 @@ Deze opdracht wordt afgetekend als:
 Vergeet niet dat Python voor een sterretje gebruikt, dat is deze \*. Python gebruikt voor gedeeld door de slash, deze /
 {% endhint %}
 
-**Opdracht 3) Verbeter de foutmelding**
-
-Deze opdracht wordt afgetekend als:
-
-* Je een nette foutmelding krijgt als je iets invoert dat geen getal is.
-
-Als je een verkeerde operator invoert, krijg je een mooie foutmelding te zien:
-
-![](<../../../.gitbook/assets/image (7).png>)
-
-Maar misschien had je ook geprobeerd om iets in te voeren dat geen getal was. Dan gaat niet goed, dan krijg je dit:&#x20;
-
-![](<../../../.gitbook/assets/image (5).png>)
-
-Zorg dat je ook een mooie foutmelding krijgt als `getal1` of `getal2` geen getal is. Daarvoor hebben we een nieuwe code nodig: `is_getal(getal_1)`Met die code kun je kijken of een tekst die ingevoerd is, wel een getal is. De functie `is_getal` staat al voor jou klaar bovenin het programma.
-
-Zet jij de code zelf in een `if`?
+****
