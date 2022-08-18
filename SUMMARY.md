@@ -212,6 +212,10 @@
     * [Les 7b](module-4.2-javascript/les-7/les-7b.md)
   * [Les 8](module-4.2-javascript/les-8/README.md)
     * [Les 8b](module-4.2-javascript/les-8/les-8b.md)
+* [Module 5.1 - Tekstanalyse](module-5.1-tekstanalyse/README.md)
+  * [Les 1](module-5.1-tekstanalyse/les-1/README.md)
+    * [Les 1a](module-5.1-tekstanalyse/les-1/les-1a.md)
+    * [Les 1b](module-5.1-tekstanalyse/les-1/les-1b.md)
 
 ## In ontwikkeling
 
