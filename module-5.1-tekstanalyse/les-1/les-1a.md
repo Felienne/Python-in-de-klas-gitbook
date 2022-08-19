@@ -6,7 +6,9 @@ In deze lessenserie gaan we C# gebruiken als voorbeeldtaal. C# is anders dan Pyt
 
 **Syntax**
 
-De syntax van C# lijkt een beetje op javaScript, zo gebruiken we krulhaakjes om functies te maken en eindigen regels met een puntkomma. Maar... er zijn ook verschillen.
+De syntax van C# lijkt een beetje op javaScript, zo gebruiken we krulhaakjes om functies te maken en eindigen regels met een puntkomma. Ook de naamsregels voor variabelen zijn hetzelfde, we gebruiken `camelCase` en geen `snake_case`.
+
+Maar... er zijn ook verschillen.
 
 **Klassen en methodes**
 
@@ -28,7 +30,7 @@ Anders dan in Pythonen JavaScript moeten we in C# altijd vertellen welk type in 
 <pre class="language-csharp"><code class="lang-csharp">class Program {
   public static void Main() {
 <strong>    string text = "hallo!";
-</strong>    Console.WriteLine (text);
+</strong>    Console.WriteLine(text);
 }</code></pre>
 
 **Tekst uit een bestand lezen**
@@ -37,4 +39,5 @@ In C# kunnen we vrij makkelijk een bestand uitlezen, dat gaat zo. We hoeven dus 
 
 ```csharp
 string text = System.IO.File.ReadAllText("tweets.json");
+Console.WriteLine(text);
 ```
