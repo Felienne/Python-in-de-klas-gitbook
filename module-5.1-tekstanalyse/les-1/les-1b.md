@@ -51,7 +51,7 @@ Denk ook al eens na over wat je met deze data zou kunnen doen!
 
 De code dit je tot nu toe hebt geschreven werkt maar voor een tweet. Nu ga jij het mogelijk maken om het voor meerdere tweets te doen. Volg daarvoor deze stappen:
 
-* Download [dit bestand](https://www.dropbox.com/s/wz2tuidtk90vuwe/tweets.json?dl=0) en voeg het toe aan je project
+* Download [dit bestand](https://www.dropbox.com/s/22luhms25g9wf11/tweets.json?dl=0) en voeg het toe aan je project
 * Lees de inhoud van het bestand in, regel per regel
   * Hiervoor heb je een for lus nodig. Je kan twee dingen doen: zelf opzoeken op internet hoe dat moet, of nu overschakelen op de online videos hieronder, dan komt het vanzelf langs!
 * Parse iedere regel los met de json parser en verwerk de inhoud
