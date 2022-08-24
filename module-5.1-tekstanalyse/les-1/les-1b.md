@@ -8,7 +8,7 @@ Klink in replit op Create en maak een nieuw C# bestand aan. Let op dat je de gew
 
 **2) Lees een bestand in!**
 
-Download dit bestand met [een tweet in jsonformaat](https://replit.com/@mevrHermans/ReadTweets#tweet.json) en voeg het toe aan je replit. Gebruik de code uit deel a om de tweets in het bestand in te lezen. Print de inhoud van het bestand uit zodat je kunt zien of het goed gegaan is.
+Download dit bestand met [een tweet in jsonformaat](https://www.dropbox.com/s/8jykdfbamhkc59l/tweet.json?dl=0) en voeg het toe aan je replit. Gebruik de code uit deel a om de tweets in het bestand in te lezen. Print de inhoud van het bestand uit zodat je kunt zien of het goed gegaan is.
 
 **3) Vertaal het bestand in json**
 
@@ -51,8 +51,9 @@ Denk ook al eens na over wat je met deze data zou kunnen doen!
 
 De code dit je tot nu toe hebt geschreven werkt maar voor een tweet. Nu ga jij het mogelijk maken om het voor meerdere tweets te doen. Volg daarvoor deze stappen:
 
-* Download [dit bestand](https://replit.com/@mevrHermans/ReadTweets#tweets.json) en voeg het toe aan je project
+* Download [dit bestand](https://www.dropbox.com/s/l7d8d1301ba7b2z/tweets.json?dl=0) en voeg het toe aan je project
 * Lees de inhoud van het bestand in, regel per regel
+  * Hiervoor heb je een for lus nodig. Je kan twee dingen doen: zelf opzoeken op internet hoe dat moet, of nu overschakelen op de online videos hieronder, dan komt het vanzelf langs!
 * Parse iedere regel los met de json parser en verwerk de inhoud
 
 
