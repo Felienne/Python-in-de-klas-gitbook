@@ -26,38 +26,54 @@ Nu kunnen we de json zo inlezen. Zoek in deel a of op internet op hoe je een bes
 // lees hier het bestand in en zorg dat in inhoud ervan in de variabele text komst
 
 var jsonObject = JsonDocument.Parse(text);
-Console.WriteLine (jsonObject);
+Console.WriteLine(jsonObject);
 ```
 
-Anders dan in Python kunnen we het object niet goed zien in C#. We kunnen wel een veld opvragen, probeer dat maar eens:
+Anders dan in Python kunnen we het object niet goed zien in C#. Als we het printen met `Console.WriteLine`zien we alleen `System.Text.Json.JsonDocument` in beeld.
+
+We kunnen wel een veld opvragen, probeer dat maar eens:
 
 ```csharp
 var tweetText = jsonObject.RootElement.GetProperty("full_text");
-Console.WriteLine (tweetText);
+Console.WriteLine(tweetText);
 ```
 
 **4) Wat zit er allemaal op een tweet?**
 
-Nu we een tweet kunnen inlezen wordt het tijd om eens te bekijken wat er allemaal op zit! Lees de json eens door en zoek uit of je deze dingen kan printen:
+Nu we een tweet kunnen inlezen wordt het tijd om eens te bekijken wat er allemaal op zit!&#x20;
+
+Maar... zo'n heel groot tekstbestand, dat is niet handig om te lezen!
+
+Daar zijn gelukkig tooltjes voor, bijv: [http://jsonviewer.stack.hu/](http://jsonviewer.stack.hu/). Plak de json bij text en kijk dan eens bij viewer, zo heb je veel meer overzicht:
+
+<figure><img src="https://www.dropbox.com/s/pxzna9xusxr99ez/Screen%20Shot%202022-08-24%20at%202.23.49%20PM.png?raw=1" alt=""><figcaption></figcaption></figure>
+
+Zoek nu eens uit of je deze dingen kan printen:
 
 * Hoe vaak een tweet is geretweet
-* Of een andere user genoemd is in de tweet (een _mention_ heet dat)
-* Of er een foto bij zat
-* Vanaf welke plaats of locatie de tweet is verstuurd
+* In welke taal de tweet geschreven is
+* Of het een "quote tweet" is
 
-Denk ook al eens na over wat je met deze data zou kunnen doen!
+**5) Dieper in de "boom"**
 
-**5) Nu met meer tweets**
+Sommige van de velden hebben zelf weer velden, dat zien we aan het plusje dat je uit kan klappen, bijvoorbeeld `user`:
 
-De code dit je tot nu toe hebt geschreven werkt maar voor een tweet. Nu ga jij het mogelijk maken om het voor meerdere tweets te doen. Volg daarvoor deze stappen:
+<figure><img src="https://www.dropbox.com/s/xze7o0jf36vtcas/Screen%20Shot%202022-08-24%20at%202.54.34%20PM.png?raw=1" alt=""><figcaption></figcaption></figure>
 
-* Download [dit bestand](https://www.dropbox.com/s/22luhms25g9wf11/tweets.json?dl=0) en voeg het toe aan je project
-* Lees de inhoud van het bestand in, regel per regel
-  * Hiervoor heb je een for lus nodig. Je kan twee dingen doen: zelf opzoeken op internet hoe dat moet, of nu overschakelen op de online videos hieronder, dan komt het vanzelf langs!
-* Parse iedere regel los met de json parser en verwerk de inhoud
+`user` heeft bijvoorbeeld het veld `id`, maar ook `name`, daaraan kan je zien hoe het account heet. Als je die velden wilt opvragen dan kan dat niet in één stap, maar moet het in twee stappen, zo:
 
+```csharp
+var tweetUsername = jsonObject.RootElement.GetProperty("user").GetProperty("name");
+```
 
+Probeer nu eens deze dingen op te vragen:
 
-**Hierna: Meer leren over C#**
+* De screenname van degene die de tweet stuurde (dat is anders dan `name`!)
+* De bio van de user, veld: description
+* De avatar van de user, zoek zelf op welk veld dat kan zijn
 
-Nu je ongeveer weet wat we gaan doen met C# is het tijd om ons wat meer in de taal te verdiepen. Volg [deze cursus van Microsoft](https://docs.microsoft.com/nl-nl/learn/paths/csharp-first-steps/?WT.mc\_id=dotnet-35129-website\&ns-enrollment-type=Collection\&ns-enrollment-id=yz26f8y64n7k07) op je eigen tempo.
+**6) Data analyse**
+
+Deze periode gaan we aan de slag met een grotere dataset van Twitter. Denk eens na over wat je met een hele dataset van zulke tweets zou kunnen doen!
+
+****

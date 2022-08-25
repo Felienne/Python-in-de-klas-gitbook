@@ -1,4 +1,4 @@
-# Les 1b
+# Les 7b
 
 **Opdracht 1) Schakel je code uit en voeg de UI toe**
 
@@ -21,7 +21,7 @@ root.geometry("600x400")
 
 def Rekenen():
   som = invoerveld.get()
-  # plak hier jouw oude code
+  # hier moet natuurlijk jouw code gekoppeld worden
   
   uitvoerveld["text"] = "0"
 
@@ -66,12 +66,10 @@ Nu gaan we jouw bestaande codes invoegen in de functie `rekenen()`. Pak alle cod
 
 2. Selecteer nu alle codes onderaan die beginnen met #&#x20;
 3. Zet het weer aan met ctrl-?
-4. Spring de code in met tab
-5. **Plak de codes nu in de functie `rekenen()` , op de plek van # plak hier jouw oude code**
+4. Spring de code in met tab\
 
 
-
-Als het goed is kun je de functie nu mooi dichtklappen en zitten als jouw codes erin:
+Gelukt? Plak de codes nu in de functie `rekenen()` Als het goed is kun je de functie nu mooi dichtklappen en zitten als jouw codes erin:
 
 ![](https://www.dropbox.com/s/kz4dc30lo4uusc9/Screen%20Shot%202022-08-12%20at%2012.13.01%20PM.png?raw=1)
 
