@@ -35,7 +35,7 @@ Anders dan in Pythonen JavaScript moeten we in C# altijd vertellen welk type in 
 
 **Tekst uit een bestand lezen**
 
-In C# kunnen we vrij makkelijk een bestand uitlezen, dat gaat zo. We hoeven dus geen bestand aan te maken of `with` te gebruiken zoals in Python.
+In C# kunnen we vrij makkelijk een bestand uitlezen, dat gaat zo. We hoeven dus geen bestand aan te maken of with the gebruiken zoals in Python.
 
 ```csharp
 string text = System.IO.File.ReadAllText("tweets.json");

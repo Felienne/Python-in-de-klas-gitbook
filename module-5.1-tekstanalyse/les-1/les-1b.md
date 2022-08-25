@@ -8,7 +8,7 @@ Klink in replit op Create en maak een nieuw C# bestand aan. Let op dat je de gew
 
 **2) Lees een bestand in!**
 
-Download dit bestand met [een tweet in jsonformaat](https://www.dropbox.com/s/8jykdfbamhkc59l/tweet.json?dl=0) en voeg het toe aan je replit. Gebruik de code uit deel a om de tweets in het bestand in te lezen. Print de inhoud van het bestand uit zodat je kunt zien of het goed gegaan is.
+Download dit bestand met [een tweet in jsonformaat](https://replit.com/@mevrHermans/ReadTweets#tweet.json) en voeg het toe aan je replit. Gebruik de code uit deel a om de tweets in het bestand in te lezen. Print de inhoud van het bestand uit zodat je kunt zien of het goed gegaan is.
 
 **3) Vertaal het bestand in json**
 
@@ -26,54 +26,37 @@ Nu kunnen we de json zo inlezen. Zoek in deel a of op internet op hoe je een bes
 // lees hier het bestand in en zorg dat in inhoud ervan in de variabele text komst
 
 var jsonObject = JsonDocument.Parse(text);
-Console.WriteLine(jsonObject);
+Console.WriteLine (jsonObject);
 ```
 
-Anders dan in Python kunnen we het object niet goed zien in C#. Als we het printen met `Console.WriteLine`zien we alleen `System.Text.Json.JsonDocument` in beeld.
-
-We kunnen wel een veld opvragen, probeer dat maar eens:
+Anders dan in Python kunnen we het object niet goed zien in C#. We kunnen wel een veld opvragen, probeer dat maar eens:
 
 ```csharp
 var tweetText = jsonObject.RootElement.GetProperty("full_text");
-Console.WriteLine(tweetText);
+Console.WriteLine (tweetText);
 ```
 
 **4) Wat zit er allemaal op een tweet?**
 
-Nu we een tweet kunnen inlezen wordt het tijd om eens te bekijken wat er allemaal op zit!&#x20;
-
-Maar... zo'n heel groot tekstbestand, dat is niet handig om te lezen!
-
-Daar zijn gelukkig tooltjes voor, bijv: [http://jsonviewer.stack.hu/](http://jsonviewer.stack.hu/). Plak de json bij text en kijk dan eens bij viewer, zo heb je veel meer overzicht:
-
-<figure><img src="https://www.dropbox.com/s/pxzna9xusxr99ez/Screen%20Shot%202022-08-24%20at%202.23.49%20PM.png?raw=1" alt=""><figcaption></figcaption></figure>
-
-Zoek nu eens uit of je deze dingen kan printen:
+Nu we een tweet kunnen inlezen wordt het tijd om eens te bekijken wat er allemaal op zit! Lees de json eens door en zoek uit of je deze dingen kan printen:
 
 * Hoe vaak een tweet is geretweet
-* In welke taal de tweet geschreven is
-* Of het een "quote tweet" is
+* Of een andere user genoemd is in de tweet (een _mention_ heet dat)
+* Of er een foto bij zat
+* Vanaf welke plaats of locatie de tweet is verstuurd
 
-**5) Dieper in de "boom"**
+Denk ook al eens na over wat je met deze data zou kunnen doen!
 
-Sommige van de velden hebben zelf weer velden, dat zien we aan het plusje dat je uit kan klappen, bijvoorbeeld `user`:
+**5) Nu met meer tweets**
 
-<figure><img src="https://www.dropbox.com/s/xze7o0jf36vtcas/Screen%20Shot%202022-08-24%20at%202.54.34%20PM.png?raw=1" alt=""><figcaption></figcaption></figure>
+De code dit je tot nu toe hebt geschreven werkt maar voor een tweet. Nu ga jij het mogelijk maken om het voor meerdere tweets te doen. Volg daarvoor deze stappen:
 
-`user` heeft bijvoorbeeld het veld `id`, maar ook `name`, daaraan kan je zien hoe het account heet. Als je die velden wilt opvragen dan kan dat niet in één stap, maar moet het in twee stappen, zo:
+* Download [dit bestand](https://replit.com/@mevrHermans/ReadTweets#tweets.json) en voeg het toe aan je project
+* Lees de inhoud van het bestand in, regel per regel
+* Parse iedere regel los met de json parser en verwerk de inhoud
 
-```csharp
-var tweetUsername = jsonObject.RootElement.GetProperty("user").GetProperty("name");
-```
 
-Probeer nu eens deze dingen op te vragen:
 
-* De screenname van degene die de tweet stuurde (dat is anders dan `name`!)
-* De bio van de user, veld: description
-* De avatar van de user, zoek zelf op welk veld dat kan zijn
+**Hierna: Meer leren over C#**
 
-**6) Data analyse**
-
-Deze periode gaan we aan de slag met een grotere dataset van Twitter. Denk eens na over wat je met een hele dataset van zulke tweets zou kunnen doen!
-
-****
+Nu je ongeveer weet wat we gaan doen met C# is het tijd om ons wat meer in de taal te verdiepen. Volg [deze cursus van Microsoft](https://docs.microsoft.com/nl-nl/learn/paths/csharp-first-steps/?WT.mc\_id=dotnet-35129-website\&ns-enrollment-type=Collection\&ns-enrollment-id=yz26f8y64n7k07) op je eigen tempo.
