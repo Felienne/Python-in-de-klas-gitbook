@@ -1,3 +1,3 @@
 # Les 2a
 
-Nu je een beetje een beeld hebt gevromd
+Vandaag gaan we meerdere tweets inlezen!

@@ -1,6 +1,12 @@
 # Les 3b
 
-**1) Bedenk je project**
+**1) Nu met types**
+
+Tot nu toe hebben we steeds&#x20;
+
+****
+
+**3) Bedenk je project**
 
 Nu je een beetje met C# hebt gewerkt en met de kleine dataset ga jij een plan maken om twitterdata te analyseren.&#x20;
 

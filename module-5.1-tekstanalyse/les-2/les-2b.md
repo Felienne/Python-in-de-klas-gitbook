@@ -40,11 +40,7 @@ Unhandled exception. System.Text.Json.JsonReaderException: '{' is invalid after 
 Dan probeer je meerdere tweets tegelijk in te lezen in json, dat werkt niet! Doe eht regel per regel.
 {% endhint %}
 
-**2) Nu met types**
-
-
-
-**3) Plan je project**
+**2) Plan je project**
 
 In periode 1 en 2 gaan we aan de slag met een Twitter dataset. Begin al eens met nadenken over wat je met deze data zou kunnen doen! Denk bijvoorbeeld over wat voor soort tweets jij in wilt lezen, iets over films, voetbal of iets heel anders?&#x20;
 
