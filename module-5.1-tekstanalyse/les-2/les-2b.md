@@ -40,14 +40,19 @@ Unhandled exception. System.Text.Json.JsonReaderException: '{' is invalid after 
 Dan probeer je meerdere tweets tegelijk in te lezen in json, dat werkt niet! Doe eht regel per regel.
 {% endhint %}
 
+**2) Nu met types**
 
+
+
+**3) Plan je project**
+
+In periode 1 en 2 gaan we aan de slag met een Twitter dataset. Begin al eens met nadenken over wat je met deze data zou kunnen doen! Denk bijvoorbeeld over wat voor soort tweets jij in wilt lezen, iets over films, voetbal of iets heel anders?&#x20;
+
+En wat ga jij met de data doen? Plotten op een wereldkaart? Tekstanalyse op wat mensen zeggen ?
 
 **Hierna: Meer leren over C#**
 
 Nu je ongeveer weet wat we gaan doen met C# is het tijd om ons wat meer in de taal te verdiepen. Volg [deze cursus van Microsoft](https://docs.microsoft.com/nl-nl/learn/paths/csharp-first-steps/?WT.mc\_id=dotnet-35129-website\&ns-enrollment-type=Collection\&ns-enrollment-id=yz26f8y64n7k07) op je eigen tempo.
 
-* Of een andere user genoemd is in de tweet (een _mention_ heet dat)
-* Of er een foto bij zat
-* Vanaf welke plaats of locatie de tweet is verstuurd
 
-Denk ook al eens na over wat je met deze data zou kunnen doen!
+
