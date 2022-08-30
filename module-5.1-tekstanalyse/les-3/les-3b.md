@@ -2,11 +2,9 @@
 
 **1) Nu met types**
 
-Tot nu toe hebben we steeds&#x20;
+Lees les 3a en zet jouw code om zodat het een Tweet klasse gebruikt. Zorg dat alle velden uit de json op jouw klasse zitten!
 
-****
-
-**3) Bedenk je project**
+**2) Bedenk je project**
 
 Nu je een beetje met C# hebt gewerkt en met de kleine dataset ga jij een plan maken om twitterdata te analyseren.&#x20;
 
@@ -17,7 +15,7 @@ Denk in ieder geval na over:
 
 Maak een document waarin je duidelijk vertelt wat je gaat doen.&#x20;
 
-**2) Plan je project**
+**3) Plan je project**
 
 Als je weet wat je gaat doen, dan ga je nu een planning maken.&#x20;
 

@@ -34,7 +34,7 @@ Deze opdracht wordt afgetekend als:
 
 Als je een verkeerde operator invoert, krijg je een mooie foutmelding te zien:
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 Maar misschien had je ook geprobeerd om iets in te voeren dat geen getal was. Dan gaat niet goed, dan krijg je dit:&#x20;
 

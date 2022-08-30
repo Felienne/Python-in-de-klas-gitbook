@@ -44,18 +44,30 @@ Test nu je code en kijk of het er goed uit ziet!&#x20;
 
 We hebben ook weer in- en uitvoer nodig. Een tekstbox om een woord te laten zien en een invoer om in te typen. Voeg die ook toe aan je programma, zodat het er zo uit ziet:
 
-<img src="../../.gitbook/assets/image.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (14).png" alt="" data-size="original">
 
 **4) Koppel de functie voor woorden selecteren**
 
 Zoek nu jouw code van voor de vakantie op. Als het goed is had jij in je code al een functie `selecteren()` staan. Kopieer alleen die functie naar je nieuwe programma.
 
-Koppel nu de functie aan de selecteerknop, dat doe je door `["command"]` in te stellen op selecteren (zonder aanhalingstekens!)
+Koppel nu de functie aan de selecteerknop, dat doe je door `["command"]` in te stellen op `selecteren` (zonder aanhalingstekens!):
 
-Probeer je code nu uit. Als het goed is krijg je deze foutmelding:
+`selecteerknop["command"] = selecteren`
 
-**FileNotFoundError: \[Errno 2] No such file or directory: 'words-selectie.csv'**
+{% hint style="info" %}
+Probeer je code nu uit. \
+****\
+****Als het goed is krijg je deze foutmelding:
 
-Dat komt omdat je je bestand nog niet hebt ingeladen. Download [dit bestand](https://replit.com/@mevrHermans/pidk-k3-m3-l7-einde#words.csv) en voeg het aan je programma toe.
+****![](<../../.gitbook/assets/image (15).png>)****
+{% endhint %}
 
-Zorg nu dat het selecteren van woorden goed werkt! Daarvoor moet je soms code omzetten zoals vorige week.
+Dat komt omdat je je tekstbestand nog niet hebt ingeladen. Download [dit bestand](https://replit.com/@mevrHermans/pidk-k3-m3-l7-einde#words.csv) en voeg het aan je programma toe.
+
+Zorg nu dat het selecteren van woorden goed werkt! Daarvoor moet je soms code omzetten zoals vorige week:
+
+* Verander `print(...)`in `uitvoerveld["text"] = ...`
+* Verander `... = input('')` in `som = invoerveld.get()`
+
+Probeer je code nu weer goed en test of alles werkt uit!
+
