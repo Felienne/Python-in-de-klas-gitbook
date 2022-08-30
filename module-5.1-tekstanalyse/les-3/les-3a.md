@@ -40,6 +40,6 @@ Dat is veel handiger, want als we nu een tikfoutje maken, zien we dat meteen:
 
 En, ben je even vergeten wat er op je tweet zit? replit vertelt het nu automatisch als je een punt typt:
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 ****

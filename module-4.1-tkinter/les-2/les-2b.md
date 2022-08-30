@@ -40,15 +40,17 @@ Hier zijn belangrijke tips!!
 
 Test nu je code en kijk of het er goed uit ziet!&#x20;
 
-**3) Maak ook een invoerveld en een uitvoerveld**
+**3) Maak ook een invoerveld, een uitvoerveld en een okknop**
 
 We hebben ook weer in- en uitvoer nodig. Een tekstbox om een woord te laten zien en een invoer om in te typen. Voeg die ook toe aan je programma, zodat het er zo uit ziet:
 
-<img src="../../.gitbook/assets/image (14).png" alt="" data-size="original">
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-**4) Koppel de functie voor woorden selecteren**
+**4) Koppel nu de selecteer knop**
 
-Zoek nu jouw code van voor de vakantie op. Als het goed is had jij in je code al een functie `selecteren()` staan. Kopieer alleen die functie naar je nieuwe programma.
+Zoek nu jouw code van voor de vakantie op. Als het goed is had jij in je code al een functie `selecteren()` staan.&#x20;
+
+_Kopieer alleen die functie naar je nieuwe programma._
 
 Koppel nu de functie aan de selecteerknop, dat doe je door `["command"]` in te stellen op `selecteren` (zonder aanhalingstekens!):
 
@@ -70,4 +72,3 @@ Zorg nu dat het selecteren van woorden goed werkt! Daarvoor moet je soms code om
 * Verander `... = input('')` in `som = invoerveld.get()`
 
 Probeer je code nu weer goed en test of alles werkt uit!
-
