@@ -26,7 +26,7 @@ Kijk nu weer in de data.
 
 We gaan nu een dubbel filter gebruiken. Ik wil alle aardbevingen tellen in juli, van alle jaren! Ook wil ik alleen die aardbevingen meetellen waarvan de bron, in kolom I, ISCGEM is. Hoeveel tel je er?
 
-**Opdracht 5\) De kolom ID**
+**Opdracht 5\) De kolom ID \(X\)**
 
 Kijk eens naar kolom H. Wat valt jou op aan die data?
 
