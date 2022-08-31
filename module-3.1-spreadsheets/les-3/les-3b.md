@@ -40,7 +40,7 @@ Maak deze grafieken:
 * Box and whiskersplot van toets 3
 * Radargrafiek van toets 1
 
-**Opdracht 3) Grafieken en formules (X)**\
+**Opdracht 4) Grafieken en formules (X)**\
 \
 Deze opdracht gaat over het maken van grafieken. Werk verder aan het bestand met cijfers dat je al hebt.
 
