@@ -46,29 +46,39 @@ We hebben ook weer in- en uitvoer nodig. Een tekstbox om een woord te laten zien
 
 <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
-**4) Koppel nu de selecteer knop**
+**4) Open je bestand en laat de woorden één voor één zien**
 
-Zoek nu jouw code van voor de vakantie op. Als het goed is had jij in je code al een functie `selecteren()` staan.&#x20;
+Zoek nu jouw code van voor de vakantie op. Als het goed is had jij in je code al een functie `selecteren()` staan. Lees die code nu eens goed door en kijk of je nog weet wat alles doet.
 
-_Kopieer alleen die functie naar je nieuwe programma._
+In de functie `selecteren()` opende je een bestand en printte je de woorden daaruit één voor één.
 
-Koppel nu de functie aan de selecteerknop, dat doe je door `["command"]` in te stellen op `selecteren` (zonder aanhalingstekens!):
+Dat stukje gaan we nu in jouw UI programma zetten, zo:
 
-`selecteerknop["command"] = selecteren`
+* Maak een nieuwe functie `selecteren()`
+* Koppel die aan de selecteerknop. Weet je niet meer hoe het moet? Kijk bij je code van vorige week.
+* Open het csv-bestand en zet iedere woord op het uitvoerveld. In jouw code was dat een `print()`, die moet je dus gaan veranderen.
 
-{% hint style="info" %}
-Probeer je code nu uit. \
-****\
-****Als het goed is krijg je deze foutmelding:
+Probeer je code nu weer uit.
 
-****![](<../../.gitbook/assets/image (15).png>)****
-{% endhint %}
+**5) Even pauzeren!**
 
-Dat komt omdat je je tekstbestand nog niet hebt ingeladen. Download [dit bestand](https://replit.com/@mevrHermans/pidk-k3-m3-l7-einde#words.csv) en voeg het aan je programma toe.
+Als het goed is, doet je code het nu maar... alle woorden komen heel snel achter elkaar! Je ziet dus alleen het laatste woord. Wil je zeker weten dat dat zo is? Zet dan eens een deze codes nadat je het uitvoerveld hebt aangepast:
 
-Zorg nu dat het selecteren van woorden goed werkt! Daarvoor moet je soms code omzetten zoals vorige week:
+```python
+  root.update()
+  time.sleep(1)
+```
 
-* Verander `print(...)`in `uitvoerveld["text"] = ...`
-* Verander `... = input('')` in `som = invoerveld.get()`
+Dan komende de woorden wel een voor een.
 
-Probeer je code nu weer goed en test of alles werkt uit!
+We moeten dus wachten tot de gebruiker op een knop heeft kunnen klikken voor het volgende woord erbij komt! Daar is een tkinter een trucje voor met een variabele, dat gaat zo:
+
+```python
+ okknop.wait_variable(okknop_ingedrukt)
+
+
+
+okknop_ingedrukt = IntVar()
+
+okknop["command"] = lambda: okknop_ingedrukt.set(1)
+```
