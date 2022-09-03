@@ -38,47 +38,12 @@ Hier zijn belangrijke tips!!
 * Iedere knop moet op een andere plaats komen
 * Je hoeft nog geen codes te koppelen aan de knoppen. Dus `["command"]`mag je nog even weglaten
 
-Test nu je code en kijk of het er goed uit ziet!&#x20;
+Test nu je code en kijk of het er goed uit ziet.
 
-**3) Maak ook een invoerveld, een uitvoerveld en een okknop**
+**3) Maak  een uitvoerveld en twee knoppen**
 
-We hebben ook weer in- en uitvoer nodig. Een tekstbox om een woord te laten zien en een invoer om in te typen. Voeg die ook toe aan je programma, zodat het er zo uit ziet:
+We hebben ook weer uitvoer nodig om het woord te laten zien, en twee knoppen met Ja en Nee erop. Daarmee gaat de gebruiker aangeven of ze het woord al kennen. Voeg die ook toe aan je programma, zodat het er zo uit ziet:
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-**4) Open je bestand en laat de woorden één voor één zien**
-
-Zoek nu jouw code van voor de vakantie op. Als het goed is had jij in je code al een functie `selecteren()` staan. Lees die code nu eens goed door en kijk of je nog weet wat alles doet.
-
-In de functie `selecteren()` opende je een bestand en printte je de woorden daaruit één voor één.
-
-Dat stukje gaan we nu in jouw UI programma zetten, zo:
-
-* Maak een nieuwe functie `selecteren()`
-* Koppel die aan de selecteerknop. Weet je niet meer hoe het moet? Kijk bij je code van vorige week.
-* Open het csv-bestand en zet iedere woord op het uitvoerveld. In jouw code was dat een `print()`, die moet je dus gaan veranderen.
-
-Probeer je code nu weer uit.
-
-**5) Even pauzeren!**
-
-Als het goed is, doet je code het nu maar... alle woorden komen heel snel achter elkaar! Je ziet dus alleen het laatste woord. Wil je zeker weten dat dat zo is? Zet dan eens een deze codes nadat je het uitvoerveld hebt aangepast:
-
-```python
-  root.update()
-  time.sleep(1)
-```
-
-Dan komende de woorden wel een voor een.
-
-We moeten dus wachten tot de gebruiker op een knop heeft kunnen klikken voor het volgende woord erbij komt! Daar is een tkinter een trucje voor met een variabele, dat gaat zo:
-
-```python
- okknop.wait_variable(okknop_ingedrukt)
-
-
-
-okknop_ingedrukt = IntVar()
-
-okknop["command"] = lambda: okknop_ingedrukt.set(1)
-```
+****

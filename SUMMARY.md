@@ -141,6 +141,8 @@
   * [Les 2](module-4.1-tkinter/les-2/README.md)
     * [Les 2a](module-4.1-tkinter/les-2/les-2a.md)
     * [Les 2b](module-4.1-tkinter/les-2/les-2b.md)
+  * [Les 3](module-4.1-tkinter/les-3/README.md)
+    * [Les 3b](module-4.1-tkinter/les-3/les-3b.md)
 * [Module 4.2 - JavaScript](module-4.2-javascript/README.md)
   * [Les 1](module-4.2-javascript/les-1/README.md)
     * [Les 1b](module-4.2-javascript/les-1/les-1b.md)

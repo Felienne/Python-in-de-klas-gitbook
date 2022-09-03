@@ -17,7 +17,7 @@ Deze opdracht wordt afgetekend als:
 
 **Uitleg.** Zorg nu dat de A onderin in beeld komt als je op de A klikt. Als je klaar bent, ziet het  er zo uit als je op de A klikt:
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 Zet de if-code op de juiste plek neer, en zorg dat deze regels wel in de buitenste if blijven staan. Er staat al een stukje commentaar op de goede plek voor je klaar:
 

@@ -38,7 +38,7 @@ Deze opdracht wordt afgetekend als:
 
 **Uitleg.** Er is al een variabele honger aangemaakt, en die wordt ook al geprint, dat zie er zo uit:
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 Maar de variabele blijft nu steeds op 0 staan. Dat ga jij nu aanpassen.&#x20;
 

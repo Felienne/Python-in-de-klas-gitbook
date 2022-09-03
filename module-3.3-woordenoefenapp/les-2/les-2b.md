@@ -17,7 +17,7 @@ Begin met [deze repl](https://replit.com/@mevrHermans/pidk-k3-m3-l2b1-1). Voeg n
 
 **Opdracht 2) Antwoord opslaan in een dict**
 
-Nu we weten welke woorden de gebruikeer wel en niet kent, gaan we de antwoorden opslaan in een de dictionary die bij de rij hoort. Dat doen we in een nieuw veld: 'bekend'. Zo sla je iets in dat veld op:
+Nu we weten welke woorden de gebruiker wel en niet kent, gaan we de antwoorden opslaan in een de dictionary die bij de rij hoort. Dat doen we in een nieuw veld: 'bekend'. Zo sla je iets in dat veld op:
 
 `rij['bekend'] = 'ja'`
 
@@ -47,5 +47,5 @@ Voer de code uit en kijk of alles goed is gegaan, met andere woorden of jouw dat
 
 ![](<../../.gitbook/assets/image (13).png>)
 
-In opdracht 1 heb je naar 3 mogeijkheden gekeken, maar soms maakt een gebruiker een typfout. Geef de melding "onbekende invoer" als de gebruiker iets onvpert dat niet ja, nee of stoppen is.
+In opdracht 1 heb je naar 3 mogelijkheden gekeken, maar soms maakt een gebruiker een typfout. Geef de melding "onbekende invoer" als de gebruiker iets invoert dat niet _ja_, _nee_ of _stoppen_ is.
 

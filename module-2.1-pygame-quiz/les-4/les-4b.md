@@ -17,7 +17,7 @@ Deze opdracht wordt afgetekend als:
 
 Als je klaar bent, ziet het  er zo uit als je op de A klikt:
 
-![](<../../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 **Opdracht 2**
 
