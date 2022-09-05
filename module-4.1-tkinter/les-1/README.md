@@ -2,10 +2,11 @@
 
 ## Slides
 
-Nog geen slides beschikbaar
+* [Slides les 1](https://slides.com/felienne/pidk-k4-m1tk-l1/edit)
 
 ## Leerdoelen
 
+* Herhalen functies in Python
 * UI maken met tkinter
 
 ## Instructies voor de leerkracht

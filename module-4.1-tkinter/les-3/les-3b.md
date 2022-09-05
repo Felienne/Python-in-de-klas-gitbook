@@ -22,7 +22,7 @@ Probeer je code nu weer uit.
 
 Als het goed is, doet je code het nu maar... alle woorden komen heel snel achter elkaar! Je ziet dus alleen het laatste woord. Zo ziet dat er waarschijnlijk uit (maar jij zou ook een ander woord kunnen hebben als je een andere versie van de woordenlijst gebruikt)
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Wil je zeker weten dat inderdaad alle woorden langskomen? Zet dan eens een deze codes nadat je het uitvoerveld hebt aangepast:
 
@@ -64,4 +64,8 @@ Test je code nu uit! Druk steeds op de ja of nee knop en kijk of er steeds een n
 
 In de selecteerfase van je programma gaat de gebruiker voor ieder woord aangeven of ze het al kennen. Dat deden we in de tekstversie met het intypen van ja of nee. In tkinter gaan we nu dus iets doen met de ingedrukte ja of nee knop.
 
-We hebben de speciale variabele `knop_gekozen`gemaakt zodat we weten welke van de twee knoppen er gebruikt is. Staat deze variabele op "ja", dan is de jaknop indrukt, en staat hij op "nee" dan natuurlijk de neeknop. Dat kun jij in de code gebruiken! Pas je code die je al had aan zodat het netjes reageert op de knoppen.
+We hebben de speciale variabele `knop_gekozen`gemaakt zodat we weten welke van de twee knoppen er gebruikt is. Staat deze variabele op "ja", dan is de jaknop indrukt, en staat hij op "nee" dan natuurlijk de neeknop. Dat kun jij in de code gebruiken!&#x20;
+
+Pas je code die je al had aan zodat het netjes reageert op de knoppen.
+
+Zorg er ook voor dat de ja en nee waardes opgeslagen worden in je csv-bestand.
