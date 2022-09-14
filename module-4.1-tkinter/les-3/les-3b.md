@@ -52,10 +52,10 @@ def nee_knop_ingedrukt():
 
 Nu moet je deze functie ingedrukt toevoegen als commando van de ja en de nee knop. Weet je nog hoe je een functie op een knop zet?&#x20;
 
-Als dat gelukt is, moet je in **de loop waarin je de woorden inleest** een wacht commando zetten, zo:
+Als dat gelukt is, moet je in **de loop waarin je de woorden inleest** een wacht commando zetten. Zet deze regel nadat je het woord in het uitvoerveld hebt geprint.
 
 ```python
-ja_knop_ingedrukt.wait_variable(ja_of_nee_knop_is_ingedrukt)
+jaknop.wait_variable(ja_of_nee_knop_is_ingedrukt)
 ```
 
 Test je code nu uit! Druk steeds op de ja of nee knop en kijk of er steeds een nieuw woord in beeld komt.
