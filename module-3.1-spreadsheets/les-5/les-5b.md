@@ -59,11 +59,11 @@ Denk bijv aan:
 * Lijngrafiek van magnitude
 * Lijngrafiek van diepte
 
-**Opdracht 6) Grafieken op formules**
+**Opdracht 6) Grafieken op formules (X)**
 
 Deze opdracht gaat weer over grafieken op de aardbevingendataset.
 
-Als data in Excel geen gestallen zijn letters of woorden zijn, en geen getallen, dan kun je geen grafiek maken. Je moet dan eerst formules schrijven om de data om te zetten. Daaruit komen cijfers en die kun je dan in een grafiek gebruiken.
+Als data in Excel letters of woorden zijn, en geen getallen, dan kun je geen grafiek maken. Je moet dan eerst formules schrijven om de data om te zetten. Daaruit komen cijfers en die kun je dan in een grafiek gebruiken.
 
 Maak formules voor deze zaken:
 
