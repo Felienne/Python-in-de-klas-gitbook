@@ -16,7 +16,7 @@ Je hoeft niet alle data over te typen! Je kunt de hele kolom met namen kopiëren
 
 **Opdracht 2) Eredivisie data splitsen in meerdere tabellen**
 
-Splits ook [data van de eredivisie](https://www.dropbox.com/s/cd1caftox88zxuq/eredivisie-2020.xlsx?dl=0) in meerdere tabellen. Er staan en geen tabellen voor je klaar, dus die moet je zelf verzinnen en invullen. Je weet dat je klaar bent als er geen teksten meerdere keren voorkomen (namen van scheidsrechters en teams)
+Splits ook [data van de eredivisie](https://www.dropbox.com/s/cd1caftox88zxuq/eredivisie-2020.xlsx?dl=0) in meerdere tabellen. Er staan geen tabellen voor je klaar, dus die moet je zelf verzinnen en invullen. Je weet dat je klaar bent als er geen teksten meerdere keren voorkomen (namen van scheidsrechters en teams)
 
 **Opdracht 3) Splits de quizdata**
 
