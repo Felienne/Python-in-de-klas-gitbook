@@ -71,24 +71,3 @@ Maak formules voor deze zaken:
 * Een staafgrafiek met het aantal aardbevingen voor ieder meetstation
 * Het aantal aardbevingen boven en onder magnitude 6
 * Het aantal aardbevingen boven en onder magnitude 200 meter diepte
-
-**Opdracht 7) Sparklines (X)**
-
-Voor deze opdracht mag je een Sparklines grafiek proberen te maken. Sparklines is een grafiek die je in 1 cel maakt. Je maakt het via **Invoegen - Sparklines** (Dus niet onder Grafiek!)
-
-Dan kies je eerst de data waarvan je de grafiek wilt maken, en daarna de cel waarin je de sparklines grafiek wilt zetten.
-
-Schrijf dan in Python op je gemaakt hebt, en wat je ziet aan de grafiek.
-
-Probeer er maar eens een paar te maken, dat mag op de cijfers of op de data van de aardbeving.
-
-**Opdracht 8) Voorwaardelijke Opmaak (X)**
-
-Voor deze opdracht ga je gebruik maken vaan Voorwaardelijke Opmaak. Dat betekent dat cellen een bepaalde kleur krijgen, afhankelijk van hun waarde.
-
-Selecteer een hele kolom met data en kies dan Voorwaardelijke Opmaak in het midden van de menubalk.
-
-Schrijf dan in Python op wat je gemaakt hebt. Bijvoorbeeld: welke soort opmaak je hebt gekozen (Gegevensbalk of kleurenschool of pictogrammen) en wat je ziet aan de kleuren.
-
-Probeer er maar eens een paar te maken, dat mag op de cijfers of op de data van de aardbeving.
-
