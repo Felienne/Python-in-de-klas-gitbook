@@ -43,7 +43,7 @@ Koppel ook de juiste tabellen in de data van de voetbalwedstrijden. Bekijk zelf 
 Bekijk de data van verschillende [investeringen](https://www.dropbox.com/s/dx7e7o2koszwovl/SP500%20oil%20gold%20bitcoin.xlsx?dl=0). In de spreadsheet is de prijs weergegeven van de Bitcoin, 
 olie, goud en de S&P500 (De S&P500 is een aandelenindex van de 500 grootste Amerikaanse bedrijven). Voer de volgende taken uit
 
-1. Maak een grafiek met op de y-as de waarde van een investering en de x-as de tijd. Doe dit voor iedere kolom. Lukt het om alle waarden in één grafiek te krijgen?
+1. Maak een grafiek met op de y-as de waarde van een investering en de x-as de tijd. Doe dit voor iedere kolom. Lukt het om alle data in één grafiek te krijgen?
 2. Welke investering is het meest in waarde gestegen? Welke het minst?
 3. Stel je had op 5 april 2015 1000 euro in Brent Oil geïnvesteerd. Wanneer was het beste moment om dit te verkopen?
 4. Stel je had op 9 november 2021 100 euro in Bitcoin geïnvesteerd, hoeveel heb je dan op 18 juni 2022 nog over?
@@ -56,13 +56,13 @@ Voor deze opdracht mag je een Sparklines grafiek proberen te maken. Sparklines i
 
 Dan kies je eerst de data waarvan je de grafiek wilt maken, en daarna de cel waarin je de sparklines grafiek wilt zetten.
 
-Schrijf dan in Python op je gemaakt hebt, en wat je ziet aan de grafiek.
+Schrijf dan in Python op wat je gemaakt hebt, en wat je ziet aan de grafiek.
 
 Probeer er maar eens een paar te maken, dat mag op de cijfers of op de data van de aardbeving.
 
 **Opdracht 7) Voorwaardelijke Opmaak (X)**
 
-Voor deze opdracht ga je gebruik maken vaan Voorwaardelijke Opmaak. Dat betekent dat cellen een bepaalde kleur krijgen, afhankelijk van hun waarde.
+Voor deze opdracht ga je gebruik maken van Voorwaardelijke Opmaak. Dat betekent dat cellen een bepaalde kleur krijgen, afhankelijk van hun waarde.
 
 Selecteer een hele kolom met data en kies dan Voorwaardelijke Opmaak in het midden van de menubalk.
 
