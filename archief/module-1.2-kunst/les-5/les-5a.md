@@ -256,12 +256,12 @@ for i in range(aantal_keer):
 
 1\.
 
-![](<../../../.gitbook/assets/image-20190406141936243 (1).png>)
+![](../../../.gitbook/assets/image-20190406141936243.png)
 
-1. ![](<../../../.gitbook/assets/image-20190406142059944 (1).png>)
+1. ![](<../../../img/image-20190406142049206 (1).png>)
 2.
 
-![](<../../../.gitbook/assets/image-20190406142204920 (1) (1).png>)
+![](<../../../.gitbook/assets/image-20190406142204920 (1).png>)
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 

@@ -8,7 +8,8 @@ Zoals we het nu geprogrammeerd hebben, zijn de knoppen die bij selecteren horen 
 
 Maar die moeten alleen in beeld komen als de gebruiker op selecteren gedrukt heeft. Dat gaan we zou programmeren:
 
-1. Verplaats alle .place() codes die horen bij selecteren van het hoofdprogramma (dat niet is ingesprongen) naar de functie `selecteren()`.&#x20;
+1. Kijk goed hoe de knoppen heten die nodig zijn voor het selecteren. Dat zijn de knoppen voor ja en nee.
+2. Verplaats nu alle regels met `.place()`erin **van de knoppen die horen bij selecteren** naar de functie `selecteren()`.  Ze staan dan alleen in de functies `selecteren()` en niet meer onderaan je code.
 
 Voer nu je programma uit en kijk of de knoppen aan het begin wegzijn, en terugkomen als je op Selecteren drukt.
 
