@@ -45,8 +45,12 @@ Nu ga de de functie ook echt invullen. Bekijk in jouw oude code en zet deze om, 
   `controleerknop.wait_variable(controleerknop_is_ingedrukt)`
 * De gebruiker kan een betekenis invoeren&#x20;
   * Die betekenis wordt opgeslagen in het bestand in de kolom **Betekenis-ingevoerd**
-  * Is de betekenis goed (gelijk aan wat er in het bestand staat) dan schrijf je goed in het bestand bij de kolom **Goed**
-  * Is de betekenis fout, dan sla je fout op in de kolom **Goed**
+  * Is de betekenis goed (gelijk aan wat er in het bestand staat) dan:
+    * schrijf je goed in het bestand bij de kolom **Goed**
+    * print je **Goed** op de command line met `print()` Dat komt dus nog niet in het scherm!
+  * Is de betekenis fout:&#x20;
+    * dan sla je fout op in de kolom **Goed**
+    * print je **Fout** op de command line met `print()` Dat komt dus nog niet in het scherm!
 * De gebruiker kan een zin invoeren met het woord erin. Die sla jij op in de kolom **Zin**.
 
 **4) Nog wel een foutje... (extra)**
