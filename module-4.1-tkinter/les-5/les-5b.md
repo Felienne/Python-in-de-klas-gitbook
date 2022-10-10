@@ -6,7 +6,8 @@ In de vorige les hebben we Goed of Fout alleen nog onder het scherm uitgeprint. 
 
 * Een extra tekstveld invoegen en daar Goed of Fout in zetten.
 * De achtergrond van je programma rood maken
-* Een plaatje van een boze smiley in je programma zetten die verschijnt als het antwoord fout is!
+* Een plaatje van een boze smiley in je programma zetten die verschijnt als het antwoord fout is!\
+
 
 Verzin het zelf en maak het zo leuk mogelijk.
 
@@ -28,7 +29,7 @@ Je code doet het nu! Maar het is wel een beetje een gedoe met al die losse forge
 
 **4) Begin aan Tonen (extra)**
 
-Ben je klaar? Maak dan maar een beginnetje met Tonen, of maak je programma nog mooier of leuker.
+Ben je klaar? Maak dan maar een beginnetje met Tonen, of maak je programma nog mooier of leuker met je eigen ideeën.
 
 
 
