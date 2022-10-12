@@ -1,6 +1,6 @@
 # Les 6b
 
-**1) Voeg labels toe in oefenen**
+**1) Voeg label toe in oefenen**
 
 In de vorige lessen hadden we nog geen label voor de invoervelden staan omdat dat de code ingewikkelder maakt. We moeten dan immers nog meer velden laten verschijnen en verdwijnen.
 
@@ -18,15 +18,17 @@ Nu oefenen goed in elkaar zit is het tijd te gaan kijken naar tonen! Je mag hier
 
 **3) Sla het aantal pogingen op (extra)**
 
-Wil je het tonen-venster nog uitgebreider maken? Dan kan je ook opslaan hoe vaak iemand een antwoord heeft geprobeerd. Maak daarvoor een nieuwe variabele, een nieuw veld in rij, en een nieuwe kolom in de csv. Kijk in je bestaande code hoe dat moet. Tip: Lees je deze zin? Kom dan naar mevrouw Hermans voor iets lekkers. Ik wil wel eens testen hoeveel leerlingen deze instructie goed lezen. Zeg natuurlijk niets tegen je buren!\
-\
-Je kunt nu nog veel meer statistieken maken zoals:
+Wil je het tonen-venster nog uitgebreider maken? Dan kan je ook de datum van vandaag opslaan als iemand een antwoord invoert. Daarmee kan je nog veel meer statistieken maken zoals:
 
-* Welke woorden in één keer goed beantwoord waren
-* Hoeveel woorden in één keer goed beantwoord waren
+* Welke, of hoeveel woorden in één keer goed beantwoord waren
 * Welk woord het vaakst fout geantwoord is
+* etc etc :D (nog ff afmaken hier)
 
+**4) Sla ook een datum op bij ieder antwoord (extra)**
 
+Wil je het tonen-venster _nog_ uitgebreider maken? Dan kan je ook de datum van vandaag opslaan als iemand een antwoord invoert. Daarmee kan je nog veel meer statistieken maken zoals:
 
-****
+* Aantal antwoorden goed vandaag, deze week, deze maand
+* Aantal antwoorden fout vandaag, deze week, deze maand
+* Welk woord het allerlangst geleden fout beantwoord was&#x20;
 
