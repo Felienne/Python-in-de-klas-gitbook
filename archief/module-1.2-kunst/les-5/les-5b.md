@@ -8,7 +8,7 @@ Deze opdracht wordt afgetekend als:
 * Je variabelen hebt gebruikt voor de hoek, het aantal hoeken en de grootte.
 * Ze allebei blauw zijn
 
-![](<../../../.gitbook/assets/image-20190406144918466 (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image-20190406144918466 (1) (1) (1) (1).png>)
 
 Denk aan deze tips:
 
@@ -21,7 +21,7 @@ Deze opdracht wordt afgetekend als:
 
 * Je het bergschilderij van de vorige lessen met kleuren maakt. Kies de kleuren zelf.
 
-![](<../../../.gitbook/assets/image-20190406145634717 (2) (2) (2) (2) (2) (2) (2) (2).png>)
+![](<../../../.gitbook/assets/image-20190406145634717 (2) (2) (2) (2) (2) (2) (2) (1) (1).png>)
 
 ## 3) Maak twee spirografen
 
@@ -31,7 +31,7 @@ Deze opdracht wordt afgetekend als:
 * Je variabelen hebt gebruikt voor (minstens) de hoek, en de grootte.
 * Ze allebei een andere kleur hebben.
 
-![](../../../.gitbook/assets/image-20190406150038398.png)
+![](<../../../.gitbook/assets/image-20190406150038398 (1).png>)
 
 Probeer de tekening zo goed mogelijk na te maken.
 
@@ -43,7 +43,7 @@ Deze opdracht wordt afgetekend als:
 * Je variabelen hebt gebruikt voor (minstens) de hoek, en de grootte.
 * Ze allebei een andere kleur hebben.
 
-![](../../../.gitbook/assets/image-20190406150007097.png)
+![](<../../../.gitbook/assets/image-20190406150007097 (1).png>)
 
 Probeer de tekening zo goed mogelijk na te maken.
 

@@ -7,7 +7,7 @@ Deze opdracht wordt afgetekend als:
 * Je twee vierkanten naast elkaar hebt getekend
 * Je een variabele gebruikt voor de **hoek**
 
-![](../../../img/image-20190403203106093.png)
+![](<../../../img/image-20190403203106093 (1).png>)
 
 Denk aan deze tips:
 

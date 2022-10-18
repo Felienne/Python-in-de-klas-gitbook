@@ -151,6 +151,8 @@
     * [Les 6b](module-4.1-tkinter/les-6/les-6b.md)
   * [Les 7](module-4.1-tkinter/les-7/README.md)
     * [Les 7b](module-4.1-tkinter/les-7/les-7b.md)
+  * [Les 8](module-4.1-tkinter/les-7-1/README.md)
+    * [Les 8b](module-4.1-tkinter/les-7-1/les-7b.md)
 * [Module 4.2 - JavaScript](module-4.2-javascript/README.md)
   * [Les 1](module-4.2-javascript/les-1/README.md)
     * [Les 1b](module-4.2-javascript/les-1/les-1b.md)

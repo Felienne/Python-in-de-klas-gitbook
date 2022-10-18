@@ -9,7 +9,7 @@ Deze opdracht wordt afgetekend als:
 
 Klik op het potloodje naast de naam van het programma. Klik dan op de grijze knop met fork erop. Je hebt nu een kopie van het programma gemaakt. Dat wordt vanzelf opgeslagen zodat je er steeds aan door kan werken.
 
-![](../../.gitbook/assets/les1-afb1.png)
+![](../../.gitbook/assets/Les1-Afb1.png)
 
 **Opdracht 2) Stel het veld in**
 

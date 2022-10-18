@@ -39,7 +39,7 @@ Deze opdracht wordt afgetekend als:
 
 Dit is een schilderij van een berg (met een beetje fantasie!)
 
-![](<../../../.gitbook/assets/image-20181207110047621 (1).png>)
+![](<../../../.gitbook/assets/image-20181207110047621 (1) (1).png>)
 
 **Opdracht.** Teken dit plaatje met de hand over in je schrift. Zorg dat je pen op het papier blijft. Zet nu de juiste Pythoncodes bij de juiste plekken. Bij de lijntjes én bij de hoeken!
 
@@ -51,7 +51,7 @@ Deze opdracht wordt afgetekend als:
 
 **Opdracht.** Probeer dit huisje na te maken.
 
-![](../../../.gitbook/assets/image-20190318132016472.png)
+![](<../../../.gitbook/assets/image-20190318132016472 (1).png>)
 
 ## Extra) Maak een diamant
 
@@ -61,7 +61,7 @@ Deze opdracht wordt afgetekend als:
 
 Opdracht. Probeer dit na te maken.
 
-![](../../../.gitbook/assets/image-20190318132305903.png)
+![](<../../../.gitbook/assets/image-20190318132305903 (1).png>)
 
 ## Extra) Maak je tekening mooier
 

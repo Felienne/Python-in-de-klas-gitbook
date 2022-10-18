@@ -14,7 +14,7 @@ Vorige week deden we deze opdracht ook, dat was best een lastige opdracht! We ga
 
 1\) Teken dit vierkant in je schrift.
 
-![](<../../../.gitbook/assets/image-20190322135329083 (3) (3) (3) (3) (3) (3) (3) (1).png>)
+![](<../../../.gitbook/assets/image-20190322135329083 (3) (3) (3) (3) (3) (3) (3) (1) (1).png>)
 
 Nu gaan we Pythoncodes koppelen aan de stukjes van de tekening. Welke code hoort bij welk stukje?\
 Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde op in je schrift.
@@ -30,7 +30,7 @@ Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde op in
 
 ​​2) Teken deze driehoek in je schrift.
 
-![](<../../../.gitbook/assets/image-20190322135525607 (3) (3) (3) (3) (3) (3) (3) (1) (1).png>)
+![](<../../../.gitbook/assets/image-20190322135525607 (3) (3) (3) (3) (3) (3) (3) (1) (2).png>)
 
 Nu moeten we even rekenen! Welke som reken je uit om een driehoek te maken? Schrijf de som in je schrift.
 
@@ -113,12 +113,12 @@ pen.left(90)
 
 1\.
 
-![](<../../../.gitbook/assets/image-20190322150806389 (2) (2) (2) (2) (2) (2) (2) (2).png>)
+![](<../../../.gitbook/assets/image-20190322150806389 (2) (2) (2) (2) (2) (2) (2) (1) (1).png>)
 
-1. ![](../../../.gitbook/assets/image-20190322150743162.png)
+1. ![](<../../../.gitbook/assets/image-20190322150743162 (1).png>)
 2.
 
-![](<../../../.gitbook/assets/image-20190322151013930 (3) (3) (3) (2) (1).png>)
+![](<../../../.gitbook/assets/image-20190322151013930 (3) (3) (3) (2) (1) (1) (2).png>)
 
 ### Extraatjes!
 
@@ -126,20 +126,20 @@ Welke codes horen bij deze tekeningen? Gebruik natuurlijk wel een lus (of meerde
 
 1\.
 
-![](<../../../.gitbook/assets/image-20190322150946880 (3) (3) (3) (3) (3) (3) (3) (1).png>)
+![](<../../../.gitbook/assets/image-20190322150946880 (3) (3) (3) (3) (3) (3) (3) (1) (1).png>)
 
 1.
 
-![](<../../../img/image-20190322151210272 (2).png>)
+![](<../../../img/image-20190322151210272 (1) (1).png>)
 
 3\.
 
-![](<../../../.gitbook/assets/image-20190318125810948 (5) (5) (2) (1).png>)
+![](<../../../.gitbook/assets/image-20190318125810948 (5) (5) (2) (1) (1).png>)
 
 1.
 
-![](<../../../.gitbook/assets/image-20190318130606702 (3) (3) (3) (3) (3) (3) (3) (1).png>)
+![](<../../../.gitbook/assets/image-20190318130606702 (3) (3) (3) (3) (3) (3) (3) (1) (1) (1).png>)
 
 5\.
 
-![](<../../../.gitbook/assets/image-20190322151500039 (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image-20190322151500039 (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)

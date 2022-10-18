@@ -45,7 +45,7 @@ dertighoek: 360/ 30 = 12 graden
 
 1. ![](../../../.gitbook/assets/Knipsel.PNG)
 2. ![](../../../.gitbook/assets/image-20190415150849824.png)
-3. ![](<../../../.gitbook/assets/image-20190415151021170 (2) (4) (4) (4) (4) (4) (4) (4) (1) (1).png>)
+3. ![](<../../../.gitbook/assets/image-20190415151021170 (2) (4) (4) (4) (4) (4) (4) (4) (1) (2).png>)
 
 3\)
 
