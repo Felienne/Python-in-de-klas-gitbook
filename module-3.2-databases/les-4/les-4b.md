@@ -1,6 +1,6 @@
 # Les 4b
 
-**) Personen en metroreizen (herhaling)**
+**1) Personen en metroreizen (herhaling)**
 
 Voor deze opdracht koppel je de tabellen Personen en Reizen aan elkaar zodat we goed kunnen zien wie er wanneer geeft gereisd. Er staat al wat code voor je klaar in [deze repl](https://replit.com/@mevrHermans/Pidk-K3-M2-L3b-1).
 
