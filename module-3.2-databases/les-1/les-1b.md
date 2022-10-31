@@ -44,7 +44,7 @@ Kun jij deze dingen doen?
 
 Naam: Piet Geslacht: J Toetsen: 8, 9, 6
 
-Je krijgt alleen de data voor de drie toetsen. Reken het gemiddelde en de voldoende/onvoldoende zelf uit.
+* Je krijgt alleen de data voor de drie toetsen. Reken het gemiddelde en de voldoende/onvoldoende zelf uit.
 
 * Een nieuwe kolom erbij voor een vierde toets? Verzin de data zelf. Zoek dan met Google maar uit hoe je bestaande data in een tabel kan aanpassen.
 
