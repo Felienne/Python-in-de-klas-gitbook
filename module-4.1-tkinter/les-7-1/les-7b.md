@@ -11,7 +11,13 @@ Verder kan het programma blijven werken zoals het al werkt.
 
 **1b) Wachtwoord erbij (extra)**
 
-Wil je het nog mooier maken? Maak dan een tweede label en veldje voor een wachtwoord. Sla de wachtwoorden op in een nieuw bestand.
+Wil je het nog mooier maken? Maak dan een tweede label en veldje voor een wachtwoord. Sla de wachtwoorden op in een nieuw bestand.\
+\
+Tip! Wil je dat het er echt mooi uitziet als een wachtwoord? Gebruik dan deze code:\
+\
+`wachtwoordveld = Entry(root, show="*")`
+
+
 
 **2) Statistieken voor alle gebruikers tonen**
 

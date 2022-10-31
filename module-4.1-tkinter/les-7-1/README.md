@@ -2,7 +2,7 @@
 
 ## Slides
 
-* Slides les 8
+* [Slides les 8](https://slides.com/felienne/pidk-k4-m1tk-l8/)
 
 In deze slides gaan we het mogelijk maken om met verschillende gebruikers de app te gebruiken.
 
@@ -14,4 +14,4 @@ In deze slides gaan we het mogelijk maken om met verschillende gebruikers de app
 
 In deze les gaan leerlingen verder met de UI van de woordenoefenapp. In deze les voegen ze extra elementen toe en maken ze een begin met de functie tonen.
 
-Op het einde van de les hebben de leerlingen ongeveer [dit programma](https://replit.com/@mevrHermans/pidk-k4-tki-l6-einde#main.py).
+Op het einde van de les hebben de leerlingen ongeveer [dit programma](https://replit.com/@mevrHermans/pidk-k4-tki-l8-einde#main.py).
