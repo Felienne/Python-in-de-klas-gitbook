@@ -2,7 +2,7 @@
 
 ## Slides
 
-[Module Database, les 1](https://slides.com/felienne/pidk-k2-m2-l1)
+[Module Database, les 1](https://slides.com/felienne/pidk-k3-m2-l1)
 
 ### Leerdoelen
 
