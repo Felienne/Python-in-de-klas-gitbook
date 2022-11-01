@@ -2,7 +2,7 @@
 
 ## Slides <a href="slides" id="slides"></a>
 
-[​Module Database, les 2​](https://slides.com/felienne/pidk-k3-m2-l3)
+[​Module Database, les 2​](https://slides.com/felienne/pidk-k3-m2-l2)
 
 ## Leerdoelen <a href="leerdoelen" id="leerdoelen"></a>
 
