@@ -18,7 +18,7 @@ Tip! deze code print alle tabellen uit. Als je het goed doet, komt er **personen
 .tables
 ```
 
-**Opdracht 1a) Maak de andere metro-tabellen**
+**Opdracht 1b) Maak de andere metro-tabellen**
 
 Maak nu de andere tabellen voor de metroreizen
 
