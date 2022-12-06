@@ -114,6 +114,7 @@ Koppel 1x reizen aan personen om de naam van reizigers op te zoeken, en 2x reize
 Selecteer ook de juiste kolommen! Als je dan een select schrijft, moet er zoiets uitkomen (maar dan natuurlijk voor jouw eigen data):
 
 **Jan, Nesselande, Beurs**
+
 **Piet, Coolhaven, Oostplein**
 
 :warning: Tip? Je moet stations twee keer in from zetten omdat het twee keer gekoppeld moet worden. Geef de tabel twee keer een andere naam.
