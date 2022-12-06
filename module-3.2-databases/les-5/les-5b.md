@@ -2,7 +2,7 @@
 
 **Opdracht 1a) Maak de tabel personen**
 
-Deze tabel krijgt de kolommen: nummer, voornaam en geslacht. Kopieer deze code en vul m zelf aan op de streepjes.
+Deze tabel krijgt de kolommen: nummer, voornaam en geslacht. Kopieer deze code en vul deze zelf aan op de streepjes.
 
 ```sql
 create table __(
@@ -119,7 +119,7 @@ Als je het goed doet, komt er na het commando `.tables` dit in beeld: **scheidsr
 
 Vul nu ook de voetbaltabellen met data. Verzin de data zelf of gebruik de laatste echte wedstrijden uit de eredivisie of het WK!
 
-**5) Even terug naar het koppelen van data**
+**5) Even terug naar het koppelen van data (X)**
 
 Ga terug naar je programma over de metrodata.&#x20;
 
@@ -129,7 +129,8 @@ Koppel 1x reizen aan personen om de naam van reizigers op te zoeken, en 2x reize
 
 Selecteer ook de juiste kolommen! Als je dan een select schrijft, moet er zoiets uitkomen (maar dan natuurlijk voor jouw eigen data):
 
-**Jan, Nesselande, Beurs Piet, Coolhaven, Oostplein**
+**Jan, Nesselande, Beurs**
+**Piet, Coolhaven, Oostplein**
 
 :warning: Tip? Je moet stations twee keer in from zetten omdat het twee keer gekoppeld moet worden. Geef de tabel twee keer een andere naam.
 
