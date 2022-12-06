@@ -97,23 +97,7 @@ Tabel: **scheidsrechters**, kolommen: nummer en Naam
 
 Tabel: **wedstrijden**, kolommen: date, time, scheidsrechtersnummer, team\_1, team\_2, goals\_1, goals\_2
 
-Begin met deze code en vul de streepjes in:
-
-```sql
-CREATE TABLE teams(
-  __
-);
-
-CREATE TABLE scheidsrechters(
-  __
-);
-
-CREATE TABLE wedstrijden (
-  __
-);
-```
-
-Als je het goed doet, komt er na het commando `.tables` dit in beeld: **scheidsrechters teams wedstrijden**
+Verzin zelf de code. Als je het goed doet, komt er na het commando `.tables` dit in beeld: **scheidsrechters teams wedstrijden**
 
 **4) Tabellen vullen voetbal**
 
