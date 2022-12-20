@@ -2,7 +2,7 @@
 
 **Opdracht** **1) Invoeren vanuit Python**
 
-Maak het programma van de slides zelf ook: zorg dat de gebruiker naam en geslacht kan invoeren. Begin met [deze repl](https://replit.com/@mevrHermans/Pidk-K3-M2-L7b-1).
+Maak het programma van de slides zelf ook: zorg dat de gebruiker naam en geslacht kan invoeren. Begin met [deze repl](https://replit.com/@OnnoEbbens/Pidk-K3-M2-L7a-2#main.py).
 
 De database heeft al een autoincrement, dat hoef jij (nog) niet in te stellen.
 
