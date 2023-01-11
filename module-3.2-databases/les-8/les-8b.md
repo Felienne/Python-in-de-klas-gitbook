@@ -6,17 +6,17 @@ Je gaat nu, net als in de slides, bij iedere keer dat er een nieuw persoon wordt
 
 Gebruik hiervoor je resultaat van les 7b opdracht 1.
 
-**Opdracht** **2) Een beter user experience**
+**Opdracht** **2) Een betere user experience**
 
 Nu krijgt de gebruiker steeds maar weer die hele tabel in beeld. Dat wil die misschien helemaal niet!
 
-We gaan de gebruiekr dus de keuze geven, wil hij invoeren of zien wat er in de database zit?
+We gaan de gebruiker dus de keuze geven, wil hij invoeren of zien wat er in de database zit?
 
 Gebruik je  code van opdracht 1
 
 **Opdracht** **3) PyGame & invoeren (X)**
 
-Maak nu een mooie 'user interface' in PyGame waarin de data kan wordne ingevoerd. Maak bijv:
+Maak nu een mooie 'user interface' in PyGame waarin de data kan worden ingevoerd. Maak bijv:
 
 - een knop "Invoeren"
 - een knop "Aanpassen"
