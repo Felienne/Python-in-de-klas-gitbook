@@ -117,6 +117,8 @@
   * [Les 7](module-3.2-databases/les-7/README.md)
     * [Les 7b](module-3.2-databases/les-7/les-7b.md)
   * [Les 8](module-3.2-databases/les-8.md)
+    * [Les 8b](module-3.2-databases/les-8/les-8b.md)
+  
 * [Module 3.3 - Woordenoefenapp](module-3.3-woordenoefenapp/README.md)
   * [Les 1](module-3.3-woordenoefenapp/les-1/README.md)
     * [Les 1b](module-3.3-woordenoefenapp/les-1/les-1b.md)

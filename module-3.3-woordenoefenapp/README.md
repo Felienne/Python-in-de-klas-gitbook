@@ -2,7 +2,7 @@
 
 ## Instructie voor de leerkracht
 
-Het idee van deze module is dat leerlingen een eigen rekenmachine maken. Concepten uit de wiskundeles komen terug, zoals dat vermenigvuldigen en delen voor optellen en aftrekken komen, het gebruik van haakjes en het maken van een eenvoudige grafiek.
+Het idee van deze module is dat leerlingen een eigen app gaan maken om woordjes mee te oefenen.
 
 ## Doelen van deze module
 
