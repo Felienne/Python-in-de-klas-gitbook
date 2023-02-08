@@ -143,6 +143,9 @@
     * [Les 2b](module-3.4-arduino/les-2/les-2b.md)
   * [Les 3](module-3.4-arduino/les-3/README.md)
     * [Les 3b](module-3.4-arduino/les-3/les-3b.md)
+  * [Les 4](module-3.4-arduino/les-4/README.md)
+    * [Les 4b](module-3.4-arduino/les-4/les-4b.md)	
+	
 * [Module 4.1 - TkInter](module-4.1-tkinter/README.md)
   * [Les 1](module-4.1-tkinter/les-1/README.md)
     * [Les 1a](module-4.1-tkinter/les-1/les-1a.md)

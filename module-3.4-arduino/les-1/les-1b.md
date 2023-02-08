@@ -21,3 +21,7 @@ Gebruik het circuit van opdracht 3. Voeg een knop toe zodat je twee knoppen in s
 **Opdracht 5) Zet de knoppen in parallel (X)**
 
 Gebruik het circuit van opdracht 4. Zet de twee knoppen nu in serie (zie boek bldzd 29). Maak eerst het hele circuit. Plug dan je usb in en kijk of je LED lampje gaat branden als je één van beide knoppen indrukt. Check of beide knoppen werken.
+
+**Opdracht 6) DIY (X)**
+
+Bedenk zelf hoe je het circuit zou kunnen aanpassen. Maak gebruik van knoppen, weerstanden en led lampjes.
