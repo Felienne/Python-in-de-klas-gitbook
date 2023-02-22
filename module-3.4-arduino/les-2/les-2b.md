@@ -33,11 +33,15 @@ Zorg ervoor dat alle led lampen 1 keer knipperen als je de code van de computer 
 
 Zorg ervoor dat alles 10 keer zo langzaam gaat. Dus 1x knipperen duurt 10 keer zo lang dan eerst.
 
-**Opdracht 8) Geel! (X)**
+**Opdracht 8) Serie schakelen en Lampje toevoegen**
+
+Voeg een extra lampje toe en een tweede knop. maar zorg dat de knoppen in serie zijn geschakeld.
+
+**Opdracht 9) Geel! (X)**
 
 Vervang één van de rode led lampen door een gele. Bedenk zelf wanneer deze moet knipperen.
 
-**Opdracht 9) Fantasie (X)**
+**Opdracht 10) Fantasie (X)**
 
 Bedenk zelf iets om je schip uit te breiden. Dit kan zowel door het toevoegen van onderdelen aan je circuit als door het aanpassen van de code.
 
