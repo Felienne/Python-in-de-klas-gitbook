@@ -16,3 +16,4 @@
 Tips:
 - De temperatuursensor moet op de juiste manier op het breadboard worden gemonteerd. Draai je de pinnen om dan wordt de temperatuursensor (gevaarlijk) warm.
 - Elke starterskit heeft maar één temperatuursensor. Er is een ander onderdeel wat er erg op lijkt. Je herkent de tempeartuursensor aan de letters tmp op de sensor.
+- Om de resultaten van `Serial.print` te zien klik je in de Arduino IDE rechtsboven op het vergrootglas (de Serial Monitor).
