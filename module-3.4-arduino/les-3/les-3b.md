@@ -2,7 +2,7 @@
 
 **Opdracht 1) Maak een Love-o-Meter**
 
-Maak het circuit met temperatuursensor en 3 led lampen (zie boek bldzd 44). Let op de verschillende pinnen van de tempeartuursensor.
+Maak het circuit met temperatuursensor en 3 led lampen (zie boek bldzd 44). Let op de verschillende pinnen van de tempeartuursensor. Als je de temperatuursensor verkeerd zet heb je kans dat deze gevaarlijk heet wordt.
 
 **Opdracht 2) Bouw de interface**
 
