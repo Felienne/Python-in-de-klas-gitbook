@@ -21,21 +21,21 @@ Leg in eigen woorden uit:
 - Waarom wordt bij het printen van de tempeartuur de functie `serial.Println()` gebruikt en niet `serial.Print()`?
 - Gerda denkt dat ze koorts heeft. Ze heeft geen thermometer maar wel de Arduino. Kan ze deze opstelling gebruiken om te meten hoeveel graden koorts ze heeft?
 
-**Opdracht 5) baselineTemp**
-
-We geven nu aan de Arduino op dat de standaardtemperatuur (`baselineTemp`) 20 graden is. Stel je gebruikt de Love-o-Meter op een plek waar het geen 20 graden is. Wat kan je doen om automatisch de `baselineTemp` te bepalen. Pas de code zo aan zodat deze werkt bij iedere temperatuur.
-
-**Opdracht 6) Andersom**
+**Opdracht 5) Andersom**
 
 Nu gaan er steeds meer lampjes branden als de temperatuursensor warmer wordt. Pas de code aan zodat bij de start alle lampjes branden en er steeds meer lampjes uitgaan als het warmer wordt.
 
-**Opdracht 7) Gevoelig**
+**Opdracht 6) Gevoelig**
 
 Er gaat nu iedere keer een lampje aan (of uit bij opdracht 5) als de temperatuur 2 graden stijgt. Pas de code aan zodat dit al gebeurd bij een stijging van 1 graden.
 
-**Opdracht 8) Lichtshow**
+**Opdracht 7) Lichtshow**
 
 Programmeer de lampjes zo dat bij een bepaalde temperatuur de lampjes gaan knipperen. Kies zelf de temperatuur en hoe snel ze knipperen.
+
+**Opdracht 8) baselineTemp**
+
+We geven nu aan de Arduino op dat de standaardtemperatuur (`baselineTemp`) 20 graden is. Stel je gebruikt de Love-o-Meter op een plek waar het geen 20 graden is. Wat kan je doen om automatisch de `baselineTemp` te bepalen. Pas de code zo aan zodat deze werkt bij iedere temperatuur.
 
 **Opdracht 9) DJ Love (X)**
 
