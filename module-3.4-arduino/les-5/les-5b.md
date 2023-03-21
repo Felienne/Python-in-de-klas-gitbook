@@ -18,9 +18,9 @@ Vouw het bijgeleverde karton en plaats dit over je circuit zoals uitgelegd in he
 Leg in eigen woorden uit:
 1. Wat doet de code `#include <Servo.h>`?
 2. Wat doet de `map()` functie? Wat is het resultaat van onderstaande functie aanroepen
-    a. map(0, 0, 1023, 0, 179)
-	b. map(179, 0, 1023, 0, 179)
-	c. map(5, 0, 10, 0, 50)
+    - map(0, 0, 1023, 0, 179)
+	- map(179, 0, 1023, 0, 179)
+	- map(5, 0, 10, 0, 50)
 3. Wat doet een capacitor?
 4. WAt doet de functie `myServe.write()`? Waarom moet de waarden die je aan deze functie geeft kleiner zijn dan 180?
 
