@@ -17,6 +17,8 @@ Leg in eigen woorden uit:
 	- map(70, 0, 100, 0, 50)
 2. Wat veranderd er aan het geluid van je piezo als je de 50 in de map functie veranderd in 200?
 3. Hoe zorg je dat het geluid van de piezo langzamer veranderd?
+4. Wat is de betekenis van de variabelen `SensorHigh` en `SensorLow`. Welke waarden kunnen deze variabelen zijn?
+5. Wat moet je aanpassen in het script om de kalibratieperiode 20 seconden te maken?
 
 **Opdracht 4) Für elise**
 
