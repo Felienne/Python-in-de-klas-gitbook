@@ -26,10 +26,11 @@ Zorg dat je Arduino de für elise speelt met de piezo. Tip: zoek online naar de 
 
 **Opdracht 5) World Wide Web**
 
-Zoek online naar Arduino projecten waarbij een piezo is gebruikt. Zoek drie projecten op en beantwoord de volgende vragen:
-1. Wat voor schakeling is er gemaakt? Welke onderdelen zijn er allemaal gebruikt?
-2. Zit er code bij? Begrijp je wat er in de code gebeurd?
-3. Zou je dit project zelf na kunnen maken? Zo niet, waarom niet? Zo ja, wat heb je ervoor nodig om dit te maken en hoe lang denk je er mee bezig te zijn?
+Zoek online naar Arduino projecten waarbij een piezo is gebruikt. Zoek drie projecten op en beantwoord de volgende vragen. Zet de resultaten in een word document en stuur deze op:
+1. Geef een link naar het project.
+2. Wat voor schakeling is er gemaakt? Welke onderdelen zijn er allemaal gebruikt?
+3. Zit er code bij? Begrijp je wat er in de code gebeurd?
+4. Zou je dit project zelf na kunnen maken? Zo niet, waarom niet? Zo ja, wat heb je ervoor nodig om dit te maken en hoe lang denk je er mee bezig te zijn?
 
 **Opdracht 6) DIY (X)**
 
