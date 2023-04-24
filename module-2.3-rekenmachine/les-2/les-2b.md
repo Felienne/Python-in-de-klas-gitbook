@@ -33,7 +33,7 @@ Test je code goed? Krijg jij als antwoord op 5 + 5 55 in plaats van 10? dan heb 
 
 **Op**
 
-****
+
 
 **Opdracht 5) Verbeter de foutmelding (Extra)**
 

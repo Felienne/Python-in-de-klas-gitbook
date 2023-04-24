@@ -67,7 +67,7 @@ Deze opdracht wordt afgetekend als:
 
 In de vorige opdracht heb je een vierkant getekend met een for-lus. Nu willen we een soort sterfiguur. Weet je nog van vorige week wat voor hoek je dan moet gebruiken? En hoevaak dnek je dat je rond moet gaan? Probeer dit figuur zo precies mogelijk na te maken
 
-![image-20190322130521606](../../../.gitbook/assets/image-20190322130702678.png)
+![image-20190322130521606](../../../img/image-20190322130521606.png)
 
 **Opdracht.** Teken nu het figuur met een for-lus
 
@@ -80,7 +80,7 @@ Deze opdracht wordt afgetekend als:
 
 Dit is een schilderij van een berg (met een beetje fantasie!). Kun jij het namaken met Python? Je moet wel twee lussen gebruiken!
 
-![image-20181207110047621](<../../../.gitbook/assets/image-20181207110047621 (1).png>)
+![image-20181207110047621](<../../../.gitbook/assets/image-20181207110047621 (1) (1).png>)
 
 ## Extra) Maak een huisje met twee for-lussen
 

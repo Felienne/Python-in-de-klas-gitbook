@@ -8,7 +8,7 @@ In een eerdere lessenserie heb je een rekenmachine gemaakt. Die gaan we nu verri
 
 Tot nu toe hebben we in de rekenmachine en in ander projecten met tekst gewerkt, bijvoorbeeld tekst als uitvoer met `print()` en tekst als invoer met `input()` Maar met Python kan je ook mooiere applicaties maken met knoppen, inoverveld en meer. Dat gaan we in de komende lessen leren met de library `tkinter.`
 
-``
+
 
 
 

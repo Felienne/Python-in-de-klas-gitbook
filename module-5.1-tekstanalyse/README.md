@@ -1,28 +1,20 @@
-# Module 5.1 - Tekstanalyse
+# Module 5.1 - Datasets
 
 ## Instructie voor de leerkracht
 
-In deze module leren leerlingen werken met publieke, JSON gebaseerde datasets. Het voorbeeld is een dataset van Twitter maar er zijn natuurlijk een hoop andere datasets die je zelf zou kunnen voorbereiden als docent.
-
-Reden dat we met een dataset werken en niet direct met de Twitter-api is dat bij ons op school (en vast op meerdere scholen) het domein `twitter.com` geblokkeerd is.
-
-
-
-Ook is dit voor leerlingen de eerste keer dat ze in een programmeertaal naar keuze mogen werken. De voorbeelden zijn steeds gegeven in C#, maar als leerlingen Python of JavaScript, of nog iets anders willen gebruiken kan dat ook. Ze zullen dan natuurlijk wel zelf moeten onderzoeken hoe dat werkt.
+In deze lessenserie leren leerlingen nadenken over data en data-opslag. Ook leren ze goed nadenken over hoe data inzichtelijk te maken voor eind-gebruikers
 
 ## Doelen van deze module
 
 Meer oefenen met bekende concepten:
 
-* Dictionaries&#x20;
 * Files inlezen
+* UI ontwerp
 
-Leren:
+Leren over:
 
-* Datavisualizatie
-* Tekst analyse
-
-
+* Nadenken over een goed datamodel bij een gegeven situatie
+* Een User Interface ontwerpen om gebruikers met data te laten omgaan
 
 ## Slides
 

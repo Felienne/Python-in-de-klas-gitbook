@@ -19,5 +19,5 @@ Je berichten, bomen of weetje worden nu opgeslagen in een lijst, maar als je je 
 
 
 
-****
+
 

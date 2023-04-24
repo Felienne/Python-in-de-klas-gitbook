@@ -56,7 +56,7 @@ negen
 print('Jason zingt zijn lied')
 ```
 
-****\
+\
 **Code maken met een functie erin**
 
 1\) Hier staat code waarin meerdere keren hetzelfde gebeurt.
@@ -118,6 +118,5 @@ print('Ja baas, ja baas, drie zakken vol.')
 
 3\)
 
-****
 
-****
+

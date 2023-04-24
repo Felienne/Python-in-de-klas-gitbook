@@ -30,5 +30,5 @@ Je kunt nu nog veel meer statistieken maken zoals:
 
 
 
-****
+
 

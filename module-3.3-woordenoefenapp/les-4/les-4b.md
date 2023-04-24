@@ -19,7 +19,7 @@ Test je code nu uit. Krijg je inderdaad de tekst in beeld als je o typt? Dan is 
 
 Tip: Klap de functie `selecteren()`even dicht met het driehoekje:
 
-****![](<../../.gitbook/assets/image (12).png>)****
+![](<../../.gitbook/assets/image (12).png>)
 
 **Opdracht 3) De functie invullen**
 
@@ -33,5 +33,5 @@ Nu ga jij de functie invullen. Zorg dat er het volgende gebeurt:
 
 Voor nu slaan we de twee antwoorden op in twee variabelen: `betekenis` en `zin`. Volgende les schrijven we die variabelen terug in de csv file zodat je die aan je leraar Engels kan laten zien!&#x20;
 
-****
+
 

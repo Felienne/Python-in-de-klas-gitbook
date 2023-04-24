@@ -7,7 +7,7 @@ Deze opdracht wordt afgetekend als:
 1. Je een variabele `antwoord` hebt gemaakt waarin de aangeklikte letter is opgeslagen.
 2. De variabele ook uitgeprint wordt na het klikken
 
-**Uitleg.** Ga naar jouw code van vorige week. In die code **** print je nu de aangeklikte letter uit. Dat is prima, maar we willen de letter ook nog in een variabele opslaan. Want dan kunnen we straks kijken of het aangeklikte antwoord goed is.&#x20;
+**Uitleg.** Ga naar jouw code van vorige week. In die code print je nu de aangeklikte letter uit. Dat is prima, maar we willen de letter ook nog in een variabele opslaan. Want dan kunnen we straks kijken of het aangeklikte antwoord goed is.&#x20;
 
 Volg deze stappen:&#x20;
 

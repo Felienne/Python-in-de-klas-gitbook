@@ -42,7 +42,7 @@ Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
 1\) Ga terug naar het vierkant dat je hebt getekend in je schrift. Zet deze nummers erbij, op dezelfde plekken.
 
-![](<../../../.gitbook/assets/image-20190322135329083 (3) (3) (3) (3) (3) (3) (3) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image-20190322135329083 (3) (3) (3) (3) (3) (3) (3) (1) (1) (2).png>)
 
 Nu gaan we Pythoncodes koppelen aan de stukjes van de tekening. Het stukje bij de 1, de rechte lijn, maken we met `pen.forward(100)`Bij 2 draaien we een kwartslag naar links, dus daar hoort `pen.left(90)`. Maak jij de codes af?
 
@@ -59,7 +59,7 @@ Hint: Je moet beide opdrachten vier keer gebruiken. Schrijf de codes op volgorde
 
 2\) Doe nu hetzelfde voor de driehoek. Ga terug naar de driehoek die je hebt getekend in je schrift en zet deze nummers erbij.
 
-![](<../../../.gitbook/assets/image-20190322135525607 (3) (3) (3) (3) (3) (3) (3) (1) (1).png>)
+![](<../../../.gitbook/assets/image-20190322135525607 (3) (3) (3) (3) (3) (3) (3) (1) (1) (1) (1).png>)
 
 Nu moeten we even rekenen! Welke som reken je uit om een driehoek te maken? Schrijf de som in je schrift.
 
@@ -137,13 +137,13 @@ pen.left(60)
 
 3\) Nu andersom. Weet jij met welke code je deze figuren tekent? Schijf de codes in je schrift. Tip: reken het na met je geodriehoek.
 
-1. ![](<../../../.gitbook/assets/image-20190318130624359 (2) (4) (4) (4) (4) (4) (4) (4) (1) (1) (2).png>)
+1. ![](<../../../.gitbook/assets/image-20190318130624359 (2) (4) (4) (4) (4) (4) (4) (4) (1) (1) (1) (1).png>)
 
 2\.
 
-![](<../../../img/image-20190318125720956 copy 2 (1).png>)
+![](<../../../.gitbook/assets/image-20190318125720956 copy (1) (1).png>)
 
-1. ![](<../../../.gitbook/assets/image-20190318130244515 (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+1. ![](<../../../.gitbook/assets/image-20190318130244515 (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ### Extraatje!
 
@@ -189,11 +189,11 @@ pen.forward(100)
 
 Schrijf nu weer de codes op die bij deze figuren horen.
 
-1. ![](<../../../.gitbook/assets/image-20190318130606702 (3) (3) (3) (3) (3) (3) (3) (1) (1) (2).png>)
+1. ![](<../../../.gitbook/assets/image-20190318130606702 (3) (3) (3) (3) (3) (3) (3) (1) (1) (1).png>)
 2.
 
-![](<../../../.gitbook/assets/image-20190318125810948 (5) (5) (2) (1) (1) (3).png>)
+![](<../../../.gitbook/assets/image-20190318125810948 (5) (5) (2) (1) (1) (1) (3).png>)
 
-1. ![](<../../../.gitbook/assets/image-20190318130138855 (1) (1).png>)
+1. ![](<../../../.gitbook/assets/image-20190318130138855 (1).png>)
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.

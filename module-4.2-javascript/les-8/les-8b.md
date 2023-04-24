@@ -30,5 +30,5 @@ In [deze repl](https://replit.com/@mevrHermans/pidk-k4-m2-l8-opdracht-3#index.ht
 
 Hiervoor moet je de eigenschappen `top` en `left` veranderen. Zie [de documentatie](https://www.w3schools.com/jsref/prop\_style\_top.asp).
 
-****
+
 

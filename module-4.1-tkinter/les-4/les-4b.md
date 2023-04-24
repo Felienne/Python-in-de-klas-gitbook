@@ -29,7 +29,7 @@ Dan gaan we nu aan de slag met de oefenknop. We beginnen nog even zonder jouw ou
    4.  Een variabele en een functie voor de controleerknop:\
        `controleerknop_is_ingedrukt = IntVar()`
 
-       ``\
+       \
        `def controleerknop_ingedrukt():` \
        &#x20;  `controleerknop_is_ingedrukt.set(1)`
 5. Laat deze knop en de velden verschijnen als er op Oefenen geklikt is

@@ -14,7 +14,7 @@ Vervang alle vier regels voor operatoren door toewijzingen, bijvoorbeeld:
 
 `print(getal1 + getal2)`
 
-wordt ****&#x20;
+wordt&#x20;
 
 `antwoord  = getal1 + getal2` \
 `print (antwoord)`
@@ -25,7 +25,7 @@ Test je code nu uit. Als het goed is, werkt alles nog precies hetzelfde!
 
 Deze opdracht wordt afgetekend als:
 
-* Je nog maar een keer **** `print(antwoord)` in je code hebt staan.
+* Je nog maar een keer  `print(antwoord)` in je code hebt staan.
 
 **Uitleg.** We hebben nu vier keer dezelfde regen in de code staan. Dat is niet zo handig, dus dat gaan we eerst netjes maken voor we verder gaan.
 

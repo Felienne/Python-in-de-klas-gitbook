@@ -46,4 +46,3 @@ We hebben ook weer uitvoer nodig om het woord te laten zien, en twee knoppen met
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-****

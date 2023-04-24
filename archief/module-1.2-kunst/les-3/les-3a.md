@@ -45,13 +45,13 @@ for i in range(4):
 
 2\) Welke code hoort bij deze tekeningen? Gebruik een for-lus waar dit handig is.
 
-1. ![](<../../../.gitbook/assets/image-20190318130624359 (2) (4) (4) (4) (4) (4) (4) (4) (1) (1) (3).png>)
+1. ![](<../../../.gitbook/assets/image-20190318130624359 (2) (4) (4) (4) (4) (4) (4) (4) (1) (1) (1).png>)
 
-2\. ![](<../../../.gitbook/assets/image-20190325083528686 (1).png>)
+2\. ![](../../../.gitbook/assets/image-20190325083528686.png)
 
-1. ![](<../../../.gitbook/assets/image-20190322150946880 (3) (3) (3) (3) (3) (3) (3) (1) (2).png>)
+1. ![](<../../../.gitbook/assets/image-20190322150946880 (3) (3) (3) (3) (3) (3) (3) (1) (1) (1).png>)
 
-4\. ![](<../../../.gitbook/assets/image-20190322151013930 (3) (3) (3) (2) (1) (1).png>)
+4\. ![](<../../../.gitbook/assets/image-20190322151013930 (3) (3) (3) (2) (1) (1) (1) (1).png>)
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.
 
@@ -145,18 +145,18 @@ Welke codes horen bij deze tekeningen? Gebruik natuurlijk wel een lus (of meerde
 
 1\.
 
-![](<../../../.gitbook/assets/image-20190329210728482 (1).png>)
+![](../../../.gitbook/assets/image-20190329210728482.png)
 
 2\.
 
-![](<../../../img/image-20190322151210272 (1) (1).png>)
+![](<../../../.gitbook/assets/image-20190322151224232 (1) (1) (1).png>)
 
 3\.
 
-![](<../../../.gitbook/assets/image-20190318125810948 (5) (5) (2) (1) (2).png>)
+![](<../../../.gitbook/assets/image-20190318125810948 (5) (5) (2) (1) (1) (1).png>)
 
 4\.
 
-![](<../../../.gitbook/assets/image-20190329210151106 (1) (1).png>)
+![](<../../../.gitbook/assets/image-20190329210151106 (1).png>)
 
 Einde werkblad! Ben je klaar, leg dan je schrift bovenaan op je tafel.

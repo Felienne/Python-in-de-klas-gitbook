@@ -42,7 +42,7 @@ Een handig manier om strings in Python mooi te maken is het gebruik van fstrings
 f"Het woord {woord} betekent volgens jou {betekenis} Jij maakte er deze zin mee: {zin}.
 {% endhint %}
 
-****
 
-****
+
+
 

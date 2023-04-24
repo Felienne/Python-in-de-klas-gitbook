@@ -17,5 +17,5 @@ Zorg dat je minstens deze zaken op je site hebt:
 
 Heb je meer complexe data? Bijvoorbeeld games met een prijs, of weerberichten met een datum? Dan kun je ook een lijstje van dictionaries maken en die in een Flask template inladen. Zoek zelf op hoe dat moet!
 
-****
+
 

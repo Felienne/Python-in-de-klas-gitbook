@@ -11,7 +11,7 @@ In de vorige les hebben we Goed of Fout alleen nog onder het scherm uitgeprint. 
 
 Verzin het zelf en maak het zo leuk mogelijk.
 
-****
+
 
 **2) Verstop de ja- en nee-knop en het uitvoerveld bij oefenen**
 

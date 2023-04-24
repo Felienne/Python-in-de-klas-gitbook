@@ -34,5 +34,5 @@ Sla nu de data op, dat doe je met deze code:
       writer.writerows(woordlijst)
 ```
 
-****
+
 

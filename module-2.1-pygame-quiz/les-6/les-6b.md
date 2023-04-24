@@ -24,7 +24,7 @@ Ga dan pas programmeren!
 
 4. Verander de code en ga naar stap 1.
 
-****\
+\
 **Opdracht 2:  De geklikte letter moet maar 1 keer in beeld komen**
 
 Volg deze stappen. Schrijf steeds op papier of het al goed is, en wat er anders moet! \
