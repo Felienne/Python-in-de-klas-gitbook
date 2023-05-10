@@ -9,10 +9,12 @@ In deze lessenserie maken leerlingen kennis met (een simpele vorm van) generatie
 Meer oefenen met bekende concepten:
 
 * Files inlezen
+* Dictionaries
+* Grotere programma's en de bijbehorende organisatie zoals functies
 
 Leren over:
 
-* Formele grammatica's
+* Formele grammatica's (FH, note to self: we zouden moeten beginnen met een heel klein part of speech trainertje met een grammatica en dan daaruit genereren maar dat is voor volgend jaar)
 * Neurale netwerken
 
 ## Slides
