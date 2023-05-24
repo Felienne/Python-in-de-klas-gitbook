@@ -71,11 +71,11 @@ Heb je tijd over? Dan kun je je data al een beetje gaan aanpassen.
 
 Als je je code runt op het hele bestand, krijg je voor sommige woorden lijsten met veel dezelfde dingen erin, bijv voor Lion:
 
-`'Lion': ['and', 'and', 'and', 'and', 'beat', 'and', 'and', 'had', 'looked', 'said', 'replied', 'growled', 'she', 'as', 'twice', 'Do', 'and', 'and'],`
+`'Lion': ['and', 'and', 'and', 'and', 'beat', 'and', 'and', 'had', 'looked', 'said', 'replied', 'growled', 'she', 'as', 'twice', 'Do', 'and', 'and']`
 
 &#x20;\
-Dat maakt het lastig om het volgende woord te vinden. Wat makkelijk is, is een dictionary met kansen, bijv 'and' komt in 8 keer voor uit 18, dus dat is 44 procent. We willen een uitvoer zoals deze:\
+Dat maakt het lastig om het volgende woord te vinden. Wat makkelijk is, is een dictionary met kansen, bijv **and** komt in 8 keer voor uit 18, dus dat is 44 procent. **Do** komt een keer uit de 18 voor dus dat is 5.5 procent. Dus, we willen een uitvoer zoals deze:\
 \
-`'Lion': [('and', 44)]`\
+`'Lion': [('and', 0.44), ('Do', 5.5), ...]`\
 \
 Bedenk zelf een plan voor hoe je de data omzet. Lukt dat niet dan doen we het volgende week samen!

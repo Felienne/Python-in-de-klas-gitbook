@@ -199,6 +199,12 @@
   * [Les 1](module-5.1-tekstanalyse-1/les-1/README.md)
     * [Les 1a](module-5.1-tekstanalyse-1/les-1/les-1a.md)
     * [Les 1b](module-5.1-tekstanalyse-1/les-1/les-1b.md)
+  * [Les 2](module-5.1-tekstanalyse-1/les-2/README.md)
+    * [Les 2a](module-5.1-tekstanalyse-1/les-2/les-2a.md)
+    * [Les 2b](module-5.1-tekstanalyse-1/les-2/les-2b.md)
+  * [Les 3](module-5.1-tekstanalyse-1/les-3/README.md)
+    * [Les 3a](module-5.1-tekstanalyse-1/les-3/les-3a.md)
+    * [Les 3b](module-5.1-tekstanalyse-1/les-3/les-3b.md)
 
 ## 💤 Archief
 
