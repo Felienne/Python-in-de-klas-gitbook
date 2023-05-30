@@ -8,7 +8,5 @@ We noemen dit de temperatuur van de voorspelling, in GPT is het ook ongeveer 80%
 
 **(extra)** Je kan ook sommige woorden overslaan, bijv woorden die maar 1x voorkomen, of woorden met minder dan 5% kans.&#x20;
 
-**Opdracht 2: Split je data en controleer met de computer!**
 
-In opdracht 1 hebben we gewoon met de hand gekeken of het beter was, maar ja, wat is beter? In echte algoritmes wordt dat niet met de hand gedaan maar ook met de computer.
 

@@ -205,6 +205,9 @@
   * [Les 3](module-5.1-tekstanalyse-1/les-3/README.md)
     * [Les 3a](module-5.1-tekstanalyse-1/les-3/les-3a.md)
     * [Les 3b](module-5.1-tekstanalyse-1/les-3/les-3b.md)
+  * [Les 4](module-5.1-tekstanalyse-1/les-4/README.md)
+    * [Les 4a](module-5.1-tekstanalyse-1/les-4/les-4a.md)
+    * [Les 4b](module-5.1-tekstanalyse-1/les-4/les-4b.md)
 
 ## 💤 Archief
 
