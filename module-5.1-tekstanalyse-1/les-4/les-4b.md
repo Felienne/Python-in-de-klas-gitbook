@@ -1,38 +1,50 @@
 # Les 4b
 
-**Opdracht 1: Tellen of het goed of fout is**\
+**Opdracht 1: Haal je parameters naar boven**
+
+We hebben nu al een paar "knopjes" gemaakt waar je aan kan draaien:
+
+* temperatuur
+* hoeveel je gaat splitsen
+* (optioneel) hoeveel random opties je kiest&#x20;
+
+We gaan de code wat opruimen, zo:
+
+* Zet je parameters bovenaan de code, zodat je makkelijker kan spelen met de instellingen
+* Print je parameters uit, zodat je bij je uitvoer goed kan zien welke instelling je gebruikt hebt
+
+**Opdracht 2: Jullie eigen data zoeken**
+
+We willen natuurlijk geen Alice in Wonderland uitspugen maar iets dat klinkt zoals jezelf. Het is nu echt tijd om naar jouw eigen data te gaan kijken!\
 \
-We gaan nu met de computer tellen of de voorspellingen wel kloppen. Volg deze stappen om je code in orde te krijgen:
+Ga op zoek naar de data die je kan vinden en zorg dat je die in een tekstformaat (.txt) zet. Denk aan:
 
-1. Zet je voorspelcode in een functie, en noem die `voorspel_woord()`
-2. Test of je functie goed voorspelt!
+* Email
+* Verslagen op Google Drive
+* Opdrachten op Magister
+* Social media met tekst (Instagram, Twitter)
 
-Nu gaan we de data splitsen:
+Kopieer natuurlijk niet met de hand, maar zoek naar export-opties. Veel systemen hebben zo'n optie.&#x20;
 
-* Maak een variabele aan die `verdeling` heet, en zet die op 0.9.
-* Maak een tweede variabele die aangeeft to waar we inlezen:\
-  `grens = len(lines)*training_cut_off`
-* Met de variabele grens gaan we de data splitsen.&#x20;
-  * De eerste helft van de regels wordt nu `lines[0:grens]`, van 0 tot grens
-  * De tweede helft van de regels wordt nu `lines[grens:]`, van grens tot het einde
+**Opdracht 3: Jullie eigen data inlezen**
 
-Vervang de regels in je code die lines lezen door de codes hierboven en maak er een mooie uitvoer van. Begin met het tellen van het aantal keer goed en fout, dan zou je ongeveer dit moeten krijgen:
+Je hebt nu waarschijnlijk niet een bestand maar een aantal bestanden. Pas je code aan zodat `lines`niet alleen uit een bestand bestaat maar uit de regels van meerdere bestanden. Zo gaat ongeveer zo:
 
-TODO
+```python
+directory = 'mijn-data'
 
-**Opdracht 2: Delen**
+for filename in os.listdir(directory):
+    f = os.path.join(directory, filename)
+    for regel in open(f).readlines():
+        ___ # hier de code die je al had
+```
 
-Als je deze uitvoer hebt, maak het dan wat mooier door door het totaal aantal voorspellingen te delen, dan krijg je het aantal keer dat het goed of fout is in percentages uitgedrukt. Dat geeft straks een handiger overzicht.
+**Opdracht 4: Kijk twee woorden vooruit**
 
-**Opdracht 3: Of... niks voorspeld!**
+Als we betere zinnen willen maken, moeten we verder vooruit kijken. Niet een woordje, maar twee. Dat doe je door steeds twee woordjes aan elkaar te plakken. Dat wordt samen de key in je dictionary.
 
-Soms voorspelt je code niks... omdat er geen woord in de dictionary gevonden is (TODO: get uitleggen!)
+Bekijk nu de uitvoer goed! Worden de zinnen beter? En hoe zien de statistieken eruit?
 
+**Opdracht 5: Vooruitkijken met een parameter (extra!)**
 
-
-**Opdracht 4: Of... niks voorspeld!**
-
-
-
-
-
+Je kan nu niet makkelijk terug naar één woordje vooruit. Voeg ook een parameter toe voor het vooruit kijken zodat je makkelijk kan kiezen tussen een of twee woordjes vooruit.
