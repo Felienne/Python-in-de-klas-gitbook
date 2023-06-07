@@ -12,8 +12,11 @@ We noemen dit de temperatuur van de voorspelling, in GPT is het ook ongeveer 80%
 \
 We gaan nu met de computer tellen of de voorspellingen wel kloppen. Volg deze stappen om je code in orde te krijgen:
 
-1. Zet je voorspelcode in een functie, en noem die `voorspel_woord()`
-2. Test de code met de hand een paar keer, bijv weer op het woordje **Lion**. Komt er het goede woord uit? Probeer nog meer willekeurige woorden!
+1. Maak een functie, en noem die `voorspel_woord(woord)`
+2. Zet de code die je gebruikt om een volgende woord te voorspellen in deze functie. Dat is dus code die op basis van één woord een volgende woord kiest.\
+   Die functie heeft als parameter een woord, en return ook een woord. \
+   Vergeet dus niet  `return woord` in je code te gebruiken!
+3. Test de code met de hand een paar keer, bijv weer op het woordje **Lion**. Komt er het goede woord uit? Probeer nog meer willekeurige woorden!
 
 **Opdracht 3: Soms vindt de functie... niks?**
 
@@ -40,8 +43,8 @@ if opties is None:
 Nu gaan we de data splitsen:
 
 * Maak een variabele aan die `verdeling` heet, en zet die op 0.9.
-* Maak een tweede variabele die aangeeft to waar we inlezen:\
-  `grens = len(lines)*verdeling`
+* Maak een tweede variabele die aangeeft to waar we inlezen, rond de waarde af, anders wordt het geen integer en krijg je een fout:\
+  `grens = round(len(lines)*verdeling)`
 * Met de variabele grens gaan we de data splitsen.&#x20;
 *   In de lus die je al hebt, ga je nu niet alle dat inlezen, maar maar een stuk: het wordt nu `lines[0:grens]`, van 0 tot grens
 
