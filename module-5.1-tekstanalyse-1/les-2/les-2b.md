@@ -14,10 +14,16 @@ Wat makkelijk is, is een dictionary met aantallen, bijv **and** komt in 8 keer. 
 \
 Dan kunnen we makkelijk tellen welk woord het meest waarschijnlijk is. Zet je code om zodat er een dictionary van dictionaries uitkomt ipv een dictionary van lijsten.&#x20;
 
-Volg deze stappen:
+Volg deze stappen (de code staat hier onder)
 
 * Begin met een woord uit je lijst. Ik neem `Lion` als voorbeeld maar jij kan ook een ander voorbeeld kiezen.
-* Verander de lijst in een dictionary met `count` Je hebt daarvoor voorbeeldcode gezien in de slides.
+* Verander de lijst in een dictionary met `count`&#x20;
+* Sorteer de lijst
+
+```python
+volgende_woord_opzoeker[woord] = {x: volgende_woorden.count(x) for x in volgende_woorden}
+volgende_woord_opzoeker[woord] = sorted(volgende_woord_opzoeker[woord].items(), key=lambda x: -x[1])
+```
 
 
 
