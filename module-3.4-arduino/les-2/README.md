@@ -2,7 +2,7 @@
 
 ## Slides
 
-[Arduino, les 2](https://slides.com/lmc_oebbens/python-klas-3-module-x-les-1-e8b05f)
+[Arduino, les 2](https://slides.com/lmc_oebbens/python-klas-3-arduino)
 
 ### Leerdoelen
 
