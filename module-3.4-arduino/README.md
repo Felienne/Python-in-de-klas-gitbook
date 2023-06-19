@@ -18,5 +18,5 @@ Leren werken met een voor de leerlingen nieuwe programmeertaal (C++) en IDE.
 
 ## Slides
 
-Er zijn ook [slides](https://slides.com/lmc_oebbens/decks/arduino) beschikbaar voor deze module.
+Er zijn ook [slides](https://slides.com/lmc_oebbens/decks/leerjaar-3-module-4) beschikbaar voor deze module.
 
