@@ -2,7 +2,7 @@
 
 ## Slides
 
-[Arduino, les 6](https://slides.com/lmc_oebbens/module-3-les-6)
+[Arduino, les 6](https://slides.com/lmc_oebbens/module-3-les-6-271c98/edit)
 
 ### Leerdoelen
 
