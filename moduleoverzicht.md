@@ -6,21 +6,4 @@ We hebben op dit moment materiaal klaar voor 4 schooljaren, jaar 5 is op dit mom
 
 ## Overzicht van modules per leerjaar
 
-| Jaar | Module | Programmeertaal  | Onderwerp                                                                                                |
-| ---- | ------ | ---------------- | -------------------------------------------------------------------------------------------------------- |
-| 1    | 1.1    | Hedy             | Nederlands - Maak een interactief verhaal                                                                |
-|      | 1.2    | Hedy             | Kunst - Maak een kunstwerk                                                                               |
-|      | 1.3    | Hedy -> Python   | Kunst of Verhaal omzetten van Hedy naar Python                                                           |
-| 2    | 2.0    | Python           | [Geschiedenis zonder UI (oude module 1.3)](https://felienne.gitbook.io/codasium/module-1.3-geschiedenis) |
-|      | 2.1    | Python/PyGame    | Geschiedenis - Quiz                                                                                      |
-|      | 2.2    | Python/PyGame    | [Biologie - Simulatie](https://felienne.gitbook.io/codasium/module-2.2-pygame-biologie)                  |
-|      | 2.3    | MicroBit         |                                                                                                          |
-| 3    | 3.1    | Excel            | Eigen klantopdracht                                                                                      |
-|      | 3.2    | SQL              | Eigen klantopdracht                                                                                      |
-|      | 3.3    | Python           | Engels - Woordenoefen app                                                                                |
-|      | 3.4    | Arduino          |                                                                                                          |
-| 4    | 4.1    | Python           | Eigen website opdracht                                                                                   |
-|      | 4.2    | JavaScript       | Eigen website opdracht                                                                                   |
-| 5    | 5.1    | JavaScript of C# | Big data                                                                                                 |
-|      | 5.2    | JavaScript of C# | AI                                                                                                       |
-|      |        |                  |                                                                                                          |
+<table><thead><tr><th width="150">Jaar</th><th width="150">Module</th><th>Programmeertaal</th><th>Onderwerp</th></tr></thead><tbody><tr><td>1</td><td>1.1</td><td>Hedy</td><td></td></tr><tr><td></td><td>1.2</td><td>Hedy -> Python</td><td>Kunst of Verhaal omzetten van Hedy naar Python</td></tr><tr><td>2</td><td>2.1</td><td>Python</td><td><a href="https://felienne.gitbook.io/codasium/module-1.3-geschiedenis">Geschiedenis zonder UI</a></td></tr><tr><td></td><td>2.2</td><td>Python/PyGame</td><td>Geschiedenis - Quiz</td></tr><tr><td></td><td>2.3</td><td>Python/PyGame</td><td>Biologie - Simulatie</td></tr><tr><td></td><td>2.4</td><td>Rekenmachine</td><td></td></tr><tr><td></td><td>2.5</td><td>Micro:bit</td><td></td></tr><tr><td></td><td>2.6 </td><td>Bedrijfsopdracht</td><td></td></tr><tr><td>3</td><td>3.1</td><td>Excel</td><td>Eigen klantopdracht</td></tr><tr><td></td><td>3.2</td><td>SQL</td><td>Eigen klantopdracht</td></tr><tr><td></td><td>3.3</td><td>Python</td><td>Engels - Woordenoefen app</td></tr><tr><td></td><td>3.4</td><td>Arduino</td><td></td></tr><tr><td>4</td><td>4.1</td><td>Python</td><td>Eigen website opdracht</td></tr><tr><td></td><td>4.2</td><td>JavaScript</td><td>Eigen website opdracht</td></tr><tr><td>5</td><td>5.1</td><td>JavaScript of C#</td><td>Big data</td></tr><tr><td></td><td>5.2</td><td>JavaScript of C#</td><td>AI</td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>

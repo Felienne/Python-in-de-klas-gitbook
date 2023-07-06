@@ -1,8 +1,8 @@
-# Module 2.1 - PyGame Quiz
+# Module 2.2 - PyGame Quiz
 
 ## Instructie voor de leerkracht
 
-Het idee van deze module is dat leerlingen verder werken aan hun quiz over geschiedenis uit module 1.3.
+Het idee van deze module is dat leerlingen verder werken aan hun quiz over geschiedenis uit module 2.1.
 
 In deze module gaan ze een "user interface" maken: Knoppen voor de speler om op te klikken, dat doen we in de PyGame omgeving, die ook binnen repl.it toegankelijk is.
 
@@ -16,4 +16,3 @@ In deze module gaan ze een "user interface" maken: Knoppen voor de speler om op 
 ## Slides
 
 Je vindt alle [slides van Module Geschiedenis](https://slides.com/felienne/decks/python-in-de-klas-module-3) bij elkaar op deze pagina.
-

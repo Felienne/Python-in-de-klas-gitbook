@@ -1,10 +1,10 @@
 # Handleiding
 
-In deze handleiding beantwoorden we een aantal veelgestelde vragen. Staat jouw vraag er niet tussen? Neem dan gerust contact met ons op via [f.f.j.hermans@liacs.leidenuniv.nl](https://github.com/Felienne/Python-in-de-klas-gitbook/tree/551df754c27f8e5a258ab10ae9d13eaa76b79cae/f.f.j.hermans@liacs.leidenuniv.nl).
+In deze handleiding beantwoorden we een aantal veelgestelde vragen. Staat jouw vraag er niet tussen? Neem dan gerust contact met ons op via f.f.j.hermans@vu.nl.
 
 ## Voor wie is dit materiaal?
 
-Dit materiaal is voor leerkrachten die in de klas programmeerlessen willes geven. Het materiaal is echt bedoeld voor in een klassikale setting, met veel uitleg en oefenen. Je kunt de lessen zelfs zonder computers met alleen een digibord gebruiken. Ook dan leren de leerlingen de basisbegrippen van het programmeren.
+Dit materiaal is voor leerkrachten die in de klas programmeerlessen willen geven. Het materiaal is echt bedoeld voor in een klassikale setting, met veel uitleg en oefenen. Je kunt de lessen zelfs zonder computers met alleen een digibord gebruiken. Ook dan leren de leerlingen de basisbegrippen van het programmeren.
 
 ## Wat heb ik nodig om dit materiaal te gebruiken?
 
@@ -16,10 +16,6 @@ Dit materiaal is voor leerkrachten die in de klas programmeerlessen willes geven
 ## Is het materiaal gratis te gebruiken?
 
 Ja! Het is en blijft gratis, en is beschikbaar gemaakt dmv een CC licentie. Dit betekent dat je het materiaal gratis mag gebruiken maar niet mag verkopen.
-
-## De werkbladen
-
-Joh moet ik echt al die vellen printen? Ja... Leerlingen vinden het echt lastig om van een scherm te lezen er ook te programmeren, dat steeds wisselen van tabblad brengt een hoop onrust met zich mee. Wij houden ook veel van bomen en vind papierverspilling zonde, maar het is toch echt het beste om het uit te printen. Natuurlijk kun je de bladen wel meerdere keren gebruiken, als je leerlingen in hun schrift laat schrijven en niet op de vellen.
 
 ## Moet ik zelf veel van programmeren weten om deze lessen te geven?
 
