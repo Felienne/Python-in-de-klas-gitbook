@@ -192,10 +192,8 @@
   * [Les 8](module-4.2-javascript/les-8/README.md)
     * [Les 8b](module-4.2-javascript/les-8/les-8b.md)
 * [Module 4.2 - Game maken](module-4.2-game-maken.md)
-* [Module 5.1 - Datasets](module-5.1-tekstanalyse/README.md)
-  * [Les 1](module-5.1-tekstanalyse/les-1/README.md)
-    * [Les 1a](module-5.1-tekstanalyse/les-1/les-1a.md)
-    * [Les 1b](module-5.1-tekstanalyse/les-1/les-1b.md)
+* [Module 4.3 - EU app (TODO)](module-4.3-eu-app-todo.md)
+* [Module 5.1 - Eigen project](module-5.1-tekstanalyse.md)
 * [Module 5.2 - Generatieve AI](module-5.1-tekstanalyse-1/README.md)
   * [Les 1](module-5.1-tekstanalyse-1/les-1/README.md)
     * [Les 1a](module-5.1-tekstanalyse-1/les-1/les-1a.md)
@@ -209,6 +207,8 @@
   * [Les 4](module-5.1-tekstanalyse-1/les-4/README.md)
     * [Les 4a](module-5.1-tekstanalyse-1/les-4/les-4a.md)
     * [Les 4b](module-5.1-tekstanalyse-1/les-4/les-4b.md)
+* [Module 6.1 - Boekenproject](module-6.1-boekenproject/README.md)
+  * [Leeswijzer](module-6.1-boekenproject/leeswijzer.md)
 
 ## 💤 Archief
 

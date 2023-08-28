@@ -32,11 +32,10 @@ Op het tabblad vliegvelden kun je de gps coördinaten zien van alle vliegvelden 
 * Welke vlucht is het langste? Tips:
   * Haal van begin- en eindpunt (source en destination) de latitude en longitude op
   * Bereken dan met Pythagoras de hemelsbrede afstand
-* Welk soort vliegtuig vliegt het verste gemiddeld?&#x20;
+* Welk soort vliegtuig vliegt het verste gemiddeld?
   * Bereken eerst de afstand voor alle vluchten en gebruikt dan gemiddelde.als per vliegtuigtype
 
 Als je er echt voor wilt gaan, kijk dan eens of het je lukt om de vliegreizen op een wereldkaart te zetten door naar de GPS coördinaten te kijken!
 
-****
 
-****
+
