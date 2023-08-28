@@ -10,7 +10,8 @@ Misschien heb je nog niet zo vaak een non-fictie boek gelezen. Hierbij een paar 
 
 * Snap je iets nog niet? Sla het even over! Pak een post-it om jezelf eraan te herinneren dat je nog wat moet bekijken.\
 
-* Ben je een eindje in het boek en vind je het toch maar niks? Wissel je boek in! Overleg even met mevr. Hermans over de afronding van je huidige boek.
+* Ben je een eindje in het boek en vind je het toch maar niks? Wissel je boek in! (Denk aan de 10 rechten van de lezer) Overleg even met mevr. Hermans over de afronding van je huidige boek.\
+  ![](<../.gitbook/assets/image (18).png>)
 
 ## Leesaantekeningen in de les&#x20;
 
@@ -38,7 +39,23 @@ Schrijf op:
 
 ## Veelgestelde vragen
 
+* Mag het mondeling in het Engels als ik Engelse boeken lees?
+  * Dat mag!
+* Mag ik een eigen non-fictie boek meenemen?
+  * Ja, in overleg, en het moet natuurlijk duidelijk over algoritmes gaan
 * Mag ik ook fictie lezen? Dat mag als:
   * Het boek een duidelijk AI component heeft
   * Het boek is goedgekeurd voor mevr. Hermans
   * Als je één non-fictie hebt afgerond.
+
+## Tips om buiten de les verder te lezen&#x20;
+
+Lees je thuis of ergens anders verder? Denk dan aan deze tips:
+
+* Ga op een rustige plek zitten, op je kamer, in het OLC, in de bieb of in een rustig koffietentje. Het liefst op een plek waar andere mensen ook aan het werk zijn.&#x20;
+  * Heb je de kans om buiten te lezen? Doen! Frisse lucht is goed voor je.
+* Samen werkt beter! Spreek met een klasgenoot af om samen even te lezen.
+* Maak een afspraak met jezelf (of met je leesmaatje) hoe lang je gaat lezen, bijv: 10 minuten en dan even pauze. Concentratievermogen is net als een spier, train tot je het steeds langer volhoudt!
+* Gebruik een app gebruiken om je telefoon te blokkeren zodat je echt niet afgeleid raakt (bijv Forest of App Block)
+* Bewegen helpt! Loop na een half uur lezen even een rondje! Dat is beter voor je hersenen.
+
