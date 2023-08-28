@@ -193,7 +193,7 @@
     * [Les 8b](module-4.2-javascript/les-8/les-8b.md)
 * [Module 4.2 - Game maken](module-4.2-game-maken.md)
 * [Module 4.3 - EU app (TODO)](module-4.3-eu-app-todo.md)
-* [Module 5.1 - Eigen project](module-5.1-tekstanalyse.md)
+* [Module 5.1 - Eigen project](module-5.1-tekstanalyse/README.md)
 * [Module 5.2 - Generatieve AI](module-5.1-tekstanalyse-1/README.md)
   * [Les 1](module-5.1-tekstanalyse-1/les-1/README.md)
     * [Les 1a](module-5.1-tekstanalyse-1/les-1/les-1a.md)

@@ -4,7 +4,7 @@
 
 Misschien heb je nog niet zo vaak een non-fictie boek gelezen. Hierbij een paar algemene tips die altijd handig zijn.
 
-* Sla het inleidende hoofdstuk over, en begin meteen met het eerste inhoudelijke hoofstuk. \
+* Sla het inleidende hoofdstuk over, en begin meteen met het eerste inhoudelijke hoofd stuk. \
   \
   Het is heel gek maar een inleiding is vaak helemaal geen inleiding! Het is vaak een reflectie van de schrijver\
 
@@ -39,5 +39,6 @@ Schrijf op:
 ## Veelgestelde vragen
 
 * Mag ik ook fictie lezen? Dat mag als:
-  * Het boek een duidelijk
+  * Het boek een duidelijk AI component heeft
   * Het boek is goedgekeurd voor mevr. Hermans
+  * Als je één non-fictie hebt afgerond.
