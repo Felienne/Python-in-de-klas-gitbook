@@ -4,7 +4,7 @@
 
 Misschien heb je nog niet zo vaak een non-fictie boek gelezen. Hierbij een paar algemene tips die altijd handig zijn.
 
-* Sla het inleidende hoofdstuk over, en begin meteen met het eerste inhoudelijke hoofd stuk. \
+* Sla het inleidende hoofdstuk over, en begin meteen met het eerste inhoudelijke hoofdstuk. \
   \
   Het is heel gek maar een inleiding is vaak helemaal geen inleiding! Het is vaak een reflectie van de schrijver\
 

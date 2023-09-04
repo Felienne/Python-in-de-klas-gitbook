@@ -209,6 +209,8 @@
     * [Les 4b](module-5.1-tekstanalyse-1/les-4/les-4b.md)
 * [Module 6.1 - Boekenproject](module-6.1-boekenproject/README.md)
   * [Leeswijzer](module-6.1-boekenproject/leeswijzer.md)
+  * [Leeswijzer les 2](module-6.1-boekenproject/leeswijzer-les-2.md)
+* [Module 6.2 - Algoritmiek](module-6.2-algoritmiek.md)
 
 ## 💤 Archief
 
