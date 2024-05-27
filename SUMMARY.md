@@ -89,6 +89,7 @@
   * [Les 7 (extra)](module-2.3-rekenmachine/les-7/README.md)
     * [Les 7a](module-2.3-rekenmachine/les-7/les-7a.md)
     * [Les 7b](module-2.3-rekenmachine/les-7/les-7b.md)
+* [Module 2.5 - Microbit](module-2.5-microbit.md)
 * [Module 3.1 - Spreadsheets](module-3.1-spreadsheets/README.md)
   * [Les 1](module-3.1-spreadsheets/les-1/README.md)
     * [Les 1b](module-3.1-spreadsheets/les-1/les-1b.md)
