@@ -37,5 +37,6 @@ Op het tabblad vliegvelden kun je de gps coördinaten zien van alle vliegvelden 
 
 Als je er echt voor wilt gaan, kijk dan eens of het je lukt om de vliegreizen op een wereldkaart te zetten door naar de GPS coördinaten te kijken!
 
+***
 
-
+***
