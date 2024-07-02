@@ -90,6 +90,11 @@
     * [Les 7a](module-2.3-rekenmachine/les-7/les-7a.md)
     * [Les 7b](module-2.3-rekenmachine/les-7/les-7b.md)
 * [Module 2.5 - Microbit](module-2.5-microbit.md)
+* [Module 2.6 - Creative Coding](module-2.6-creative-coding/README.md)
+  * [Les 1a](module-2.6-creative-coding/les-1a.md)
+  * [Les 1b](module-2.6-creative-coding/les-1b.md)
+  * [Les 2a](module-2.6-creative-coding/les-2a.md)
+  * [Les 2b](module-2.6-creative-coding/les-2b.md)
 * [Module 3.1 - TkInter Rekenmachine](module-4.1-tkinter/README.md)
   * [Les 1](module-4.1-tkinter/les-1/README.md)
     * [Les 1a](module-4.1-tkinter/les-1/les-1a.md)
@@ -278,11 +283,3 @@
     * [Les 4b](archief/module-4.1-flask/les-4/les-4b.md)
   * [Les 5](archief/module-4.1-flask/les-5/README.md)
     * [Les 5b](archief/module-4.1-flask/les-5/les-5b.md)
-
-***
-
-* [Module 2.6](module-2.6/README.md)
-  * [Les 1a](module-2.6/les-1a.md)
-  * [Les 1b](module-2.6/les-1b.md)
-  * [Les 2a](module-2.6/les-2a.md)
-  * [Les 2b](module-2.6/les-2b.md)
