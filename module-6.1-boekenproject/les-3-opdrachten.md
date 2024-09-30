@@ -4,7 +4,7 @@ Vandaag gaan we met twee kleine opdrachten aan de slag, voor het lezen begint.
 
 **Opdracht 1**
 
-Kies één ding uit dat je geleerd hebt uit je boek, het hoeft niet meer dan een zinnetje te zijn! Als je wilt mag je je aantekeningen doorbladeren om iets te kiezen. Probeer het zo te formuleren dat iemand die jou boek niet heeft gelezen het ook snapt, en kies iets waarvan je denkt dat je klasgenoten het ook interessant vinden.
+Kies één ding uit dat je geleerd hebt uit je boek, het hoeft niet meer dan een zinnetje te zijn! Als je wilt mag je je aantekeningen doorbladeren om iets te kiezen. Probeer het zo te formuleren dat iemand die jouw boek niet heeft gelezen het ook snapt, en kies iets waarvan je denkt dat je klasgenoten het ook interessant vinden.
 
 **Opdracht 2**
 
