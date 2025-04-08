@@ -22,7 +22,7 @@ Probeer je code nu weer uit.
 
 Als het goed is, doet je code het nu maar... alle woorden komen heel snel achter elkaar! Je ziet dus alleen het laatste woord. Zo ziet dat er waarschijnlijk uit (maar jij zou ook een ander woord kunnen hebben als je een andere versie van de woordenlijst gebruikt)
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 Wil je zeker weten dat inderdaad alle woorden langskomen? Zet dan eens een deze codes nadat je het uitvoerveld hebt aangepast:
 

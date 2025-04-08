@@ -17,7 +17,7 @@ Verzin het zelf en maak het zo leuk mogelijk.
 
 Als je de vorige keer alle opdrachten afgerond hebt dan heb je gezien dat oefenen werkt, maar selecteren niet! Als je op selecteren drukt komen alle knoppen en velden in beeld:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Kun jij zelf de code verzinnen die nodig is om de knoppen die bij selecteren horen te laten verdwijnen als er op Oefenen geklikt wordt? Test je code goed voor je verder gaat.
 

@@ -8,7 +8,7 @@ Deze opdracht wordt afgetekend als:
 
 **Uitleg**. Als je dier je hard krimpt, dan zie je niet meer goed dat het dier beweegt. Daarom laten we de honger nu wat langzamer verlopen.
 
-#### 2**) Laat je dier bewegen**
+#### &#x32;**) Laat je dier bewegen**
 
 Deze opdracht wordt afgetekend als:
 

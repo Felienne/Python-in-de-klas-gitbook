@@ -214,9 +214,10 @@
     * [Les 4a](module-5.1-tekstanalyse-1/les-4/les-4a.md)
     * [Les 4b](module-5.1-tekstanalyse-1/les-4/les-4b.md)
 * [Module 6.1 - Boekenproject](module-6.1-boekenproject/README.md)
-  * [Les 1 - Leeswijzer](module-6.1-boekenproject/les-1-leeswijzer.md)
-  * [Les 2 - Leeswijzer](module-6.1-boekenproject/les-2-leeswijzer.md)
+  * [Les 1 - Leeswijzer - Basis](module-6.1-boekenproject/les-1-leeswijzer-basis.md)
+  * [Les 2 - Leeswijzer - Verdieping](module-6.1-boekenproject/les-2-leeswijzer-verdieping.md)
   * [Les 3 - Opdrachten](module-6.1-boekenproject/les-3-opdrachten.md)
+  * [Les 4 - Opdrachten](module-6.1-boekenproject/les-4-opdrachten.md)
 * [Module 6.2 - Algoritmiek](module-6.2-algoritmiek.md)
 
 ## 💤 Archief

@@ -1,8 +1,9 @@
-# Leeswijzer
+# Les 1 - Leeswijzer - Basis
 
 ## Algemene leestips
 
-Misschien heb je nog niet zo vaak een non-fictie boek gelezen. Hierbij een paar algemene tips die altijd handig zijn.
+Misschien heb je nog niet zo vaak een non-fictie boek gelezen. Hierbij een paar algemene tips die altijd handig zijn.\
+
 
 * Sla het inleidende hoofdstuk over, en begin meteen met het eerste inhoudelijke hoofdstuk. \
   \

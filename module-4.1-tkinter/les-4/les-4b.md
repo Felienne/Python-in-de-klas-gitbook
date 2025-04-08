@@ -4,7 +4,7 @@
 
 Zoals we het nu geprogrammeerd hebben, zijn de knoppen die bij selecteren horen (ja, nee en het uitvoerveld) meteen al in beeld:
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 Maar die moeten alleen in beeld komen als de gebruiker op selecteren gedrukt heeft. Dat gaan we zou programmeren:
 
@@ -57,7 +57,7 @@ Nu ga de de functie ook echt invullen. Bekijk in jouw oude code en zet deze om, 
 
 Oefenen werkt nu goed maar... selecteren niet! Als je op selecteren drukt komen alle knoppen en velden in beeld:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 We gaan dit foutje in de volgende les oplossen, maar denk alvast eens na hoe je dit zou kunnen aanpakken!&#x20;
 

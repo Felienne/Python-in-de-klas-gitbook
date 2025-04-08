@@ -1,6 +1,6 @@
 # Les 5b
 
-**Opdracht 1\) Zoek de keer in een lijst**
+**Opdracht 1) Zoek de keer in een lijst**
 
 Deze opdracht wordt afgetekend als:
 
@@ -16,16 +16,16 @@ Print de variabele uit en kijk of het klopt.
 Denk eraan dat de lijst altijd op 0 begint, dus als er staat dat een \* op plek 1 staat, dan staat die op de tweede plek!
 {% endhint %}
 
-**Opdracht 2\) Is er wel een keer?**
+**Opdracht 2) Is er wel een keer?**
 
 Deze opdracht wordt afgetekend als:
 
-* Je de positie van de eerste keer kan printen**, als deze in de lijst zit**
-* Je de som gewoon uitrekent als er geen keer in de lijst zit 
+* Je de positie van de eerste keer kan printe&#x6E;**, als deze in de lijst zit**
+* Je de som gewoon uitrekent als er geen keer in de lijst zit&#x20;
 
 **Uitleg.** Heb je al eens geprobeerd de code uit te voeren als er geen keer in de som zit? Zo niet, probeer dat nu eens. Bijv. 5 + 3. Dan krijg je dit:
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](<../../.gitbook/assets/image (10).png>)
 
 Omdat er geen \* in de som zit, komt er een foutmelding. Dat gaan we nu oplossen. We mogen `index()` alleen gebruiken als we weten dat er een keer in de lijst zit. Dat kunnen we testen met de code `in`. Dat gaat zo:
 
@@ -35,7 +35,7 @@ if '*' in som_onderdelen:
     print(index_keer)
 ```
 
-**Opdracht 3\) De getallen ophalen**
+**Opdracht 3) De getallen ophalen**
 
 Deze opdracht wordt afgetekend als:
 
@@ -45,8 +45,8 @@ Deze opdracht wordt afgetekend als:
 
 **Uitleg.** Er kunnen nu twee situaties aan de hand zijn:
 
-* Of er zit een keer in de som, en dan willen we die keer pakken en de getallen voor en na de keer. 
-* Of er zit geen keer in de som, en dan willen we gewoon de eerste twee getallen en de eerste operator \(zoals we het eerst deden\)
+* Of er zit een keer in de som, en dan willen we die keer pakken en de getallen voor en na de keer.&#x20;
+* Of er zit geen keer in de som, en dan willen we gewoon de eerste twee getallen en de eerste operator (zoals we het eerst deden)
 
 We gaan daarvoor een nieuwe variabele `begin` maken. Die begint op 0 als er geen keer is, en op de plek voor de keer als er wel een keer is.
 
@@ -71,7 +71,7 @@ Maak jij deze code af?
 
 Test je code nu uit. Werkt het al goed?
 
-**Opdracht 4\) De goede getallen weghalen!**
+**Opdracht 4) De goede getallen weghalen!**
 
 Deze opdracht wordt afgetekend als:
 
@@ -94,16 +94,15 @@ Maar in plaats van weghalen en invoegen bij 0 willen we dat nu natuurlijk bij `b
 {% hint style="info" %}
 Kijk goed of al deze sommen het doen:
 
-* 5 + 4 \* 10 -&gt; 45
-* 2 + 2 + 2  -&gt; 6
-* 2 + 2 \* 2  -&gt; ook 6
+* 5 + 4 \* 10 -> 45
+* 2 + 2 + 2  -> 6
+* 2 + 2 \* 2  -> ook 6
 {% endhint %}
 
-**Opdracht 5\) Ook de gedeeld door heeft voorrang \(extra\)**
+**Opdracht 5) Ook de gedeeld door heeft voorrang (extra)**
 
 Deze opdracht wordt afgetekend als:
 
 * Je ook sommen met een / kan uitrekenen. Gedeeld door komt ook voor + en -
 
-**Uitleg.** Ook delen gaat voor plus en min. Kun jij zorgen dat dat ook werkt in je rekenmachine? Dat is een pittige klus, maar wel heel leuk als het lukt. Weet je al hoe je dat gaat doen? Ga er dan maar voor! 
-
+**Uitleg.** Ook delen gaat voor plus en min. Kun jij zorgen dat dat ook werkt in je rekenmachine? Dat is een pittige klus, maar wel heel leuk als het lukt. Weet je al hoe je dat gaat doen? Ga er dan maar voor!&#x20;
